@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Le rôle du méthane dans le changement climatique - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Le rôle du méthane dans le changement climatique - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:25:20.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/Le-role-du-methane-dans-le.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/1043.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">8 octobre 2009 - Énergie et climat</p>
+			<p id="p3">Le méthane est un puissant gaz à effet de serre, dont les émissions doivent être réduites au titre du protocole de Kyoto. Les sources anthropiques de méthane sont principalement liées aux activités agricoles, elles dépendent également de la mise en décharge des déchets, de l’extraction de charbon, de l’industrie pétrolière et gazière et de l’utilisation de la biomasse.</p>
+			<p id="p4">Au niveau mondial, les émissions anthropiques de méthane représentent, en 2004, 14% des émissions globales de gaz à effet de serre. Elles sont en augmentation constante depuis 1950, et même si elles progressent moins rapidement depuis 1990, tous les scénarios du GIEC prévoient qu’il n’y aura pas d’inversion de cette tendance dans les prochaines décennies.</p>
+			<p id="p5">En France, les émissions de méthane représentent 10% des émissions anthropiques de gaz à effet de serre. Ces émissions diminuent régulièrement (-16,4% entre 1990 et 2007) suite à l’intensification de la production laitière, à l’arrêt de l’exploitation des mines de charbon et au captage du biogaz des décharges. L’agriculture reste le principal secteur émetteur de méthane (77% des émissions en 2007), en raison de la fermentation entérique des bovins et de la décomposition des déjections d’élevage.</p>
+			<p id="p6">La comptabilisation en tonnes d’équivalent CO2 des émissions des autres gaz à effet de serre, basée sur le potentiel de réchauffement global à 100 ans, ne s’adapte pas à tous les contextes : dans le cas du méthane, elle conduit à minimiser l’impact des réductions des émissions de ce gaz sur l’augmentation de l’effet de serre. Une plus grande attention devrait donc être donnée à la réduction à court terme des émissions de méthane, dont les effets sont élevés à l’horizon de quelques décennies.</p>
+			<p id="p7">Dans le cadre des négociations internationales, compte-tenu de l’échéance fixée en 2009 pour la définition du futur régime international sur le changement climatique, l’Union européenne privilégie le maintien des règles existantes pour mesurer le rôle des différents gaz à effet de serre. Des actions à court terme peuvent être néanmoins encouragées dans les pays développés et dans les pays en développement.</p>
+			<p id="p8">En France, le Grenelle de l’environnement (2007) a défini des axes d’intervention fondés sur la méthanisation (production de biogaz) : développement des énergies renouvelables, traitement et valorisation des déchets (effluents d’élevage, ordures ménagères, déchets industriels). Dans ce cadre, des actions sont engagées, comme, par exemple, le lancement, par le ministère de l’agriculture, d’un appel d’offre pour les unités de méthanisation (mars 2009), ou la mise en place, à venir, d’une concertation pour étudier un relèvement du tarif d’achat de l’électricité pour les petites installations de méthanisation, dans le cadre du plan de développement des énergies renouvelables (novembre 2008).</p>
+			<p id="p9">Par ailleurs, des expérimentations sont en cours pour réduire les émissions de méthane liées à la fermentation entérique des bovins, et des actions sont menées pour modifier les pratiques agricoles de fertilisation.</p>
+			<p id="p10">Site mis à jour le 10 septembre 2010</p>
+			<p id="p11">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

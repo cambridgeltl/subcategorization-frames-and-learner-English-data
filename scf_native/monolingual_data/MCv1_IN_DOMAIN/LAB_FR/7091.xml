@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Entretien préalable : qui peut être présent ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Entretien préalable : qui peut être présent ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:33:21.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=1607&amp;titre=Entretien+pr%C3%A9alable+%3A+qui+peut+%C3%AAtre+pr%C3%A9sent+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7091.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Entretien préalable : qui peut être présent ?</p>
+			<p id="p2">L’entretien préalable à un licenciement ou à une rupture anticipée du contrat de travail à durée déterminée (CDD) est l’occasion d’échanger sur les motifs qui vous conduisent à vous séparer d’un salarié. Vous pouvez être assisté lors de cet entretien (tout comme le salarié), mais attention à ne pas dépasser les limites.</p>
+			<p id="p3">Mots clés de l'article :</p>
+			<p id="p4">Publicité</p>
+			<p id="p5">L’entretien préalable est l’occasion d’échanger, de dialoguer avec le salarié :</p>
+			<p id="p6">vous lui présentez les motifs vous conduisant à envisager la rupture de son contrat ;</p>
+			<p id="p7">vous recueillez ses explications ( Code du travail , article L. 1232-3).</p>
+			<p id="p8">En tant qu’employeur, vous ne pouvez être assisté que par une personne appartenant au personnel de l’entreprise , à condition que cela ne porte pas atteinte aux intérêts du salarié.</p>
+			<p id="p9">L’entretien préalable ne doit pas se transformer en enquête. Par exemple, la présence de quatre personnes (le directeur, deux vice-présidents et la trésorière de l’association) au cours de l’ entretien préalable a pour effet de « détourner » la procédure de son objet .</p>
+			<p id="p10">Si vous choisissez une personne qui n’appartient pas à l’entreprise, vous serez condamné à payer des dommages et intérêts pour non-respect de la procédure.</p>
+			<p id="p11">La Cour de cassation, dans un arrêt du 5 mai 2010 que vous pouvez télécharger gratuitement, a donné des précisions concernant l’entretien préalable à la rupture du contrat de travail.</p>
+			<p id="p12">(doc | 2 p. | 25 Ko)</p>
+			<p id="p13">Dans cette affaire, il s’agit d’un entretien préalable à la rupture anticipée d’un CDD pour faute grave. Lors de cet entretien, une salariée, infirmière, assistait l’employeur pour être confrontée au salarié en CDD, le questionner et confirmer les propos reprochés. Cette salariée infirmière a, par ailleurs, confirmé, dans des attestations, les faits reprochés au salarié.</p>
+			<p id="p14">L’infirmière est intervenue en une seule occasion, lors de l’entretien, pour confirmer des propos reprochés au salarié, que celui-ci a aussitôt niés.</p>
+			<p id="p15">Le salarié conteste la rupture, qui est pour lui abusive. Pour lui, l’employeur a détourné l’objet de l’entretien préalable en le transformant en enquête du fait de la présence et de l’intervention de l’infirmière.</p>
+			<p id="p16">Pour la Cour de cassation, à la lecture du compte-rendu de l’entretien préalable, il n’y a pas eu de détournement de l’objet de l’entretien, ni un empêchement pour les juges de retenir les attestations établies par cette infirmière pour établir les faits reprochés au salarié en CDD.</p>
+			<p id="p17">La présence de cette infirmière n’a pas transformé cet entretien en une enquête contre le salarié.</p>
+			<p id="p18">Isabelle Vénuat</p>
+			<p id="p19">(Cour de cassation, chambre sociale, 5 mai 2010, n° 09-40737 : lors d’un entretien préalable à une rupture du contrat de travail, l’employeur peut être assisté, à condition que l’entretien ne se transforme pas en enquête)</p>
+			<p id="p20">Article publié le 31 mai 2010</p>
+			<p id="p21">Partagez cet article :</p>
+			<p id="p22">Mots clés de l'article :</p>
+			<p id="p23">Articles sur le même thème : Licenciement</p>
+			<p id="p24">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Changement climatique - Accompagnement, Conseil et Formation en Développement Durable avec 3D Territoires</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Changement climatique - Accompagnement, Conseil et Formation en Développement Durable avec 3D Territoires</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 20:29:01.0</pubDate>
+							<eAddress>http://www.3dterritoires.org/environnement/changement-climatique/page_3.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Environnement</keyTerm>
+					<keyTerm>Changement climatique</keyTerm>
+					<keyTerm>L'Afrique</keyTerm>
+					<keyTerm></keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/11350.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Près de 30 000 personnes sont victimes des inondations dans le sud du Tchad, a annoncé, le 25 août, la coordination humanitaire de l'ONU dans ce pays. En Ethiopie, 75 000 personnes, selon la Croix-Rouge, sont durement touchées par la sécheresse. Rien ne permet d'attribuer ces phénomènes au changement climatique. Mais ils présagent les périls que fait courir celui-ci au continent africain, qui n'en est pourtant pas responsable, avec moins de 5 % des émissions mondiales de gaz à effet de serre.</p>
+			<p id="p2">Les décennies 2000-2010 et 2005-2015 seront-elles globalement moins chaudes que la décennie 1994-2004 ? En mai, des climatologues réputés publiaient une étude répondant positivement à cette question. Iconoclaste à première vue, leur conclusion n'est pas contradictoire avec le constat des bouleversements en cours. "Nous ne disons pas que le changement climatique sera moins important que prévu, expliquait ainsi Mojib Latif, coauteur de ces travaux (Le Monde du 13 mai). Nous disons qu'une oscillation naturelle du climat se superposera momentanément à la tendance au réchauffement."</p>
+			<p id="p3">La vie des glaciers groenlandais n'est pas un long fleuve tranquille. En témoignent des clichés pris ces dernières semaines par les satellites de la NASA. L'équipe de Jason Box, du centre de recherche polaire Byrd (université de l'Ohio), qui les scrute quotidiennement, a constaté qu'entre le 10 et le 24 juillet le glacier Petermann, situé au nord-ouest du Groenland, avait perdu 29 km2.</p>
+			<p id="p4">Le thermomètre pourrait flirter avec les 50°C dans le sud de l'Asie et avec les 44°C dans le sud de la France.</p>
+			<p id="p5">Le rapport 2007 du Giec (Groupe intergouvernemental d'experts sur l'évolution du climat) tablait sur une hausse moyenne des températures entre 1990 et 2100 comprise entre + 1,1 et + 6,4 °C, la fourchette la plus vraisemblable se situant entre + 1,8 et + 4 °C. Il avait été taxé de catastrophiste. Une étude parue dans le dernier numéro des Geophysical Research Letters (2008, vol 35, n° 10) va plus loin en annonçant que des événements climatiques rares au cours desquels le thermomètre pourrait atteindre des températures extrêmes, sont susceptibles d'augmenter en nombre.</p>
+			<p id="p6">Rajendra Pachauri préside depuis 2002 le Groupe intergouvernemental d'experts sur l'évolution du climat ( GIEC ) dont les rapports ont posé scientifiquement la réalité du changement climatique. A ce titre, cet ingénieur et économiste indien de 67 ans a reçu le prix Nobel de la paix 2007, conjointement avec l'ancien vice-président américain Al Gore. Invité à Saint-Cloud (Hauts-de-Seine) au Conseil informel des ministres de l'environnement et de l'énergie de l'Union européenne, il a appelé les Vingt-Sept, vendredi 4 juillet, à tenir l'engagement de réduire d'au moins 20 % leurs émissions de gaz à effet de serre d'ici à 2020. Citant Gandhi, il a exhorté les Européens à être en pointe dans la lutte contre le réchauffement : "Si vous voulez que le monde change, a-t-il lancé aux ministres, vous devez incarner ce changement."</p>
+			<p id="p7">Entretien </p>
+			<p id="p8">17 rue Laurent Bonnevay - 54000 NANCY - Tél/Fax : 03.83.96.16.95 - Mail : contact@3dterritoires.org</p>
+			<p id="p9">Conception : 3D Territoires - Site optimisé pour un affichage : 1024x768px - Hébergement : OVH - Tous droits réservés</p>
+		</body>
+	</text>
+</cesDoc>

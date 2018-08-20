@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Lavoroprevidenza.com - Osservatorio di Diritto del Lavoro e della Previdenza Sociale</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Lavoroprevidenza.com - Osservatorio di Diritto del Lavoro e della Previdenza Sociale</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 15:58:51.0</pubDate>
+							<eAddress>http://www.lavoroprevidenza.com/stampa_articolo.asp?id=1704</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>lavoro</keyTerm>
+					<keyTerm>previdenza</keyTerm>
+					<keyTerm>notizie</keyTerm>
+					<keyTerm>lavoroprevidenza</keyTerm>
+					<keyTerm>legge</keyTerm>
+					<keyTerm>diritto</keyTerm>
+					<keyTerm>lavoratori</keyTerm>
+					<keyTerm>sindacato</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/5398.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">SPECIALE LAVORO NOTTURNO</p>
+			<p id="p2">IL LIMITE AL « NOTTURNO » CALCOLATO SULLA SETTIMANA</p>
+			<p id="p3">M. C. D. sul Sole 24Ore</p>
+			<p id="p4">ROMA • Guida dei consulenti sul lavoro notturno. È questo il tema del principio n. 5 elaborato dalla commissione del Consiglio nazionale che si occupa di offrire strumenti interpretativi sui punti più controversi della disciplina giuslavoristica.</p>
+			<p id="p5">Chi è il lavoratore notturno. Il periodo " notturno" è definito dai contratti collettivi sulla base della legga che parla di un periodo di almeno sette ore consecutive comprendenti l intervallo tra la mezzanotte e le cinque del mattino.</p>
+			<p id="p6">Da questa definizione scaturisce quella di « lavoratore notturno » . Spiega il principio n. 5 che lo status di lavoratore notturno spetta a quanti hanno un orario normale giornaliero collocato, per almeno tre ore, nel periodo notturno, così come individuato dal contratto collettivo.</p>
+			<p id="p7">Nel caso in cui la prestazione notturna sia discontinua, la disciplina italiana rimanda ai contratti collettivi per la definizione dei parametri. In mancanza di disciplina contrattuale, è lavoratore notturno colui che svolge attività " notturna" per un minimo di 80 giorni l anno: ciò significa - secondo i consulenti - per almeno tre ore la prestazione è collocata di notte.</p>
+			<p id="p8">Il limite di otto ore. La commissione chiarisce che il periodo su cui va misurata la durata della prestazione svolta dal lavoratore nottuno è la settimana lavorativa. Dunque, su questa base si calcola il limite delle otto ore in media nelle 24.</p>
+			<p id="p9">La durata del lavoro notturno può essere oggetto di deroghe ad opera della contrattazione collettiva o, in mancanza, di un decreto ministeriale. Le eccezioni possono riguardare sia le modalità di organizzazione che la durata, per una serie di settori che vanno dall attività di ricerca e sviluppo all agricoltura, dal turismo ai servizi postali, dalle utilities all attività di cura negli ospedali fino ai servizi collegati ai media.</p>
+			<p id="p10">Diversa - fa notare la commissione - è l ipotesi dell articolo 17, comma 5, del decreto legislativo 66/ 03: i limiti infatti non operano per i dirigenti, il personale direttivo delle aziende e le « persone aventi potere di decisione autonomo » , per la manodopera familiare, per i religiosi, per le prestazioni rese nell ambito di rapporti di lavoro a domicilio e telelavoro.</p>
+			<p id="p11">Diritti e doveri. Il rifiuto alla prestazione notturna deve essere espresso in forma scritta e comunicato al datore di lavoro almeno 24 ore prima. « La comunicazione - si afferma nel principio n. 5 - si ritiene non debba essere fatta a ogni richiesta di lavoro notturno effettuata dall azienda, bensì una volta resa rimarrà valida fino a disdetta » . Il datore di lavoro che necessita di lavoro notturno, non disciplinato dal contratto collettivo adottato, deve - con periodicità annuale, informare per iscritto la direzione provinciale nel cui ambito ha sede l azienda. Nel caso in cui l impresa abbia più unità operative « si ritiene - dice il principio n. 5 - che il datore di lavoro sia tenuto a effettuare più comunicazioni alle rispettive direzioni provinciali nel cui ambito territoriale ricade la sede dell unità locale » .</p>
+			<p id="p12">Quanto al trasferimento del dipendente al lavoro diurno la commissione ritiene che la norma non possa essere interpretata come un preciso obbligo in capo al datore di lavoro nelle ipotesi di incompatibilità del lavoratore anche alle mansioni diurne. Ciò in quanto non si ritiene prevalga l interesse del lavoratore alla conservazione del posto rispetto a quello della libera organizzazione dell azienda, garantito costituzionalmente all imprenditore.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Instituto Nacional de Ecología</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Instituto Nacional de Ecología</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:46:51.0</pubDate>
+							<eAddress>http://www2.ine.gob.mx/curriculums/cpcc/ubando.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>INE Investigación ambiental artículos cursos informes monitoreo atmosférico publicaciones cambio climático calidad del aire</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/18641.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Jefe de Departamento de Estudios de Evaluación de la Vulnerabilidad y Opciones de Adaptación al Cambio Climático</p>
+			<p id="p2">Estudió la Licenciatura en Ciencias de la Atmósfera en la Universidad Veracruzana (1994-1999). Realizó prácticas profesionales en el Departamento de Hidrología del Centro de Meteorología Aplicada de la Universidad Veracruzana de 1998 a 1999. Cursó estudios de posgrado en Ingeniería Ambiental en la Facultad de Ingeniería de la Universidad Nacional Autónoma de México de 1999 a 2001.</p>
+			<p id="p3">En la Universidad Veracruzana desempeñó el cargo de técnico académico en la Línea de Investigación de Hidrometeorología de la Licenciatura en Ciencias de la Atmósfera de 2001 a 2004. En ese tiempo participó en diversos proyectos de investigación en hidrología, meteorología y contaminación del aire, y publicó sobre estudios del fenómeno de El Niño, sequía intraestival, zonificación edafoclimática, unidades calor, red de estaciones climatológicas, intensidad de la lluvia y tormentas severas.</p>
+			<p id="p4">Del 2002 al 2007, se desempeño como académico en las carreras de Ciencias de la Atmósfera, Instrumentación Electrónica e Ingeniería Ambiental de la Universidad Veracruzana, impartiendo cátedra sobre meteorología, climatología, metodología de la investigación científica, álgebra superior, vibraciones y ondas, cálculo, ecuaciones diferenciales, meteorología tropical, química y contaminación atmosférica, ingeniería ambiental y sensores remotos. Durante este período, participó como revisor de tesis, sinodal en exámenes profesionales y de oposición. Asimismo, impartió conferencias sobre el uso de estaciones meteorológicas en la agricultura y en el manejo de base de datos climatológicos, en talleres y foros nacionales.</p>
+			<p id="p5">Laboró como asesor de la Comisión Permanente de Ciencia y Tecnología, en el H. Congreso del estado de Veracruz de 2005 a 2007 y pertenece al Grupo Promotor del Agua del Consejo del Sistema Veracruzano del Agua (desde 2003).</p>
+			<p id="p6">Actualmente, en el Instituto Nacional de Ecología, desempeña las funciones de identificar y analizar la información disponible sobre estudios de metodologías para la evaluación de la vulnerabilidad y opciones de adaptación al Cambio Climático, así como identificar las áreas o sectores de atención prioritaria susceptibles a los posibles efectos del Cambio Climático y estudios de posibles acciones para enfrentar dichos efectos. Asimismo, atender las solicitudes de asesoría de los tomadores de decisiones en materia de vulnerabilidad y adaptación al Cambio Climático. Además, las de preparar documentos científicos y técnicos, en materia de vulnerabilidad y adaptación al Cambio Climático, para su difusión a nivel interinstitucional, nacional e internacional, en los diversos medios de comunicación, así como organizar y/o participar en reuniones, talleres, seminarios y cursos, nacionales e internacionales, con científicos, académicos, técnicos, expertos y la sociedad en general para el fortalecimiento institucional y la retroalimentación de conocimientos relativos a la vulnerabilidad y adaptación al Cambio Climático; así como Integrar la información requerida por la guía de la Convención Marco de las Naciones Unidas sobre el Cambio Climático en materia de vulnerabilidad y adaptación al Cambio Climático para la elaboración de las Comunicaciones Nacionales.</p>
+			<p id="p7">DIRECTORIOS POR DIRECCIÓN O ÁREA</p>
+			<p id="p8">Comentarios sobre este Sitio de Internet</p>
+			<p id="p9">INSTITUTO NACIONAL DE ECOLOGÍA, MÉXICO - ALGUNOS DERECHOS RESERVADOS © 2010 - POLÍTICAS DE PRIVACIDAD</p>
+		</body>
+	</text>
+</cesDoc>

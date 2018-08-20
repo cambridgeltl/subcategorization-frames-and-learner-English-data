@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>UNHCR | Refworld | 2010 Annual Survey of violations of trade union rights - Angola</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>UNHCR | Refworld | 2010 Annual Survey of violations of trade union rights - Angola</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:00:20.0</pubDate>
+							<eAddress>http://www.unhcr.org/refworld/publisher,ITUC,,AGO,4c4fec921e,0.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>UNHCR</keyTerm>
+					<keyTerm>Refworld</keyTerm>
+					<keyTerm>Refugee Status Determination</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/1384.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Publisher</p>
+			<p id="p2">Cite as</p>
+			<p id="p3">International Trade Union Confederation, 2010 Annual Survey of violations of trade union rights - Angola, 9 June 2010, available at: http://www.unhcr.org/refworld/docid/4c4fec921e.html [accessed 20 September 2010]</p>
+			<p id="p4">2010 Annual Survey of violations of trade union rights - Angola</p>
+			<p id="p5">Population: 18,500,000</p>
+			<p id="p6">ILO Core Conventions Ratified: 29 – 87 – 98 – 100 – 105 – 111 – 182</p>
+			<p id="p7">Trade union activities are tolerated provided they do not "threaten" the country's reconstruction. In practice, trade union activity is closely monitored by the authorities. The legal framework is still unfavourable for trade unions.</p>
+			<p id="p8">Trade union rights in law</p>
+			<p id="p9">The laws on trade unions, strikes and collective bargaining are lacking, but are under revision by the National Tripartite Commission. Government approval is required to form a trade union, and the procedures are long and cumbersome. Collective bargaining is banned in the civil service.</p>
+			<p id="p10">The categories of workers excluded from the right to strike exceed the ILO definition of essential services, and an excessively high quorum must be attained when holding a strike ballot. Although discrimination against union members is prohibited, the law does not contain any effective measures to prohibit employer retribution against strikers. The government can also requisition striking workers under various pretexts.</p>
+			<p id="p11">Trade union rights in practice and violations in 2009</p>
+			<p id="p12">Background: The strong economic growth of recent years, based on oil and diamond exports, has slowed. Pay rises have been kept under control by the authorities, anxious not to anger the international financial institutions, but the price of basic goods continued to rise. Many human rights activists were harassed, as were journalists. In Luanda, 15,000 people were evicted from their slums. The authorities also conducted mass expulsions of Congolese migrants. The presidential elections were postponed.</p>
+			<p id="p13">Collective bargaining curtailed: Collective bargaining is restricted in its coverage. The government is the country's biggest employer and, through the Ministry of Public Administration, Employment and Social Security, sets wages and benefits on an annual basis. This involves consultation, but no negotiations with the unions.</p>
+			<p id="p14">Little respect for rights: Workers' organisations are closely monitored by the authorities, particularly in the strategic oil and diamond industries. The authorities and employers have shown little tolerance for protest action. There are frequent and repeated warnings. Any social unrest is met with reminders about the need for the country's economic recovery, discipline at work and for dialogue as the only possible solution to workers' demands. Freedom of expression is quashed just as much as freedom of association, if not more so, hence union demands or grievances are rarely mentioned in the press.</p>
+			<p id="p15">Topics: Labour conflict, Freedom of association,</p>
+			<p id="p16">Copyright notice: © ITUC-CSI-IGB 2010</p>
+		</body>
+	</text>
+</cesDoc>

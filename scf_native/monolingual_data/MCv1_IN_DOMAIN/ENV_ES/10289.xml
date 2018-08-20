@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Fundación Ecología y Desarrollo: especial </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Fundación Ecología y Desarrollo: especial </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 13:10:07.0</pubDate>
+							<eAddress>http://archivo.ecodes.org/pages/especial/cc/ini_ECODES.asp</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/10289.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Desarrollo limpio: promoviendo la lucha contra la pobreza a través de proyectos de mitigación del cambio climático</p>
+			<p id="p2">Ecología y Desarrollo, en el marco de la iniciativa CeroCO2, ha puesto en marcha el proyecto “Desarrollo Limpio” cuyo objetivo es que la lucha contra el cambio climático sea aprovechada para mejorar las condiciones de vida en los países del Sur.</p>
+			<p id="p3">Los Mecanismos de Desarrollo Limpio y, con la misma filosofía, los mercados voluntarios de carbono son la herramienta adecuada para ello. Por un lado, ofrecen a las empresas la oportunidad de ampliar su compromiso con la lucha contra el cambio climático, compensando sus emisiones a través de proyectos de energía renovable, mejora de la eficiencia energética o captación de carbono mediante reforestación en países en vías de desarrollo. Por otro, aquellos proyectos de cooperación al desarrollo que contemplen acciones de mitigación del cambio climático, como las mencionadas, pueden co- financiarse con estos mercados de carbono.</p>
+			<p id="p4">Sin embargo, estos mecanismos han manifestado ciertas debilidades que impiden una mayor contribución a la mejora de la calidad de vida en los países en desarrollo. Con frecuencia, los proyectos a pequeña escala, que generalmente tiene mayor impacto social, tienen importantes dificultades para conseguir la remuneración por la reducción de carbón obtenida en los mismos, dado que es un proceso complejo y costoso .</p>
+			<p id="p5">El proyecto “Desarrollo Limpio” pretende sensibilizar sobre la corresponsabilidad que las personas y organizaciones españolas tienen sobre el cambio climático y fortalecer el mercado de emisiones tanto desde el punto de vista de la oferta, (ampliando el conocimientote las ONGDs para que existan más proyectos de co-operación con reducciones de emisiones) como la demanda, (promoviendo que las empresas opten por proyectos MDL más sociales, y que utilicen los mercados voluntarios).</p>
+			<p id="p6">En el marco del proyecto, el pasado mes de octubre tuvo lugar un taller dirigido a ONGD con el objetivo de acercar los procedimientos existentes para beneficiarse de los mercados de carbono y conocer qué estándares existen para valorar la contribución al desarrollo sostenible de los proyectos de lucha contra el cambio climático. En esta línea de apoyo a las ONGD, se ha abierto un foro a través del cual se pueden formular consultas específicas sobre cómo adaptar los proyectos de cooperación para participar en lo mercados de carbono. También está prevista la elaboración de una Guía general sobre la formulación de proyectos de Desarrollo limpio.</p>
+			<p id="p7">Ecología y Desarrollo</p>
+			<p id="p8">Plaza San Bruno, 9 · 50001 Zaragoza · España Tel: + 34 976 29 82 82 · Fax: +34 976 20 30 92</p>
+		</body>
+	</text>
+</cesDoc>

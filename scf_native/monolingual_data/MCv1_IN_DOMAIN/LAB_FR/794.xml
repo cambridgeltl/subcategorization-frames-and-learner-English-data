@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:44.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=550</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/794.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">Le nouveau droit à la formation</p>
+			<p id="p4">A partir du 7 mai prochain, les entreprises seront tenues de mettre en place le droit individuel à la formation (DIF). Ce dispositif clé de la loi Fillon permet à tout salarié de disposer de vingt heures de formation en plus par an, qui viennent s’ajouter au plan de l’entreprise et au congé individuel de formation (CIF). L’objectif de cette réforme est de développer les compétences des salariés pour améliorer leur employabilité.</p>
+			<p id="p5">Toutes les personnes en CDI ayant un an d’ancienneté dans l’entreprise et, sous certaines conditions, les CDD et les temps partiels au prorata de leur temps de travail, sont concernées par le droit individuel à la formation. Sauf accords de branche ou d’entreprise plus avantageux, cette formation se déroule en dehors du temps de travail (RTT, soir ou week-end, etc.). L’employeur doit alors verser au salarié une allocation de formation, laquelle s’élève à 50 % de sa rémunération nette et n’est pas soumise à cotisations. L’entreprise peut l’imputer sur son budget formation continue. Concrètement, si un salarié souhaite suivre une formation, il doit prévenir son employeur et obtenir son accord. Celui-ci a un mois pour lui répondre. L’absence de réponse vaut acceptation. Si le salarié et l’employeur ne parviennent pas à se mettre d’accord sur le choix d’une action de formation pendant deux exercices consécutifs, le dossier sera transféré au Fongecif dont relève l’entreprise. Le salarié aura alors un accès prioritaire au congé individuel de formation (CIF), et l’employeur sera tenu de verser les frais de formation forfaitaires ainsi que l’allocation de formation à l’organisme concerné.</p>
+			<p id="p6">Au niveau du type de demandes, il peut exister un accord de branche ou d’entreprise prévoyant des actions de formation prioritaires. Cependant, le salarié n’est pas obligé de les suivre. Il peut choisir des modules visant à acquérir une qualification plus élevée, à mieux gérer sa carrière, à entretenir ses connaissances ou à en acquérir de nouvelles.</p>
+			<p id="p7">En ce qui concerne les managers, ils sont nombreux à se demander comment ils vont s’occuper de ce dossier dans un emploi du temps déjà chargé à cause des 35 heures, de la réduction des effectifs, etc. Or, les cadres sont appelés à jouer un rôle central dans le dispositif : entretien professionnel, évaluation des attentes des salariés, analyse des besoins de formation, développement des compétences, etc. Les entreprises seront donc amenées à former ces acteurs clés à la réforme. Plus précisément, ce sont les services RH qui devront fournir des outils de communication aux managers.</p>
+			<p id="p8">Enfin, la question est de savoir si les collaborateurs vont se saisir de ce nouveau droit à la formation. Cela ne dépendra pas seulement d’eux, mais également de la culture de l’entreprise. En effet, selon que la formation est considérée comme un investissement ou une charge dans l’entreprise, les collaborateurs réagiront différemment, décidant ainsi de l’avenir de ce texte de loi : simple vœu pieux ou nouvel outil d’évolution des compétences ?</p>
+		</body>
+	</text>
+</cesDoc>

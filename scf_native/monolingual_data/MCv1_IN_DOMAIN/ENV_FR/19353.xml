@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Le CEA et ses partenaires finalisent un réservoir de stockage d'hydrogène sous pression pour l'automobile</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Le CEA et ses partenaires finalisent un réservoir de stockage d'hydrogène sous pression pour l'automobile</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-11 00:03:59.0</pubDate>
+							<eAddress>http://www.actu-environnement.com/ae/news/CEA_air_liquide_reservoir_stockage_hydrogene_6233.php4</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>actualité</keyTerm>
+					<keyTerm>actualités</keyTerm>
+					<keyTerm>information</keyTerm>
+					<keyTerm>news</keyTerm>
+					<keyTerm>environnement</keyTerm>
+					<keyTerm>Energies</keyTerm>
+					<keyTerm>cea</keyTerm>
+					<keyTerm>partenaires</keyTerm>
+					<keyTerm>partenaire</keyTerm>
+					<keyTerm>finalisent</keyTerm>
+					<keyTerm>réservoir</keyTerm>
+					<keyTerm>stockage</keyTerm>
+					<keyTerm>hydrogène</keyTerm>
+					<keyTerm>sous</keyTerm>
+					<keyTerm>sou</keyTerm>
+					<keyTerm>pression</keyTerm>
+					<keyTerm>automobile</keyTerm>
+					<keyTerm>comptant</keyTerm>
+					<keyTerm>parmi</keyTerm>
+					<keyTerm>technologies</keyTerm>
+					<keyTerm>technologie</keyTerm>
+					<keyTerm>stockage</keyTerm>
+					<keyTerm>hydrogène</keyTerm>
+					<keyTerm>développées</keyTerm>
+					<keyTerm>développée</keyTerm>
+					<keyTerm>cadre</keyTerm>
+					<keyTerm>projet</keyTerm>
+					<keyTerm>européen</keyTerm>
+					<keyTerm>storhy</keyTerm>
+					<keyTerm>présentées</keyTerm>
+					<keyTerm>présentée</keyTerm>
+					<keyTerm>commission</keyTerm>
+					<keyTerm>juin</keyTerm>
+					<keyTerm>réservoir</keyTerm>
+					<keyTerm>mis</keyTerm>
+					<keyTerm>mi</keyTerm>
+					<keyTerm>point</keyTerm>
+					<keyTerm>cea</keyTerm>
+					<keyTerm>émerge</keyTerm>
+					<keyTerm>matière</keyTerm>
+					<keyTerm>stockage</keyTerm>
+					<keyTerm>gazeux</keyTerm>
+					<keyTerm>gazeu</keyTerm>
+					<keyTerm>haute</keyTerm>
+					<keyTerm>pression</keyTerm>
+					<keyTerm>détails</keyTerm>
+					<keyTerm>détail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/19353.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Comptant parmi les technologies de stockage de l'hydrogène développées dans le cadre du projet européen StorHy et présentées à la Commission en Juin, un réservoir mis au point par le CEA, émerge en matière de stockage gazeux haute pression. Détails.</p>
+			<p id="p2">© CEA</p>
+			<p id="p3">Lancé en 2004, le projet européen StorHy (Système de stockage d'hydrogène pour des applications automobiles) vise à accélérer le développement de trois technologies de stockage de l'hydrogène : stockage à l'état gazeux sous haute pression (jusqu'à 700 bar), stockage sous forme liquide (cryogénique) à très basses températures (de moins de 253 °C) et stockage absorbé dans des matériaux solides.</p>
+			<p id="p4">Le projet StorHy d'une durée de 4 ans et demi regroupe 5 constructeurs automobiles (Peugeot, BMW, Daimler, Ford et Volvo), 14 équipementiers et 15 instituts de recherche européens. Il a été financé à hauteur de 10,7 millions d'euros par le 6ème Programme Recherche de l'UE et a mobilisé un budget total de 18,7 millions d'euros.</p>
+			<p id="p5">En juin dernier, les experts de la Commission européenne et les représentants des 40 partenaires européens du projet ont fait le point sur l'état d'avancement des technologies de stockage de l'hydrogène réalisées dans le cadre de StorHy.</p>
+			<p id="p6">Parmi ces technologies, les réservoirs, développés par le centre du Ripault du CEA (Commissariat à l'Énergie Atomique), Air Liquide et Ullit, ont présenté les meilleurs résultats en termes de durabilité, de sécurité et d'étanchéité.</p>
+			<p id="p7">Ces réservoirs, réalisés en matériaux polymères composites, stockent l'hydrogène sous forme gazeuse dont le liner assure l'étanchéité de l'hydrogène. La coque composite externe, constituée par enroulement filamentaire, assure quant à elle la résistance et la protection mécaniques. Elle utilise des matériaux issus de l'aéronautique telles les fibres de carbone.</p>
+			<p id="p8">Les réservoirs sont les seuls à satisfaire pour l'instant aux trois critères du cahier des charges européen (durée de vie, étanchéité, sécurité) pour le stockage embarqué à 700 bars, souligne le CEA. En effet, ces réservoirs présentent une résistance à plus de 15.000 cycles de remplissage (20-875 bars) sans perte notable de propriétés (norme en vigueur), précise le Commissariat à l'Énergie Atomique. Leur taux de fuite est à minima 20 fois inférieur à la valeur demandée par la norme (1cm3/L/h). En termes de sécurité, ces réservoirs résistent également à des pressions internes supérieures à la pression d'éclatement fixée par la norme (1645 bars, soit près de 2,5 fois la pression de service).</p>
+			<p id="p9">Le CEA précise que l'utilisation de trois réservoirs compacts, présentant 3 fois 34 litres de volume interne, permet d'embarquer près de 4,5 kg d'hydrogène. Industrialisée par la société Ullit, cette solution permettrait d'envisager une autonomie d'environ 500 km pour une voiture familiale équipée d'une pile à combustible PEMFC de 70 à 80 kW.</p>
+			<p id="p10">Si le CEA poursuit ses recherches visant à accélérer la maturité industrielle de ce type de réservoirs et faciliter leur intégration dans un véhicule au sein de l'Agence nationale de la Recherche (ANR), d'OSEO et de la ''Joint Technology Initiative'' européenne, les chercheurs du CEA s'intéressent également au mode de stockage basse pression en phase solide. Celui-ci consiste à absorber l'hydrogène dans des matériaux capables de le restituer à la demande et qui présente des avantages de sûreté et de compacité.</p>
+			<p id="p11">Rappelons que l'hydrogène pourrait contribuer réduire la consommation totale de pétrole des transports routiers de 40% d'ici 2050, selon une analyse de scénarios effectuée dans le cadre du projet ''HyWAYS'' financé par l'UE. Si dans les conditions actuelles la production d'Hydrogène n'est pas exempte de nuisance pour l'environnement et notamment d'émissions de GES, son utilisation au sein de véhicule automobile présente un avantage indéniable : la réduction de la pollution diffuse. La Communauté européenne et les entreprises du secteur des piles à combustible et de l'hydrogène ont d'ailleurs lancé en juin une initiative technologique commune (ITC) dont l'objectif est d'accélérer le développement des piles à combustibles en Europe et de permettre leur commercialisation entre 2010 et 2020.</p>
+			<p id="p12">R. BOUGHRIET</p>
+			<p id="p13">Il s'agit plus d'une question que d'une réaction. J'ai vu, il y a quelques années, un reportage sur une technologie de voiture fonctionnant à l'air comprimé, élaborée par Guy NEGRE. Celui ci commercialisait en fait les usines. Certains pays (Italie, Mexiques) se sont intéressés à cette technologie et ont monté les unités de production. Mais pas la France. Peut-être à cause d'une autonomie jugée trop faible (150 à 200 km à l'époque, ce qui suffit pourtant pour l'écrasante majorité de nos déplacements domestiques !). Quelqu'un a-t il des informations récentes sur cette technologie ? A -t-elle fait elle ses preuves ?</p>
+			<p id="p14">Message déposé par pamarante le 28/11/2008</p>
+			<p id="p15">Pour avoir des éléments, vous pouvez aller sur le site MDI, Motor Development International où vous aurez les derniers développements.</p>
+			<p id="p16">Toutefois, prudence, ce système amène une perte d'énergie à la compression (production de chaleur) et une autre à la détente (production de froid), en proportion non négligeable. La compensation sur route par l'utilisation d'un carburant en quantité limité permet de compenser et d'améliorer le rendement.</p>
+			<p id="p17">Il faudrait des mesures faites par un organisme indépendant, mais je n'ai pas d'éléments à ce sujet,</p>
+			<p id="p18">Message déposé par Daniel le 1/12/2008</p>
+			<p id="p19">Tous ceux qui poussent l'hydrogène fanatiques ou lobbies oublient un point essentiel le rendement global de la soltion hydrogene. Les transformations de l'hydrogene son stockage se font avec un mauvais rendement</p>
+			<p id="p20">Produire l'H sans GES rendement 60 à 80%</p>
+			<p id="p21">Stocker sous 700 bar rendement environ 65%</p>
+			<p id="p22">Transformer l'hydrogene en electricite avec la PAC rendement 50%</p>
+			<p id="p23">Dans le futur nous aurons une energie propre couteuse et rare la voiture a hydrogene sera un jouet de luxe pour pays riches Gardons l'hydrogène pour les application ou sa faible densité est un atout essentiel : les applications aeronautiques pour eviter de polluer la haute altitude</p>
+			<p id="p24">Les solutions de stockage batteries liquides batteries Li et dans le futur air comprimé arrivent a de bien meilleurs rendement et a des equipements plus simple</p>
+			<p id="p25">Message déposé par jean-marie le 27/11/2008</p>
+			<p id="p26">500 km, pas mal comme distance, surtout pour un réservoir que l'on peut remplir rapidement (contrairement aux voitures électriques). La question que je me pose concerne le cout en co2 et autres polluants de la production de cet hydrogène, par rapport à la production d'essence ou de diésel. Même si il est vrai que la production centralisée de l'hydrogène permet de contrôler et de limiter la pollution (captation co2, nucléaire), il n'en reste pas moins qu'il y a émission de polluants. Existe-t-il une étude concernant cette comparaison.</p>
+			<p id="p27">Message déposé par Anonyme le 22/11/2008</p>
+			<p id="p28">Tout dépend de la méthode utilisée pour produire l'hydrogène : crackage d'hydrocarbures ou électrolyse de l'eau. La première rejette, du fait du cassage de chaînes carbonnées, beaucoup de CO2. La seconde nécessite une quantité importante d'électricité, mais qui peut être produite de façon "verte". Les deux ont leures inconvénients, mais en matière de développement durable, l'électrolyse est évidemment préférable, ne serait-ce qu'à cause de la raréfaction du pétrole.</p>
+			<p id="p29">Message déposé par Anonyme le 24/11/2008</p>
+			<p id="p30">l'electrolyse de l'eau de mer serait la solution la plus adaptée pour produire de l'hydrogène. La France est dotée de centrales nucléaires proches des mers, une proportion de l'électricité produite peut-être orientée vers des sites de production proches ou à distance raisonnable (risque d'explosion lié à ce gaz). La production optimale pourra être effectuée en période "creuse" de demande d'énergie électrique sur le réseau...</p>
+			<p id="p31">Idem, pour les moyens de productions d'énergie d'origine renouvelable : éolien, hydraulique, etc.</p>
+			<p id="p32">Message déposé par Bibi06200 le 27/11/2008</p>
+			<p id="p33">Je ne sais pas pour l'eau de mer mais en tout cas l'électrolyse est bien sûr préférable.</p>
+			<p id="p34">Cela permet en effet d'utiliser les surplus de production nucléaire habituellement dissiper sans valorisation mais surtout cela représente un potentiel de stockage électrique palliant l'intermittence tant décriée des énergies renouvelables.</p>
+			<p id="p35">En plus cette fois l'énergie qui est "stockée" remplace une énergie fortement carbonée (pétrole), l'impact environnemental est donc fortement positif (par rapport à un remplacement d'électricité d'origine nucléaire soi-disant propre mais c'est un autre débat).</p>
+			<p id="p36">Il reste la question de l'énergie grise pour la réalisation des ces équipements et leurs rendements, ce qui nous donne un temps de retour du point de vue énergétique et du point de vue environnementale. Et pour finir, le nerf de la guerre !!! Combien cela va-t-il coûter ?</p>
+			<p id="p37">Cela fait 10 ans que je me suis intéressé à la pile à combustible et ça fait 10 ans qu'on me dis que c'est pour bientôt. Mais les enjeux (économiques entres autres) sont tels que des solutions vont enfin être trouvées.</p>
+			<p id="p38">A suivre...</p>
+			<p id="p39">* : Votre adresse e-mail ne sera pas affichée sur le site ni intégrée à des fichiers revendus. Nous la demandons afin de limiter les abus.</p>
+			<p id="p40">Tout propos insultant, réducteur, irrespectueux, ou contraire à la loi est interdit.</p>
+			<p id="p41">Les messages visant à assurer l'autopromotion ou la publicité d'une marque, d'un produit ou d'un service seront systématiquement supprimés, au même titre que les liens Internet.</p>
+			<p id="p42">2 =</p>
+		</body>
+	</text>
+</cesDoc>

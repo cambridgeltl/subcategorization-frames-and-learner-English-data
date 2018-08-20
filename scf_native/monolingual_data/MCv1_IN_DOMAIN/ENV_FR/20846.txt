@@ -1,0 +1,39 @@
+2
+3
+, HCl, HF) émis par les activités humaines qui retombent                en partie à proximité des sources, mais aussi à des centaines, voire                des milliers de kilomètres de leurs sources émettrices. Ces polluants                retombent sous forme de retombées sèches ou humides. Pendant le                transport, ces polluants se transforment. SO
+2
+4
+2
+3
+) dans le cas où l'atmosphère est humide.
+Les phénomènes                de pollution acide à grande échelle ont été mis en évidence par                l'acidification des eaux des lacs Scandinaves et Canadiens. Le pH                des eaux est devenu acide entraînant des modifications importantes                de la faune piscicole. Certaines pluies ont un pH compris entre                3 et 4 alors que l'eau pure a un pH de 5,6.
+Les retombées                acides ont des effets sur les matériaux,                les écosystèmes forestiers et les écosystèmes d'eau douce.
+Eutrophisation
+L'eutrophisation correspond à une perturbation de l'équilibre biologique                des sols et des eaux due à un excès d'azote notamment d'origine                atmosphérique (NOx et NH
+3
+Pollution                photochimique
+La pollution photochimique (ou pollution photo-oxydante) est un                ensemble de phénomènes complexes qui conduisent à la formation d'ozone                et d'autres composés oxydants (peroxyde d'hydrogène, aldéhydes,                peroxy acétyl nitrate ou PAN) à partir de polluants primaires (appelés                précurseurs) : oxydes d'azote et composés organiques volatils (COV)                et d'énergie apportée par le rayonnement Ultra Violet (UV) solaire.                Ces phénomènes ont lieu dans les couches d'air proche du sol et                dans la troposphère libre. L'ozone formé à ce niveau est qualifié                de "mauvais ozone" en raison de ses effets néfastes sur la santé humaine et sur les végétaux. L'ozone de la                stratosphère (19-30 km d'altitude), au contraire est qualifié de                "bon ozone" puisqu'il nous protège du rayonnement UV solaire.
+De façon surprenante, les concentrations d'ozone mesurées loin des                sources des précurseurs (une agglomération par exemple) sont plus                élevées que celles mesurées près des sources. En effet, sur une                ville par exemple, les émissions de NO (liées au trafic notamment)                sont élevées. L'ozone est détruit par le NO. Le NO agit comme un                puits d'ozone puisqu'il le consomme. Si le nuage de polluants formé                sur la ville se déplace à la campagne, ou les émissions de NO sont                moindres, les concentrations d'ozone augmentent puisque l'ozone                n'est plus consommé.
+La pollution photochimique est un phénomène caractéristique des                situations estivales anticycloniques.
+L'ozone a des effets sur la santé humaine, les écosystèmes                forestiers et agricoles, de plus ce phénomène de pollution photo-oxydante                est intimement lié à celui des pluies acides.
+Effet                de serre
+L'effet de serre est un phénomène naturel lié à l'absorption des                rayonnements Infra Rouge (IR) de grande longueur d'onde renvoyés,                par la surface terrestre, par des composés présents dans l'atmosphère                : CO
+2
+2
+O, CFC . Une partie du rayonnement IR n'est                pas renvoyé vers l'espace. Il y a donc absorption d'énergie. Cette                énergie est transformée en chaleur. La plupart de ces composés sont                présents à l'état naturel ce qui a permis le développement et le                maintient de la vie sur Terre. La température moyenne sur terre                est de 15°C, si l'effet de serre naturel n'existait pas, la température                moyenne serait de - 18°C.
+Depuis l'ère                industrielle, il y a accroissement des concentrations des gaz à                effet de serre :
+CO
+CH
+N
+CFC (maintenant                  bannis), HFC, PFC, SF
+6
+Appauvrissement                de l'ozone stratosphérique
+L'ozone est le composé prépondérant dans la haute atmosphère à une                altitude de 25 km. L'ozone stratosphérique est qualifié de bon ozone                car il absorbe le rayonnement UV solaire et nous préserve ainsi                contre le risque de cancer cutané et autres mutations génétiques.                Il préserve également l'activité photosynthétique des plantes.
+La baisse anormale                des concentrations d'ozone au pôle Sud au sortir de l'hiver polaire,                au moment de l'apparition du soleil a été mise en évidence en 1980.                Durant la fin de l'hiver austral, au moment où le soleil apparaît,                la teneur en ozone diminue de 40 à 60%. Le déficit maximum se situe                vers 20 - 25 km.
+De nombreux                composés peuvent détruire l'ozone (OH, H, NO, Cl, Br, HO
+2
+). Une                forte corrélation entre le déficit en ozone et les concentrations                en ClO a été mise en évidence. La présence des radicaux Cl et ClO                dans la stratosphère est liée à l'émission naturelle de chlorure                de méthylène par les océans et aux chlorofluorocarbures (CFC) émis                par les activités humaines. Les CFC sont des molécules très stables.                Ces molécules sont transportées dans la stratosphère où elles libèrent                le chlore et perturbent ainsi l'équilibre naturel régissant la présence                d'ozone à cette altitude.
+Le phénomène                de baisse annuelle des concentrations d'ozone est plus marqué au                pôle Sud, qu'au pôle Nord en raison de conditions différentes. Au                pôle Sud, un vortex apparaît pendant l'hiver. Les températures sont                de l'ordre de - 80° à - 100 °C. Les nuages contiennent alors de                fins cristaux de glace qui fixent le chlore sous forme de HCl et                de NO
+2
+ClO. Dès que le soleil réapparaît, le rayonnement UV libère                les radicaux Cl et ClO qui réagissent avec l'ozone rapidement. Au                pôle Nord, il n'y a pas formation de Vortex mais formation d'une                multitude de trous.
+La baisse des                concentrations d'ozone de la stratosphère pourrait avoir des effets                climatiques et biologiques.

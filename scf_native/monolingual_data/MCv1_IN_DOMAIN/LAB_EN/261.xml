@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Changes to employment contracts : Directgov - Employment</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Changes to employment contracts : Directgov - Employment</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 02:30:38.0</pubDate>
+							<eAddress>http://www.direct.gov.uk/en/Employment/Employees/EmploymentContractsAndConditions/DG_10028079</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Employment contract</keyTerm>
+					<keyTerm>contract of employment</keyTerm>
+					<keyTerm>terms and conditions of employment</keyTerm>
+					<keyTerm>collective agreements</keyTerm>
+					<keyTerm>variation of contract</keyTerm>
+					<keyTerm>breach of contract</keyTerm>
+					<keyTerm>notice periods</keyTerm>
+					<keyTerm>changing hours</keyTerm>
+					<keyTerm>cuts in hours</keyTerm>
+					<keyTerm>relocation</keyTerm>
+					<keyTerm>pay cut</keyTerm>
+					<keyTerm>shift patterns</keyTerm>
+					<keyTerm>changing work patterns</keyTerm>
+					<keyTerm>short time working</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/261.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Please note that this website has a UK government accesskeys system.</p>
+			<p id="p2">Public services all in one place</p>
+			<p id="p3">Main menu</p>
+			<p id="p4">Changes to employment contracts</p>
+			<p id="p5">Sometimes it's necessary to change the terms and conditions of an employment contract. Find out why your contract might be changed, what your rights are and how to avoid or resolve problems in making these changes.</p>
+			<p id="p6">The employment contract</p>
+			<p id="p7">An employment contract is an agreement between you and your employer, outlining both sides' rights and duties. If you haven't already done so, you might find it useful to read about employment contracts.</p>
+			<p id="p8">What or who can change a contract of employment?</p>
+			<p id="p9">Either you or your employer might want to change your employment contract. However, neither you or your employer can change your employment contract without each other's agreement. Changes should normally be made after negotiation and agreement.</p>
+			<p id="p10">Changes to employment contracts could be made by:</p>
+			<p id="p11">agreement between you and your employer</p>
+			<p id="p12">collective agreement - this is a negotiation between your employer and a trade union or staff association</p>
+			<p id="p13">implication - that is through a change in long standing custom and practice (for example if your employer allows all employees a day off each year for New Year's Eve)</p>
+			<p id="p14">If a collective agreement makes a change to employment contracts, the change will still apply to you even if you are not a member of the trade union or staff association.</p>
+			<p id="p15">Reasons for changing an employment contract</p>
+			<p id="p16">An employer's need</p>
+			<p id="p17">An employer sometimes needs to make changes to working practice because of economic circumstances. The business may need to be reorganised, moved to a new location, or there may need to be changes because of new laws or regulations. Things that might change include:</p>
+			<p id="p18">rates of pay</p>
+			<p id="p19">your duties and responsibilities</p>
+			<p id="p20">the location of where you work</p>
+			<p id="p21">Your employer might need to make a change to correct a mistake in drawing up the contract. Depending on the situation, it might be in your best interests to allow the mistake to be corrected.</p>
+			<p id="p22">In some circumstances, action like a demotion or a pay cut might be authorised as a disciplinary measure. Check the disciplinary procedure to be sure.</p>
+			<p id="p23">Employees might also ask to change the terms of their contract. For example, you might want:</p>
+			<p id="p24">better pay (you don’t have an automatic right to a pay rise, unless it’s in your contract)</p>
+			<p id="p25">improved working conditions</p>
+			<p id="p26">Flexibility clauses</p>
+			<p id="p27">Your employment contract may include 'flexibility clauses'. These give your employer the right to change certain conditions (for example, shift patterns) or there may be a 'mobility clause', allowing changes to your job location.</p>
+			<p id="p28">A flexibility clause that is vaguely worded - for example, 'the employer reserves the right to change terms from time to time' - cannot be used to bring in completely unreasonable changes. This is because there's an 'implied term of mutual trust and confidence' in all contracts that requires the employer not to act completely unreasonably. There is more information about implied terms in the 'Employment contract terms article'.</p>
+			<p id="p29">Do changes have to be in writing?</p>
+			<p id="p30">Agreed changes don't necessarily have to be in writing. However if they alter the terms in your 'written statement of employment particulars', your employer must give you another written statement showing what has changed within a month of the change.</p>
+			<p id="p31">What to do if you want to change your contract</p>
+			<p id="p32">If you want to make a change, speak to your employer and explain why. You can't insist on making changes unless they're covered by a statutory right (for example, opting out of Sunday working or the 48-hour week). You might be able to apply to change your hours under flexible working rights.</p>
+			<p id="p33">If your employer wants to make changes, they should</p>
+			<p id="p34">consult you or your representative (for example, a trade union official)</p>
+			<p id="p35">explain the reasons why</p>
+			<p id="p36">listen to alternative ideas</p>
+			<p id="p37">Changes can be agreed directly between you and your employer, or through a 'collective agreement' between your employer and a trade union. This might be allowed by your contract even if you're not a union member.</p>
+			<p id="p38">Changes to your employer</p>
+			<p id="p39">If your employer changes, you are normally entitled to receive a new full written statement of employment particulars within two months of the change. You would not be entitled to this if:</p>
+			<p id="p40">your employer’s name changes without any change to who your employer is (for example if the company is renamed)</p>
+			<p id="p41">your employer changes, but your job continues unaffected (such as during protected business transfers, also known as TUPE)</p>
+			<p id="p42">In these circumstances, you are entitled to be given individual written notice of the change at your employer’s earliest opportunity. This must be no later than one month from the date of the change.</p>
+			<p id="p43">Thinking about what you have just read, how useful did you find the information?</p>
+			<p id="p44">Very useful</p>
+			<p id="p45">Not at all useful</p>
+			<p id="p46">Take a moment to tell us how we could improve this page, but please don't leave any personal details like your name or address</p>
+			<p id="p47">500 character limit</p>
+			<p id="p48">we want to hear what you think about the quality and usefulness of our pages</p>
+			<p id="p49">your comments will help us improve our pages</p>
+			<p id="p50">your comments will also help with the future development of Directgov</p>
+			<p id="p51">telling us what you think will help make sure we give you the very best service</p>
+			<p id="p52">Bookmark with:</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Feedback: Tropical forests: From sink to source?</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Feedback: Tropical forests: From sink to source?</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:30:15.0</pubDate>
+							<eAddress>http://blogs.nature.com/climatefeedback/2009/03/tropical_forests_from_sink_to.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/10403.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Tropical forests: From sink to source?</p>
+			<p id="p2">The Earth’s large forests take up substantially more atmospheric carbon dioxide through photosynthesis than they release back to the atmosphere through respiration. Thus acting as a carbon ‘sink’, they (and the oceans) are our closest natural allies in the fight against climate change.</p>
+			<p id="p3">But many forests are at threat - not only from logging and clearing, but from climate change itself.</p>
+			<p id="p4">Take drought. How will mature tropical rain forests respond to dryer conditions, which some climate models suggest might be ahead in the not-so-distant future?</p>
+			<p id="p5">The 2005 drought in the Amazon basin gave scientists an opportunity to find out. What they saw is not particularly heartening: Prolonged dryness has apparently turned some affected areas of the Amazon from a carbon sink to a carbon source, a team led by Oliver Phillips of Leeds University in Britain reports in Science today (Abstract here ).</p>
+			<p id="p6">Patches subjected to a 100-milimetre decrease in rainfall released on average 5.3 tonnes of carbon per hectare – around 9 times the amount undisturbed tropical forests take up, on average, per year. Basin-wide, between 1.2-1.6 billion tonnes of carbon were released during the 2005 drought, the team estimates.</p>
+			<p id="p7">Over at Nature News, I’ve put together a little briefing on what we know and what we don’t know about the tropical carbon sink.</p>
+			<p id="p8">Quirin Schiermeier</p>
+			<p id="p9">Posted by Quirin Schiermeier on March 06, 2009</p>
+			<p id="p10">http://blogs.nature.com/cgi-bin/mt/mt-tb.cgi/7607</p>
+			<p id="p11">Comments</p>
+			<p id="p12">Don't know anything about tropical rainforest but here in Victoria Australia out temprate rainforests have suffered sever drought for a decade and large chunks are bursting into flame. / ok I exagerated somewhat to make a point but that point has also been made by the CSIRO.</p>
+			<p id="p13">Post a comment</p>
+			<p id="p14">Comments will be reviewed by the blog editors before being published, mainly to ensure that spam and irrelevant material (such as product advertisements) are not published . Please keep your comment brief. Excessively long or offensively phrased entries will be edited.</p>
+			<p id="p15">We strongly encourage you to use your real, full name. E-mail addresses are required in case we need to discuss your comment with you directly. We won't publish your e-mail address unless you request it.</p>
+			<p id="p16">Name:</p>
+			<p id="p17">Security Code:</p>
+			<p id="p18">Please enter the numbers you see below - this helps us to avoid spam. Note that attempting to post within 30 seconds of hitting ‘preview’ or ‘post’ can cause the system to think you are spamming the site. If you are having trouble with this system, you can send your comment by e-mail to ' climatefeedback at nature.com '.</p>
+			<p id="p19">Current content</p>
+			<p id="p20">Nature’s</p>
+			<p id="p21">online resource dedicated to in-depth coverage of climate science and the implications for policy, the economy and society.</p>
+			<p id="p22">Search</p>
+			<p id="p23">the most recent were:</p>
+		</body>
+	</text>
+</cesDoc>

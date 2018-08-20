@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Réglementation du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Réglementation du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:09:22.0</pubDate>
+							<eAddress>http://www.mfe.org/index.php/Portails-Pays/Cameroun/Emploi-stage/Reglementation-du-travail</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>application/xhtml+xml; charset=utf-8</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/68.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Les rémunérations des salariés et leurs conditions de travail sont régies par un Code du travail mis en place par la loi n°92/007 du 14 août 1992, et les textes d'application de cette loi. Il existe en outre plusieurs conventions par grand secteur d'activité (commerce, assurance, industries, etc.), lesquelles ont fait l'objet récemment de renégociations.</p>
+			<p id="p2">Le temps de travail</p>
+			<p id="p3">40 heures par semaine pour les entreprises ou établissements non agricoles, publics ou privés ;</p>
+			<p id="p4">48 heures par semaine ou 2 400 heures par an, pour les entreprises agricoles ou assimilées.</p>
+			<p id="p5">Le repos hebdomadaire est obligatoire. Il doit être au minimum de 24 heures consécutives par semaine. Il correspond en principe à la journée du dimanche. Toutefois, des dérogations sont prévues conformément aux modalités fixées par un arrêté du ministère chargé du travail.</p>
+			<p id="p6">Les heures supplémentaires sont rémunérées selon un barème déterminé et ne peuvent être effectuées que dans des conditions et circonstances prévues par la réglementation en vigueur et notamment le décret n°95/677/PM du 18 décembre 1995 relatif aux dérogations à la durée légale du travail. En outre, sous réserve d'un accord exprès et exceptionnel de l'inspecteur du travail, la durée totale du travail ne peut excéder 60 heures par semaine et 10 heures par jour.</p>
+			<p id="p7">Sauf disposition plus favorable des conventions collectives ou du contrat individuel de travail, le travailleur a droit à un jour et demi ouvrable de congé par mois de travail effectif. Le droit aux congés est acquis après une période d'un an.</p>
+			<p id="p8">Dernière mise à jour : 13/01/2010.</p>
+			<p id="p9">Les possibilités d'emploi sont limitées, les sociétés étrangères réduisant leurs effectifs expatriés. Les opportunités sont toutefois plus importantes à Douala qu'à Yaoundé.</p>
+			<p id="p10">Dernière mise à jour : 13/01/2010.</p>
+			<p id="p11">le contrat à durée indéterminée ;</p>
+			<p id="p12">le contrat à durée déterminée (2 ans maximum renouvelables pour la même durée).</p>
+			<p id="p13">Ces deux types de contrats ne s'appliquent pas au travail temporaire, occasionnel et/ou saisonnier dont les conditions d'emploi sont fixées par des textes particuliers.</p>
+			<p id="p14">En cas de licenciement légitime, les dommages et intérêts s'élèvent à un mois de salaire au maximum. En cas de licenciement abusif, l'employeur devra verser des dommages et intérêts s'élevant à un mois de salaire par année d'ancienneté, avec un minimum de 3 mois de salaire.</p>
+			<p id="p15">En matière de conditions de travail, la flexibilité prime : elles sont fixées par les conventions collectives et les accords d'établissement.</p>
+			<p id="p16">La négociation du contrat de travail sera différente selon qu'il s'agit :</p>
+			<p id="p17">d'un contrat de détachement avec un employeur en France ;</p>
+			<p id="p18">d'un contrat d'expatriation (avant le départ dans le pays d'accueil) ;</p>
+			<p id="p19">ou d'un simple contrat local.</p>
+			<p id="p20">Les clauses obligatoires (directive CEE 91/533)</p>
+			<p id="p21">Le texte de cette section reprend les données établies par le service juridique de Pôle emploi international .</p>
+			<p id="p22">L'identité des parties (Qui est l'employeur ?, Peut-il y avoir plusieurs employeurs ?) ;</p>
+			<p id="p23">Le titre du salarié ou sa fonction</p>
+			<p id="p24">La date du début du contrat (Clause importante pour les pays où l'autorisation de travail est nécessaire, en pratique : les pays hors Espace Economique Européen (EEE)) ;</p>
+			<p id="p25">Le lieu de travail (La clause de mobilité, dans quelles circonstances peut-on modifier le lieu de travail ?) ;</p>
+			<p id="p26">La composition du salaire, la périodicité de son versement, la devise retenue pour le paiement, les avantages en espèces et en nature liés à l'expatriation (La structure de la rémunération : le salaire de base, les primes d'expatriation, les avantages divers ; La devise retenue pour le paiement : il convient de se montrer vigilant dans les pays où la monnaie n'est pas convertible ou soumise à un contrôle des changes strict) ;</p>
+			<p id="p27">La durée du travail hebdomadaire ou journalier ;</p>
+			<p id="p28">La durée du travail à l'étranger ;</p>
+			<p id="p29">Les conditions de rapatriement.</p>
+			<p id="p30">l'objet du contrat</p>
+			<p id="p31">les congés payés</p>
+			<p id="p32">rupture du contrat de travail</p>
+			<p id="p33">montant de l'indemnité de licenciement</p>
+			<p id="p34">les conditions de réintégration du salarié (article L-122-14-8 du code du travail)</p>
+			<p id="p35">la loi applicable au contrat de travail et les juridictions compétentes en cas de conflits</p>
+			<p id="p36">la convention de Rome (loi applicable)</p>
+			<p id="p37">la convention de Bruxelles (juridictions compétentes dans l'UE)</p>
+			<p id="p38">la convention de Lugano (juridictions compétentes dans l'UE et l'AELE)</p>
+			<p id="p39">Il est recommandé de faire examiner le contrat de travail, avant sa signature, par un expert de la structure Expa-conseil du Pôle emploi international.</p>
+			<p id="p40">Dernière mise à jour : 13/01/2010.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Belgium at Work</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Belgium at Work</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-01-19 16:07:25.0</pubDate>
+							<eAddress>http://reaction.taylorwessing.com/reaction/Newsletters/IntlEmployment/2010_Jan_Page01.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/92.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Contents</p>
+			<p id="p2">The employer will have to prove that the amount of the allowance is in line with the real costs</p>
+			<p id="p3">New remuneration thresholds as from 1 January 2010 with respect to the Law on Employment Contracts</p>
+			<p id="p4">In our newsletter of November 2009 we informed you that the remuneration thresholds for 2010, which determine whether or not certain clauses can be applied and/ or to what extent they can apply, were published in the Belgian Official Gazette.</p>
+			<p id="p5">However, in the Belgian Official Gazette of 9 December 2009, new amounts have been published, since the amounts the Ministry of Employment published in November 2009 turned out to be wrong.</p>
+			<p id="p6">As from 1 January 2010, the indexed amounts are therefore as follows:</p>
+			<p id="p7">Law (initial amounts)</p>
+			<p id="p8">EUR 16,100</p>
+			<p id="p9">Cost allowances</p>
+			<p id="p10">The employer will have to prove that the amount of the allowance is in line with the real costs</p>
+			<p id="p11">Parties often agree in the employment contract that the employee is entitled to a lump sum cost allowance covering the professional expenses incurred on the occasion of his/ her duties.</p>
+			<p id="p12">It should always be verified whether the amount of the lump sum allowance is in line with the actual expenses of the employee. Indeed, if the lump sum allowance exceeds the actual expenses too much, there is a risk that it would be re-qualified as (hidden) salary, subject to tax and social security contributions.</p>
+			<p id="p13">Based on case law of the Belgian Supreme Court, the National Office of Social Security (“Rijksdienst voor Sociale Zekerheid”/ “Office National de Sécurité Sociale”) had to prove that the lump sum allowance granted to an employee did not correspond to actual costs incurred by the employee and/ or exceeded the actual amount of expenses it was supposed to cover. Since 1 January 2010, the burden of proof is now on the employer, i.e. the employer will have to prove that the cost allowance indeed covers actual expenses of the employee and that its amount is in line with the actual expenses.</p>
+			<p id="p14">The employer will have to prove the foregoing by producing documents or by using all regular means of evidence except for the oath. Failing to prove that the cost allowance is in line with the real costs, the National Office of Social Security (“Rijksdienst voor Sociale Zekerheid”/ “Office National de Sécurité Sociale”) will determine the social security contributions to be paid on the cost allowance. The new legal provisions state that the employer will be heard by the social inspection services and that the social inspection services will formulate an advice for the National Office of Social Security, on which basis it will take a decision.</p>
+			<p id="p15">Based on the foregoing, it is important that the cost allowances granted to employees (e.g. representation allowances, car allowances, etc.) correspond as much as possible to the actual expenses of the employee and that the employer documents these expenses in order to be able to prove both their reality and amount.</p>
+			<p id="p16">The calculation of the notice period/ indemnity in lieu of notice of an employee benefiting from parental leave</p>
+			<p id="p17">In our newsletter of November 2009 we informed you that on 22 October 2009 a judgment was rendered by the European Court of Justice in which was decided that the indemnity in lieu of notice of an employee benefiting from parental leave should be calculated as if the employee had not reduced his working hours, thus on the basis of his full-time salary (case C-116/08, Meerts vs Proost NV).</p>
+			<p id="p18">Until the judgment of the European Court of Justice, employees who voluntarily reduced their working time (parental leave, time credit scheme or working part-time) were entitled to an indemnity in lieu of notice calculated on the remuneration relating to the reduced working time.</p>
+			<p id="p19">Given the judgment of the European Court of Justice, the law has been changed and it is now stipulated that an employee benefiting from parental leave can claim an indemnity in lieu of notice calculated on a full-time salary.</p>
+			<p id="p20">We highlight that the law was only changed for employees benefiting from parental leave and not for other forms of suspension of the employment contract, such as a time credit scheme or working part-time.</p>
+			<p id="p21">We will keep you informed on the evolution of Belgian case law with regard to the calculation of the indemnity in lieu of notice in case of forms of suspension of the employment agreement other than parental leave.</p>
+			<p id="p22">Additional indemnity to be paid by the employer in case of dismissal of a blue-collar worker</p>
+			<p id="p23">Blue-collar workers who are dismissed between 1 January 2010 and 30 June 2010 are entitled to the payment of an additional indemnity (the so-called “crisis premium”) amounting to 1,666 EUR which in principle is partly born by the employer, in an amount of 555 EUR, and partly by the Unemployment Office (“Rijksdienst voor Arbeidsvoorziening”/ “Office National de l’Emploi”), in an amount of 1,111 EUR. The amount is not subject to tax withholding and social security contributions.</p>
+			<p id="p24">However, blue-collar workers who are dismissed for serious cause, who are dismissed during the trial period, or in order to benefit from a bridge pension scheme, as well as blue-collar workers who are dismissed in the framework of a restructuring, are not entitled to this indemnity.</p>
+			<p id="p25">Moreover, there are a number of cases where the indemnity is not split between the employer and the Unemployment Office but where one of them has to bear the cost of the entire indemnity:</p>
+			<p id="p26">(i) Indemnity entirely paid by the employer</p>
+			<p id="p27">In order to benefit from the additional indemnity, the blue-collar workers must be dismissed by registered letter or by delivery by bailiff. If the employer fails to comply with the legal requirements to dismiss the blue-collar worker by registered letter or by delivery by bailiff, he will have to pay the entire indemnity.</p>
+			<p id="p28">(ii) Indemnity entirely paid by the Unemployment Office</p>
+			<p id="p29">The indemnity amounting to 1,666 EUR will be entirely paid by the Unemployment Office:</p>
+			<p id="p30">if the blue-collar worker is part of a "collective temporary reduction of working time scheme" or "an individual temporary reduction of working time scheme" (see our newsletter of May 2009 ) during 2010 on the moment of his/ her dismissal or,</p>
+			<p id="p31">if he/ she was temporary unemployed:</p>
+			<p id="p32">during 4 weeks in case his/ her length of service is less than 20 years within the company on the moment of the notification of his/ her dismissal or,</p>
+			<p id="p33">during 8 weeks in case his/ her length of service is at least 20 years within the company on the moment of the notification of his/ her dismissal.</p>
+			<p id="p34">Companies employing less than 10 employees which suffer economic difficulties have the possibility to request to be exempted from this share of indemnity. This request must be filed with the commission which approves the company plans in case of "an individual temporary reduction of working time scheme" or "a temporary and collective, total or partial suspension of the execution of the employment contract scheme" (see newsletter of May 2009 ). If this commission approves the request, the Unemployment Office will pay the total indemnity.</p>
+			<p id="p35">Measures relating to the reduction of working time which aim at avoiding dismissals of employees</p>
+			<p id="p36">In our newsletter of May 2009 we informed you that the Belgian government announced new measures in order to help companies face the current economic crisis.</p>
+			<p id="p37">These measures relate to the reduction of working time and aim at avoiding dismissals.</p>
+			<p id="p38">These measures were initially applicable until 31 December 2009 but the Government decided to extend them for the period from 1 January 2010 until 30 June 2010, albeit slightly modified.</p>
+			<p id="p39">We give you herewith an overview of the way these measures can be extended as well as some changes to the different schemes:</p>
+			<p id="p40">1. Collective temporary reduction of working time</p>
+			<p id="p41">If parties entered into a collective bargaining agreement regarding the reduction of working time in the course of 2009 and the employer wishes to prolong this scheme, a new collective bargaining agreement will have to be entered into.</p>
+			<p id="p42">It will suffice to refer to the content of the previous collective bargaining agreement and to refer to a new end date if the scheme remains unchanged. The end date will be 30 June 2010 at the latest.</p>
+			<p id="p43">2. Individual temporary reduction of working time</p>
+			<p id="p44">Before 1 January 2010, the companies which wished to implement this measure had to prove that they suffered a loss of turnover, purchase orders or production of 20% compared to the corresponding quarter in 2008 or that there is economic unemployment for blue-collar workers of 20% compared to the total amount of days declared with the National Social Security Office ("Rijksdienst voor Sociale Zekerheid"/ "Office National de Sécurité Sociale").</p>
+			<p id="p45">As from 1 January 2010, companies will only have to prove that they suffered a loss of turnover, purchase orders or production of 15% compared to the corresponding quarter in 2008 instead of 20%. The requirement of 20% for economic unemployment remains unchanged.</p>
+			<p id="p46">Companies which entered into a company plan approved by the Commission for Company Plans in which is stipulated that the measures to reduce working time remained valid in 2010 or in which was stipulated that the duration of the measures was dependent on the duration mentioned in the law, will be contacted by the Ministry of Employment confirming that the duration of the company plan is automatically prolonged until 30 June 2010 at the latest.</p>
+			<p id="p47">If the company plan approved by the Commission for Company Plans stipulates that the measures to reduce working time are only valid until 31 December 2009, parties can request for a prolongation. Therefore, they have to send a registered letter to the Ministry of Employment.</p>
+			<p id="p48">3. Temporary and collective, total or partial suspension of the execution of the employment contract</p>
+			<p id="p49">We refer to what is stated under point 2 since these changes also apply to this scheme.</p>
+			<p id="p50">In our newsletter of May 2009 we explained that the employer must pay an additional indemnity to the white-collar employee on top of the daily state unemployment benefit. This additional indemnity is at least equal to the indemnity which is paid to the blue-collar workers of the same employer who are in economic unemployment.</p>
+			<p id="p51">As from 1 January 2010, the employer which does not employ blue-collar workers, will have to pay an additional indemnity which is at least equal to the indemnity which is stipulated in the collective bargaining agreement applicable within the joint committee to which the employer would belong if he would employ blue-collar workers. If there is no collective bargaining agreement, the additional indemnity must be equal to at least 5 EUR per day on which the white-collar employee is unemployed.</p>
+			<p id="p52">However, it is possible to agree to an amount which is lower than 5 EUR in the following cases:</p>
+			<p id="p53">A company without trade union delegation enters into an agreement with all employees and the company proves that there were negotiations with all its employees. The request to pay a lower amount than 5 EUR must be approved by the Commission for Company Plans;</p>
+			<p id="p54">For companies with or without trade union delegation, the Commission for Company Plans can agree with a lower amount to be paid when it finds that this is justified. This decision must be taken unanimously.</p>
+			<p id="p55">The Belgian government announces new rules to estimate the benefit for social security purposes</p>
+			<p id="p56">Employers often grant a mobile phone to the employees which they may not only use for professional purposes but also for private calls. The private use of a mobile phone is a benefit in kind, subject to tax withholdings and social security contributions.</p>
+			<p id="p57">The question raises on which amount social security contributions must be calculated. The Belgian Government recently agreed to adopt new rules relating to the valuation of this benefit:</p>
+			<p id="p58">If the employer has a "system" in place which makes it possible to make a clear distinction between the private and professional use of the mobile phone which is granted to the employee, the social security contributions are calculated on the private use of the mobile phone which can be exactly determined based on the employer's "system";</p>
+			<p id="p59">If there is no such system within the company, the private use of the mobile phone is estimated at a lump sum amount of 12.50 EUR per month. Social security contributions will then be calculated on the amount of 12.50 EUR.</p>
+			<p id="p60">We highlight that the Royal Decree, which will implement the above mentioned rules, is according to our information, not yet published. We will inform you in our next newsletters on when these provisions come into force.</p>
+		</body>
+	</text>
+</cesDoc>

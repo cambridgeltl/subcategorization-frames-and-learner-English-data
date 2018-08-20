@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2005-04-21 10:44:59.0</pubDate>
+							<eAddress>http://www.ace.mmu.ac.uk/Resources/Fact_Sheets/Key_Stage_4/Air_Pollution/18.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>air pollution</keyTerm>
+					<keyTerm>acid rain</keyTerm>
+					<keyTerm>ozone depletion</keyTerm>
+					<keyTerm>sustainable development</keyTerm>
+					<keyTerm>weather</keyTerm>
+					<keyTerm>transport</keyTerm>
+					<keyTerm>energy</keyTerm>
+					<keyTerm>waste</keyTerm>
+					<keyTerm>environment</keyTerm>
+					<keyTerm>schools</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/2024.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Introduction</p>
+			<p id="p2">Since the early 1800s, pollution problems have largely resulted from industry and domestic heating, principally due to sulphur dioxide. In recent years, however, the transport sector has become the most significant source of both primary pollutants, such as nitrogen dioxide, and secondary pollutants, like ozone. This fact sheet investigates the major air pollutants in the United Kingdom, and their health effects.</p>
+			<p id="p3">Particulates</p>
+			<p id="p4">Particulates may be seen as the more critical of all pollutants, and some estimates have suggested that particulates are responsible for up to 10,000 premature deaths in the UK each year. The extent to which particulates are considered harmful depends largely on their composition. Sea salt, for example, is believed to have a positive effect on health. Man-made sources of particulates, however, are rarely harmless. In towns and cities, these are extensively from diesel vehicle exhausts. The effects of particulate emissions are considered detrimental due to their composition, containing mainly unburned fuel oil and polycyclic aromatic hydrocarbons (PAHs) that are known to be carcinogenic among laboratory animals. Particulates may originate from many other sources including cement manufacturing processes, incineration and power generation, meaning localised instances of particulate pollution are common. The categorisation of particles through size has recently become important when assessing their effects on health. Monitoring now exists for PM</p>
+			<p id="p5">10</p>
+			<p id="p6">as well as total suspended particulates. This is due to the fact that particles of less than 10 micrometres (mm3) in diameter can penetrate deep into the lung and cause more damage, as opposed to larger particles that may be filtered out through the airways' natural mechanisms.</p>
+			<p id="p7">Ozone</p>
+			<p id="p8">Ozone differs from most pollutants in that it is created as a secondary pollutant by the action of sunlight on volatile organic compounds (VOCs) and oxides of nitrogen, often over several days. This results in ozone being widely dispersed as a pollutant, and can form in greater concentrations in rural areas. As ozone concentrations are particularly dependant on sunlight, episodes are always likely to develop following sustained periods of warmth and calm weather. Ozone is a toxic gas that can bring irreversible damage to the respiratory tract and lung tissue if delivered in high quantities. Levels during air pollution episodes have peaked at around 250 ppb. At these concentrations ozone is likely to impair lung function and cause irritation to the respiratory tract. Asthmatics are known to adopt these symptoms more easily.</p>
+			<p id="p9">Oxides of Nitrogen</p>
+			<p id="p10">2</p>
+			<p id="p11">). The latter is more damaging to health, due to the toxic nature of this gas. NO is more readily emitted to the atmosphere as a primary pollutant, from traffic and power stations, and is often oxidised to nitrogen dioxide following dispersal. Health effects of exposure to NO</p>
+			<p id="p12">2</p>
+			<p id="p13">include shortness of breath and chest pains. The effects of NO include changes to lung function at high concentrations.</p>
+			<p id="p14">Carbon Monoxide</p>
+			<p id="p15">Transport, tobacco smoke and gas appliances are the major sources of carbon monoxide. Its link with haemoglobin, the oxygen carrying component of the blood stream, forms carboxyhaemoglobin (COHb) which can be life-threatening in high doses. The effects of carbon monoxide pollution are more damaging to pregnant women and their foetus. Research into smoking and pregnancy shows that concentrations within the blood stream of unborn infants is as high as 12%, causing retardation of the unborn child's growth and mental development.</p>
+			<p id="p16">Lead</p>
+			<p id="p17">A significant proportion of atmospheric lead comes from traffic emissions, due to the lead content in petrol. This has been significantly reduced in recent years but lead is still a serious air pollutant especially to those living near to areas of dense traffic in cities where leaded fuel is still used. Damage to the central nervous system, kidneys and brain can result when levels in the blood reach concentrations of 800 mg/litre. Much of the concern regarding pollution from lead centres around its effects on child health. Children exhibit vulnerability to the toxic effects of lead at much lower concentrations than for adults. It has been shown that there is a strong link between high lead exposures and impaired intelligence.</p>
+			<p id="p18">Sulphur dioxide</p>
+			<p id="p19">The health effects of sulphur dioxide pollution were exposed graphically during the "Great Smog" of London in 1952. This resulted in approximately 4000 premature deaths through heart disease and bronchitis. Since then, however, emissions have been significantly reduced through legislative measures. Research has shown that exposure for asthmatics is significantly more damaging than for normal subjects. Concentrations above 125 ppb may result in a fall in lung function in asthmatics. Tightness in the chest and coughing may also result at levels approaching 400 ppb. At levels above 400 ppb the lung function of asthmatics may be impaired to the extent that medical help is required. There have been several exceedences of levels in Northern Ireland due to the high use of solid fuel (coal) in homes for heating purposes. Sulphur dioxide pollution is considered more harmful when particulate and other pollution concentrations are high. This is known as the synergistic effect, or more commonly the "cocktail effect." Therefore the monitoring networks in the UK incorporate both smoke and sulphur dioxide.</p>
+			<p id="p20">Volatile Organic Compounds (VOCs)</p>
+			<p id="p21">Some VOCs are quite harmful, including the following: Benzene: may increase susceptibility to leukaemia, if exposure is maintained over a period of time. Polycyclic Aromatic Hydrocarbons (PAH): forms of this compound can cause cancer. There are several hundred different forms of PAH, and sources can be both natural and man-made. Dioxins: sources of dioxins vary, although the manufacturing of organic compounds as well as the incineration of wastes and various other combustion processes involving chlorinated compounds may also produce dioxins. Health effects are as much a problem due to ingestion, as inhalation, such is the problem of dioxins entering the food chain from soils. 1,3 Butadiene: there is an apparent correlation between butadiene exposure and a higher risk of cancer. Sources are manufacturing of synthetic rubbers, petrol driven vehicles and cigarette smoke.</p>
+			<p id="p22">General Air Quality Problems</p>
+			<p id="p23">Air quality indoors</p>
+			<p id="p24">Many different compounds are contained in tobacco smoke, including carbon monoxide, ammonia, dioxins and PAH; the latter two are thought to be carcinogenic. Other sources of indoor pollution include particulates from mineral fibres as well as household dust. Dust in buildings is known to cause problems including fatigue and nausea. One of the most pressing concerns with indoor air pollution is with carbon monoxide build up from gas fired appliances.</p>
+			<p id="p25">Asthma and air pollution</p>
+			<p id="p26">There has been a steady rise in the number of reported asthma cases since the 1970s. Awareness of the disease has been significant in the rising numbers of hospital admissions although air pollution problems are also believed to be significant in the rising number of cases. High concentrations of nitrogen dioxide, sulphur dioxide, ozone and particulates (especially PM</p>
+			<p id="p27">10</p>
+		</body>
+	</text>
+</cesDoc>

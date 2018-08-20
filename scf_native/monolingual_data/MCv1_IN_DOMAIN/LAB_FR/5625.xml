@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Victime de discrimination syndicale : la preuve est allégée - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Victime de discrimination syndicale : la preuve est allégée - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:15:21.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=RP&amp;id_art=654&amp;titre=Victime+de+discrimination+syndicale+%3A+la+preuve+est+all%C3%A9g%C3%A9e</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/5625.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Victime de discrimination syndicale : la preuve est allégée</p>
+			<p id="p2">Un salarié investi de fonctions syndicales qui s’estime victime de discrimination peut présenter un tableau qu’il a lui-même élaboré, montrant un avancement de carrière plus lent que celui d’autres collègues occupant les mêmes fonctions. Il appartient alors à l'employeur de présenter des éléments objectifs pour écarter cette présomption.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Les faits : en 2005, une salariée qui exerce depuis 30 ans différentes fonctions syndicales au sein d'une fondation saisit le conseil de prud'hommes pour demander un rattrapage de salaires en réparation d'une discrimination dont elle estime être victime.</p>
+			<p id="p5">Pour étayer sa demande, elle présente un tableau comparatif du déroulement de sa carrière et de celle de plusieurs de ses collègues occupant les mêmes fonctions, tableau qu’elle a elle-même élaboré.</p>
+			<p id="p6">Il apparaît qu’elle a fait l’objet d’un avancement de carrière 8 fois et demi plus lent que celui de ses collègues non investis de fonctions syndicales et occupant les mêmes fonctions.</p>
+			<p id="p7">Ce qu’en disent les juges : les juges de la cour d'appel rejettent la demande de rattrapage de salaire de la salariée, au motif que les faits prouvés reposent sur un document élaboré par la syndicaliste elle-même. Pour eux, seuls les documents établis par les services de l'entreprise font foi pour prouver l’existence de faits discriminatoires.</p>
+			<p id="p8">La Cour de cassation n’est pas de cet avis. Les juges relèvent que la salariée fait état d'un déroulement de carrière 8,5 fois moins rapide que celui des autres salariés occupant les mêmes fonctions.</p>
+			<p id="p9">Ils notent aussi que la salariée s’est vue opposer des refus à toutes ses candidatures à de nouvelles fonctions ou à des promotions, bien qu’elle remplissait les conditions pour en bénéficier.</p>
+			<p id="p10">Et de conclure qu’un document établi par le représentant du personnel lui-même peut suffire à établir une présomption de discrimination. Il appartient alors à l'employeur de présenter des éléments objectifs pour écarter cette présomption.</p>
+			<p id="p11">Cette solution s’inscrit dans une certaine logique. Il est vrai qu’a priori, le représentant du personnel qui se dit victime de discrimination salariale n'a pas accès aux fichiers de la DRH pour étayer ses soupçons. C'est pourquoi les juges exigent seulement de lui qu'il apporte des éléments laissant présumer une différence de traitement, même si c’est sur la base de documents qu’il a lui-même établis.</p>
+			<p id="p12">(Cour de cassation, chambre sociale, 2 décembre 2009, n° 08-44243 : une présomption de discrimination peut découler d’un document établi par le salarié lui-même)</p>
+			<p id="p13">Le droit du travail est une matière complexe, qui laisse peu de place à l’approximation. Pour vous aider à en déjouer certains pièges, les Editions Tissot vous proposent de télécharger gratuitement leur dossier « Élus du CE : 10 cas concrets pour défendre au mieux les salariés ».</p>
+			<p id="p14">Vous y trouverez notamment la réponse aux questions suivantes :</p>
+			<p id="p15">comment déterminer la période d’essai d’un CDD ?</p>
+			<p id="p16">Un salarié à temps partiel peut-il faire des heures supplémentaires ?</p>
+			<p id="p17">L’employeur a-t-il le droit de consulter les e-mails de ses salariés ?</p>
+			<p id="p18">Etc.</p>
+			<p id="p19">Article publié le 8 janvier 2010 </p>
+			<p id="p20">Partagez cet article :</p>
+			<p id="p21">Articles sur le même thème : Représentation Syndicale</p>
+			<p id="p22">Actualités de la semaine pour les RP</p>
+			<p id="p23">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> Association of Flight Attendants-CWA </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> Association of Flight Attendants-CWA </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 10:37:32.0</pubDate>
+							<eAddress>http://afanet.org/default.asp?id=309</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>flight attendants</keyTerm>
+					<keyTerm>flight attendents</keyTerm>
+					<keyTerm>flight attndents</keyTerm>
+					<keyTerm>flt attendants</keyTerm>
+					<keyTerm>AFA</keyTerm>
+					<keyTerm>Association of Flight Attendants</keyTerm>
+					<keyTerm>AFA-CWA</keyTerm>
+					<keyTerm>unions</keyTerm>
+					<keyTerm>flight crew</keyTerm>
+					<keyTerm>flight staff</keyTerm>
+					<keyTerm>cabin crew</keyTerm>
+					<keyTerm>airline cabin crew</keyTerm>
+					<keyTerm>AFL-CIO</keyTerm>
+					<keyTerm>airlines</keyTerm>
+					<keyTerm>air safety</keyTerm>
+					<keyTerm>airline labor</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/55.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Q: How much leave am I entitled to under FMLA?</p>
+			<p id="p2">If you are an "eligible" employee, you are entitled to 12 weeks of leave for certain family and medical reasons during a 12-month period.</p>
+			<p id="p3">Employers may select one of four options for determining the 12-month period:</p>
+			<p id="p4">Q: Does the law guarantee paid time off?</p>
+			<p id="p5">No. The FMLA only requires unpaid leave. However, the law permits an employee to elect, or the employer to require the employee, to use accrued paid leave, such as vacation or sick leave, for some or all of the FMLA leave period. When paid leave is substituted for unpaid FMLA leave, it may be counted against the 12-week FMLA leave entitlement if the employee is properly notified of the designation when the leave begins.</p>
+			<p id="p6">Q: Does workers' compensation leave count against an employee’s FMLA leave entitlement?</p>
+			<p id="p7">It can. FMLA leave and workers' compensation leave can run together, provided the reason for the absence is due to a qualifying serious illness or injury and the employer properly notifies the employee in writing that the leave will be counted as FMLA leave.</p>
+			<p id="p8">Q: Can the employer count leave taken due to pregnancy complications against the 12 weeks of FMLA leave for the birth and care of my child?</p>
+			<p id="p9">Yes. An eligible employee is entitled to a total of 12 weeks of FMLA</p>
+			<p id="p10">leave in a 12-month period. If the employee has to use some of that leave for another reason, including a difficult pregnancy, it may be counted as part of the 12-week FMLA leave entitlement.</p>
+			<p id="p11">Q: Can the employer count time on maternity leave or pregnancy disability as FMLA leave?</p>
+			<p id="p12">Yes. Pregnancy disability leave or maternity leave for the birth of a child would be considered qualifying FMLA leave for a serious health condition and may be counted in the 12 weeks of leave so long as the employer properly notifies the employee in writing of the designation.</p>
+			<p id="p13">Q: If an employer fails to tell employees that the leave is FMLA leave, can the employer count the time they have already been off against the 12 weeks of FMLA leave?</p>
+			<p id="p14">In most situations, the employer cannot count leave as FMLA leave retroactively. Remember, the employee must be notified in writing that an absence is being designated as FMLA leave. If the employer was not aware of the reason for the leave, leave may be designated as FMLA leave retroactively only while the leave is in progress or within two business days of the employee’s return to work.</p>
+			<p id="p15">An employee’s spouse, children (son or daughter), and parents are</p>
+			<p id="p16">immediate family members for purposes of FMLA. The term "parent" does not include a parent "in-law". The terms son or daughter do not include individuals age 18 or over unless they are "incapable of self-care" because of mental or physical disability that limits one or more of the "major life activities" as those terms are defined in regulations issued by the Equal Employment Opportunity Commission (EEOC) under the Americans With Disabilities Act (ADA).</p>
+			<p id="p17">Q: May I take FMLA leave for visits to a physical therapist, if my doctor prescribes the therapy?</p>
+			<p id="p18">Yes. FMLA permits you to take leave to receive "continuing treatment by a health care provider," which can include recurring absences for therapy treatments such as those ordered by a doctor for physical therapy after a hospital stay or for treatment of severe arthritis.</p>
+			<p id="p19">Q: Which employees are eligible to take FMLA leave?</p>
+			<p id="p20">Employees are eligible to take FMLA leave if they have worked for their employer for at least 12 months, and have worked for at least 1,250 hours over the previous 12 months, and work at a location where at least 50 employees are employed by the employer within 75 miles.</p>
+			<p id="p21">Q: Do the 12 months of service with the employer have to be continuous or consecutive?</p>
+			<p id="p22">No. The 12 months do not have to be continuous or consecutive; all time worked for the employer is counted.</p>
+			<p id="p23">Q: Do the 1,250 hours include paid leave time or other absences from work?</p>
+			<p id="p24">No. The 1,250 hours include only those hours actually worked for the employer. Paid leave and unpaid leave, including FMLA leave, are not included.</p>
+			<p id="p25">Q: How do I determine if I have worked 1,250 hours in a 12-month period?</p>
+			<p id="p26">Your individual record of hours worked would be used to determine whether 1,250 hours had been worked in the 12 months prior to the commencement of FMLA leave. As a rule of thumb, the following may be helpful for</p>
+			<p id="p27">estimating whether this test for eligibility has been met;</p>
+			<p id="p28">24 hours worked in each of the 52 weeks of the year; or</p>
+			<p id="p29">over 104 hours worked in each of the 12 months of the year; or</p>
+			<p id="p30">40 hours worked per week for more than 31 weeks (over seven months) of the year.</p>
+			<p id="p31">Q: Do I have to give my employer my medical records for leave due to a serious health condition?</p>
+			<p id="p32">No. You do not have to provide medical records. The employer may, however, request that, for any leave taken due to a serious health condition, you provide a medical certification confirming that a serious health condition exists.</p>
+			<p id="p33">Q: Can my employer require me to return to work before I exhaust my leave?</p>
+			<p id="p34">Subject to certain limitations, your employer may deny the continuation of FMLA leave due to a serious health condition if you fail to fulfill any obligations to provide supporting medical certification. The employer may not, however, require you to return to work early by offering you a light duty assignment.</p>
+			<p id="p35">Q: Are there any restrictions on how I spend my time while on leave?</p>
+			<p id="p36">Employers with established policies regarding outside employment while on paid or unpaid leave may uniformly apply those policies to employees on FMLA leave. Otherwise, the employer may not restrict your activities. The protections of FMLA will not, however, cover situations where the reason for leave no longer exists, where the employee has not provided required notices or certifications, or where the employee has misrepresented the reason for leave.</p>
+			<p id="p37">Yes, but only to you. Your employer may ask you questions to</p>
+			<p id="p38">confirm whether the leave needed or being taken qualifies for FMLA purposes, and may require periodic reports on your status and intent to return to work after leave. Also, if the employer wishes to obtain another opinion, you may be required to obtain additional medical certification at the employer’s expense, or rectification during a period of FMLA leave. The employer may have a health care provider representing the employer contact your health care provider, with your permission, to clarify information in the medical certification or to confirm that it was provided by the health care provider. The inquiry may not seek additional information regarding your health condition or that of a family member.</p>
+			<p id="p39">Q: Can my employer refuse to grant me FMLA leave?</p>
+			<p id="p40">If you are an "eligible" employee who has met FMLA’s notice and certification requirements (and you have not exhausted your FMLA leave entitlement for the year), you may not be denied FMLA leave.</p>
+			<p id="p41">Q: Will I lose my job if I take FMLA leave?</p>
+			<p id="p42">Generally, no. It is unlawful for any employer to interfere with or restrain or deny the exercise of any right provided under this law. Employers cannot use the taking of FMLA leave as a negative factor in employment actions, such as hiring, promotions or disciplinary actions; nor can FMLA leave be counted under "no fault" attendance policies. Under limited circumstances, an employer may deny reinstatement to work - but not the use of FMLA leave - to certain highly-paid, salaried ("key") employees.</p>
+			<p id="p43">Q: Are there other circumstances in which my employer can deny me FMLA leave or reinstatement to my job?</p>
+			<p id="p44">In addition to denying reinstatement in certain circumstances to "key" employees, employers are not required to continue FMLA benefits or reinstate employees who would have been laid off or otherwise had their employment terminated had they continued to work during the FMLA leave period as, for example, due to a general layoff.</p>
+			<p id="p45">Employees who give unequivocal notice that they do not intend to return to work lose their entitlement to FMLA leave.</p>
+			<p id="p46">Employees who are unable to return to work and have exhausted their 12 weeks of FMLA leave in the designated "12 month period" no longer have FMLA protections of leave or job restoration</p>
+			<p id="p47">Under certain circumstances, employers who advise employees experiencing a serious health condition that they will require a medical certificate of fitness for duty to return to work may deny reinstatement to an employee who fails to provide the certification, or may delay reinstatement until the certification is submitted.</p>
+			<p id="p48">Q: Can my employer fire me for complaining about a violation of FMLA?</p>
+			<p id="p49">No. Nor can the employer take any other adverse employment action on this basis. It is unlawful for any employer to discharge or otherwise discriminate against an employee for opposing a practice made unlawful under FMLA.</p>
+			<p id="p50">Q: Does an employer have to pay bonuses to employees who have been on FMLA leave?</p>
+			<p id="p51">The FMLA requires that employees be restored to the same or an equivalent position. If an employee was eligible for a bonus before taking FMLA leave, the employee would be eligible for the bonus upon returning to work. The FMLA leave may not be counted against the employee. For example, if an employer offers a perfect attendance bonus, and the employee has not missed any time prior to taking FMLA leave, the employee would still be eligible for the bonus upon returning from FMLA leave.</p>
+			<p id="p52">On the other hand, FMLA does not require that employees on FMLA leave be allowed to accrue benefits or seniority. For example, an employee on FMLA leave might not have sufficient sales to qualify for a bonus. The employer is not required to make any special accommodation for this employee because of FMLA. The employer must, of course, treat an employee who has used FMLA leave at least as well as other employees on paid and unpaid leave (as appropriate) are treated.</p>
+			<p id="p53">Q: Under what circumstances is leave designated as FMLA leave and counted against the employee's total entitlement?</p>
+			<p id="p54">In all circumstances, it is the employer's responsibility to designate leave taken for an FMLA reason as FMLA leave. The designation must be based upon information furnished by the employee. Leave may not be designated as FMLA leave after the leave has been completed and the employee has returned to work, except if;</p>
+			<p id="p55">No.</p>
+		</body>
+	</text>
+</cesDoc>

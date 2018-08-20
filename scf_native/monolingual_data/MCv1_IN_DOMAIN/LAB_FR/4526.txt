@@ -1,0 +1,53 @@
+Question à l'avocat
+La convention collective de l'entreprise ne correspond plus à notre activité qui a évolué. Puis-je appliquer la convention correspondant à l'activité de l'entreprise ?
+La réponse de Maître Marjorie SCHNELL
+Avocate au Barreau de Bordeaux
+S'agissant des règles déterminant l'application des textes conventionnels, les entreprises ou établissements sont soumis à l'application de textes conventionnels en fonction des éléments suivants :
+- l'employeur est signataire d'un accord ou affilié à des organisations ou  groupements signataires,
+- les textes sont étendus ou élargis,
+- l'activité et la situation de l'entreprise sont dans le champ d'application des textes.
+Les entreprises et établissements peuvent également se soumettre de façon volontaire à l'application de textes conventionnels.
+Enfin, lorsque l'employeur est tenu d'appliquer un texte conventionnel, tous les salariés liés à lui par un contrat de travail sont susceptibles d'en bénéficier, sauf cas particuliers.
+En principe, l'employeur est lié par la convention ou l'accord collectif si l'entreprise ou l'établissement considéré est situé dans le champ géographique du texte conventionnel.
+Il convient de déterminer l'activité réelle et le rôle du code APE.
+Une entreprise ne peut être assujettie à une convention ou à un accord collectif que si elle entre dans la définition du champ professionnel de l'acte.
+Le numéro du code « Activité principale exercée » (APE) attribué par l'INSEE à l'entreprise n'est admis par les tribunaux que comme une simple présomption.
+Cass. soc., 3 juin 1981, n° 79-41.793
+C'est l'activité réelle qui détermine l'assujettissement de l'entreprise ou de l'établissement à des textes conventionnels.
+L'application d'une convention collective est déterminée par l'activité exercée réellement par l'employeur, et non par la profession déclarée par celui-ci, ni par les mentions contenues dans les statuts de la personne morale dont elle dépend. De même, les juges du fond ne peuvent se référer à l'objet social défini dans les statuts et mentionné dans l'extrait K bis du Registre du commerce.
+Il convient de se référer à l'activité principale de l'entreprise.
+Or, la recherche du rattachement d'une entreprise au champ professionnel d'une convention ou d'un accord collectif peut être compliquée par le fait que l'entreprise a plusieurs activités.
+En vue de maintenir l'unité du statut social au sein de l'entreprise, la jurisprudence affirme depuis longtemps et de façon constante la soumission de l'entreprise à la convention ou à l'accord collectif qui correspond à son activité principale.
+Au demeurant, il existe des hypothèses dans lesquelles une convention n'est pas d'application obligatoire.
+Ainsi, un employeur peut ne pas être tenu d'appliquer une convention ou un accord collectif soit parce que son activité réelle n'entre pas dans le champ d'application des textes conventionnels existants, soit parce qu'il n'est pas affilié à un syndicat signataire.
+Dans ce cas, il peut choisir d'appliquer volontairement une convention collective .
+Ainsi, je vous confirme qu'un employeur peut être tenu d'appliquer une convention ou un accord collectif mais choisir d'appliquer volontairement un autre texte conventionnel.
+Cette application volontaire peut résulter d'une décision explicite de l'employeur.
+Elle peut également résulter implicitement du comportement de ce dernier, lorsqu'il manifeste « l'intention d'appliquer » les dispositions d'une convention ou d'un accord collectif.
+Cependant, l'application volontaire d'une convention collective n'est pas sans limite.
+L'application peut être totale ou partielle.
+L'application volontaire d'une convention collective ne vaut qu'à compter de la date à laquelle cette convention a été mentionnée sur les bulletins de paie .
+Par ailleurs, l'application volontaire d'une convention collective n'implique pas, à elle seule, l'engagement d'appliquer, à l'avenir, les dispositions de ses avenants (ou d'un accord de substitution).
+L'application volontaire doit respecter le champ d'application de l'accord.
+Il convient donc de tenir compte des exclusions mentionnées dans le champ d'application concernant par exemple certaines catégories de salariés.
+L'application volontaire d'une convention collective a, en principe, la valeur d'un usage que l'employeur peut dénoncer.
+Cass. soc., 4 décembre 1991, n° 88-40.454
+Cass. soc., 27 mars 2007, n° 06-40.433
+Tant que cet usage n'a pas été dénoncé (ou remplacé par un accord collectif ayant le même objet), il s'applique au salarié même si les dispositions conventionnelles ont été par ailleurs dénoncées.
+La Cour de cassation distingue les effets de l'application volontaire selon la relation de travail (individuelle ou collective) en cause.
+-  Dans les relations individuelles de travail :
+L'application volontaire de la convention collective ne vaut que dans les relations individuelles de travail (prime, indemnités de rupture, congés payés...).
+L'application volontaire d'une convention collective n'interdit cependant pas au salarié d'exiger l'application de la convention correspondant à l'activité principale de l'entreprise dès lors que celle-ci est plus favorable.
+Cass. soc., 18 juillet 2000, n° 98-42.949,  SARL LGB c/ Levesque
+Cass. soc., 27 mars 2007, n° 05-45.512,  Reveillas c/ Sté André Sibade promotion
+Seul le salarié dans ses relations individuelles peut se prévaloir des dispositions de la convention appliquée volontairement. L'employeur est, quant à lui, tenu d'appliquer la convention collective correspondant à l'activité principale de l'entreprise.
+Deux conventions collectives peuvent donc s'appliquer simultanément sans que les avantages se cumulent, seule la disposition la plus favorable devant être retenue.
+A défaut de se prévaloir de la convention collective correspondant à l'activité principale de l'entreprise, le salarié peut demander l'application de la convention à laquelle l'employeur a entendu se soumettre volontairement.
+- Dans les relations collectives de travail :
+L'application volontaire de la convention collective ne s'applique pas aux relations collectives de travail (durée du travail, représentation du personnel, droit syndical...).
+En effet, dans le cadre des relations collectives de travail, une seule convention collective est applicable, laquelle est déterminée par l'activité principale de l'entreprise.
+En conséquence, en matière de relations collectives de travail, un salarié ne peut invoquer la convention collective appliquée volontairement par l'employeur lorsque celle-ci est différente de la convention qui correspond à l'activité principale de son entreprise. C'est en effet cette dernière qui s'applique, peu important qu'elle soit moins favorable pour les salariés.
+Lorsque des dispositions conventionnelles sont déjà en vigueur dans l'entreprise d'accueil, la survie du statut conventionnel entraîne une situation de concours.
+En effet, l'existence de dispositions conventionnelles applicables dans l'entreprise d'accueil n'exclut pas la survie des dispositions mises en cause.
+Doivent alors s'appliquer les règles de comparaison en cas de concours de conventions collectives , en vertu desquelles les avantages ayant le même objet ou la même cause ne peuvent, sauf stipulations contraires, se cumuler, seul devant être accordé le plus favorable d'entre eux.
+Maître Marjorie SCHNELL

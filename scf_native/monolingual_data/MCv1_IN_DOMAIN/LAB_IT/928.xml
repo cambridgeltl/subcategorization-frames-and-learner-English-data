@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>248/3 - Elementi di Diritto del Lavoro Privato e Pubblico - - Casa Editrice:&#xd;
+ Edizioni Simone</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>248/3 - Elementi di Diritto del Lavoro Privato e Pubblico - - Casa Editrice:&#xd;
+ Edizioni Simone</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 15:02:19.0</pubDate>
+							<eAddress>http://www.simone.it/catalogo/v248_3.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>casa editrice</keyTerm>
+					<keyTerm>libri</keyTerm>
+					<keyTerm>codici</keyTerm>
+					<keyTerm>concorsi</keyTerm>
+					<keyTerm>leggi</keyTerm>
+					<keyTerm>sentenze</keyTerm>
+					<keyTerm>dizionari</keyTerm>
+					<keyTerm>codice civile</keyTerm>
+					<keyTerm>codice penale</keyTerm>
+					<keyTerm>gazzetta ufficiale</keyTerm>
+					<keyTerm>collane</keyTerm>
+					<keyTerm>libro</keyTerm>
+					<keyTerm>giuridico</keyTerm>
+					<keyTerm>diritto pubblico</keyTerm>
+					<keyTerm>diritto privato</keyTerm>
+					<keyTerm>giuridiche</keyTerm>
+					<keyTerm>simone</keyTerm>
+					<keyTerm>edizioni</keyTerm>
+					<keyTerm>università</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/928.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">autore:</p>
+			<p id="p2">pagine: 288</p>
+			<p id="p3">Scopo di questo volume è quello di fornire, con un'esposizione chiara e concisa, un quadro completo e aggiornato della disciplina del rapporto di impiego presso le le aziende private e le amministrazioni pubbliche. L'opera è rivolta principalmente a quanti si preparano a sostenere prove concorsuali, anche se può rappresentare un valido testo di consultazione e aggiornamento.</p>
+			<p id="p4">Il libro è suddiviso in due Parti.</p>
+			<p id="p5">La prima è dedicata ai fondamenti della disciplina del lavoro subordinato (fonti, nozione di lavoro subordinato e differenze con il lavoro autonomo, parasubordinazione, contratto individuale di lavoro) e all'organizzazione del mercato del lavoro (collocamento privato e pubblico, agenzie per il lavoro, procedure di assunzione, appalto, distacco e somministrazione di lavoro). Segue una trattazione degli istituti del rapporto interprivato di lavoro (inquadramento del lavoratore, retribuzione, orario di lavoro, licenziamento, CIG e mobilità etc.), dei contratti speciali di lavoro e della tutela dei diritti del lavoratore (con particolare riguardo alla vigilanza).</p>
+			<p id="p6">La seconda, invece, è dedicata all'analisi della disciplina del pubblico impiego, da sempre oggetto di una continua e spesso contraddittoria produzione normativa, che rende estremamente complessa la materia e crea numerose difficoltà anche all'operatore giuridico, costretto a districarsi in un labirinto di disposizioni legislative, regolamentari e contrattuali.</p>
+			<p id="p7">IL LAVORO PRIVATO: Nozione ed evoluzione del diritto del lavoro - Il lavoro subordinato - Il contratto di lavoro subordinato e la costituzione del rapporto - Somministrazione di lavoro, appalto, distacco e trasferimento d'azienda - Tutela del lavoro minorile e della genitorialità nel rapporto di lavoro. Parità di genere e divieto di ogni tipo di discriminazione - La prestazione di lavoro e gli altri elementi caratterizzanti la posizione del lavoratore - Il luogo e la durata della prestazione di lavoro - L'obbligo della retribuzione e gli altri elementi caratterizzanti la posizione del datore - La sospensione del rapporto di lavoro e tutela dei lavoratori in determinate circostanze attinenti l'impresa - La cessazione del rapporto di lavoro - I rapporti di lavoro speciali - La tutela dei diritti del lavoratore - Cenni di diritto sindacale - La vigilanza in materia di lavoro e legislazione sociale. IL LAVORO PUBBLICO: Il rapporto di pubblico impiego - Struttura amministrativa ed inquadramento del personale - I diritti degli impiegati - Obblighi e responsabilità degli impiegati - Attuazione del rapporto di lavoro - Le modificazioni del rapporto di impiego - Estinzione del rapporto di lavoro - La giurisdizione nel pubblico impiego - La previdenza dei dipendenti statali.</p>
+			<p id="p8">Politica Ambientale - Copyright © 1997 - 2008 - Esselibri S.p.A. - P.IVA 05701350638 - Il sito è ospitato da Inet S.p.A.</p>
+		</body>
+	</text>
+</cesDoc>

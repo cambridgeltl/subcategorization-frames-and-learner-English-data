@@ -1,0 +1,97 @@
+As several readers have pointed out in comments on my previous post , and several more by e-mail, I made a schoolboy howler in this week's article about how rice yields are responding to temperature rise in Asia.
+There are 101 reasons I could bore you with as to why it happened, but essentially it's my error for mis-reading a scientific paper. And I've been kicking myself ever since, because it was such a crass mistake.
+So the news article has been changed , and in line with BBC News website policy it's explicitly acknowledged on the story page.
+In terms of what the research might suggest about the world of several decades hence, the paper in question doesn't materially change the picture painted in reports from such bodies as the Intergovernmental Panel on Climate Change (IPCC) and the Consultative Group on International Agricultural Research (CGIAR) .
+"We're talking about challenges that have to be dealt with at every level, from ideas about social justice to the technology of food production.
+"We're talking about large-scale human migration and the return to large-scale famines in developing countries, something which we decided 40 or 50 years ago was unacceptable and did something about."
+This is not just a climate issue. Human population growth, growing demand for water, and declining biodiversity are other issues wrapped up in the warnings of a coming food crisis.
+There is another school of thought - that human ingenuity and economic progress will get round the problem, as they have in the past, notably in the Green Revolution that transformed food-scarce countries such as India into lands of abundance, with food exports contributing to the national coffers.
+In principle, of course it could happen again. But as others have pointed out, there seems to be a gap between the resources going into agricultural research now and the size of the potential challenge.
+Anyway, in contrast to some e-mails I've had about the amended version of this week's article, the headline is accurate - a decline in yields hasn't been seen here, but it is projected from this research, and that is consistent with other studies.
+Projections may not turn into reality, of course - but there it is.
+Last month, on the occasion of Stephen Schneider 's death, I blogged on the extraordinary vitriol to which he and some of his fellow climate scientists have been subjected.
+Some of the same stuff comes the way of journalists too; and so it may not surprise to you learn that some of the e-mails I've received on the rice story have accused me not of sloppiness, but of deliberate manipulation of the conclusions through a desire, or possibly a remit, to promulgate some underlying theological stance.
+That is not the case, and it's extraordinary to me that anyone could seriously reach such a conclusion - but clearly, some do.
+If any positives can come out of a piece of poor reporting, here's one I would highlight.
+A number of readers went beyond the news report into the press release - and presumably if Proceedings of the National Academy of Sciences (PNAS) were an open-access journal, a number of you would have gone into the scientific paper as well.
+Press releases sometimes don't give an entirely accurate account of a piece or work, so going into the paper itself has to be desirable, and that's as much a challenge for PNAS and other subscription journals as it was when the issue of open-access publishing first arose .
+The web is the only news medium that offers you the opportunity. When we journalists make mistakes, it means we are more likely to be called to account, and that has to be a positive thing.
+This blog is now about to be left untended for several weeks, as I head off for a badly-needed holiday.
+But there's a couple of other things I want to flag up.
+I had an e-mail this week from my former colleague Tim Hirsch. He sent me a link to an article he wrote for the then fledgling BBC News website back in 1999, a few years after the oil tanker Sea Empress ran aground on the coast of Wales, spilling more than 72,000 tonnes of crude along a coastline that's a favourite for ramblers and nature enthusiasts, not to mention the fishing grounds.
+When Tim visited the site, three years had passed since the spill, and there were few signs of oil to be found. With the Deepwater Horizon leak fresh in mind, and questions abounding over whether its environmental effect has been exaggerated , his article made instructive reading.
+The second issue is that in a couple of weeks' time - 30 August, to be precise - we should see the release of the InterAcademy Council's review of the IPCC .
+It's the last of the major inquiries and reviews surrounding climate science that were commissioned in the wake of "ClimateGate" , "HimalayaGate" and so on - and probably the most important, as it could significantly affect how the organisation pursues its work towards its fifth major assessment of climate change, due out in 2013.
+You'll have to do without my reporting on that one as I'll still be on leave. But as I understand things, the report itself will be fully available online - so you'll be able to check and doublecheck interpretations put on it by we fallible journalists.
+Bookmark with:
+Last year, there seemed to be an unwritten rule in enviro-circles: whenever two or more enviro-folks were gathered together in a place of meeting, talk must turn to biochar .
+Accounts would be exchanged of articles half-read and half-digested...the pros would be arrayed against the cons...the words "local" and "sustainable" would be flagged up early and often.
+A common reaction was "Good idea, but..."
+The notion of biochar takes us back to ancient human civilisations in South America.
+The ground remaining when rainforest is cleared isn't very fertile, despite the luxuriant herbage of the forests themselves.
+So about 2,500 years ago, people developed what Portuguese settlers later termed terra preta - black earth - created by ploughing carbon into the soil in the form of charcoal.
+With ever more hungry mouths on the planet, with soils degrading in many places and with climate change threatening to reduce yields in coming decades, there's renewed interest in the ancient technology, which has been championed by James Lovelock of Gaia fame among others.
+The vision put forward is of a world where waste is burned, where some of the heat from that burning is used to transform waste to charcoal, and where the charcoal is ploughed into soil, increasing its capacity to support crops and locking up carbon for centuries, possibly millennia.
+What's proposed would be nothing less than a revolution in the way we handle waste - turning it from waste into fuel, fertiliser and climate saviour with a single blast of the charcoal oven.
+Such grand notions always require quantifying in the cold light of day; and that's what we have this week in the form of a paper in the journal Nature Communications .
+A group of researchers that includes Johannes Lehmann of Cornell University , the closest thing biochar has to a spiritual father, has attempted to calculate just how much impact the technology could have on climate change if societies all over the world transformed their waste streams into biochar production facilities - "the maximum sustainable technical potential of biochar to mitigate climate change".
+Their answer is a large number - 1.8 gigatonnes of carbon emissions, or about 12% of humanity's total, per year.
+The researchers identify six ways in which biochar curbs emissions, including reducing methane production from decaying plant waste, reducing nitrous oxide release from soils , and avoiding carbon dioxide emissions by storing carbon in the soil.
+But there are negatives. Using plant waste this way means you couldn't simply burn it for fuel, reducing the world's biomass potential; and there are the carbon costs of transporting it and processing it and such like.
+Putting all the numbers together gives the 1.8Gt figure, with an added but unquantified benefit through a presumed impact agricultural yields, especially in poorer parts of the world where the need for food is likely to become even more acute as the years go by.
+Put in these terms, you might ask why we aren't doing it already. On the surface, biochar is a win-win-win technology: a win for the climate, a win for food production, and a win for reduction of the human waste stream.
+Some of the caveats will be familiar to anyone who's followed the biofuels issue down the years.
+Depending on where and how you do it, it can produce more carbon than it saves . And if you simply grew stuff to produce biochar, the carbon economics would be turned on their head, just as they are if old-growth forest is stripped for biofuel plantations.
+There are also concerns about who would own and control biochar production and use, if it were to become the subject of a global, high-level political push - just as there is with geo-engineering and again with biofuels.
+But the biggest hurdle to the widespread implementation of biochar is the economics would have to be right in each part of the world - not the carbon economics so much as the economic economics.
+A study released earlier this year found that all kinds of factors affect this issue, including whether sending the stuff to biochar facilities would be cheaper or more expensive than how waste is dealt with now.
+Currently biochar isn't something that can win money from carbon offset schemes. And just as with biofuel and biomass, the amount of money that should be issued would vary widely between locations, technologies and types of waste used, just as the amount of carbon storage varies.
+Biochar is already a good idea in many peoples' books. What this paper does is to help sort out just how good it is, and where it sits in relation for example to biomass burning.
+But the fact that it can take away a slice of global emissions isn't enough to ensure its adoption.
+After all, pretty much everyone involved in Redd (Reducing Emissions from Deforestation and forest Degradation) thinks that is a good idea, but we still don't have a global system for making it happen.
+Energy efficiency is a good idea even from the simple standpoint that it will save you money. But not everyone practises it - even your humble correspondent is impeachable in that regard.
+From a strictly carbon-saving point of view, biochar can now be added as a new wedge to the Stabilisation Wedge concept developed by Stephen Pacala and Robert Socolow.
+In this notion, you break down the gap between the emissions level you want at some point in the future and the emissions level you will have at current rates of growth, and break it down into manageable fractions - wedges - that can each be addressed with specific policies.
+They're all quantified, and most are technically achievable with today's technology. But it doesn't mean they will be; and the same, for all its Amazonian roots and win-win-win potential, is true of biochar.
+Bookmark with:
+The key factoid presented by the National Oceanic and Atmospheric Administration (Noaa) is that about three-quarters of the 4.9 million barrels that entered the Gulf waters has been dealt with.
+About one quarter has naturally dissolved or evaporated, and another quarter was captured at source or skimmed or burned. Those portions have effectively been eliminated from the sea.
+A further quarter has been dispersed, either naturally or chemically - leaving the remaining quarter that, in Noaa's words...
+"...is either on or just below the surface as light sheen and weathered tar balls, has washed ashore or been collected from the shore, or is buried in sand and sediments."
+In the early days, the scale of the leak became a vital statistic, central to questions both about the incident's politics ("Is BP telling the truth? Is the government?") and about the eventual ecological impact.
+Daily we followed maps of where the slick was blown; and the revelations of underwater oil plumes , and the succession of new estimates projecting successively higher flow rates , made for compelling reading.
+But at what appears to be the tail end of the affair, arguably size matters less than ever.
+Just as with fishing or anything else you do in the marine world, the issue isn't only "how much?" but "where?"
+Heavy trawls dragged over grey, boring sea floor will leave behind grey, boring sea floor. Use the same gear on deepwater coral, and you wreak ecological carnage.
+Likewise Deepwater Horizon. Oil flecked across the wide Gulf seas will have far less impact on wildlife or fish or anything else than if blobs of the stuff happen to congregate in a marsh vital for a threatened species of breeding bird, or an aggregation of spawning bluefin tuna.
+Along some beaches, people are still rescuing oil-soaked pelicans; on others, they're already toasting themselves in the Gulf sun, as though the oil never happened.
+At present, as I discussed in my analysis article on Tuesday , evidence for widespread ecological damage is thin; so we have to presume that as of now, the significant volume of oil that remains (even a quarter of 4.9 milion barrels is still far more than released by the Exxon Valdez) is not hitting enough of those key zones to be having a major impact.
+The other question posed by the Noaa analysis is a "who?" question, as in "who looks good now?"
+Away from the oil-washed segments of Gulf coast where hydrocarbons pervade the air, arguably the strongest aroma generated by this whole affair has been one of political fragrance.
+It's been said that US politicians could heavily and publicly blame BP because of what the B stands for. That's not to excuse anything the company has done, and it has admitted culpability in a number of ways; but it's hard to imagine good ol' Southern boys being quite so disparaging if the oil company in question had been of good ol' Southern origin.
+Shifting everything onto the company's shoulders was also a way of distracting attention from anything the Bush or Obama administrations, or indeed the Houses of Congress, could have done differently - such as insisting on a regulatory regime with more stringent safeguards.
+With mid-term elections approaching, having a government agency proclaim a kind of victory over the oil now is what you might term a fairly slick piece of business.
+"There's some science here, but mostly it's spin, and it breaks my heart to see them do it... I'm afraid this continues a track record of doubtful information distributed through Noaa."
+Perhaps the most doubtful aspect of it, though, is that for ecological purposes it appears simply to be addressing a question that doesn't matter very much.
+Bookmark with:
+About this blog
+I'm Richard Black, environment correspondent for the BBC News website. This is my take on what's happening to our shared environment as the human population grows and our use of nature's resources increases.
+You can stay up to date with Richard Black's Earth Watch via these feeds.
+Recent reports
+Latest from BBC News blogs
+Robert Peston:
+Fergus Walsh:
+Mark Devenport:
+Gavin Hewitt:
+Mark Mardell:
+Will Gompertz:
+by Richard Black on 17:14 UK time, Friday, 30 July 2010  |  Comments  (185)
+The journal Nature this week debates one of the most important questions of our age: how can we feed the Earth's growing population such that no-one goes hungry and nature is left with some land and water of its own?...
+by Richard Black on 17:01 UK time, Thursday, 29 July 2010  |  Comments  (48)
+Apologies issued by two campaign groups, WWF and Oxfam, may or may not bring to a close one of the more bizarre yet telling episodes that have materialised within the UN climate convention. At the convention's annual two-week session in...
+by Richard Black on 17:57 UK time, Monday, 26 July 2010  |  Comments  (125)
+Turn the clock back four years, and you could not have slipped a cigarette paper between the climate policies of the administrations in Washington DC and Canberra. With the election of Kevin Rudd in December 2007, paths diverged. Against the...
+by Richard Black on 17:22 UK time, Friday, 23 July 2010  |  Comments  (208)
+It's not being touted as such, but the latest document from the United Nations climate convention (UNFCCC) is the clearest admission we've yet had that UN talks are in the mire. Add it to the latest word from the US...
+Being Discussed Now
+This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.

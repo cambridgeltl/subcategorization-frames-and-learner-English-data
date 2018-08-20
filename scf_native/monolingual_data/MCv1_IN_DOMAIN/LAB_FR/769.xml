@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:40.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=1315</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/769.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">L’employeur face à un accident du travail</p>
+			<p id="p4">Le salarié victime d’un accident sur son lieu du travail informe son employeur pour prétendre à la reconnaissance et à la protection prévues dans les textes. De son côté, l’employeur est contraint à certaines obligations comme la déclaration de l’accident à la CPAM (Caisse primaire d’assurance maladie). L’accident du travail possède une définition légale et a des conséquences sur le contrat de travail. Durant la période d’absence, le salarié est indemnisé des suites de l’accident du travail sur la rémunération. Le salarié doit retrouver son emploi ou un emploi similaire lors de la reprise du travail.</p>
+			<p id="p5">Une définition de l’accident du travail</p>
+			<p id="p6">C’est le code de la Sécurité sociale qui apporte une définition précise de l’accident du travail. Il indique qu’il est, quelle qu’en soit la cause, un accident qui survient par le fait ou à l’occasion du travail à toute personne salariée ou travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs (article L.411-1 du code de la Sécurité sociale). Un principe général qui peut rencontrer des difficultés devant la complexité de certaines activités (travail à domicile, déplacement pour raison professionnelle…).</p>
+			<p id="p7">La procédure à respecter</p>
+			<p id="p8">Le salarié victime d’un accident du travail doit informer son employeur dans la journée où l’accident est intervenu, et au plus tard dans les 24 heures. Cette déclaration est transmise par lettre recommandée dans l’éventualité où elle n’est pas faite à l’employeur sur le lieu de l’accident (article R.441-2 du code de la Sécurité sociale). Cet impératif de prévenance dans le délai accordé peut néanmoins être écarté en cas de force majeure, d’impossibilité absolue ou de motifs légitimes (article L.441-1 du code de la Sécurité sociale).</p>
+			<p id="p9">L’employeur ou son préposé procède à la déclaration de l’accident par lettre recommandée avec avis de réception (article R.441-3 du code de la Sécurité sociale) à la Caisse primaire d’assurance maladie (CPAM) compétente, notamment le lieu de résidence habituelle du salarié victime de l’accident. La déclaration doit être transmise à l'appui d’un formulaire (« Déclaration d’accident du travail », disponible à la CPAM) dans les quarante-huit heures après avoir eu connaissance de l’accident (dimanches et jours fériés non compris).</p>
+			<p id="p10">Attention : la déclaration d’accident du travail à la CPAM est obligatoire, même en l’absence d’arrêt de travail.</p>
+			<p id="p11">En cas d’arrêt, l’employeur transmet également à la CPAM le formulaire « Attestation de salaire » (disponible à la CPAM) qui indique la période de travail, le nombre de journées et d’heures, le montant et la date de payes (article R.441-4 du code de la Sécurité sociale). La caisse primaire peut en outre solliciter de l’employeur ou du salarié tous renseignements qu’elle estime utiles.</p>
+			<p id="p12">L’employeur doit aussi remettre au salarié victime une feuille d’accident (article L.441-5 du code de la Sécurité sociale). Disponible à la CPAM, elle évite au salarié l’avance des frais dus aux soins médicaux. Cette feuille mentionne la caisse ayant en charge les prestations. Elle ne doit pas indiquer au préalable le nom et l’adresse d’un praticien, d’un pharmacien, d’une clinique et elle est valable pour la durée du traitement résultant de l’accident (article R.441-8 du code de la Sécurité sociale). Le médecin et les auxiliaires médicaux, l’établissement hospitalier donnant les soins ainsi que le pharmacien remplissent cette feuille (article R.441-9 du code de la Sécurité sociale).</p>
+			<p id="p13">Certains établissements sont autorisés, lorsque l’accident du travail n’occasionne ni arrêt de travail, ni des soins médicaux, à inscrire ces accidents bénins sur un registre prévu pour cela (article L.441-4 du code de la Sécurité sociale). C’est la CARSAT (ex-CRAM - Caisse régionale d’assurance maladie) qui donne l’autorisation à l’employeur de détenir ce registre, sous certaines conditions. Le Comité d’hygiène de sécurité et des conditions de travail (CHSCT) est avisé par l’employeur. Le registre est envoyé à la fin de chaque année civile à la CARSAT par lettre recommandée avec avis de réception (article D.441-2 du code de la Sécurité sociale).</p>
+			<p id="p14">Le registre des accidents bénins précise le nom de la victime, la date, le lieu et les circonstances de l’accident, la nature et le siège des lésions (article D.441-3 du code de la Sécurité sociale). Ce registre est tenu à la disposition des agents de contrôle des caisses, de l’inspection du travail (article R.441-5 du code de la Sécurité sociale) et des membres du CHSCT.</p>
+			<p id="p15">Les conséquences d’un accident du travail</p>
+			<p id="p16">Lors d’un accident du travail, le contrat de travail du salarié est suspendu durant la durée de l’arrêt de travail jusqu'à la visite médicale de reprise. Il l’est également pendant le délai d’attente et la durée du stage de réadaptation, de rééducation et de formation professionnelle (article L.1226-7 du code du travail).</p>
+			<p id="p17">Cette période de suspension est prise en compte pour le calcul de l’ancienneté déterminant les avantages légaux ou conventionnels (prime d’ancienneté, préavis et indemnité de licenciement légale ou conventionnelle).</p>
+			<p id="p18">La période d’absence du salarié pour un accident du travail est assimilée totalement (dans la limite d’un an) comme une période de travail effectif pour le calcul de la durée des congés payés. Cette absence doit être ininterrompue (article L.3141-5 du code du travail). Dans l’éventualité d’un accident du travail pendant le préavis, celui-ci est suspendu pendant le temps de l’arrêt du travail. Le salarié doit donc achever son préavis une fois l’arrêt de travail terminé.</p>
+			<p id="p19">Pendant la période de suspension du contrat de travail, le salarié ne peut faire l’objet d’un licenciement. En effet, lors de cette période, il est interdit de licencier un salarié excepté dans l’éventualité d’une faute grave ou d’une impossibilité de maintenir le contrat pour un motif étranger à l’accident (article L.1226-9 du code du travail). L’inobservation de ce principe entraîne nullité de la rupture du contrat de travail (article L.1226-13 du code du travail).</p>
+			<p id="p20">Le salarié en CDD, dont le contrat contient une clause de renouvellement ne peut, pendant la période de suspension du contrat de travail, se voir refuser le renouvellement, hormis la justification d’un motif réel et sérieux, étranger à l’accident. Le non-respect de cette règle constitue pour l’employeur l’obligation de verser au salarié une indemnité correspondant au préjudice subi (article L.1226-19 du code du travail).</p>
+			<p id="p21">L’indemnisation</p>
+			<p id="p22">La journée de travail où l’accident est intervenu est à la charge de l’employeur dans son intégralité (article L.433-1 du code de la sécurité sociale).</p>
+			<p id="p23">Les jours suivants, une indemnité journalière est versée par la caisse primaire au salarié victime de l’accident du travail. La période d’indemnisation s’étend pendant l’arrêt jusqu’à la guérison, la consolidation ou le décès. Cette règle ne fait pas obstacle à un dimanche ou à un jour férié. Il n’y a pas de délai de carence comme dans le cas de l’indemnisation pour maladie non professionnelle. En revanche, l’indemnité payée au salarié ne peut excéder son salaire net avant l’accident.</p>
+			<p id="p24">Dans l’éventualité d’une reprise d’un travail léger, l’indemnité journalière peut être maintenue totalement ou en partie. Cette reprise à temps réduit, doit être autorisée par le médecin traitant et reconnue par le médecin-conseil de la caisse primaire comme étant de nature à favoriser la guérison ou la consolidation (article L.433-1 du code de la Sécurité sociale).</p>
+			<p id="p25">Le maintien partiel ou total du salaire par l’employeur peut être prévu par un accord ou une convention collective. Il s’effectue en déduction des indemnités journalières indiquées ci-dessus.</p>
+			<p id="p26">La reprise du travail</p>
+			<p id="p27">Lors de son retour dans l’entreprise, le salarié doit retrouver son emploi ou un emploi similaire mais également une rémunération équivalente (article L.1226-8 du code du travail). L’accident du travail ne peut engendrer, pour le salarié, aucun retard de promotion ou d’avancement dans l’entreprise.</p>
+			<p id="p28">Le salarié bénéficie également d’un examen médical obligatoire. Celui-ci est effectué par le médecin du travail lors d’une absence pour accident du travail d’au moins huit jours (article R.4624-21 du code du travail). Il estime l’aptitude du salarié à reprendre son emploi. Cette visite médicale a lieu lors de la reprise du travail et au plus tard dans un délai de huit jours.</p>
+			<p id="p29">En cas de rechute, le salarié doit déclarer celle-ci à la CPAM en apportant un certificat médical (L.443-1 du code de la Sécurité sociale). Cette déclaration fait l’objet d’un délai de deux ans (article R.443-1 du code de la Sécurité sociale). La caisse primaire prend alors en charge la rechute (frais médicaux, chirurgicaux, pharmaceutiques…).</p>
+			<p id="p30">(Septembre 2008)</p>
+		</body>
+	</text>
+</cesDoc>

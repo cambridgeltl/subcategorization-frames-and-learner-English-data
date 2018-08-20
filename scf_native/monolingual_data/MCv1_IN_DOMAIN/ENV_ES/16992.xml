@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>ENTREVISTA: CONNIE HEDEGAARD Comisaria de Acción por el Clima - Ecología y Desarrollo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>ENTREVISTA: CONNIE HEDEGAARD Comisaria de Acción por el Clima - Ecología y Desarrollo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:16:08.0</pubDate>
+							<eAddress>http://ecodes.org/noticias/entrevista-connie-hedegaard-comisaria-de-accion-por-el-clima</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>cambio climático</keyTerm>
+					<keyTerm>COP16</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/16992.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">por la sostenibilidad</p>
+			<p id="p2">ENTREVISTA: CONNIE HEDEGAARD Comisaria de Acción por el Clima</p>
+			<p id="p3">Connie Hedegaard (Copenhague, 1960), de formación humanística, fue nombrada ministra de Medio Ambiente en Dinamarca en 2004, tras ejercer el periodismo durante varios años. Perteneciente al Partido Popular Conservador, ha ocupado en su país las carteras de Cooperación Nórdica y Clima y Energía. La actual comisaria de Acción por el Clima de la UE es una militante apasionada de los asuntos medioambientales, pero ha introducido una agenda cargada de realismo y sentido común. En vísperas de una jornada sobre "vivir sin carbono" organizada por la red Atomium, y a dos semanas de la conferencia mundial del clima en Cancún, Hedegaard analiza el difícil momento de la lucha contra el cambio climático.</p>
+			<p id="p4">Pregunta. En el último Consejo Europeo de octubre, la UE acordó plantear en Cancún la creación de un marco mundial jurídicamente vinculante que incorpore las aportaciones políticas del acuerdo de Copenhague de 2009. ¿Cree esto posible tras el giro político en EE UU?</p>
+			<p id="p5">Respuesta. Sería estupendo, pero creo que no conseguiremos un acuerdo vinculante en Cancún. Vemos que el Senado estadounidense no ha querido aprobar un avance en este campo. En todo caso, creo que no tendremos una reunión vacía de contenidos. Debemos concentrarnos en lo sustancial: alcanzar acuerdos para detener la deforestación mundial, por ejemplo, y también acordar cómo ayudar a los países en desarrollo a ser más resistentes al cambio climático, cómo pueden establecer sistemas de aviso y alarma ante posibles acontecimientos, así como promover las tecnologías para su adaptación.</p>
+			<p id="p6">P. ¿No cree que debería tenerse más en cuenta a la sociedad?</p>
+			<p id="p7">R. Uno de mis mensajes es proponer ideas muy prácticas a los ciudadanos para que decidan. Si cada familia tiene en cuenta cuán grande es la casa en la que vive, cómo se traslada de su domicilio al trabajo, y se le ofrecen otras informaciones para reducir, por ejemplo, en una tonelada las emisiones, entonces se pueden hacer muchas cosas. Al final, las cosas solo cambian si la gente quiere cambiar su mentalidad.</p>
+			<p id="p8">P. ¿Cómo influirán el nuevo presupuesto europeo y la nueva política sobre cohesión en la lucha contra el cambio climático?</p>
+			<p id="p9">R. Queremos que los fondos de cohesión estén a prueba del cambio climático. Por ejemplo, si Europa da dinero para construir una autopista o una línea de ferrocarril tendremos muy en cuenta el conocimiento que tengamos, sobre el posible aumento del nivel de las aguas o de las precipitaciones. Antes de entregar el dinero analizaremos si los proyectos son respetuosos con el clima.</p>
+			<p id="p10">P. La otra gran partida del gasto europeo se canaliza hacia la agricultura. ¿Cómo afectará la nueva política estos fondos?</p>
+			<p id="p11">R. Queremos condicionar los fondos a la modernización y a la innovación. Hay muchas áreas en las que los agricultores deben introducir mejoras para que su actuación tenga menos impacto en el clima, evitar el uso de sustancias peligrosas y emplear la energía de manera más eficiente. Muchos agricultores desean hacer estas mejoras pero no se lo pueden permitir. Debemos ayudarles.</p>
+			<p id="p12">Navega en ECODES</p>
+			<p id="p13">Navega por tags</p>
+			<p id="p14">Ecología y Desarrollo</p>
+			<p id="p15">Plaza San Bruno, 9 · 50001 Zaragoza · España Tel: + 34 976 29 82 82 · Fax: +34 976 20 30 92</p>
+		</body>
+	</text>
+</cesDoc>

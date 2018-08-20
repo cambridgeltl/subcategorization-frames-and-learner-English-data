@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Instituto Nacional de Ecología</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Instituto Nacional de Ecología</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:46:52.0</pubDate>
+							<eAddress>http://www2.ine.gob.mx/curriculums/cpcc/aqguzman.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>INE Investigación ambiental artículos cursos informes monitoreo atmosférico publicaciones cambio climático calidad del aire</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/18643.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Jefe de Departamento de Métodos y Estudios de Mitigación en el Sector Forestal</p>
+			<p id="p2">Egresado de la Universidad Autónoma Chapingo en 1994. Pasante de Ingeniero Agrónomo, especialista en Fitotecnia. En la misma institución realizó estudios de Preparatoria en el Departamento de Preparatoria Agrícola, graduándose en 1990. Ha asistido a talleres, simposios, congresos y cursos de actualización, entre los que destacan: "Taller de lectura e interpretación de la carta de uso del suelo y vegetación, serie II y III, 14-15 de marzo de 2002, Aguascalientes, Ags, México"; "V Simposium Bienal México-Estados Unidos de América: Cooperación Social para el Manejo Sostenible de los Ecosistemas Forestales, 17-20 de octubre de 1994, Guadalajara, Jalisco; México"; "IV Congreso Nacional de Horticultura Ornamental, 20-25 de marzo de 1994, Universidad Autónoma Chapingo, Chapingo, Edo. de México", entre otros.</p>
+			<p id="p3">Jefe del Departamento de Métodos y Estudios de Mitigación en el Sector Forestal. Instituto Nacional de Ecología. 2002. Como consultor ha participado en la elaboración del "Inventario Nacional de Gases Efecto Invernadero debidos al Cambio de Uso del Suelo y Bosques, año base 1990", Universidad Nacional Autónoma de México, 1994. De igual manera participó en la Elaboración de la Segunda Comunicación Nacional ante la Convención Marco de las Naciones Unidas sobre Cambio Climático, particularmente en el Sector Forestal, Instituto Nacional de Ecología, Junio 2000-Enero 2001. Asimismo formó parte del equipo de trabajo que actualizó el "Inventario Nacional de Gases Efecto Invernadero debidos al Cambio de Uso del Suelo y Bosques, años 1994-1996", Grupo Interdisciplinario de Tecnología Rural Apropiada, A. C (GIRA). 2000.</p>
+			<p id="p4">Las funciones que desempeña son las de analizar y diagnosticar los resultados de los estudios de mitigación en el sector forestal, diagnosticar las metodologías de líneas base, integrar el inventario de emisiones de gases efecto invernadero por cambio de uso de suelo y bosques, preparar e informar la situación de las actividades de mitigación en el sector forestal en México en la Comunicación Nacional de México ante la Convención Marco de las Naciones Unidas sobre Cambio Climático. Asimismo preparar y/o asistir a reuniones con técnicos, académicos y expertos para la retroalimentación de conocimientos relativos a la mitigación del cambio climático, específicamente sobre cambio de uso del suelo y bosques e integrar estudios sobre metodologías para validar, verificar, y certificar la reducción de emisiones de gases de efecto invernadero en el sector forestal.</p>
+			<p id="p5">Es coautor de cuatro publicaciones relativas a inventarios de gases de efecto invernadero, en el apartado de Cambio de Uso del Suelo y Silvicultura. 1) Masera-Ceruti, O. R.; T. Hernández-Tejeda; A. Ordóñez Díaz and A. Guzmán Perdomo. 1995. Land Use Change and Forestry. In: Preliminary National Inventory of Greenhouse Gas: Mexico. UNEP Project GF/4102-92-01 (PP3011) México. pp. 56-100; 2) Masera, O.; Garza, J.; Guzmán, A.; Hernández, T.; Ordóñez, A.; Ordóñez, M. J.; Rosete, F.; and Vasquez, V. 1995. Inventories and Future Greenhouse Gas Emissions Scenarios from Land Use Change in Mexico. Final Report. Instituto de Ecología, UNAM. México; 3) Ruiz, L., Masera, O., Ordóñez, A., Hernández, T., Guzmán, A., Arvizu, J., González, E., Cuatecontzi, D., Gasca, J., Guzmán, F., Muñoz Ledo, J., 1996. Updated National Inventory of Greenhouse Gases: Mexico. National Institute of Ecology-SEMARNAP, UNEP, U. S. Country Studies Program. Edited by Carlos Gay, Luis Gerardo Ruiz y Julia Martínez y 4) Masera, O.; René D. Martínez, Tomás Hernández, Aquileo Guzmán y Antonio Ordóñez. 2001. Inventario Nacional de Emisiones de Gases de Efecto Invernadero: 94-96. Cambio de Uso de Suelo y Silvicultura. Instituto Nacional de Ecología. Secretaría de Medio Ambiente y Recursos Naturales. México. 43 p.</p>
+			<p id="p6">DIRECTORIOS POR DIRECCIÓN O ÁREA</p>
+			<p id="p7">Comentarios sobre este Sitio de Internet</p>
+			<p id="p8">INSTITUTO NACIONAL DE ECOLOGÍA, MÉXICO - ALGUNOS DERECHOS RESERVADOS © 2010 - POLÍTICAS DE PRIVACIDAD</p>
+		</body>
+	</text>
+</cesDoc>

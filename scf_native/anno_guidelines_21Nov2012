@@ -1,0 +1,224 @@
+********************************************************************
+1. CHOOSING EXAMPLES
+
+1.1
+If a sentence does not contain a valid example of the target word,
+ignore the sentence by choosing "0 - IGNORE - Not a valid example."
+from the SCF menu.
+
+1.2
+Ignore examples where the lemma is a prenominal modifier or part of a
+compound.
+['call'] I talked with the so called expert.
+         => ignore
+['work'] I was part of the working poor.
+         => ignore
+
+1.3
+If the lemma has more than one verbal use in the sentence, choose the
+first *verbal* instance.
+['work'] I did some work in the garden, and then worked inside the house.
+         => annotate the second instance ("worked")
+['work'] I was working in the garden, and then worked inside the house.
+         => annotate the first instance ("working")
+
+1.4
+Ignore examples that are sentence fragments in such a way as to affect
+the choice of SCF. Lack of capitalization / punctuation can be a good
+guide to this.
+['put'] told me to put the thing
+        => ignore, clearly a sentence fragment, with arguments missing
+['put'] She told me to put the thing in the closet, and then I
+        => annotate, as the fragment is in a different clause
+
+1.5
+Ignore examples where the sentence is very clearly ungrammatical or
+non-native in a way that affects the choice of SCF.
+['put'] I put.
+        => ignore
+['put'] Him and me put something in the room.
+        => annotate, despite the non-standard pronouns in the subject
+
+
+********************************************************************
+2. ANNOTATING - GENERAL
+
+2.1
+We use the familiar SCF inventory.
+
+2.2 
+If you find that you need a new frame, choose a similar one in the
+SCF menu, and in the comment field put "new frame XXX" where XXX is
+some representation of the frame, approximating the COMLEX names that
+are used for the existing inventory.  For example, if you needed two
+PPs and an infinitival complement with subject control, you would put
+"new frame PP-PP-TO-INF-SC".  Don't worry about the naming being
+perfect, as anything requiring a new frame is going to get manually
+reviewed anyway.
+
+2.3
+Tick the Passive checkbox if one of the NPs in the sentence is
+passivized. To diagnose the passive, there must be a "to be"
+auxiliary. An agentive by-phrase is not required. "Undo" the passive
+before choosing the SCF, so that the surface subject is considered the
+object for the purpose of subcategorization.
+['type']   The letter had been typed by the professor.
+           => scf 24, Passive
+['type']   The letter, which the professor was typing, was long.
+           => scf 24, but not Passive because no auxiliary (relative clause)
+['advise'] Mary was advised by Susan to attend the meeting.
+           => scf 53, Passive
+['advise'] Mary was advised to attend the meeting.
+           => scf 53, Passive
+['advise'] Mary, advised by Susan to attend the meeting, was worried.
+           => scf 53, but not Passive because no auxiliary (Past Participle, see point 2.5)
+
+2.4
+Relative clauses: simply "undo" the relativization to determine the SCF.
+['type']   The letter, which the professor was typing, was long.
+           => scf 24
+['like']   I gave the letter to a woman who likes to swim.
+           => scf 112
+
+2.5
+Tick the Past Participle checkbox if the verb is a past participial
+modifier, whether offset by commas or not. These are typically
+reduced relative clauses, i.e. relative clauses with no relative
+pronoun. They are typically postnominal but can be prenominal.
+Again, "undo" the relativization to recover the SCF.
+['advise'] Mary, advised by Susan to attend the meeting, was worried.
+           => scf 53, Past Participle
+['eat']    The mushroom eaten by the elephant was poisonous.
+           => scf 24, Past Participle
+['scare']  Scared to death, Adam ran away.
+           => scf 49, preposition "to", Past Participle
+
+2.6
+If you happen to notice that a temporal, manner, or location
+adjunct is present, tick the Temporal Adjunct, Manner Adjunct, 
+or Location Adjunct box, respectively. These are semantic, not
+syntactic categories, e.g. manner could be "quickly" or "in a 
+hurry"; temporal could be "in March" or "someday" or "last 
+month". Figurative categories are allowed, e.g. "in your dreams" 
+could be locative. *IMPORTANT*: Use these only if you happen to 
+notice the adjuct and feel compelled to record it. These are for 
+exploratory data collection and they do not have to be systematic.
+
+2.7
+To deal with highly selected adjunct prepositional phrases (or other
+phrase types, though this occurs most often with PPs), you can use the
+Alternate Frames box to notate possible alternative SCFs. In general,
+err on the side of including more phrases as arguments if you are
+unsure, when the phrase seems selected by the verb but is not
+obligatory. More than one alternate SCF can be indicated by commas. If
+the alternate SCF(s) have a preposition or particle, separate these by
+a hyphen. If you feel that the main SCF is the less elaborate one and
+the alternate SCF is more complex, this can be annotated as
+well. *IMPORTANT*: don't agonize over these decisions; this facility
+is designed to avoid having to agonize over whether a phrase is part
+of the SCF by making it easy to specify alternatives!
+['continue'] If trading continues at such a high volume, the market will crash.
+             => scf 87, preposition "at", alternate frame: 22
+['provide']  PSEG provides electricity for ten million customers.
+             => scf 31, preposition "for", alternate frame: 24
+['start']    We started at the beginning.
+             => scf 87, preposition "at", alternate frame: 22-loc
+['help']     I want to help out in the crisis.
+             => scf 74, particle "out", alternate frame: 78-out-in
+['reduce']   We will reduce the level to 50 percent by 2020.
+             => scf 122, prepositions "to-by", alternate frame: 49-to, 24
+
+2.8
+If a frame contains one or more prepositions, put the observed prepositions
+in the Prepositions box. If there is more than one, separate them with
+a hyphen.
+['reduce'] We will reduce the level by 50 percent by 2020.
+           => scf 122, prepositions "by-by"
+
+2.9
+If a frame contains one or more particles, put the observed particle in the
+Particles box.
+['make'] We made up the evidence.
+         => scf 76, particle "up"
+
+2.10
+Put any other comments freeform in the comments box. Use commas between 
+multiple comments for a single sentence.
+
+
+********************************************************************
+3. SPECIFIC CONSTRUCTIONS
+
+3.1
+Purpose clauses: 
+Treat as adjuncts.
+['give'] Mary gave Susan the book to improve her knowledge of the industry.
+         => scf 37
+Purpose clauses (infinitives of purpose) can be diagnosed by the "in order
+to" paraphrase.
+Mary gave Susan the book to improve her knowledge.
+=
+Mary gave Susan the book in order to improve her knowledge.
+BUT
+Mary asked Susan to leave.
+=/= 
+Mary asked Susan in order to leave.
+
+3.2
+Discontinuous constituents: 
+Treat as though they were continuous.
+['give'] Information will be given to participants about the summit.
+         => scf 56, passive (note that "about the summit" is not an argument of "give")        
+
+3.3
+Passivised clausal arguments: 
+Although the passive marker generally refers to an NP argument, it is possible to have
+a passivized clausal argument.
+['reveal'] How the magician's tricks work will soon be revealed.
+           => scf 16, passive
+
+3.4
+Temporal nominals: 
+Treat as arguments in general, although alternatives can be noted.
+['start'] The project started the month of June.
+          => scf 24, alternate scf 22-tmp
+
+3.5
+Free relatives: 
+Treat as though they were not wh-elements. This is because verbs 
+that do not normally take (interrogative) wh-complements can still 
+be used in free relatives.
+['eat']  I'll have what she's eating.
+         => scf 24
+['know'] I served her what I know to be the best burger in town.
+         => scf 57 (not scf 116)
+
+3.6
+Don't be fooled by objects extracted from embedded verbs.
+['wish'] She is one who I wish to get to know.
+         => scf 112 ("she" is an object of "know", not "wish")
+
+3.7
+Deciding whether a PP is an argument of the verb or of a post-verbal 
+nominal can be quite difficult.  Here are some possible tactics.
+a. Remove the intervening nominal. "This site contains resources for 
+balancing your budget." Are the resources for balancing your budget,
+or is the containment for balancing your budget?: the former, so 
+argument of nominal.
+b. Use "it"-replacement for the intervening nominal. "This site 
+contains it for balancing your budget." Awkward, so argument of nominal.
+
+3.8 
+Prepositions vs particles:
+There are a few diagnostics for prepositions vs. particles.
+First, PPs can be clefted.
+['upon'] The mayor called upon them for help. (upon = preposition, them = obj of prep)
+         The mayor looked up the number. (up = particle, the number = obj of verb)
+         => scf 67
+         It was upon them that the mayor called for help. (awkward, but not ungrammatical)
+         * It was up the number that the mayor looked.
+
+3.9
+Clausal complements:
+Use scf 104 for S, and scf 109 for THAT-S.
+

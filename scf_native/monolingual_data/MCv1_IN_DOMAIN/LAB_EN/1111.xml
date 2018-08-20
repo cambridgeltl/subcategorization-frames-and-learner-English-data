@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Overtime Pay - The New FLSA</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Overtime Pay - The New FLSA</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-07-15 22:12:58.0</pubDate>
+							<eAddress>http://overtimepay.net/page5.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>overtime pay</keyTerm>
+					<keyTerm>FLSA</keyTerm>
+					<keyTerm>flsa</keyTerm>
+					<keyTerm>wage-hour</keyTerm>
+					<keyTerm>Department of Labor regulations</keyTerm>
+					<keyTerm>fair pay</keyTerm>
+					<keyTerm>29 U.S.C.</keyTerm>
+					<keyTerm>29 USC</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/1111.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">1. Employees earning less than three times the minimum wage require protection.</p>
+			<p id="p2">2. Employees earning between three and six and one-half times the minimum wage require flexibility and clear notice of employment terms.</p>
+			<p id="p3">3. Employees earning over six and one-half times the minimum wage may be deemed exempt.</p>
+			<p id="p4">63. White p. 72, citing Best 1980. Forty percent of full-time workers would likely forgo some income for a reduction in work hours. ( back )</p>
+			<p id="p5">64. These assumptions are, in part, based upon the theory that individual employees should be categorized by their value (i.e. their wage) and not by where they may fall on an organizational chart. (See Reich, supra at 99 (1991)). ( back )</p>
+			<p id="p6">65. Regulatory changes proposed to increase the minimum salary in 1981 have been put on hold indefinitely. See 541.1(f) - proposed. There are technically two tests which apply to determine whether such workers may be deemed exempt. Currently, workers earning a salary of $155 may be exempt if their exempt duties constitute at least eighty percent of their worktime. Workers earning a salary of $250 may be exempt if their exempt duties constitute over one-half of their worktime. This is expected to change in August 2004 when the 2004 regulations are scheduled to become effective. ( back )</p>
+			<p id="p7">66. The long test is not considered herein as it provides that exempt employees may earn less than the minimum wage. ( back )</p>
+			<p id="p8">67. The wage agreement may also provide for compensatory time in lieu of overtime pay. The benefits of compensatory time off are articulated by Senator Wallop in the Congressional Record. See supra. ( back )</p>
+			<p id="p9">68. Employers should also be required to put any statements regarding job security in such a pre-employment agreement as well so employees are able to more intelligently to make decisions whether to accept a job. For example, a clear statement that an employee is employed at will would serve both to notify employees of their at-will employment relationship and insulate employers from breach of contract suits. However, this aspect of the agreement is not the subject of this article. ( back )</p>
+			<p id="p10">69. Perhaps a six month notice term could be required before a wage agreement could be changed if an at-will employment relationship exists. Without such a term, the employer would be free to offer an agreement and then change the employee's working conditions right after the employee begins his or her employment. Such a requirement would not affect the employee's job security, as it would merely state the terms of employment while employed. Regulations would have to be promulgated which define when the six month notice must be given and whether there may be any exceptions to this general rule. For example, one exception to this general rule would arise when an employee desires to switch from receiving overtime pay to compensatory time for working over a set number of hours. ( back )</p>
+			<p id="p11">70. See Andrea Gerlin, Firm's Paralegals Can Be Exempt From Overtime Pay, Jury Decides, Wall St. J., Mar. 16, 1994, at B4. ( back )</p>
+			<p id="p12">71. One study concludes that employers will prefer to increase wages, and not reduce hours in collective bargaining, White p. 56 citing Bienefeld, 1972. However, collective bargaining can still help ensure that employees are not overworked. ( back )</p>
+			<p id="p13">72. 29 C.F.R. § 541.312 (1993) (Pursuant to Public Law 101-583, enacted November 15, 1990, payment "on a salary basis" is not a requirement for exemption in the case of those employees in computer-related occupations, as defined in § 541.3(a)(4) and § 541.303 who otherwise meet the requirements of § 541.3 and who are paid on an hourly basis if their hourly rate of pay exceeds 6 1/2 times the minimum wage provided by section 6 of the Act.) ( back )</p>
+			<p id="p14">74. 135 Cong. Rec. 3742 (daily ed. Apr. 12, 1989) (statement of Sen. Kerry). ( back )</p>
+		</body>
+	</text>
+</cesDoc>

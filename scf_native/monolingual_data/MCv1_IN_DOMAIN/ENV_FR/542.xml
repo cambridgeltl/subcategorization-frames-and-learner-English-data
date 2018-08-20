@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Glossaire de la désertification | Le Comité Scientifique Français de la Désertification (CSFD)</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Glossaire de la désertification | Le Comité Scientifique Français de la Désertification (CSFD)</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:18:58.0</pubDate>
+							<eAddress>http://www.csf-desertification.org/index.php/glossaire</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>comité scientifique français de la désertification</keyTerm>
+					<keyTerm>csfd</keyTerm>
+					<keyTerm>programmes de recherche</keyTerm>
+					<keyTerm>désertification</keyTerm>
+					<keyTerm>dégradation des terres</keyTerm>
+					<keyTerm>sécheresse</keyTerm>
+					<keyTerm>terres arides</keyTerm>
+					<keyTerm>sahel</keyTerm>
+					<keyTerm>afrique</keyTerm>
+					<keyTerm>maghreb</keyTerm>
+					<keyTerm>zones arides</keyTerm>
+					<keyTerm>terres dégradées</keyTerm>
+					<keyTerm>terre dégradée</keyTerm>
+					<keyTerm>déforestation</keyTerm>
+					<keyTerm>érosion</keyTerm>
+					<keyTerm>mécanisme d'érosion</keyTerm>
+					<keyTerm>vie rurale</keyTerm>
+					<keyTerm>sahara</keyTerm>
+					<keyTerm>économie</keyTerm>
+					<keyTerm>investissement</keyTerm>
+					<keyTerm>développement</keyTerm>
+					<keyTerm>development</keyTerm>
+					<keyTerm>convention des nations unies contre la désertification</keyTerm>
+					<keyTerm>cnued</keyTerm>
+					<keyTerm>développement durable</keyTerm>
+					<keyTerm>programmes d'action nationaux</keyTerm>
+					<keyTerm>ccd</keyTerm>
+					<keyTerm>ministère de la recherche</keyTerm>
+					<keyTerm>science</keyTerm>
+					<keyTerm>technologie</keyTerm>
+					<keyTerm>annexe 4 de la convention</keyTerm>
+					<keyTerm>biodiversité</keyTerm>
+					<keyTerm>changements climatiques</keyTerm>
+					<keyTerm>programme d'action régional</keyTerm>
+					<keyTerm>zones arides</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/542.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Glossaire de la désertification</p>
+			<p id="p2">A</p>
+			<p id="p3">L’agroécologie est la discipline scientifique qui a pour objet l'étude des aspects agronomiques, socio-économiques et écologiques liés à la production agricole ainsi que la résolution de problématiques environnementales (conservation des sols, lutte contre l'érosion, maintien de la biodiversité, ...). C’est aussi le nom de nouvelles techniques agricoles qui préservent l’environnement, comme le semis direct sur couverture végétale permanente (SCV).</p>
+			<p id="p4">Un agro écosystème est un écosystème dans lequel prennent place des activités de production agricole et pastorale.</p>
+			<p id="p5">L’aridité reflète un déficit pluviométrique permanent mais elle est aussi liée à d’autres données climatiques spécifiques : insolation forte, températures élevées, faible humidité de l’air et évapotranspiration poussée. </p>
+			<p id="p6">B</p>
+			<p id="p7">Un bien public mondial (BPM) est un bien que tout le monde peut consommer. Sa consommation par une personne ne pénalise pas sa consommation par les autres personnes. Un exemple de BPM est l'air que nous respirons.</p>
+			<p id="p8">Les biens et services naturels (ou des écosystèmes) sont les conditions et procédés par lesquels les écosystèmes naturels soutiennent et permettent la vie humaine comme, par exemple, la provision de bois de chauffe (bien), la filtration de l’eau, la pollinisation des cultures, le maintien du climat (séquestration du carbone) et la satisfaction de besoins humains culturels, spirituels ou intellectuels (services).</p>
+			<p id="p9">La biodiversité (ou diversité biologique) est la variété et la variabilité de tous les organismes vivants. Cela inclut la variabilité génétique à l’intérieur des espèces et de leurs populations, la diversité des complexes d’espèces associées et de leurs interactions, et celle des processus écologiques qu’ils influencent ou dont ils sont les acteurs (définition UICN, 1988).</p>
+			<p id="p10">La biomasse est la masse totale des cellules vivantes d’un endroit donné, rapporté à la surface ou au volume.</p>
+			<p id="p11">Un biotope est un espace limité, caractérisé par des conditions écologiques données, et où se cantonnent une ou plusieurs espèces de plantes et d'animaux.</p>
+			<p id="p12">C</p>
+			<p id="p13">Le capital naturel est une métaphore économique représentant le stock de ressources naturelles desquelles dérivent les biens et de services naturels sur lesquels reposent notre économie et notre bien-être (Aronson et al., 2007).</p>
+			<p id="p14">D</p>
+			<p id="p15">La dégradation signifie ‘destruction lente’ ou évolution défavorable (dans une optique et un contexte à préciser : pour un sol, cela peut être une perte de biodiversité et de résilience faisant s’effondrer sa structure), d’un sol ou d’une forme de relief, de divers processus et d’un changement de conditions de milieu (climat, végétation, régime hydrique, homme, etc.) par rapport aux conditions de genèse initiales.</p>
+			<p id="p16">Le développement durable est, d’après Mme Brundtland, (1987, conférence mondiale sur l’environnement et le développement), « un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins ».</p>
+			<p id="p17">Le développement économique est l’augmentation de la qualité de vie pour un taux de production donné fixe (Daly et Farley, 2004).</p>
+			<p id="p18">E</p>
+			<p id="p19">Un écosystème est un ensemble des organismes vivants et de leur environnement avec lequel ils interagissent à un endroit donné.</p>
+			<p id="p20">L'environnement mondial est :</p>
+			<p id="p21">d'une part, l'ensemble des conditions physiques et bio-géo-chimiques dans lesquels vivent les sociétés humaines (air, eaux douces, océans, terres, végétations, écosystèmes) ;</p>
+			<p id="p22">d'autre part, l'ensemble des conditions économiques et sociales dans lesquelles nous vivons. Cette notion est complémentaire de celle d'environnement local, qui se définit de manière similaire mais au niveau du village, de la ville, de la région.</p>
+			<p id="p23">Un erg est une région du Sahara couverte de dunes (mot d’origine arabe).</p>
+			<p id="p24">Une externalité est la conséquence, positive ou négative, de l’activité d’un ou de plusieurs agents économiques sur d’autres agents économiques qui n’est pas prise en compte par le marché. L’exemple typique est l’industriel qui rejette gratuitement dans l’air des fumées polluantes qui ont des conséquences néfastes sur la santé d’autres agents économiques ; lesquels en paient le coût.</p>
+			<p id="p25">F</p>
+			<p id="p26">I</p>
+			<p id="p27">Un indicateur est un paramètre synthétique servant à évaluer les changements environnementaux liés au processus de la désertification. Ils peuvent être quantitatifs ou qualitatifs.</p>
+			<p id="p28">M</p>
+			<p id="p29">La mondialisation économique est l’expression qui fait référence à l’abolition effective des frontières dans le cadre des échanges économiques (Daly et Farley, 2004).</p>
+			<p id="p30">P</p>
+			<p id="p31">Le processus de désertification est, selon la convention des Nations Unies sur la lutte contre la désertification, « la dégradation des terres dans les zones arides, semi-arides et sub-humides sèches par suite de divers facteurs, parmi lesquels les variations climatiques et les activités humaines ». </p>
+			<p id="p32">La productivité est l’aptitude potentielle d'un organisme (végétal ou animal) à fournir une certaine quantité d'un produit déterminé (plante entière, fruits, graines, fourrage, fibres, huile, bois, lait, viande, laine, etc.) rapportée à une unité d'espace ou de temps. </p>
+			<p id="p33">Un reg est une surface couverte de fragments rocheux, dégagés par vannage éolien et dont la taille varie du grain de sable grossier au bloc (terme d’origine arabe).</p>
+			<p id="p34">La résilience est l’aptitude d’un système à survivre à des perturbations dans sa structure et/ou son fonctionnement, et à retrouver, à la disparition de ces dernières, un état comparable à la situation initiale (Ramade, 1993). En résumé, il s'agit de l'aptitude à amortir les perturbations.</p>
+			<p id="p35">La restauration du capital naturel est le réapprovisionnement des stocks de capital naturel pour améliorer à long terme le bien-être humain et la santé des écosystèmes (Aronson et al., 2007).</p>
+			<p id="p36">La restauration écologique est définie par la Société Internationale pour la Restauration Écologique comme « le procédé d’assister le rétablissement d’un écosystème qui a été dégradé, endommagé, ou détruit souvent à la suite d’activités humaines ».</p>
+			<p id="p37">S</p>
+			<p id="p38">La sécheresse résulte d’un déficit pluviométrique temporaire, alors que le volume des précipitations peut s’avérer suffisant. En Afrique, les écosystèmes sahéliens et soudaniens sont les plus affectés par les sécheresses. La sécheresse peut être considérée comme un catalyseur de la désertification car elle affecte la structure du sol et provoque des changements dans la végétation. Le passage contrasté d’épisodes de sécheresse et de pluies diluviennes fragilise la structure du sol, accélère l’érosion et le processus de désertification. Il peut en résulter des crises, une croissance de la misère ainsi que des famines. </p>
+			<p id="p39">La structure d’un sol est le mode d’assemblage des constituants solides du sol, minéraux et/ou organiques, qui peuvent s’agréger ou non. Une ‘bonne’ structure signifie une bonne aération du sol, une bonne descente de l’eau et un bon développement racinaire.</p>
+			<p id="p40">Un système agraire est l’expression spatiale de l'association des producteurs et des techniques mises en oeuvre par une société rurale en vue de satisfaire ses besoins.</p>
+			<p id="p41">T</p>
+			<p id="p42">La télédétection est l’ensemble de techniques mises en œuvre à partir d'avions, de ballons, de satellites, et qui ont pour but d'étudier soit la surface de la terre (ou d'autres planètes), soit l'atmosphère, en utilisant les propriétés des ondes électromagnétiques émises, réfléchies ou diffractées par les différents corps observés. Elle permet d'inventorier les ressources terrestres, d'améliorer les prévisions météorologiques, etc.</p>
+			<p id="p43">Mise à jour le Mardi, 22 Juin 2010 14:52</p>
+			<p id="p44">L’aridité reflète un déficit pluviométrique permanent mais elle est aussi liée à d’autres données climatiques spécifiques : insolation forte, températures élevées, faible humidité de l’air et évapotranspiration poussée. </p>
+			<p id="p45">La sécheresse résulte d’un déficit pluviométrique temporaire, alors que le volume des précipitations peut s’avérer suffisant. La sécheresse peut être considérée comme un catalyseur de la désertification car elle affecte la structure du sol et provoque des changements dans la végétation. </p>
+			<p id="p46">La désertification désigne le déclin irréversible ou la destruction du potentiel biologique des terres et de leur capacité à supporter ou à nourrir les populations. La désertification est indissociable de la question du développement durable des zones sèches. </p>
+			<p id="p47">© 2009 Comité Scientifique Français de la Désertification (CSFD) </p>
+			<p id="p48">Le CSFD est soutenu par le ministère de l'Enseignement supérieur et de la Recherche, le ministère des Affaires étrangères et européennes, le ministère de l’Écologie, de l’Énergie, du Développement durable et de l’Aménagement du territoire, l'Agence Française de Développement et Agropolis International.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Economistas y científicos de EEUU se unen contra el cambio climático - Ecología y Desarrollo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Economistas y científicos de EEUU se unen contra el cambio climático - Ecología y Desarrollo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:20:10.0</pubDate>
+							<eAddress>http://ecodes.org/noticias/economistas-y-cientificos-de-eeuu-se-unen-contra-el-cambio-climatico</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>cambio climático</keyTerm>
+					<keyTerm>emisiones de CO2</keyTerm>
+					<keyTerm>IPCC</keyTerm>
+					<keyTerm>emisión de CO2</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/17245.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">por la sostenibilidad</p>
+			<p id="p2">Economistas y científicos de EEUU se unen contra el cambio climático</p>
+			<p id="p3">Dos mil científicos y economistas norteamericanos han dirigido una carta al Senado pidiendo una acción urgente para reducir las emisiones de gases invernadero. La petición ha coindicido con el último sondeo de Gallup que refleja un creciente escepticismo en la opinión pública: el 48% de los estadounidenses considera que la amenaza del cambio climático ha sido "exagerada". Fuente: El Mundo</p>
+			<p id="p4">El 53% de la población considera que el calentamiento global esa "real" (la proporción más baja en la última década) y tan sólo el 32% cree que sufrirá las consecuencias directas del calentamiento de la atmósfera.</p>
+			<p id="p5">Alertados por el cambio de percepción en la opinión pública, los dos mil científicos –entre ellos, ocho premios Nobel- ha dirigido la misiva al Senado urgiendo la aprobación de la ley de clima, que lleva ocho meses en el dique seco.</p>
+			<p id="p6">"Urgimos a los líderes de nuestra nación a que pongan en marcha las políticas para la reducción de las emisiones", escriben los científicos. "La evidencia de la ciencia del clima nos obliga a alertar a la población sobre las irreversibles consecuencias si las temperaturas siguen subiendo".</p>
+			<p id="p7">La carta se produce también como reacción en respuesta la reciente decisión por parte de la ONU de crear un panel independiente que revisará el último y cuestionado informe del Comité Intergubernamental sobre el Cambio Climático (IPCC). Los científicos expresan finalmente su preocupación por la decisión de varios estados –como Texas, Virginia y Alabama- de ceder a las presiones de los 'lobbys' del carbón y del petróleo y desafiar en los tribunales la autoridad de la Agencia de Protección Ambiental (EPA) para regular las emisiones de CO2.</p>
+			<p id="p8">'Alterar la percepción'</p>
+			<p id="p9">"La 'coalición de los negacionistas' ha logrado alterar la percepción de la gente", admite por su parte Al Gore, entrevistado hoy en las páginas de EL MUNDO. "Tan sólo en el último año se han gastado 500 millones de dólares en anuncios de televisión... Están usando la misma estrategia que la industria del tabaco cuando intentaban convencernos de que los cigarrillos no eran nocivos para la salud.</p>
+			<p id="p10">El 48% de los norteamericanos cree que la amenaza del calentamiento global se ha 'exagerado'</p>
+			<p id="p11">Gore reconoce el daño causado al movimiento del cambio climático por el fiasco de la cumbre de Compenhague, por el escándalo de los emails pirateados de la Universidad de East Anglia y por las incorrecciones detectadas en el informe del IPCC del 2007 sobre la desaparición de los glaciares del Himalaya</p>
+			<p id="p12">El autor de 'Una verdad incómoda'y 'Nuestra Elección' hace sin embargo un llamamiento a la unidad y a la persistencia del movimiento ecologista: "Tenemos que hacer frente a la operación masiva de los negacionistas, pero estoy seguro de que al final tendremos éxito". El propio Gore se ha aplicado el cuento y ha decidido fundir el trabajo de Alianza por la Protección del Clima, con sede en Washington, y The Climate Project, con ramificaciones en ocho países (entre ellos España).</p>
+			<p id="p13">Navega en ECODES</p>
+			<p id="p14">Navega por tags</p>
+			<p id="p15">Ecología y Desarrollo</p>
+			<p id="p16">Plaza San Bruno, 9 · 50001 Zaragoza · España Tel: + 34 976 29 82 82 · Fax: +34 976 20 30 92</p>
+		</body>
+	</text>
+</cesDoc>

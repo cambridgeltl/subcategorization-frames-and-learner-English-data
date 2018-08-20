@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Emergenza rifiuti a Palermo | Rifiuti e Riciclo - Terranauta.it</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Emergenza rifiuti a Palermo | Rifiuti e Riciclo - Terranauta.it</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 07:04:43.0</pubDate>
+							<eAddress>http://www.terranauta.it/a1123/rifiuti_e_riciclo/emergenza_rifiuti_a_palermo.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/43510.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">E' emergenza rifiuti a Palermo</p>
+			<p id="p2">La Rete Rifiuti Zero Sicilia, costituita da associazioni e comitati di cittadini attivi in più parti dell’isola, visti i recenti fatti accaduti a Palermo, comunica il proprio sgomento per il disastro causato nella città da una cattiva gestione dei rifiuti. I gravi danni, generati dall’ amministrazione, ai lavorati dipendenti della ditta municipalizzata, si sono ripercossi nelle strade della città, lasciando ovunque tracce indelebili. Non è sgombrando le strade che il problema si possa considerare risolto. Bisogna agire alla fonte attivamente. L’emergenza, come in Campania, è la conseguenza di cattive scelte politico-amministrative.</p>
+			<p id="p3">La volontà di non fare una seria e capillare raccolta differenziata causa gravi danni all’ambiente e di conseguenza alla salute dei cittadini. Prevenire, prima che il disastro accada, è la strada da percorrere. La prevenzione è la raccolta differenziata, la separazione del rifiuto secco dal rifiuto umido, per permettere il recupero delle risorse. E’ auspicabile un piano sensato di gestione rifiuti, compatibile con le direttive europee, con i centri comunali di raccolta, gli impianti di selezione e di compostaggio.</p>
+			<p id="p4">Obiettivo “Rifiuti Zero” è gestione eco-compatibile dei rifiuti, prodotti post-consumo, è separazione alla fonte per impedire il riempimento delle discariche per non parlare della scellerata volontà di costruire inceneritori nella nostra regione. Una raccolta differenziata porta a porta spinta permette di raggiungere alte percentuali in pochi mesi creando nuovi posti di lavoro. In un momento di crisi economica ci auguriamo che le risposte vengano da decisioni coscienziose mirate al recupero e al risparmio delle risorse sia nel presente che nel futuro.</p>
+			<p id="p5">Abbiamo prova da più parti d’Italia e del mondo che il percorso “Rifiuti Zero” è possibile sia nelle piccole che nelle grandi città e non è utopia. Per concludere la Rete Rifiuti Zero Sicilia esprime la propria solidarietà verso i rigattieri siciliani che hanno contribuito al mercato del riciclo, al recupero e al riuso, ma a causa delle recenti norme sulla sicurezza non possono svolgere il loro lavoro.</p>
+			<p id="p6">Le associazioni e i comitati della Rete Rifiuti Zero Sicilia</p>
+			<p id="p7">PER SAPERNE DI PIU' SULL'ARGOMENTO</p>
+			<p id="p8">Ti è piaciuto questo articolo? Cosa aspetti, iscriviti alla nostra newsletter!</p>
+			<p id="p9">E-mail</p>
+			<p id="p10">Tuo nome</p>
+			<p id="p11">Compila il modulo sottostante per inviare questo articolo a un amico</p>
+			<p id="p12">Tuo nome</p>
+			<p id="p13">Vuoi procedere alla stampa?</p>
+			<p id="p14">Mail:</p>
+			<p id="p15">(inserisci la tua mail se vuoi ricevere una notifica quando il tuo commento sarà online e quando lo stesso articolo verrà commentato da altri)</p>
+			<p id="p16">La Newsletter di Terranauta è uno strumento utile, non invadente, che ti permette di rimanere periodicamente aggiornato sugli ultimi articoli pubblicati sulle pagine di Terranauta. Per iscriverti basta inserire la tua e-mail nella casella qui sotto.</p>
+			<p id="p17">E-mail</p>
+			<p id="p18">E-mail</p>
+			<p id="p19">Tuo nome</p>
+			<p id="p20">Testata registrata c/o Tribunale di Roma n. 543/04</p>
+		</body>
+	</text>
+</cesDoc>

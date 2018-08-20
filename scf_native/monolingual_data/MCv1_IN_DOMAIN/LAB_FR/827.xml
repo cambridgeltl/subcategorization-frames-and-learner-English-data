@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:51.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=54</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/827.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">La surveillance médicale des télétravailleurs à domicile</p>
+			<p id="p4">L’entreprise qui emploie des télétravailleurs salariés travaillant à domicile n’est nullement exonérée de ses obligations relatives à la surveillance médicale) même lorsque ceux-ci sont soumis au régime juridique dérogatoire du travail à domicile (les télétravailleurs à domicile pouvant également être soumis au régime de droit commun du Code du travail).</p>
+			<p id="p5">Les articles L. 771-8 et L. 771-9 du Code du travail relatifs aux gardiens d’immeubles (loi du 15 décembre 1971), dispositions auxquelles renvoie l’article L. 721-23 du même Code, relatif aux travailleurs à domicile, prévoient l’application, aux travailleurs à domicile, des règles relatives à la surveillance médicale des salariés.</p>
+			<p id="p6">Certains auteurs ont d’abord considéré qu’à défaut de publication d’un décret d'application concernant la surveillance médicale des travailleurs à domicile, les dispositions susvisées demeuraient inapplicables.</p>
+			<p id="p7">Mais il a été décidé, par la Cour de cassation, que l'ensemble des dispositions régissant la surveillance médicale des salariés de droit commun était applicable aux travailleurs à domicile, même en l'absence de décret d'application (Soc. 16 janvier 1997, SARL Maître et Flexas c/ Garnier).</p>
+			<p id="p8">De sorte que l’employeur doit s’inscrire auprès des services compétents de la médecine du travail pour que les télétravailleurs fraîchement recrutés soient soumis à une visite médicale d’embauche, puis, ensuite, aux visites de contrôle.</p>
+			<p id="p9">A défaut de publication d’arrêtés du Ministère du travail en ce sens (article L. 721-22 du Code du travail) les télétravailleurs peuvent exécuter, indépendamment de leurs dangers intrinsèques (et sous la surveillance, à cet égard, de l’Inspection du travail), la totalité des travaux, notamment sur écran, pouvant être effectués au sein d’un établissement.</p>
+			<p id="p10">S’agissant, en particulier, du travail sur écran, il est prévu, notamment que lorsqu'un travailleur à domicile est occupé pendant une partie importante de son temps de travail sur un équipement à écran de visualisation, une surveillance médicale particulière est prévue pour ce télétravailleur (décret n°91-451 du 14 mai 1991).</p>
+			<p id="p11">Par ailleurs, l'employeur doit organiser son activité afin de permettre une interruption périodique du travail sur écran, soit par des pauses, soit par des changements d'activité.</p>
+			<p id="p12">Ces pauses, lorsqu'elles ne se traduisent pas un simple changement d'activité, ne semblent pas cumulables avec la nouvelle pause légale d’une durée minimum de 20 minutes pour 6 heures de travail (sauf dispositions plus favorables de la convention collective).</p>
+			<p id="p13">Pascal ALIX</p>
+			<p id="p14">VirtuaLegis , partenaire de contenu de NetPME</p>
+			<p id="p15">ACCEDER A VOTRE CONVENTION COLLECTIVE</p>
+		</body>
+	</text>
+</cesDoc>

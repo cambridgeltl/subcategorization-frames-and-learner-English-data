@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Contaminación industrial</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Contaminación industrial</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2000-05-18 22:10:43.0</pubDate>
+							<eAddress>http://www.etsav.upc.es/personals/monclus/cursos/1301.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/2352.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Catedrática de Universidad en el área de Química Analítica</p>
+			<p id="p2">Centro Politécnico Superior de Ingenieros</p>
+			<p id="p3">Universidad de Zaragoza</p>
+			<p id="p4">Contaminación del suelo y su tratamiento</p>
+			<p id="p5">Contaminación por residuos y su tratamiento</p>
+			<p id="p6">Evaluación de impacto ambiental: legislación, concepto y metodología.</p>
+			<p id="p7">Programa de restauración después de una obra</p>
+			<p id="p8">INTRODUCCIÓN</p>
+			<p id="p9">Todas las obras y actividades son susceptibles de provocar cambios en el entorno, pero no por ello debemos paralizar el desarrollo ni eliminar la producción, sino por el contrario, existen cada vez más medios desarrollados a su vez para permitir las actividades siendo respetuosos con el Medio Ambiente. Desde el punto de vista del urbanismo se deben considerar estas situaciones, incluyendo en el paisaje no sólo aquellos elementos que decoran o tienen una función urbanística, sino también aquellas instalaciones que forman parte de la actividad humana y que necesariamente van unidas a ella, como son las instalaciones de depuración y tratamiento, que acompañan al conjunto de viviendas, a las instalaciones industriales y a los poligonos industriales y de comercio.</p>
+			<p id="p10">Por otra parte, la realización de cualquier obra exige un suelo disponible y este está a su vez condicionado por su situación, su calificación y su calidad, que a su vez dependen del uso anterior y su grado de contaminación. Estos son aspectos esenciales de un proyecto, que es necesario abordar antes de proponer su ubicación definitiva.</p>
+			<p id="p11">Por estas razones, cada vez es más necesario que los profesionales que realizan los proyectos conozcan los medios, mecanismos y elementos que deben considerar e integrar en los proyectos para que éstos resulten respetuosos con el Medio Ambiente.</p>
+			<p id="p12">Con objeto de estructurar el contenido de esta charla de forma coherente en el contexto en el que se encuadra, y dado que en dos horas es imposible explicar todos los aspectos relevantes del Medio Ambiente, se hará hincapié en las cuestiones que pueden incidir más directamente en la arquitectura y su desarrollo. No se considera la contaminación atmosférica, por considerar que está relacionada directamente con la industria y queda algo fuera de contexto aquí, ya que la contaminación urbana ha quedado comentada en las charlas anteriores.</p>
+			<p id="p13">Contaminación del agua y su tratamiento</p>
+			<p id="p14">Para conocer las características de un vertido y su posible tratamiento, hay que tener claro los siguientes conceptos:</p>
+			<p id="p15">Biodegradabilidad</p>
+			<p id="p16">, es la característica de determinados compuestos de ser utilizados por microorganismos como fuente de alimentación. Desde el punto de vista de la contaminación y más concretamente de los procesos de tratamiento, los compuestos orgánicos se dividen en biodegradables o no biodegradables.</p>
+			<p id="p17">Demanda teórica de oxígeno (DTO),</p>
+			<p id="p18">es la cantidad estequiométrica de oxígeno requerida para oxidar completamente un determinado compuesto.</p>
+			<p id="p19">Carbono orgánico total (COT),</p>
+			<p id="p20">Demanda química de oxígeno (DQO),</p>
+			<p id="p21">es la cantidad de oxígeno que se necesitará para oxidar toda la materia orgánica presente en el agua.</p>
+			<p id="p22">Demanda biológica de oxígeno (DBO),</p>
+			<p id="p23">es la cantidad de oxígeno necesaria para descomponer la materia orgánica existente de forma bioquímica aerobia.</p>
+			<p id="p24">La relación entre DBO y DQO nos indicará el tipo de vertido y su posibilidad de depuración:</p>
+			<p id="p25">DBO/DQO>0,6</p>
+			<p id="p26">DBO/DQO&lt;0,2</p>
+			<p id="p27">Contaminación por la industria</p>
+			<p id="p28">El funcionamiento de cualquier industria requiere grandes cantidades de agua. El agua al intervenir en los procesos industriales se contamina, y hay que controlar el vertido de este agua contaminada.</p>
+			<p id="p29">El artículo 105 de la Ley de Aguas establece: los vertidos autorizados conforme a lo dispuesto en los artículos 92 y siguientes, se gravarán con un canon destinado a la protección y mejora del medio receptor de cada cuenca hidrográfica.</p>
+			<p id="p30">El título IV del primer Reglamento de la Ley de Aguas en su capítulo II establece y regula el canon de vertido:</p>
+			<p id="p31">C = K.v</p>
+			<p id="p32">C= carga contaminante, K = coeficiente que depende de la naturaleza del vertido, V=volumen de vertido en m3/año.</p>
+			<p id="p33">Para valorar la importancia de la contaminación que los vertidos de la industria química causan hay que conocer exactamente el proceso industrial y el uso del agua en cada punto del proceso. La relación de los principales contaminantes presentes en los vertidos del sector condicionarán el tratamiento del vertido.</p>
+			<p id="p34">Tecnología de depuración de vertidos</p>
+			<p id="p35">Los vertidos deben ser depurados de contaminantes antes de ser introducidos de nuevo en el río, para restablecer las condiciones originales del agua.</p>
+			<p id="p36">El tratamiento de un vertido se clasifica en:</p>
+			<p id="p37">• pretratamiento, suelen ser tratamientos físicos</p>
+			<p id="p38">• primarios, son tratamientos físico-químicos</p>
+			<p id="p39">Pretratamiento</p>
+			<p id="p40">Desbaste por rejas y tamices</p>
+			<p id="p41">Eliminar sólidos de cierto tamaño</p>
+			<p id="p42">Medidor de caudal</p>
+			<p id="p43">Desarenadores</p>
+			<p id="p44">Desengrasadores</p>
+			<p id="p45">Tratamiento primario</p>
+			<p id="p46">Los métodos más utilizados son:</p>
+			<p id="p47">Método</p>
+			<p id="p48">Flotación con aire</p>
+			<p id="p49">Coagulación</p>
+			<p id="p50">Floculación</p>
+			<p id="p51">Neutralización</p>
+			<p id="p52">Tratamiento secundario</p>
+			<p id="p53">Consisten en utilizar ciertos grupos o familias de microorganismos para eliminar la contaminación orgánica del agua, se llaman también tratamientos biológicos. Es un tratamiento adecuado para industrias con una gran carga de materia orgánica en el vertido, como son las papeleras. En función de las características de las aguas se pueden emplear tratamientos aerobios (con oxigeno) o anaerobios (en ausencia de oxígeno), y en función de cómo se encuentren los microorganismos. Se trata de cultivos en suspensión cuando se encuentran libremente difundidos en la masa del líquido, o cultivos fijos, cuando forman una película sobre un soporte previamente fijado.</p>
+			<p id="p54">Tratamiento de lodos</p>
+			<p id="p55">En los procesos de tratamiento de aguas los contaminantes separados en el proceso de depuración se concentran en forma de lodos. Este residuo tendrá una características diferentes según las características del agua tratada. El primer paso para tratar los lodos es deshidratarlos para disminuir su volumen, a partir de ahí se pueden seguir diferentes tratamientos:</p>
+			<p id="p56">- recuperación de reactivos químicos presentes para su reutilización</p>
+			<p id="p57">- generación de biogás y aprovechamiento del poder calorífico para generación de calor y de energía eléctrica</p>
+			<p id="p58">- utilización como abono orgánico</p>
+			<p id="p59">Tratamientos terciarios</p>
+			<p id="p60">Son los más específicos y los más interesantes desde el punto de vida industrial. Además son los que más avances han tenido con las nuevas tecnologías. Son muy variados y se adaptan a las características del agua contaminada de cada industria. Un ejemplo de ellos se muestra a continuación:</p>
+			<p id="p61">Método</p>
+			<p id="p62">Cambio iónico</p>
+			<p id="p63">Isótopos radiactivos</p>
+			<p id="p64">Separación por membranas:</p>
+			<p id="p65">Membranas de acetato de celulosa y de poliamidas aromáticas</p>
+			<p id="p66">Membranas de diálisis selectiva</p>
+			<p id="p67">Recuperación de metales, recuperación de nitrato amónico</p>
+			<p id="p68">Desmineralización</p>
+			<p id="p69">CONTAMINACIÓN DEL SUELO Y SU TRATAMIENTO</p>
+			<p id="p70">Los suelos han sufrido degradaciones de todo tipo, pero desde el punto de vista medioambiental es muy importante el papel que han jugado como almacén de residuos y como consecuencia de ello la degradación química.</p>
+			<p id="p71">El desconocimiento de los efectos que podrían provocar los nuevos residuos, la ausencia de medios suficientes para su tratamiento, así como las malas prácticas medioambientales del pasado, han tenido como consecuencia más inmediata el vertido o depósito incontrolado de los mismos, lo que a su vez ha originado la contaminación progresiva de muchos suelos.</p>
+			<p id="p72">- Plan Nacional de Recuperación de Suelos contaminados:</p>
+			<p id="p73">El Plan Nacional dice que, puesto que no puede evitarse en su totalidad la emisión de sustancias contaminantes hay que adoptar medidas para minimizar la producción de residuos, modificando los procesos de fabricación, para lograr una producción más limpia y una gestión adecuada de los residuos peligrosos. Esta actuación, de cara al presente y al futuro, hay que complementarla con otra hacia el pasado, que corrija el deterioro producido por el vertido al terreno de sustancias y elementos contaminantes, y su difusión a través del propio terreno y de las aguas superficiales o subterráneas.</p>
+			<p id="p74">- Plan Nacional de Residuos Peligrosos:</p>
+			<p id="p75">En el que se apuesta claramente por potenciar la minimización de residuos, mediante instrumentos económicos que incentiven la sustitución de aquellos procesos de fabricación que producen contaminación por otros con tecnología más limpia y la construcción de depósitos de seguridad, que garanticen el confinamiento de aquellos que es imposible evitar.</p>
+			<p id="p76">Tipos de degradación del suelo</p>
+			<p id="p77">El suelo hace un papel de receptor y amortiguador de la contaminación, esto hace que muchos suelos del mundo se encuentren en un nivel avanzado de degradación, especialmente por contaminación química.</p>
+			<p id="p78">Se considera como degradación del suelo al proceso o conjunto de procesos que disminuyen su capacidad actual y potencial para diferentes usos. Los tipos de degradación son:</p>
+			<p id="p79">- Por erosión hídrica</p>
+			<p id="p80">- Biológica</p>
+			<p id="p81">Como degradación química se conoce el impacto negativo que se produce en las propiedades que regulan la vida del suelo por efecto de procesos químicos, como por ejemplo, la acidificación y la toxicidad.</p>
+			<p id="p82">Contaminación del suelo</p>
+			<p id="p83">Los suelos tienen propiedades físicas y químicas muy diferentes, pero además están sometidos a distintas variaciones en la humedad, el pH y las condiciones redox. El problema es que cuando un espacio se encuentra contaminado afecta a varios medios como el aire, las aguas superficiales, las aguas subterráneas, el suelo y los receptores potenciales. Además, es una contaminación dinámica porque al moverse los contaminantes en el terreno a través de las capas más permeables se facilita su dispersión y esto hace que aumente el área afectada.</p>
+			<p id="p84">La contaminación del suelo debida a fuentes antropogénicas (causadas por el hombre) se debe fundamentalmente a :</p>
+			<p id="p85">- ciertas prácticas agrícolas, como el uso abusivo de fertilizantes y pesticidas inorgánicos, así como el uso de aguas residuales y abonos orgánicos.</p>
+			<p id="p86">- las explotaciones mineras y de procesado que incorporan al suelo elementos tóxicos procedentes de las minas.</p>
+			<p id="p87">- el transporte, como lo demuestran los suelos contaminados en los alrededores de carreteras.</p>
+			<p id="p88">- los procesos industriales, debido, por una parte, a las emisiones que pueden depositarse en suelos y vegetación, y por otra a los residuos industriales.</p>
+			<p id="p89">Los contaminantes más habituales que se pueden encontrar en los suelos son los siguientes:</p>
+			<p id="p90">- metales pesados</p>
+			<p id="p91">Prevención de la contaminación</p>
+			<p id="p92">La prevención, en primer lugar, debe de practicarse en origen, minimizando la producción de residuos a través de cambios practicados en los productos y procesos industriales. Otro paso a seguir es tomar medidas de aislamiento y control, a lo largo de los procesos productivos de todas las actividades industriales sospechosas de poder alterar las propiedades del suelo, así como en el almacenamiento y transporte de residuos que puedan contaminar el mismo.</p>
+			<p id="p93">Para prevenir la degradación química es preciso conocer las características del suelo, ya que cada suelo tiene una capacidad amortiguadora de la contaminación, y prever como va a responder el suelo frente a procesos como los siguientes:</p>
+			<p id="p94">- ácido-base, en este caso la respuesta dependerá del grado de saturación y de su capacidad de intercambio catiónico. Si la adición de ácido es grande, la capacidad de neutralización del suelo dependerá del contenido en minerales que tenga.</p>
+			<p id="p95">- precipitación-disolución, dependerá de su capacidad de reacción con los compuestos para precipitar como fosfatos, arseniatos y seleniatos; si son metales, precipitarán como sulfuros.</p>
+			<p id="p96">- adsorción-desorción, dependerá de las propiedades del suelo, si contiene caliza activa se verá favorecida la adsorción.</p>
+			<p id="p97">- complejación</p>
+			<p id="p98">Necesidad de tratamiento de suelos contaminados</p>
+			<p id="p99">La necesidad de tratamiento de los suelos ha despertado gran interés en los últimos años por distintas circunstancias:</p>
+			<p id="p100">- La existencia de suelos alterados que condicionan y limitan su uso y hacen que sea necesaria una gestión de los mismos que minimice el riesgo para la salud humana y el medio ambiente.</p>
+			<p id="p101">- La existencia de gran número de vertederos y rellenos hechos con residuos o materiales tóxicos especiales, que se asientan sobre terrenos que lixivian directamente a los cauces de aguas superficiales.</p>
+			<p id="p102">- La puesta al descubierto, cuando se prepara un terreno, de materiales clasificados como residuos tóxicos y peligrosos, lo que lleva a una limitación sobre la actuación prevista.</p>
+			<p id="p103">Análisis de riesgos</p>
+			<p id="p104">Antes de aplicar un tratamiento al suelo contaminado es necesario hacer una análisis de los posibles riesgos y para evaluar riesgos hay que tener en cuenta varios factores como son:</p>
+			<p id="p105">- la identificación de los contaminantes presentes</p>
+			<p id="p106">- la determinación de propiedades físico-químicas y toxicológicas de los contaminantes presentes</p>
+			<p id="p107">- las características geológicas, hidrogeológicas y demográficas del emplazamiento</p>
+			<p id="p108">- la determinación de la migración de la contaminación</p>
+			<p id="p109">- el alcance de la misma</p>
+			<p id="p110">La finalidad de un análisis de riesgos es determinar, basándonos en el criterio de riesgo admisible en las posibles receptores, si procede intervenir, con qué urgencia hay que intervenir y el alcance de las operaciones de limpieza y sellado de emplazamiento.</p>
+			<p id="p111">Para poder realizar un análisis de riesgos se pueden seguir los siguientes pasos:</p>
+			<p id="p112">- caracterización de los niveles de contaminación existentes en suelos y aguas subterráneas</p>
+			<p id="p113">- identificación de las rutas de transporte</p>
+			<p id="p114">- identificación de los receptores potenciales</p>
+			<p id="p115">- determinación de los riesgos asociados a las concentraciones de los contaminantes residuales después de las operaciones de limpieza y sellado del emplazamiento.</p>
+			<p id="p116">Objetivos</p>
+			<p id="p117">El objetivo de asegurar la calidad de los suelos es para proteger la salud humana y el funcionamiento de los ecosistemas, evitando así la dispersión de la contaminación. Con este fin, las acciones a realizar son las siguientes:</p>
+			<p id="p118">- prevenir nuevas alteraciones</p>
+			<p id="p119">- recuperar los casos más urgentes</p>
+			<p id="p120">Lo que se intenta es evitar efectos irreversibles sobre la calidad del suelo, y en el caso de que se hayan producido, aislar las fuentes del resto del entorno, controlarlas y vigilar regularmente su evolución. Pero además la degradación química puede ser reversible en algunos casos con ciertas acciones como:</p>
+			<p id="p121">- modificar el pH</p>
+			<p id="p122">- lavar algunas fracciones de suelo</p>
+			<p id="p123">- promover la volatilización.</p>
+			<p id="p124">Tratamiento de suelos contaminados</p>
+			<p id="p125">Debido a la complejidad y diversidad de las circunstancias que rodean a un suelo contaminado, no hay dos casos semejantes y por tanto no hay una solución aplicable de forma general.</p>
+			<p id="p126">Técnicas de tratamiento</p>
+			<p id="p127">1.- Confinamiento: es el conjunto de medidas destinadas a aislar la fuente de contaminación, evitando la salida de lixiviados, polvo y gases y la entrada de aguas superficiales y subterráneas. Algunas de estas medidas son la cobertura, la instalación de barreras y los sistemas de recogida de aguas y lixiviados.</p>
+			<p id="p128">2.- Tratamiento "in situ": se llama así al realizado en el propio espacio contaminado, sin extraer el suelo, mediante técnicas que están en desarrollo. Se aplica cada vez con más frecuencia por ser la más barata.</p>
+			<p id="p129">3.- Tratamiento "on site": es el que se realiza en el mismo lugar pero extrayendo el suelo contaminado del terreno. Se utilizan unidades móviles de tratamiento que están diseñadas para limpiar el suelo o el agua contaminada. Es más cara que la anterior.</p>
+			<p id="p130">4.- Tratamiento "off site": se llama así al que se realiza fuera del emplazamiento, en instalaciones autorizadas para la recuperación de suelos contaminados o el tratamiento de residuos industriales especiales. Tienen que ser instalaciones cercanas al suelo contaminado porque el transporte es un problema que encarece mucho el tratamiento.</p>
+			<p id="p131">Tecnologías de tratamiento:</p>
+			<p id="p132">Se puede hacer una clasificación de las diferentes tecnologías según el proceso utilizado en cada una de ellas y que dependerá sobre todo del tipo de contaminante presente. Una clasificación sería la siguiente:</p>
+			<p id="p133">Tecnologías térmicas:</p>
+			<p id="p134">Un ejemplo es la Incineración que consiste en quemar los contaminantes y la materia orgánica natural del suelo contaminado. Con esta tecnología el suelo queda biológicamente inerte y alterado de forma irreversible.</p>
+			<p id="p135">Tecnologías físico-químicas:</p>
+			<p id="p136">Extracción con disolventes</p>
+			<p id="p137">, consiste en añadir al suelo agua para obtener un fango que se mezcla con disolvente a bajas temperaturas. El disolvente extrae los contaminantes orgánicos adsorbidos en las partículas de suelo.</p>
+			<p id="p138">Son técnicas que se realizan con el suelo excavado pero que son muy caras y solo se utilizan cuando los contaminantes son muy tóxicos y es necesario eliminarlos del suelo. Se utilizan para suelos contaminados con aceites y PCBs.</p>
+			<p id="p139">Lavado con agua</p>
+			<p id="p140">como el lavado in situ, consiste en inyectar, mediante un sistema de rociadores o pozos de inyección, agua limpia por encima de la zona contaminada. De esta forma el agua se infiltra a través del suelo contaminado y lo va lavando. Para que pueda realizarse es necesario que el suelo sea permeable y tener la garantía de que no se produce migración de contaminantes a aguas subterráneas.</p>
+			<p id="p141">Solidificación/Estabilización</p>
+			<p id="p142">, consiste en reducir la movilidad de los contaminantes mediante su incorporación a materiales sólidos con baja permeabilidad. El mecanismo de fijación puede ser físico o químico, y los materiales variados como cemento, silicatos, termoplásticos y polímeros orgánicos</p>
+			<p id="p143">Vitrificación</p>
+			<p id="p144">, está basada en un calentamiento eléctrico con el que los residuos se funden en una matriz vítrea, muy resistente, que impide la fuga de los lixiviados</p>
+			<p id="p145">Arrastre in situ con aire</p>
+			<p id="p146">, se fuerza un flujo de aire a través del suelo mediante vacío o presión. Los componentes volátiles son arrastrados por la corriente de aire. Continuamente se extrae el aire contaminado de los poros del suelo y se introduce aire limpio. Se utiliza para compuestos orgánicos volátiles (COVs).</p>
+			<p id="p147">Arrastre con vapor</p>
+			<p id="p148">, se inyecta vapor y aire caliente a profundidades de hasta 10 metros. Esta mezcla calienta el suelo y causa la evaporación de los componentes químicos.</p>
+			<p id="p149">Electromigración</p>
+			<p id="p150">, consiste en aplicar un campo eléctrico al suelo lo que provoca la migración de los contaminantes iónicos hacia los electrodos. Los electrodos están llenos de disoluciones químicas y conectados a dos sistemas separados de circulación. En esas disoluciones se separan los contaminantes.</p>
+			<p id="p151">Tecnologías biológicas:</p>
+			<p id="p152">Consisten en la degradación de contaminantes orgánicos mediante la acción de microorganismos. Estas tecnologías están condicionadas por factores como los siguientes:</p>
+			<p id="p153">- biodegradabilidad de los contaminantes presentes</p>
+			<p id="p154">- presencia de componentes inhibidores de esta degradación</p>
+			<p id="p155">- temperatura del suelo</p>
+			<p id="p156">- pH del suelo</p>
+			<p id="p157">- solubilidad de los contaminantes presentes</p>
+			<p id="p158">Se utiliza para suelos contaminados con pesticidas, gasóleo, gasolina, aceites y ciertos compuestos orgánicos halogenados.</p>
+			<p id="p159">Los diferentes métodos utilizados son:</p>
+			<p id="p160">"Landfarming" o laboreo</p>
+			<p id="p161">, los suelos contaminados son excavados y tratados en espacios abiertos. Las capas del suelo son aireadas mediante volteo y los lixiviados son filtrados y recogidos.</p>
+			<p id="p162">Biodegradación en reactor</p>
+			<p id="p163">, consiste en la adición del agua al suelo hasta formar un fango con un 50% en peso. Se pueden añadir microorganismos al principio o durante el proceso. Cuando la biodegradación ha terminado, hay que deshidratar el suelo.</p>
+			<p id="p164">Biodegradación in situ</p>
+			<p id="p165">, consiste en potenciar la biodegradación natural del suelo mediante aporte de nutrientes (fósforo y nitrógeno), oxígeno y a veces, inoculación de cultivo de bacterias. También es posible ajustar algunos parámetros ambientales, para ayudar, como el pH y la temperatura del suelo.</p>
+			<p id="p166">CONTAMINACIÓN POR RESIDUOS Y SU TRATAMIENTO</p>
+			<p id="p167">La política ambiental sobre residuos tóxicos y peligrosos tiene como principios básicos la prevención de posibles riesgos para la salud humana, los recursos naturales y el medio ambiente, mediante la transferencia de la contaminación a otro medio receptor y promoviendo tanto la recuperación de las materias primas y energía en ellas contenidas, como el desarrollo de tecnologías que permitan su reutilización a la vez que disminuyan sus efectos nocivos en el medio, y contribuyan por tanto, a preservar los recursos naturales.</p>
+			<p id="p168">Clasificación de los residuos</p>
+			<p id="p169">Una clasificación general de los residuos los diferencia de la siguiente forma:</p>
+			<p id="p170">- Residuos asimilables a urbanos, son aquellos que pueden ser gestionados como los residuos sólidos urbanos (restos de alimentación, papel, plásticos, maderas…).</p>
+			<p id="p171">- Residuos inertes son los que no dañan el medio ambiente y pueden ser utilizados como relleno en obras públicas (escorias, escombros, chatarra, arenas…)</p>
+			<p id="p172">- Residuos tóxicos y peligrosos, son todos aquellos que incluye la legislación, alguno de ellos puede que no lo sea específicamente, pero pueda llegar a serlo en determinadas condiciones que hay que tener en cuenta. Estos residuos necesitan una gestión y un tratamiento o eliminación especial según sus características.</p>
+			<p id="p173">Según la legislación española y la normativa comunitaria se definen como tóxicos los residuos que contienen alguna de las siguientes sustancias:</p>
+			<p id="p174">1. Arsénico y compuestos de arsénico.</p>
+			<p id="p175">2. Mercurio y compuestos de mercurio.</p>
+			<p id="p176">3. Cadmio y compuestos de cadmio.</p>
+			<p id="p177">4. Talio y compuestos de talio.</p>
+			<p id="p178">5. Berilio y compuestos de berilio.</p>
+			<p id="p179">6. Compuestos de cromo hexavalente.</p>
+			<p id="p180">7. Plomo y compuestos de plomo.</p>
+			<p id="p181">8. Antimonio y compuestos de antimonio.</p>
+			<p id="p182">9. Fenoles y compuestos fenólicos.</p>
+			<p id="p183">10. Cianuros orgánicos e inorgánicos.</p>
+			<p id="p184">11. Isocianatos.</p>
+			<p id="p185">13. Disolventes clorados.</p>
+			<p id="p186">16. Compuestos farmacéuticos.</p>
+			<p id="p187">18. Éteres.</p>
+			<p id="p188">21. Teluro y compuestos de teluro.</p>
+			<p id="p189">22. Compuestos aromáticos policíclicos ( con efectos cancerígenos ).</p>
+			<p id="p190">23. Carbonilos metálicos.</p>
+			<p id="p191">25. Sustancias ácidas y/o básicas utilizadas en los tratamientos de superficies de los metales.</p>
+			<p id="p192">26. Aceites usados minerales o sintéticos, incluyendo las mezclas agua/aceite y las emulsiones.</p>
+			<p id="p193">27. Residuos especiales es su tratamiento en grandes plantas centralizadas o su depósito en vertederos de seguridad, especialmente controlados.</p>
+			<p id="p194">Aunque los riesgos para la salud y el medio no están claramente especificados en la legislación, hay unas características que pueden dar a los residuos la consideración de tóxicos y peligrosos y que han dado lugar a los códigos H de la legislación, tal y como se definen a continuación.</p>
+			<p id="p195">Explosivo (H1)</p>
+			<p id="p196">: sustancias o preparados que puedan explotar bajo el efecto de una llama o que son más sensibles a los choques o la fricción que el dinitrobenceno.</p>
+			<p id="p197">Comburente (H2)</p>
+			<p id="p198">: materias que sin ser combustibles ellas mismas, pueden, en general cediendo oxígeno, provocar o favorecer la combustión de otras materias.</p>
+			<p id="p199">Inflamable (H3)</p>
+			<p id="p200">: son los líquidos que emiten vapores inflamables a una temperatura inferior a 65ºC, y los sólidos que pueden causar un incendio, por efecto de la fricción, o favorecerlo.</p>
+			<p id="p201">Irritante (H4)</p>
+			<p id="p202">: sustancias y preparados no corrosivos que por contacto con la piel y las mucosas pueden provocar una reacción inflamatoria.</p>
+			<p id="p203">Nocivo (H5)</p>
+			<p id="p204">Tóxico (H6)</p>
+			<p id="p205">: sustancias o preparados que, por inhalación, ingestión o penetración cutánea, pueden producir riesgos graves, agudos o crónicos, incluso de la muerte.</p>
+			<p id="p206">Cancerígeno (H7)</p>
+			<p id="p207">: sustancias o preparados que, por inhalación, ingestión o penetración cutánea, pueden producir cáncer o aumentar la frecuencia.</p>
+			<p id="p208">Corrosivo (H8)</p>
+			<p id="p209">: sustancias y preparados que en contacto con los tejidos vivos pueden ejercer sobre ellos una acción destructiva.</p>
+			<p id="p210">Infeccioso (H9)</p>
+			<p id="p211">: materias conteniendo microorganismos viables o sus toxinas, de los que se sabe, o existen buenas razones para creerlo que causan enfermedades en los animales o en el hombre.</p>
+			<p id="p212">Terátogénico (H10)</p>
+			<p id="p213">: sustancias o preparados que por inhalación, ingestión o penetración cutánea puedan producir malformaciones congénitas no hereditarios o aumentar su frecuencia.</p>
+			<p id="p214">Mutagénico (H11)</p>
+			<p id="p215">: sustancias o preparados que por inhalación, ingestión o penetración cutánea puedan producir defectos genéticos hereditarios o aumentar su frecuencia.</p>
+			<p id="p216">Sustancias que en contacto con el aire o el agua pueden liberar gases tóxicos (H12).</p>
+			<p id="p217">Materias susceptibles de dar lugar a otra sustancia después de su eliminación (H13), como un lixiviado.</p>
+			<p id="p218">Ecotóxico (H14):</p>
+			<p id="p219">Producción de residuos peligrosos</p>
+			<p id="p220">La Ley establece una serie de obligaciones para los productores de residuos tóxicos y peligrosos. Es necesario obtener una autorización para la instalación, ampliación o reforma de industrias o actividades generadoras o importadoras de productos de los que pudieran derivarse RTP.</p>
+			<p id="p221">La autorización mencionada determinará las condiciones y requisitos necesarios para el ejercicio de la actividad y la necesidad o no de suscribir un seguro de responsabilidad civil que garantice el cumplimiento de las responsabilidades que pudieran derivarse de los daños que los residuos pudieran causar.</p>
+			<p id="p222">Además de la autorización, la Ley y el Reglamento establecen las siguientes obligaciones específicas para el productor.</p>
+			<p id="p223">Obligaciones específicas</p>
+			<p id="p224">- Separar adecuadamente y no mezclar los residuos peligrosos, evitando particularmente aquellas mezclas que supongan un aumento de su peligrosidad o que dificulten su gestión.</p>
+			<p id="p225">- Envasar y etiquetar los recipientes que contengan los residuos peligrosos en la forma que se determina reglamentariamente.</p>
+			<p id="p226">- Los productores dispondrán de zonas de almacenamiento de RTP que deberán estar debidamente autorizadas y cumplir con la legislación y normas técnicas que le sean de aplicación. El tiempo de almacenamiento no podrá exceder de 6 meses salvo permiso especial.</p>
+			<p id="p227">- Llevar un registro de los residuos peligrosos producidos o importados y el destino. En el registro deberá constar la cantidad, naturaleza, código de identificación, origen, métodos y lugares de tratamiento, fechas de generación y cesión de tales residuos, así como la frecuencia de recogida y medio de transporte empleado.</p>
+			<p id="p228">- Suministrar a las empresas autorizadas para llevar a cabo la gestión de residuos la información necesaria para su adecuado tratamiento y eliminación.</p>
+			<p id="p229">- Presentar un informe anual a la Administración Pública competente en el que se deberán especificar, como mínimo, las cantidades de residuos peligrosos producidos o importados, naturaleza de los mismos y el destino final.</p>
+			<p id="p230">- Informar inmediatamente a la Administración Pública competente en caso de desaparición, pérdida o escape de residuos peligrosos.</p>
+			<p id="p231">Existen otras obligaciones adicionales no contenidas expresamente en la Ley, pero sí en el Reglamento.</p>
+			<p id="p232">Obligaciones adicionales</p>
+			<p id="p233">- Solicitar y obtener de los gestores un documento de aceptación de los residuos en el que se especifique la identificación de los mismos, sus propiedades y composición, volumen y plazo de recogida</p>
+			<p id="p234">- Cumplimentar los documentos de control y seguimiento de los residuos peligrosos en el momento de su entrega a gestores autorizados</p>
+			<p id="p235">- La prohibición de entrega de los residuos a transportistas o gestores que no reúnan los requisitos requeridos por la legislación vigente.</p>
+			<p id="p236">Residuos hospitalarios</p>
+			<p id="p237">En la actualidad como consecuencia de la actividad hospitalaria se generan una serie de residuos de características muy diferentes, de tal manera que unos pueden ser asimilables a urbanos mientras que otros requieren un tratamiento específico debido fundamentalmente a razones de tipo infeccioso.</p>
+			<p id="p238">Existen diferentes tecnologías de tratamiento, pero se pueden separar según la siguiente clasificación:</p>
+			<p id="p239">Procesos térmicos</p>
+			<p id="p240">1.- Autoclave, está basada en poner en contacto el residuo con el vapor el tiempo suficiente para que se destruyan los microorganismos patógenos existentes en el residuo. Para facilitar el contacto es necesario a veces la trituración previa del residuo, además la legislación exige que después del proceso no sean identificables las piezas, por lo que si no se hace antes hay que hacerlo después. El residuo una vez triturado y esterilizado se puede gestionar como un residuo asimilable a urbano. Es una técnica cara para grandes cantidades de residuos, y se ha demostrado la elevada concentración de compuestos orgánicos en los gases de salida.</p>
+			<p id="p241">2.- Microondas, la fuente de calor para la esterilización es una fuente de microondas. Requiere trituración previa y tiene limitaciones en cuanto a la composición del residuo en humedad y metales pesados.</p>
+			<p id="p242">3.- Plasma, hornos donde se aplican antorchas de plasma que alcanzan temperaturas de 2.500ºC a 10.000ºC.</p>
+			<p id="p243">Estos procesos esterilizan el residuo pero no lo reducen en volumen.</p>
+			<p id="p244">4.- Incineración, consiste en la destrucción y descomposición de un producto utilizando elevadas temperaturas. La incineración puede ser mediante combustión, con combustible y oxígeno para dar dióxido de carbono y agua, mediante gasificación para generar gases combustibles y un sólido o por pirólisis, con defecto de oxígeno, dando diferentes productos, gases, líquidos y un sólido.</p>
+			<p id="p245">Tratamientos químicos</p>
+			<p id="p246">Es sinónimo prácticamente de desinfección. Existen más de 800 desinfectantes registrados. El residuo requiere una molienda previa, el problema es la cantidad de compuestos orgánicos con cloro que se forman en los efluentes líquidos. Otra posibilidad es la encapsulación o solidificación en una matriz sólida y estable.</p>
+			<p id="p247">Tratamientos de irradiación</p>
+			<p id="p248">Se utiliza como fuente de irradiación la irradiación gamma o el chorro de electrones, aunque dan buenos resultados introducen el problema de la radiación por el uso de una fuente con un tiempo de vida limitado.</p>
+			<p id="p249">Gestión de residuos tóxicos y peligrosos</p>
+			<p id="p250">Gestión, es el conjunto de actividades encaminadas a dar a los residuos tóxicos y peligrosos el destino final más adecuado de acuerdo con sus características. Comprende las operaciones de recogida, almacenamiento, transporte, tratamiento y recuperación y eliminación de los mismos.</p>
+			<p id="p251">La gestión implica la manipulación correcta de los residuos desde su generación hasta su eliminación final, y el aprovechamiento, cuando sea posible, de todo el potencial de los residuos como recursos, y por lo tanto, procurar una valorización económica de estos. La gestión de los residuos dependerá de las características de éstos y de las opciones tecnológicas y económicas existentes.</p>
+			<p id="p252">La Ley 10/1998, define la prevención de la generación de residuos. Para ello deja claro unos conceptos que se describen a continuación en función del orden prioritario de actuación:</p>
+			<p id="p253">- Prevención, como el conjunto de medidas destinadas a evitar la generación de residuos o a conseguir su reducción, la de la cantidad de sustancias peligrosas o contaminantes presentes en ellos.</p>
+			<p id="p254">- Valorización, define así cualquier procedimiento que permita el aprovechamiento de los recursos contenidos en los residuos sin poner en peligro la salud humana y sin utilizar métodos que puedan causar perjuicios al medio ambiente. Dentro de las operaciones de valorización están la reutilización (empleo de un producto para el mismo fin que había sido diseñado), el reciclado (transformación de los residuos para darles alguna otra utilidad) y la incineración con recuperación de energía.</p>
+			<p id="p255">- Eliminación, englobaría a los procedimientos de gestión que no permiten el aprovechamiento de los residuos (vertido y destrucción).</p>
+			<p id="p256">Arbol de decisiones</p>
+			<p id="p257">Tratamiento de los residuos</p>
+			<p id="p258">Los sistemas de tratamiento básicos son tres:</p>
+			<p id="p259">- incineración</p>
+			<p id="p260">Incineración</p>
+			<p id="p261">Consiste en la eliminación mediante un tratamiento térmico, generalmente con recuperación del calor en forma de energía de desechos sólidos, líquidos o gaseosos. El proceso se basa en someter los residuos a altas temperaturas (generalmente mayores de 900ºC) en un medio oxidante. No es un sistema de eliminación total, porque genera cenizas, escorias y gases, pero consigue una reducción significativa en peso y volumen de los residuos.</p>
+			<p id="p262">Los productos generados dependen de las condiciones de combustión y de las características de los residuos, pero generalmente son dióxido de carbono, vapor de agua y cenizas inertes. Hay que tener la precaución de controlar la emisiones a la atmósfera.</p>
+			<p id="p263">Las condiciones para que un resíduo se pueda incinerar son las siguientes: que sea inflamable, que sea volátil, que sea persistente que no se pueda admitir en un depósito. Las razones para decidirse por la incineración pueden ser meramente económicas o por indicación de la administración. Igualmente hay otras condiciones que hacen que un residuo no se pueda incinerar, como es que sea orgánico, sea explosivo o que sea radiactivo.</p>
+			<p id="p264">Tratamiento físico-químico</p>
+			<p id="p265">Es el más indicado para residuos que contienen sobre todo sustancias inorgánicas disueltas o en suspensión. Consisten en modificar materiales peligrosos de forma que lleguen a ser no tóxicos y si es posible, recuperar alguno con cierto valor económico. Se incluyen aquí una serie de técnicas mediante las cuales se consigue acondicionar el residuo para su reutilización o como fase previa antes del tratamiento final. La ventaja de este tratamiento es que además de eliminar sustancias tóxicas permite conservar y reciclar recursos.</p>
+			<p id="p266">A continuación se definen brevemente algunos de estos tratamientos:</p>
+			<p id="p267">Solidificación</p>
+			<p id="p268">Estabilización</p>
+			<p id="p269">Neutralización</p>
+			<p id="p270">: consiste en añadir reactivos neutralizantes, tanto ácidos como básicos a un efluente de carácter tóxico o peligroso para ajustar el pH a niveles aceptables.</p>
+			<p id="p271">Precipitación</p>
+			<p id="p272">: consiste en que un contaminante disuelto se transforme en un sólido insoluble y se pueda eliminar más fácilmente mediante sedimentación o filtración.</p>
+			<p id="p273">Detoxificación</p>
+			<p id="p274">: es el proceso por el que se produce un cambio en los constituyentes del residuo de manera que se haga menos tóxico.</p>
+			<p id="p275">Oclusión</p>
+			<p id="p276">Absorción</p>
+			<p id="p277">: es la mezcla de un sólido de gran superficie específica dónde por capilaridad va entrando el residuo líquido.</p>
+			<p id="p278">Encapsulación</p>
+			<p id="p279">: consiste en aislar los residuos en una matriz que evite su exposición a los posibles agentes que puedan facilitar su dispersión.</p>
+			<p id="p280">Vitrificación</p>
+			<p id="p281">: en este proceso los residuos se mezclan con sílice, se funde la mezcla y se deja enfriar, de tal manera que el residuo forma una masa vítrea.</p>
+			<p id="p282">Tratamiento biológico</p>
+			<p id="p283">Estos procesos se basan en la capacidad de determinados microorganismos para eliminar del medio o degradar enzimáticamente gran número de compuestos tóxicos y peligrosos.</p>
+			<p id="p284">En la actualidad con estos tratamientos solo se han conseguido buenos resultados en campos reducidos, pero los estudios van encaminados a crear en el laboratorio bacterias, levaduras y enzimas específicos para conseguir la degradación de los residuos mediante otras técnicas como la rotura de enlaces, absorción de metales pesados…</p>
+			<p id="p285">Técnicas o procesos:</p>
+			<p id="p286">Biometanización</p>
+			<p id="p287">: consisten en la digestión anaerobia (en ausencia de oxígeno) de la materia orgánica por microorganismos, que la descomponen dando lugar a una mezcla de gases, mayoritariamente metano y dióxido de carbono.</p>
+			<p id="p288">Fangos activos</p>
+			<p id="p289">: consisten en la producción de microorganismos que estabilizan las sustancias biodegradables en condiciones aerobias, dando como productos dióxido de carbono, agua y un residuo inerte.</p>
+			<p id="p290">Lagunas de estabilización</p>
+			<p id="p291">Filtros percoladores</p>
+			<p id="p292">: son filtros que van unidos a una población de microorganismos que degradan la materia orgánica presente en el residuo.</p>
+			<p id="p293">Digestor biológico de rotación</p>
+			<p id="p294">: son discos que se sumergen en el residuo y van girando, de tal manera que consiguen poner en contacto la materia orgánica con los microorganismos y con el oxígeno de la atmósfera alternativamente.</p>
+			<p id="p295">Depósito de seguridad</p>
+			<p id="p296">Con las técnicas actuales no es posible eliminar completamente todos los residuos tóxicos y peligrosos lo que hace que sean necesarios depósitos de seguridad. Son almacenamientos preparados para determinados residuos industriales tóxicos y peligrosos con el fin de que las propiedades nocivas de estos no puedan afectar en ningún caso al medio natural y a la salud humana durante mucho tiempo.</p>
+			<p id="p297">Hay emplazamientos que por su geomorfología y sus condiciones topográficas e hidrográficas permiten un buen aislamiento de los residuos durante periodos de cientos de años en determinadas condiciones de seguridad, convirtiéndose así en depósitos de seguridad. Además cada día aparecen nuevos materiales y técnicas de construcción que permiten un aislamiento total de los residuos. Hay que tener la precaución de colocar los residuos en el orden adecuado según sus características.</p>
+			<p id="p298">Recuperación o reutilización</p>
+			<p id="p299">Se entiende como tal el aprovechamiento de los recursos de los residuos generados, utilizándolos bien en el mismo proceso que los ha generado, mediante un tratamiento de adecuación, o bien en otros distintos como materias primas, reactivos, combustibles, etc.</p>
+			<p id="p300">Para recuperar, es necesario hacer un estudio y ver todas las posibilidades.</p>
+			<p id="p301">¿Qué posibilidades hay?</p>
+			<p id="p302">- reutilizar en el mismo proceso o en otro diferente después de un tratamiento previo</p>
+			<p id="p303">- aprovecharlos como reactivo para el tratamiento de otros residuos</p>
+			<p id="p304">- separar distintos componentes para poder valorizarlos de una forma independiente</p>
+			<p id="p305">- aprovechar sus condiciones energéticas.</p>
+			<p id="p306">- Disminución y ahorro en el aprovechamiento de materias primas.</p>
+			<p id="p307">- Protección del medio ambiente, disminución de gastos de eliminación y daños producidos por el vertido incontrolado.</p>
+			<p id="p308">- Generación de empleo en empresas de recogida y tratamiento de residuos.</p>
+			<p id="p309">Tecnologías limpias</p>
+			<p id="p310">El incremento de costes en materias primas, energía y la normativa referente a los vertidos de residuos, ha hecho que la industria tenga que replantearse sus métodos de producción. Esto ha hecho que la tendencia actual esté basada en un aprovechamiento mejor de las materias primas y de la energía.</p>
+			<p id="p311">Se consideran como tecnologías limpias a las utilizadas por la industria para disminuir la necesidad de tratamiento o eliminación de sus residuos y para reducir la demanda de materias primas, energía y agua.</p>
+			<p id="p312">Para la correcta introducción de las tecnologías limpias, las empresas deben estudiar, en primer lugar, sus propios procesos productivos y analizar las características de sus equipos. Un balance medioambiental sobre los diferentes aspectos que constituyen las operaciones industriales, puede administrar una información adecuada sobre la eficiencia de cada componente, sobre la proporción de residuos que se generen, sobre los consumos energéticos y sobre qué partes del proceso requieren la mayor atención de cara a las nuevas inversiones.</p>
+			<p id="p313">Una de las posibilidades es que se genere una cantidad inferior de residuos y otra una reducción en el consumo de materias primas.</p>
+			<p id="p314">Bolsas de residuos</p>
+			<p id="p315">Su función es centralizar la información sobre la oferta y la demanda de residuos, partiendo del hecho de que lo que para una industria es un residuo, para otra puede ser una materia prima para su proceso productivo.</p>
+			<p id="p316">Las bolsas de residuos tienen como finalidad controlar e informar a las empresas de los tipos y cantidades de residuos que se producen, de manera que el empresario tenga acceso a unas materias primas que antes no conocía o no utilizaba. Así se ponen en contacto a todas las empresas interesadas, tanto demandantes como ofertantes, y se garantiza la confidencialidad de los datos que obran en su poder. Además pueden servir de asistencia técnica al industrial, facilitando información sobre posibilidades de recuperación, procesos de tratamiento, legislación…</p>
+			<p id="p317">En conclusión lo que hacen es facilitar el intercambio de residuos entre productores y permitir la utilización por unas determinadas industrias de los residuos producidos por otras para las que no tienen ninguna utilidad.</p>
+			<p id="p318">ESTUDIO DE IMPACTO AMBIENTAL</p>
+			<p id="p319">El término impacto indica la alteración que introduce en el medio la ejecución de un proyecto, expresada por la diferencia entre la evolución del medio, o de alguno de los factores que los constituyen, sin y con proyecto. La interpretación de dicha alteración en términos de salud y bienestar humano es lo que define el impacto ambiental.</p>
+			<p id="p320">La CEE regula los procedimientos de evaluación de impacto ambiental a través de la Directiva del Consejo de 27 de junio de 1985 relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente (85/337/CEE). La Directiva de impacto ambiental considera, entre otros, los siguientes puntos:</p>
+			<p id="p321">- Deberían introducirse unos principios generales de evaluación de las repercusiones sobre el medio ambiente a fin de completar y coordinar los procedimientos de autorización de los proyectos públicos y privados que puedan tener un impacto importante sobre el medio ambiente.</p>
+			<p id="p322">- La autorización de los proyectos públicos y privados que puedan tener repercusiones considerables sobre el medio ambiente sólo debería concederse después de una evaluación previa de los efectos importantes que dichos proyectos puedan tener sobre el medio ambiente.</p>
+			<p id="p323">- Los efectos de un proyecto sobre el medio ambiente deben evaluarse para proteger la salud humana, contribuir mediante un mejor entorno a la calidad de vida, velar por el mantenimiento de la diversidad de especies y conservar la capacidad de reproducción del ecosistema como recurso fundamental de la vida.</p>
+			<p id="p324">Concepto y causas del impacto ambiental</p>
+			<p id="p325">El concepto del impacto hace referencia a la alteración que produce una actividad humana sobre su entorno, por lo tanto tiene dos componentes, una causa y unos efectos.</p>
+			<p id="p326">Los impactos se pueden clasificar según su origen en:</p>
+			<p id="p327">- los que se derivan de la extracción de recursos naturales y materias primas (sobreexplotación)</p>
+			<p id="p328">- los que se producen por ocupación y transformación del espacio o cambios de uso del suelo.</p>
+			<p id="p329">- los que resultan de la emisión de efluentes</p>
+			<p id="p330">- impactos negativos ocasionados por el abandono de actividades tradicionales por parte del hombre e impactos positivos por la integración cuidadosa de la actividad humana en el entorno.</p>
+			<p id="p331">Los efectos o manifestaciones del impacto corresponderán a:</p>
+			<p id="p332">- una modificación de algún factor ambiental</p>
+			<p id="p333">- una modificación del valor de factor ambiental alterado</p>
+			<p id="p334">- la interpretación o significado ambiental de las modificaciones y su relación con la salud y el bienestar humano.</p>
+			<p id="p335">Metodología</p>
+			<p id="p336">Según la Directiva de impacto ambiental, la evaluación de las repercusiones sobre el medio ambiente identificará, describirá y evaluará de forma apropiada, en función de cada caso particular, los efectos directos e indirectos de un proyecto sobre los factores siguientes:</p>
+			<p id="p337">- el hombre, la fauna y la flora,</p>
+			<p id="p338">- el suelo, el agua, el aire, el clima y el paisaje,</p>
+			<p id="p339">- la interacción entre los factores mencionados,</p>
+			<p id="p340">- los bienes materiales y el patrimonio cultural.</p>
+			<p id="p341">Dicha evaluación se realiza a través del Estudio de Impacto Ambiental (EsIA). Para la identificación de los impactos se utilizan matrices causa-efecto en las que se detectan las interrelaciones entre las acciones de un proyecto con los factores ambientales afectados del medio. Una vez identificados los impactos ambientales se valoran.</p>
+			<p id="p342">El Estudio de Impacto Ambiental es el documento técnico que debe de presentar el titular de un proyecto, y sobre la base del que se produce la Declaración de Impacto Ambiental (DIA).</p>
+			<p id="p343">Las principales etapas que se siguen para hacer un estudio de impacto ambiental son:</p>
+			<p id="p344">1.- Análisis del proyecto o de la actividad y sus alternativas.</p>
+			<p id="p345">2.- Definición del entorno del proyecto.</p>
+			<p id="p346">3.- Previsión de los efectos ambientales.</p>
+			<p id="p347">4.- Identificación de las acciones del proyecto significativas que puedan alterar el medio ambiente.</p>
+			<p id="p348">5.- Identificación de los factores del medio potencialmente impactados.</p>
+			<p id="p349">6.- Identificación de las relaciones causa-efecto. Matriz de impactos.</p>
+			<p id="p350">7.- Predicción de la magnitud de los impactos.</p>
+			<p id="p351">8.- Valoración de los impactos ambientales.</p>
+			<p id="p352">9.- Definición de medidas correctoras.</p>
+			<p id="p353">10.- Proceso de participación pública.</p>
+			<p id="p354">11.- Emisión del informe final.</p>
+			<p id="p355">Caracterización y valoración del impacto ambiental</p>
+			<p id="p356">Un impacto ambiental identificado por una acción simple de un proyecto sobre un factor ambiental, queda determinado por su signo y su valor.</p>
+			<p id="p357">El signo puede ser positivo o benéfico, negativo o perjudicial o indeterminado.</p>
+			<p id="p358">El valor es función de la magnitud del impacto y de su incidencia.</p>
+			<p id="p359">La magnitud representa la cantidad y calidad del factor modificado. La incidencia se refiere al grado o intensidad de la alteración producida, a la severidad del daño causado para los negativos, y a una serie de atributos de tipo cualitativo que caracterizan dicha alteración.</p>
+			<p id="p360">A continuación se define la terminología utilizada habitualmente:</p>
+			<p id="p361">Signo del impacto</p>
+			<p id="p362">, se refiere al carácter beneficioso (+), perjudicial (-) o previsible pero de difícil análisis sin estudios específicos (x) de las acciones del proyecto sobre los factores que se consideran.</p>
+			<p id="p363">Intensidad del impacto</p>
+			<p id="p364">Extensión del impacto</p>
+			<p id="p365">, se refiere al área de influencia teórica del impacto en relación al entorno de la actividad (se puede representar por el % de área del ámbito considerado en la que se manifiesta el efecto.</p>
+			<p id="p366">Momento o plazo de manifestación del impacto</p>
+			<p id="p367">, se refiere al tiempo que transcurre entre la aparición de la acción el comienzo del efecto sobre el factor del medio ambiente considerado.</p>
+			<p id="p368">Persistencia del impacto</p>
+			<p id="p369">, se refiere al tiempo que permanecería el efecto desde su aparición y a partir del cual el factor afectado retornaría a las condiciones iniciales previas a la acción por medios naturales o mediante la introducción de medidas correctoras.</p>
+			<p id="p370">Reversibilidad del impacto</p>
+			<p id="p371">, se refiere a la posibilidad de reconstrucción del factor afectado como consecuencia de la acción acometida, esto es, la posibilidad de retornar a las condiciones iniciales previas a la acción, por medios naturales, una vez la acción deja de actuar sobre el medio.</p>
+			<p id="p372">Sinergia del impacto</p>
+			<p id="p373">, se refiere al reforzamiento de dos o más efectos simples, siendo la componente total de la manifestación de los efectos simples, provocados por acciones que actúan simultáneamente, superior a la que cabría esperar de la manifestación de efectos cuando las acciones que la producen actuaran de manera independiente.</p>
+			<p id="p374">Acumulación del impacto</p>
+			<p id="p375">, da idea del crecimiento progresivo de la manifestación del efecto, cuando persiste de forma continuada o reiterada la acción que lo genera.</p>
+			<p id="p376">Efecto del impacto</p>
+			<p id="p377">, se refiere a la relación causa-efecto, es decir a la forma de manifestación del efecto sobre un factor como consecuencia de una acción.</p>
+			<p id="p378">Periodicidad del impacto</p>
+			<p id="p379">, hace referencia a la regularidad de manifestación del efecto, bien sea de forma cíclica o recurrente (efecto periódico), de forma impredecible (efecto irregular) o constante en el tiempo(efecto continuo).</p>
+			<p id="p380">Recuperabilidad del impacto</p>
+			<p id="p381">, es la posibilidad de reconstrucción, total o parcial, del factor afectado como consecuencia de la actividad desarrollada, es decir, la posibilidad de retornar a las condiciones iniciales previas a la acción por medio de la intervención humana, por ejemplo, introduciendo medidas correctoras.</p>
+			<p id="p382">Importancia del impacto</p>
+			<p id="p383">, es la importancia del efecto de una acción sobre un factor ambiental. Así podremos definir los impactos como compatibles, moderados, severos o críticos.</p>
+			<p id="p384">Medidas protectoras</p>
+			<p id="p385">, son la que evitan la modificación del efecto modificando los elementos que definen la actividad, como por ejemplo la tecnología utilizada, el diseño, traslado, tamaño y materias primas utilizadas.</p>
+			<p id="p386">Medidas correctoras</p>
+			<p id="p387">, son las que van dirigidas a impactos recuperables, y su objetivo es anular, atenuar, corregir o modificar las acciones y efectos sobre los procesos productivos, las condiciones de funcionamiento y los factores del medio como agente transmisor o receptor.</p>
+			<p id="p388">Medidas compensatorias</p>
+			<p id="p389">, son la dirigidas a los impactos irrecuperables o inevitables, que no eluden la aparición del efecto, ni lo anulan ni lo atenúan, pero contrarrestan de alguna manera la alteración del factor ambiental afectado.</p>
+			<p id="p390">Medidas curativas,</p>
+			<p id="p391">son la que se dirigen a la eliminación, reducción o modificación del efecto no deseado, incluyen los tratamientos de conservación y de recuperación como la restauración y la rehabilitación.</p>
+			<p id="p392">Medidas restabilizadoras</p>
+			<p id="p393">, son las que restablecen el valor de un factor ambiental y se aplican cuando el factor considerado ha perdido su calidad ambiental o nunca la ha poseído.</p>
+			<p id="p394">PROGRAMA DE RESTAURACIÓN</p>
+			<p id="p395">Incluye una serie de etapas y medidas de protección que se encuadran en tres secciones:</p>
+			<p id="p396">1.- Las medidas de protección durante la actividad y una vez acabada la misma. Incluyen las siguientes:</p>
+			<p id="p397">Tratamiento del suelo: Decapado, transporte, almacenamiento</p>
+			<p id="p398">Tratamiento de los servicios afectados: tipos, detalle y situación de las obras a realizar</p>
+			<p id="p399">Medidas para minimizar los efectos visuales: tipos, detalle y situación de las obras a realizar</p>
+			<p id="p400">Medidas para minimizar los ruidos y vibraciones: tipos, detalle y situación de las obras a realizar</p>
+			<p id="p401">Medidas para minimizar los efectos sobre la atmósfera: zonas a regar, periodicidad, obras especiales.</p>
+			<p id="p402">Tratamiento de las aguas: acciones a emprender, tipos, detalle y situación de las obras a realizar</p>
+			<p id="p403">Mantenimiento de la red viaria</p>
+			<p id="p404">Método de almacenamiento de los materiales de relleno</p>
+			<p id="p405">Otras medidas (tanques de protección…)</p>
+			<p id="p406">2.- Restauración del medio durante la actividad y una vez acabada la misma:</p>
+			<p id="p407">Movimiento de tierras: recorrido, transporte, cantidad</p>
+			<p id="p408">Rellenos: localización, forma de hacerlos, material propio de la explotación: tipos y cantidad, aportaciones exteriores: tipos y cantidad</p>
+			<p id="p409">Reconstitución del suelo: localización, forma de hacerla, material propio de almacenamiento: tipos y cantidad, aportaciones exteriores: tipos y cantidad, enmiendas.</p>
+			<p id="p410">Obras de control de la erosión: localización, detalles técnicos, forma de hacerlas, material necesario.</p>
+			<p id="p411">Obras de la red de drenaje: localización, detalles técnicos, forma de hacerlas, material necesario.</p>
+			<p id="p412">Restauración de la red viaria: localización, medidas</p>
+			<p id="p413">Obras de infraestructura: localización, detalles técnicos, forma de hacerlas, material necesario.</p>
+			<p id="p414">Demolición y desmonatje de ciertas obras de infraestructura y tratamiento</p>
+			<p id="p415">Revegetación: localización, tipos, cantidad, horma de hacerla</p>
+			<p id="p416">Otras acciones</p>
+			<p id="p417">Para poder valorar los impactos ambientales se sigue la siguiente tabla:</p>
+			<p id="p418">NATURALEZA O SIGNO</p>
+			<p id="p419">Sinérgico 2</p>
+			<p id="p420">Periódico 2</p>
+			<p id="p421">Mitigable y/o compensable 4</p>
+			<p id="p422">IMP</p>
+			<p id="p423">Procedimiento de Evaluación del Impacto Ambiental</p>
+			<p id="p424">La Evaluación de Impacto Ambiental (EIA) es el conjunto de estudios y sistemas técnicos que permiten estimar los efectos que la ejecución de un determinado proyecto, obra o actividad, causa sobre el medio ambiente. La Evaluación de Impacto Ambiental es un procedimiento analítico cuyo objetivo es formar un juicio sobre las consecuencias de los impactos derivados de la ejecución de una determinada actividad.</p>
+			<p id="p425">Las etapas de un procedimiento de EIA son las siguientes:</p>
+			<p id="p426">1.- Decisión de realizar la EIA.</p>
+			<p id="p427">2.- Iniciación y consultas.</p>
+			<p id="p428">4.- Redacción del estudio de impacto ambiental (EsIA).</p>
+			<p id="p429">5.- Información pública.</p>
+			<p id="p430">8.- Declaración de impacto ambiental (DIA).</p>
+			<p id="p431">9.- Remisión de la declaración de impacto ambiental.</p>
+			<p id="p432">10.- Resolución de discrepancias.</p>
+			<p id="p433">11.- Notificación de las condiciones de DIA.</p>
+			<p id="p434">La Declaración de Impacto Ambiental determinará, a los solos efectos ambientales, la conveniencia o no de realizar el proyecto, y en caso afirmativo, fijará las condiciones en que debe realizarse. Es el pronunciamiento de la autoridad competente de medio ambiente sobre el proyecto.</p>
+			<p id="p435">Proyectos a los que afecta la directiva de impacto ambiental</p>
+			<p id="p436">La Directiva de impacto ambiental afecta a una serie de proyectos, a la que los estados miembros podrán añadir algún otro tipo de proyecto que consideren oportuno. Los proyectos son los siguientes:</p>
+			<p id="p437">1.- Refinerías de petróleo crudo, con exclusión de las empresas que fabrican únicamente lubricantes a partir del petróleo crudo, así como las instalaciones de gasificación y de licuefacción de al menos 500 toneladas de carbón o pizarra bituminosa al día.</p>
+			<p id="p438">2.- Centrales térmicas y otras instalaciones de combustión de una potencia calorífica de la menos 300 MW así como las centrales nucleares y otros reactores nucleares (con exclusión de las instalaciones de investigación para la producción y tranformación de materiales fisionables y fértiles, cuya potencia máxima no supere 1 kW de duración permanente térmica).</p>
+			<p id="p439">3.- Instalaciones destinadas exclusivamente al almacenamiento definitivo o a la eliminación definitiva de residuos radiactivos.</p>
+			<p id="p440">4.- Fábricas integradas de primera fusión de hierro fundido y de acero (fundiciones).</p>
+			<p id="p441">5.- Instalaciones destinadas a la extracción de amianto así como al tratamiento y a la transformación de amianto y productos que contengan amianto.</p>
+			<p id="p442">6.- Instalaciones químicas integradas.</p>
+			<p id="p443">7.- Construcción de autopistas, vías rápidas y vías para el tráfico a gran distancia de los ferrocarriles así como aeropuertos cuya pista de despegue y de aterrizaje tenga 2.100 metros de largo o más.</p>
+			<p id="p444">8.- Puertos de comercio marítimo así como las vías navegables y los puertos de navegación interior que permitan el paso de barcos superiores a 1300 toneladas.</p>
+			<p id="p445">9.- Instalaciones de eliminación de residuos tóxicos y peligrosos mediante incineración, tratamiento químico o almacenamiento bajo tierra.</p>
+		</body>
+	</text>
+</cesDoc>

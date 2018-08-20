@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Licenciement pour inaptitude : comment calculer l'indemnité ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Licenciement pour inaptitude : comment calculer l'indemnité ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:08:24.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=BTP&amp;id_art=1552&amp;titre=Licenciement+pour+inaptitude+%3A+comment+calculer+l'indemnit%C3%A9+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/8.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Licenciement pour inaptitude : comment calculer l'indemnité ?</p>
+			<p id="p2">Lorsqu’un salarié est licencié suite à une inaptitude liée à un accident du travail ou une maladie professionnelle, il faut comparer, d'une part, le montant de l'indemnité légale doublée et, d'autre part, celui de l'indemnité conventionnelle.</p>
+			<p id="p3">L’inaptitude peut conduire au licenciement</p>
+			<p id="p4">Un salarié peut être déclaré inapte à occuper son poste par le médecin du travail. L’employeur est alors tenu de rechercher des possibilités de reclassement compatibles avec l’avis du médecin.</p>
+			<p id="p5">Le licenciement du salarié est donc le dernier recours, si aucune possibilité de reclassement n’est envisageable ou si le salarié a refusé les propositions faites dans ce cadre.</p>
+			<p id="p6">Le montant de l’indemnité dépend de l’origine de l’inaptitude</p>
+			<p id="p7">Lorsque le licenciement intervient suite à une inaptitude liée à un accident du travail ou à une maladie professionnelle , le Code du travail prévoit que le salarié a droit à une indemnité spéciale de licenciement qui, sauf dispositions de la convention collective plus favorables, est égale au double de l'indemnité légale (art. L. 1226-14).</p>
+			<p id="p8">En cas d’inaptitude d’origine non professionnelle, il est inutile de doubler l’indemnité de licenciement.</p>
+			<p id="p9">Pour savoir comment appliquer les dispositions de votre convention collective, téléchargez gratuitement notre livre blanc « Tout savoir sur les conventions collectives ».</p>
+			<p id="p10">Que faut-il entendre par « sauf dispositions conventionnelles plus favorables » ?</p>
+			<p id="p11">Faut-il :</p>
+			<p id="p12">ou bien doubler l’indemnité légale, puis comparer le résultat avec l’indemnité conventionnelle ?</p>
+			<p id="p13">La réponse vient d’être tranchée : c’est la seconde solution qui s’applique.</p>
+			<p id="p14">Exemple :</p>
+			<p id="p15">Vous êtes contraint de licencier un ouvrier suite à un accident du travail. Votre entreprise dépend de la convention collective des ouvriers du Bâtiment.</p>
+			<p id="p16">L’ouvrier a 5 ans d’ancienneté, son salaire moyen est de 1.500 euros.</p>
+			<p id="p17">Pour savoir quelle indemnité verser, il faut procéder en deux étapes :</p>
+			<p id="p18">calculer l’indemnité légale doublée : elle est de (1.500 x 1/5 x 5) x 2 = 3.000 euros ;</p>
+			<p id="p19">la comparer avec l’indemnité conventionnelle, égale à 1.500 x 1/10 x 5 = 750 euros.</p>
+			<p id="p20">C’est donc la somme de 3.000 euros qui devra être versée au salarié.</p>
+			<p id="p21">A. Ninucci</p>
+			<p id="p22">(Cass. soc., 25 mars 2009, n° 07-41708)</p>
+			<p id="p23">Pour plus de précisions sur la procédure à suivre si l’un de vos salariés est déclaré inapte à son poste de travail, les Editions Tissot vous conseillent leur ouvrage « Gérer le personnel du BTP ».</p>
+			<p id="p24">Article publié le 21 avril 2009</p>
+			<p id="p25">Partagez cet article :</p>
+			<p id="p26">Actualités de la semaine pour les BTP</p>
+			<p id="p27">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

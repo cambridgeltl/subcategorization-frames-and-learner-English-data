@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Change 2001: Mitigation</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Change 2001: Mitigation</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-10-10 17:06:07.0</pubDate>
+							<eAddress>http://www.grida.no/climate/ipcc_tar/wg3/024.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/1161.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">4.1 Mitigation through Terrestrial Ecosystem and Land Management</p>
+			<p id="p2">Forests, agricultural lands, and other terrestrial ecosystems offer significant, if often temporary, mitigation potential. Conservation and sequestration allow time for other options to be further developed and implemented. The IPCC SAR estimated that about 60 to 87GtC could be conserved or sequestered in forests by the year 2050 and another 23 to 44GtC could be sequestered in agricultural soils. The current assessment of the potential of biological mitigation options is in the order of 100GtC (cumulative) by 2050, equivalent to about 10% to 20% of projected fossil fuel emissions during that period. In this section, biological mitigation measures in terrestrial ecosystems are assessed, focusing on the mitigation potential, ecological and environmental constraints, economics, and social considerations. Also, briefly, the so-called geo-engineering options are discussed.</p>
+			<p id="p3">Increased carbon pools through the management of terrestrial ecosystems can only partially offset fossil fuel emissions. Moreover, larger C stocks may pose a risk for higher CO</p>
+			<p id="p4">2</p>
+			<p id="p5">emissions in the future, if the C-conserving practices are discontinued. For example, abandoning fire control in forests, or reverting to intensive tillage in agriculture may result in a rapid loss of at least part of the C accumulated during previous years. However, using biomass as a fuel or wood to displace more energy-intensive materials can provide permanent carbon mitigation benefits. It is useful to evaluate terrestrial sequestration opportunities alongside emission reduction strategies, as both approaches will likely be required to control atmospheric CO</p>
+			<p id="p6">2</p>
+			<p id="p7">levels.</p>
+			<p id="p8">Carbon reservoirs in most ecosystems eventually approach some maximum level. The total amount of carbon stored and/or carbon emission avoided by a forest management project at any given time is dependent on the specific management practices (see Figure TS.6 ). Thus, an ecosystem depleted of carbon by past events may have a high potential rate of carbon accumulation, while one with a large carbon pool tends to have a low rate of carbon sequestration. As ecosystems eventually approach their maximum carbon pool, the sink (i.e., the rate of change of the pool) will diminish. Although both the sequestration rate and pool of carbon may be relatively high at some stages, they cannot be maximized simultaneously. Thus, management strategies for an ecosystem may depend on whether the goal is to enhance short-term accumulation or to maintain the carbon reservoirs through time. The ecologically achievable balance between the two goals is constrained by disturbance history, site productivity, and target time frame. For example, options to maximize sequestration by 2010 may not maximize sequestration by 2020 or 2050; in some cases, maximizing sequestration by 2010 may lead to lower carbon storage over time.</p>
+			<p id="p9">The effectiveness of C mitigation strategies, and the security of expanded C pools, will be affected by future global changes, but the impacts of these changes will vary by geographical region, ecosystem type, and local abilities to adapt. For example, increases in atmospheric CO</p>
+			<p id="p10">2</p>
+			<p id="p11">, changes in climate, modified nutrient cycles, and altered (either natural or human induced disturbance) regimes can each have negative or positive effects on C pools in terrestrial ecosystems.</p>
+			<p id="p12">Figure TS.6: Carbon balance from a hypothetical forest management project.</p>
+			<p id="p13">Note: The figure shows cumulative carbon-stock changes for a scenario involving afforestation and harvest for a mix of traditional forest products with some of the harvest being used as a fuel. Values are illustrative of what might be observed in the southeastern USA or Central Europe. Regrowth restores carbon to the forest and the (hypothetical) forest stand is harvested every 40 years, with some litter left on the ground to decay, and products accumulate or are disposed of in landfills. These are net changes in that, for example, the diagram shows savings in fossil fuel emissions with respect to an alternative scenario that uses fossil fuels and alternative, more energy-intensive products to provide the same services.</p>
+			<p id="p14">In the past, land management has often resulted in reduced C pools, but in many regions like Western Europe, C pools have now stabilized and are recovering. In most countries in temperate and boreal regions forests are expanding, although current C pools are still smaller than those in pre-industrial or pre-historic times. While complete recovery of pre-historic C pools is unlikely, there is potential for substantial increases in carbon stocks. The Food and Agriculture Organization (FAO) and the UN Economic Commission for Europe (ECE)’s statistics suggest that the average net annual increment exceeded timber fellings in managed boreal and temperate forests in the early 1990s. For example, C stocks in live tree biomass have increased by 0.17GtC/yr in the USA and 0.11GtC/yr in Western Europe, absorbing about 10% of global fossil CO</p>
+			<p id="p15">2</p>
+			<p id="p16">emissions for that time period. Though these estimates do not include changes in litter and soils, they illustrate that land surfaces play a significant and changing role in the atmospheric carbon budget. Enhancing these carbon pools provides potentially powerful opportunities for climate mitigation.</p>
+			<p id="p17">In some tropical countries, however, the average net loss of forest carbon stocks continues, though rates of deforestation may have declined slightly in the past decade. In agricultural lands, options are now available to recover partially the C lost during the conversion from forest or grasslands.</p>
+			<p id="p18">4.2 Social and Economic Considerations</p>
+			<p id="p19">Land is a precious and limited resource used for many purposes in every country. The relationship of climate mitigation strategies with other land uses may be competitive, neutral, or symbiotic. An analysis of the literature suggests that C mitigation strategies can be pursued as one element of more comprehensive strategies aimed at sustainable development, where increasing C stocks is but one of many objectives. Often, measures can be adopted within forestry, agriculture, and other land uses to provide C mitigation and, at the same time, also advance other social, economic, and environmental goals. Carbon mitigation can provide additional value and income to land management and rural development. Local solutions and targets can be adapted to priorities of sustainable development at national, regional, and global levels.</p>
+			<p id="p20">A key to making C mitigation activities effective and sustainable is to balance it with other ecological and/or environmental, economic, and social goals of land use. Many biological mitigation strategies may be neutral or favourable for all three goals and become accepted as “no regrets” or “win-win” solutions. In other cases, compromises may be needed. Important potential environmental impacts include effects on biodiversity, effects on amount and quality of water resources (particularly where they are already scarce), and long-term impacts on ecosystem productivity. Cumulative environmental, economic, and social impacts could be assessed in individual projects and also from broader, national and international perspectives. An important issue is “leakage” – an expanded or conserved C pool in one area leading to increased emissions elsewhere. Social acceptance at the local, national, and global levels may also influence how effectively mitigation policies are implemented.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,50 @@
+***
+all_total_annot.coarseish.origformat.sh: creates coarse gold standard from annotated data (input and output directories, and parameters for coarseness of gold standard, are hardcoded)
+
+  e.g. all_total_annot.coarseish.origformat.sh
+
+
+***
+panacea_total_annot.coarseish.origformat.pl: supporting script for all_total_annot.coarseish.origformat.sh (creates gold standard output for one verb)
+
+
+***
+eval.pl: evaluates an acquired lexicon against a gold standard
+
+  e.g. eval.pl goldfile testfile
+
+
+***
+bo.pl: backoff/smoothing from Lin's clusters (filenames and Lin's format are hardcoded)
+
+  e.g. bo.pl
+
+
+***
+filter.pl: simple threshold filtering for a lexicon (to be used after bo.pl)
+
+  e.g. filter.pl 0.02 testfile
+
+
+***
+inductive.py: inductive SCF acquisition.  There are several arguments:
+
+verblist, e.g. ['run','dance']
+
+threshold for filtering, e.g. 0.02
+
+parser format: rasp or conll
+
+input file: should contain parser output
+
+target GR types: which dependency labels do we want to include in the SCFs. e.g. ['ncsubj','dobj','iobj'] Note that for "two-part" labels in RASP, it contcatenates them, so e.g. you can use the label "ncmodprt" to get dependencies of the form "ncmod prt x y", or "ccomp_" to get "ccomp _ x y"
+
+ignore instance GR types: if you want to ignore sentences where the verb heads a particular dependency type. I use this to ignore passive sentences e.g. ['passive']
+
+POS groups: defines coarse-grained POS groups. use this when you're getting information about the POS of the dependent. For example {'N':['NN1','NN2']} would group together NN1 and NN2 into a general "N" part of speech.
+
+GR types to dep POS: for which dependency types do you want to semi-lexicalize for the POS tag of the dependent. You must specify the POS groups that you care about. E.g. {'dobj':['N','ADJ']} will give you dobj_N, dobj_ADJ instead of just dobj in your SCFs. (Assumes you have defined N and ADJ pos groups.) Any POS that don't fit into the named POS groups will be grouped under OTH.
+
+GR types to child: for which dependency types do you want to go one step further in the graph to the dependent's dependent. E.g. you might want to know whether a ccomp had a tensed verb on the other side of it. You have to specify which POS groups you care about on the original dependency. E.g. {'iobj':['PREP']} will give you output like iobj_PREP=>dobj when the argument of iobj is in the PREP pos group.
+
+GR types to lexicalize: for which dependency types do you want to lexicalize the SCFs by the dependent. Normally for prepositions and particles. Note, lexicalizing expands the SCF inventory dramatically. E.g. ['iobj','ncmodprt']

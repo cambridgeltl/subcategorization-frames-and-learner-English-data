@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Salaire - Thermiques - La convention collective</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Salaire - Thermiques - La convention collective</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:05:52.0</pubDate>
+							<eAddress>http://www.laconventioncollective.com/convention-collective-thermiques/salaire.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Salaire</keyTerm>
+					<keyTerm>Thermiques salaire</keyTerm>
+					<keyTerm>Convention collective thermiques salaire</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/10137.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Convention collective</p>
+			<p id="p2">2011-01-01 - IDCC 1605 - Brochure 3260</p>
+			<p id="p3">Maladie ou accident. - STATUT COLLECTIF - TITRE V - Texte de base -</p>
+			<p id="p4">27.1. Les absences pour maladie ou accident ne rompent pas le contrat de travail. Elles doivent faire l'objet, sauf cas de force majeure, d'une notification par écrit à l'employeur dans les troisjours qui suivent le début de l'...</p>
+			<p id="p5">Article 22 Retraite.</p>
+			<p id="p6">Retraite. - TITRE III : CONTRAT DE TRAVAIL FORMATION, MODIFICATION, CESSATION DU CONTRAT DE TRAVAIL - Texte de base -</p>
+			<p id="p7">Les dispositions légales en vigueur fixent pour chaque cadre, les conditions générales à partir desquelles s'effectue la liquidation de ses droits aux avantages de retraite.La cessation du contrat de travail à durée indéterminée peut être due soit à l'initiative du ...</p>
+			<p id="p8">Article 28 Maternité et adoption (congé parental d'éducation).</p>
+			<p id="p9">Maternité et adoption (congé parental d'éducation). - STATUT COLLECTIF - TITRE V - Texte de base -</p>
+			<p id="p10">28.1. Le congé de maternité, le congé d'adoption et le congé parental d'éducation sont, ainsi que les modalités de reprise du travail à l'issue de ces congés, fixés conformément à la législation envigueur.28.2. Après un an d'ancienneté au premier jour de l'arrêt de travail, la femme c...</p>
+			<p id="p11">Article 24 Bulletin de paie.</p>
+			<p id="p12">Bulletin de paie. - RÉMUNÉRATION - REMBOURSEMENT DE FRAIS - TITRE IV - Texte de base -</p>
+			<p id="p13">Le bulletin de paie délivré aux cadres doit indiquer :1° Le nom et l'adresse de l'employeur ou la dénomination de l'établissement et son adresse.2° La référence de l'organisme auquel l'employeur verse les cotisations de sé...</p>
+			<p id="p14">Article 29 Service national.</p>
+			<p id="p15">Service national. - STATUT COLLECTIF - TITRE V - Texte de base -</p>
+			<p id="p16">29.1. Service national.Les cadres qui ont quitté leur entreprise pour effectuer leur service national obligatoire, même en cas de devancement d'appel, sont réintégrés dans les conditions prévues par les articles L. 122-18,L. 122-19 et R. 122-7 du code du t...</p>
+			<p id="p17">Article 12 Modification au contrat en cours.</p>
+			<p id="p18">Modification au contrat en cours. - CONTRAT DE TRAVAIL FORMATION, MODIFICATION, CESSATION DU CONTRAT DE TRAVAIL - TITRE III - Texte de base -</p>
+			<p id="p19">12.1. Toute modification substantielle de caractère individuel aux conditions du contrat en cours d'un cadre (salaire, qualification, changement de lieu de travail impliquant soit un déménagement,soit un accroissement important du tem...</p>
+			<p id="p20">Article 20 Indemnité de licenciement.</p>
+			<p id="p21">Indemnité de licenciement. - CONTRAT DE TRAVAIL FORMATION, MODIFICATION, CESSATION DU CONTRAT DE TRAVAIL - TITRE III - Texte de base -</p>
+			<p id="p22">20.1. Dans le cas de licenciement il est alloué au cadre licencié une indemnité de licenciement, distincte du préavis, calculée ainsi qu'il suit :- entre deux et cinq ans d'ancienneté dans l'entreprise :30 p. 100 de mois par année d'ancienneté depuis l'entrée dans l'en...</p>
+			<p id="p23">Article 31 Congés payés.</p>
+			<p id="p24">Congés payés. - STATUT COLLECTIF - TITRE V - Texte de base -</p>
+			<p id="p25">31.1. Le congé annuel s'acquiert à raison de deux jours et demi ouvrables de congés par mois de travail effectif (ou périodes assimilées) au cours de l'année de référence (1er juin-31 mai). Le congéannue...</p>
+			<p id="p26">Article 23 Rémunération.</p>
+			<p id="p27">Rémunération. - RÉMUNÉRATION - REMBOURSEMENT DE FRAIS - TITRE IV - Texte de base -</p>
+			<p id="p28">23.1. Pour tenir compte de l'évolution des modes de rémunération, une rémunération minimale annuelle professionnelle garantie est instituée. Celle-ci est définie comme ci-après dans le cadre del'année civile.La valeur de la rémunération minimale annuelle p...</p>
+		</body>
+	</text>
+</cesDoc>

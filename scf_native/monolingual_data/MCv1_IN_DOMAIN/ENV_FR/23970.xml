@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Éco-citoyen : les déchets - notre-planete.info</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Éco-citoyen : les déchets - notre-planete.info</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-11 02:32:24.0</pubDate>
+							<eAddress>http://www.notre-planete.info/ecologie/devdurable/eco_dechets.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/23970.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">environnement et risques naturels depuis 2001</p>
+			<p id="p2">Etre éco-citoyen à la maison : les déchets</p>
+			<p id="p3">Les déchets en France</p>
+			<p id="p4">En 40 ans, les quantités de déchets ménagers par habitant ont été multipliées par deux pour atteindre une moyenne de 460 kg par an et par personne !</p>
+			<p id="p5">La durée de vie des déchets</p>
+			<p id="p6">Durée de vie des déchets dans la nature</p>
+			<p id="p7">Type de déchet</p>
+			<p id="p8">1 à 2 ans</p>
+			<p id="p9">Réutiliser ou refuser les sachets plastiques</p>
+			<p id="p10">Distribués en grande surface (18 milliards d'unités sont distribuées par an, 10 milliards ne sont pas recyclés), ils sont à l'origine d'une pollution affligeante : plus de 120 millions de sacs plastiques sont dispersés sur le littoral français.</p>
+			<p id="p11">Ainsi, la France détient le triste record d'un des plus gros consommateur de sacs plastiques au monde. Vous pouvez tout à fait endiguer ce phénomène via l'usage de sacs cabas réutilisables, de paniers comme il y a quelques années...</p>
+			<p id="p12">Préferer les pots contenant davantage de produits</p>
+			<p id="p13">Ces pots sont moins chers (rapport prix/poids) et économisent souvent les emballages sources de déchets. Privilégier par exemple un sac de 2 kg de riz, plutôt que 4 boîtes de 500 g.</p>
+			<p id="p14">N'hésitez pas à vérifier le prix au kg ou au litre d'un produit sur l'étiquette placée sur le rayonnage : un nombre écrit en tout petit qui vous permet pourtant de comparer.</p>
+			<p id="p15">Eviter au maximum les produits jetables et les emballages</p>
+			<p id="p16">Les industriels veulent faire plus pratique, plus sexy au détriment des déchets dont le volume et le poids ne cessent de croître : chaque français en produit plus de 353 kg par an (ADEME, 2006), contre 220 kg dans les années 60.</p>
+			<p id="p17">Les lingettes qui se démocratisent pour tous les usages en sont un exemple frappant . En pérennisant vos produits, vous économisez de l'argent tout en diminuant vos déchets.</p>
+			<p id="p18">Les déchets à la maison</p>
+			<p id="p19">Refuser la publicité dans la boîte aux lettres</p>
+			<p id="p20">Nous recevons en moyenne 40 kg de prospectus et publicités non sollicitées par an, ce qui représente 35% du tonnage de papiers impression-écriture fabriqué en France. Une quantité non négligeable qui entraîne, pour une ville de 100 000 habitants une dépense de 250 000 € par an pour les traiter une fois à la poubelle (ADEME, 11/2005).</p>
+			<p id="p21">Un moyen simple et efficace de ne plus recevoir de publicité dans sa boîte aux lettres et d'y apposer un papillon « STOP PUB », une initiative du ministère de l'Écologie et du Développement durable que nous encourageons. Nous vous proposons de récupérer le fichier image à imprimer puis à coller sur votre boîte . Vous pouvez également récupérer un adhésif dans votre mairie. Le résultat est sans appel.</p>
+			<p id="p22">Enfin, N'hésitez pas à téléphoner aux organismes qui vous envoient de la publicité pour qu'ils vous retirent de leur base de données de mailing.</p>
+			<p id="p23">Vous avez un jardin ? Récupérer les déchets alimentaires</p>
+			<p id="p24">Installez une poubelle pour les déchets organiques (1/3 des déchets) afin de les transformer en compost pour le jardin. Vous pouvez vous procurer un composteur qui en quelques mois fera de vos déchets alimentaires du compost pour fertiliser votre jardin.</p>
+			<p id="p25">Vous êtes en appartement ? Récupérez les déchets alimentaires avec un lombricomposteur</p>
+			<p id="p26">Fabriquez ou procurez-vous un lombricomposteur afin de transformer vos matières organiques en terreau et engrais liquide pour vos jardinières. Sans odeur, sans contrainte, les vers travaillent pour vous et mangent : vos épluchures de fruits et légumes, vos rouleaux en carton de papier toilette et essuie-tout, vos marcs et filtres à café, vos feuilles mortes, vos sachets de thé, vos restes de pain, votre vieux terreau, etc... Ils régénèrent tout cela en un lombricompost d'excellente qualité. Cela permet de réduire de 30% la quantité de nos déchets non triés qui finissent bien souvent à l'incinération.</p>
+			<p id="p27">Ne pas jeter dans l'égout ni les toilettes</p>
+			<p id="p28">les médicaments périmés. Les pharmaciens reprennent gratuitement les anciens médicaments.</p>
+			<p id="p29">les huiles de vidange ou les fonds de peinture réservés aux déchetteries. 1 litre d'huile recouvre jusqu'à 1000 m2 d'étendue d'eau !</p>
+			<p id="p30">Rapporter ses médicaments en pharmacie</p>
+			<p id="p31">Les médicaments périmés, non utilisés doivent être rapportés à votre pharmacien. Ceci afin d'éviter les rejets médicamenteux dans la nature (décharge, eaux...). C'est l'objectif du dispositif Cyclamed qui détruit les médicaments non utilisés par incinération, alors qu'ils profitaient auparavant à des pays plus démunis.</p>
+			<p id="p32">N'oubliez pas de trier vos déchets !</p>
+			<p id="p33">Pourquoi trier ses déchets ?</p>
+			<p id="p34">Le tri des déchets permet de lutter efficacement contre le gaspillage des ressources naturelles, de promouvoir les économies d'énergie et d'épargner l'environnement.</p>
+			<p id="p35">Pour pouvoir être recyclés, les déchets ne doivent pas être mélangés avec les ordures ménagères sinon ils se saliraient mutuellement et les matières premières secondaires ne seraient alors plus récupérables.</p>
+			<p id="p36">La récupération des déchets recyclables permet de préserver notre environnement (préservation des ressources naturelles et des matières premières, limitation des gaz à effet de serre) et de maîtriser les coûts d'élimination des déchets (limitation des quantités de déchets à éliminer par l'incinération ou l'enfouissement qui sont des procédés de plus en plus coûteux).</p>
+			<p id="p37">Penser à donner au lieu de jeter</p>
+			<p id="p38">De nombreux organismes se développent autour du don et de l’échange notamment grâce à internet, il y en a peut être un près de chez vous...</p>
+			<p id="p39">Les déchets à l'extérieur</p>
+			<p id="p40">N'entretenez pas et ne créez pas de décharges sauvages</p>
+			<p id="p41">Par flemme et par ignorance, des tas d'ordures se créent sur le bord de la chaussée, dans une impasse, ils sont alors fréquement alimentés par d'autres qui aiment profiter de cette solution de facilité, de surcroît populaire, donc acceptable. Pourtant, il existe des déchèteries qui sont mises gratuitement à votre disposition. Ceci afin de garder propre des espaces souvent plus sauvages qui sont alors pollués et d'éviter aux plus jeunes de s'amuser dans nos déchets.</p>
+			<p id="p42">Ne déversez aucun produit dans les cours d'eau.</p>
+			<p id="p43">Les rivières et la mer ne doivent plus des poubelles pour nos produits chimiques. La toxicité de certains produits est telle qu'ils peuvent entraîner la mort de milliers d'animaux à la suite d'un rejet. N'oublions pas que les toxines ainsi déversées dans la nature nous reviennent forcément, et en grande quantité, via notre alimentation... Préférez donc les centres de collectes mis en place en vous renseignant notamment auprès de votre Mairie.</p>
+			<p id="p44">Refuser les prospectus et papillons (flyers)</p>
+			<p id="p45">Ils nous sont tendus un peu partout : dans la rue, les transports publics, les soirées... Ils sont souvent pris pour être jetés deux mètres plus loin, rarement à la poubelle. Refusez ces publicités supplémentaires ou demandez de quoi il en retourne avant de les prendre machinalement. Moins de déchets et peut-être moins de prospectus seront ainsi produits. Ne vous inquiétez pas pour l'emploi ainsi occupé par cette personne et qui pourrait disparaître, il y a bien d'autres postes à créer pour préserver et nettoyer notre environnement...</p>
+			<p id="p46">En savoir plus</p>
+			<p id="p47">notre-planete.info est un site indépendant qui vise à informer et sensibiliser objectivement sur l'environnement, l'écologie, les sciences de la Terre, les risques naturels et le développement durable</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title></title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 19:48:55.0</pubDate>
+							<eAddress>http://www.carrettacaretta.com/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/8811.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Il sistema, utilizza piccoli mezzi, veri e propri “cassonetti mobili”.</p>
+			<p id="p2">Questi mezzi, denominate “carrette”, in giorni e in orari prestabiliti si posizioneranno negli spazi a loro dedicati in diverse zone della città per servire i cittadini nel disfarsi dei propri rifiuti.</p>
+			<p id="p3">Ogni carretta potrà accogliere un particolare rifiuto/i, in base ad un programma di raccolta differenziata predefinito.</p>
+			<p id="p4">Le “carrette” sosteranno in aree speciali, principalmente ma non solo negli ex spazi dei cassonetti, che verranno contrassegnati da speciali paline indicanti orari, istruzioni di raccolta e comunicazioni civiche.</p>
+			<p id="p5">Gli operatori “Carretta Caretta” avranno compiti “sociali”, che spazieranno all’educazione al riciclaggio e la fornitura di sacchetti. Il progetto prevede che, durante l’orario di sosta del mezzo, gli operatori ecologici si dedicheranno sopratutto alla pulizia della zona limitrofa.</p>
+			<p id="p6">Il progetto nasce dall’esigenza e dalla voglia di avere un sistema che con semplicità per il cittadino, raccolga e differenzi quasi il 100% dei rifiuti solidi urbani, in osservanza delle direttive Europee.</p>
+			<p id="p7">L’obiettivo principale è quello di evitare totalmente dai centri urbani i cassonetti o i sacchetti abbandonati sulle strade per la raccolta porta a porta, sia per l’inquinamento visivo che olfattivo. Questo sistema presenta indubbi vantaggi ambientali, aprendo la strada a un vero piano di riciclaggio dei rifiuti.</p>
+			<p id="p8">La facilità di monitorare ogni singolo cittadino apre un’importante obiettivo all’economia gestionale nel sistema di raccolta, che potranno andare a vantaggio della collettività sotto forma di una riduzione della spesa e sulla tarsu. </p>
+			<p id="p9">Il progetto Carretta Caretta è  stato accolto dalla International Solid Waste Association, con sede a Copenhagen e presentato per la prima volta ad Amburgo. La ISWA appunto ha membri in tutto il mondo ed è l’unica associazione che promuove la gestione dei rifiuti sostenibile servendosi di professionisti del settore.</p>
+			<p id="p10">per maggiori informazioni:</p>
+			<p id="p11">Search</p>
+		</body>
+	</text>
+</cesDoc>

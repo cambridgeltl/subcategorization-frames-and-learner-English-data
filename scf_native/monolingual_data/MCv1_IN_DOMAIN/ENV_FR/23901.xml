@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>CITEPA - Souces de pollution</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>CITEPA - Souces de pollution</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-06-01 16:53:39.0</pubDate>
+							<eAddress>http://www.citepa.org/pollution/sources.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/23901.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La liste des polluants atmosphériques est longue. Aux classiques habituels mais toujours réels polluants tels que les poussières , le SO</p>
+			<p id="p2">et d'autres substances telles que l' ozone , les organochlorés ( dioxines et furannes ), les HAP (Hydrocarbures Aromatiques Polycycliques), etc.</p>
+			<p id="p3">Bien entendu les sources émettrices de polluants dans l'atmosphère sont fort nombreuses et concernent tous les secteurs relatifs aux activités humaines (domestique, industrie, agriculture, transports, etc.) ainsi que la nature. On constatera que la part des émissions dévolue à chaque secteur varie considérablement selon les constituants, notamment en ce qui concerne les secteurs principalement consommateurs d'énergie.</p>
+			<p id="p4">Particules solides</p>
+			<p id="p5">Pour des raisons physiologiques et psychologiques la pollution par les poussières a été très tôt ressentie par les populations et a fait l'objet de réglementations depuis fort longtemps bien que la toxicité soit souvent moindre que de nombreux constituants gazeux. Cette dernière affirmation doit bien entendu être modulée selon la nature des poussières et leur granulométrie (fines poussières &lt; 2,5 µm, fibres et poussières d'amiante,...).</p>
+			<p id="p6">Les principales sources sont les installations de combustion et les procédés industriels tels que extraction de minéraux, cimenterie, aciérie, fonderie, verrerie, plâtrière, chimie fine, etc.... Les émissions de poussières ont très fortement diminué depuis 20 ans. Les particules solides servent de vecteurs à différentes substances toxiques voire cancérigènes ou mutagènes ( métaux lourds , HAP ,...) et restent de ce fait un sujet important de préoccupation.</p>
+			<p id="p7">2</p>
+			<p id="p8">sont dus en grande majorité à l'utilisation de combustibles fossiles soufrés (charbon, lignite, coke de pétrole, fuel lourd, fuel domestique, gazole). Tous les utilisateurs de ces combustibles sont concernés. Quelques procédés industriels émettent également des oxydes de soufre (production de H</p>
+			<p id="p9">2</p>
+			<p id="p10">4</p>
+			<p id="p11">, production de pâte à papier, raffinage du pétrole, etc.). Même la nature émet des produits soufrés (volcans).</p>
+			<p id="p12">Les plus gros émetteurs sont généralement les centrales thermiques, les raffineries, les grandes installations de combustion, etc. Le gaz naturel, le GPL, le bois sont des combustibles pas ou très peu soufrés.</p>
+			<p id="p13">2</p>
+			<p id="p14">2</p>
+			<p id="p15">essentiellement de la combustion des combustibles fossiles et de quelques procédés industriels (production d'acide nitrique, fabrication d'engrais, traitement de surfaces, etc.). Ils sont principalement formés dans les chambres de combustion où :</p>
+			<p id="p16">N</p>
+			<p id="p17">N</p>
+			<p id="p18">2</p>
+			<p id="p19">2</p>
+			<p id="p20">Le NO se transforme en présence d'oxygène en NO</p>
+			<p id="p21">2</p>
+			<p id="p22">(de 0,5 à 10 %) dans le foyer. Cette réaction se poursuit lentement dans l'atmosphère et explique dans le cas des villes à forte circulation la couleur brunâtre des couches d'air pollué situées à quelques centaines de mètres d'altitude (action conjointe des poussières). Les oxydes d'azote interviennent également dans la formation des oxydants photochimiques et par effet indirect dans l'accroissement de l' effet de serre .</p>
+			<p id="p23">Les principaux émetteurs sont les grandes installations de combustion et surtout les véhicules automobiles (d'où une politique de réduction au moyen de pots catalytiques par exemple). Volcans, orages, feux de forêts contribuent aussi aux émissions.</p>
+			<p id="p24">CO - Monoxyde de carbone</p>
+			<p id="p25">Le monoxyde de carbone est produit par des combustions incomplètes généralement dues à des installations mal réglées (surtout le cas des toutes petites installations). Il est aussi présent dans les rejets de certains procédés industriels (agglomération de minerai, aciéries, incinération de déchets) mais aussi et surtout présent dans les gaz d'échappement des véhicules automobiles.</p>
+			<p id="p26">COV - Composés organiques volatils</p>
+			<p id="p27">Les COV regroupent une multitude de substances et ne correspondent pas à une définition très rigoureuse. Les hydrocarbures appartiennent aux COV et on fait souvent l'amalgame à tort. Ceci est sans doute dû au fait que l'on exprime souvent les COV en hydrocarbures totaux équivalent méthane, ou propane, ou par rapport à un autre hydrocarbure de référence. Il est fréquent de distinguer séparément le méthane (CH</p>
+			<p id="p28">4</p>
+			<p id="p29">) qui est un COV particulier, naturellement présent dans l'air, des autres COV pour lesquels on emploie alors la notation COVNM (Composés Organiques Volatils Non Méthaniques).</p>
+			<p id="p30">Les sources de COV sont très nombreuses, les émissions sont dues à certains procédés industriels impliquants la mise en ouvre de solvants (chimie de base et chimie fine, parachimie, dégraissage des métaux, application de peinture, imprimerie, colles et adhésifs, caoutchouc, etc...), ou n'impliquant pas de solvants (raffinage du pétrole, utilisation de CFC, production de boissons alcoolisées, de pain, etc.). L'utilisation de combustibles dans des foyers contribue un peu aux émissions mais sans aucune comparaison avec les proportions indiquées pour SO</p>
+			<p id="p31">2</p>
+			<p id="p32">et NOx. On retrouve au premier rang des émetteurs les transports (surtout automobile). On notera également que la biomasse est fortement émettrice (forêts), sans oublier non plus les émissions liées aux produits domestiques (peinture, produits d'entretien, parfums et cosmétiques, journaux, tabac, etc.).</p>
+			<p id="p33">2</p>
+			<p id="p34">provient de l'accroissement rapide de la concentration de ce gaz dans l'atmosphère par suite d'une augmentation de la consommation d'énergie fossile dans le monde et d'une diminution importante des couverts forestiers (une forêt de type tropical absorbe de 1 à 2 kg de CO</p>
+			<p id="p35">2</p>
+			<p id="p36">par m2 et par an tandis qu'une forêt européenne ou un champ cultivé n'absorbe que de 0,2 à 0,5 kg de CO</p>
+			<p id="p37">2</p>
+			<p id="p38">par m2 et par an). Par ailleurs les océans jouent un rôle essentiel dans le maintien de l'équilibre général en carbone. L'augmentation de CO</p>
+			<p id="p39">2</p>
+			<p id="p40">dans l'atmosphère, dans les proportions que nous connaissons, ne poserait probablement pas de problème à l'homme avant très longtemps s'il n'y avait pas le phénomène d'accroissement de l' effet de serre et ses conséquences potentielles d'ordre socio-économique plus ou moins dramatiques selon les experts.</p>
+			<p id="p41">Comparées aux émissions des autres pays, la France se trouve très bien placée avec un peu moins de 2 t de Carbone par habitant et par an.</p>
+			<p id="p42">- Methane</p>
+			<p id="p43">Il occupe une place à part parmi les COV. Il participe directement au phénomène d'accroissement de l' effet de serre (sa contribution est estimée à 18 % environ) et sa concentration dans l'air ambiant augmente encore plus vite que celle du CO</p>
+			<p id="p44">2</p>
+			<p id="p45">. Les principales sources émettrices sont : l'exploitation des mines de charbon, les décharges d'ordures ménagères, l'élevage, la distribution du gaz, etc. Une forte corrélation semble exister à l'échelle de la planète entre les émissions de méthane et la population; cette dernière ne cessant de croître.</p>
+			<p id="p46">2</p>
+			<p id="p47">O ou protoxyde d'azote est un composé oxygéné de l'azote. Il participe au phénomène de l'accroissement de l' effet de serre avec le CO</p>
+			<p id="p48">2</p>
+			<p id="p49">2</p>
+			<p id="p50">O est émis lors de la combustion des combustibles fossiles, par quelques procédés industriels, par les véhicules automobiles et par les sols (surtout ceux cultivés avec des engrais azotés). Les océans et les sols naturels contribuent aussi aux émissions.</p>
+			<p id="p51">CFC - Chlorofluorocarbures</p>
+			<p id="p52">Ils sont totalement artificiels (à l'exception du chlorure de méthyl d'origine marine). Les émissions de CFC provenaient de l'utilisation de ces produits dans les biens de consommation courante (aérosols propulseurs, mousses, extincteurs, réfrigérants, etc.). A la suite d'accords internationaux, la production de ces substances, qui participent à l' effet de serre , est désormais très fortement réduite voire interdite pour la plupart, mais leur durée de vie (de 60 à 110 ans environ selon les composés) fait que les quantités présentes dans notre atmosphère vont continuer d'agir encore pendant un certain temps.</p>
+			<p id="p53">HFC - Hydrofluorocarbures</p>
+			<p id="p54">Synthétisés exclusivement par voie chimique les HFC n'avaient pas d'applications importantes avant l'adoption du protocole de Montréal (interdiction des CFC) et des HCFC qui leur ont succédé. Ces composés qui participent également à l' effet de serre sont aujourd'hui utilisés comme agent de propulsion des aérosols, comme fluides réfrigérants, solvants, agents d'expansion des mousses, etc.</p>
+			<p id="p55">PFC - Perfluorocarbures</p>
+			<p id="p56">Synthétisés exclusivement par voie chimique les PFC sont largement utilisés lors des étapes de production des semi-conducteurs. Ils sont aussi des sous-produits de l'électrolyse de l'aluminium. L'amélioration des procédés a permis de diminuer notablement les émissions de ces gaz à effet de serre depuis 1990.</p>
+			<p id="p57">6</p>
+			<p id="p58">est utilisé dans un grand nombre d'applications techniques : agent diélectrique et de coupure dans les équipement électriques, gaz protecteur pour les fonderies de magnésium. Le SF</p>
+			<p id="p59">6</p>
+			<p id="p60">HF - Acide fluoridrique</p>
+			<p id="p61">Le fluor est surtout émis au cours de la première fusion de l'aluminium; l'électrolyse nécessite l'ajout de cryolithe (Na</p>
+			<p id="p62">3</p>
+			<p id="p63">6</p>
+			<p id="p64">) qui donne du HF. Du fait que le fluor est présent dans de nombreux minéraux (argiles, phosphates naturels, charbon, dolomie, bauxite, etc.), les utilisateurs de ces minéraux sont donc des émetteurs potentiels. Les plus connus sont les briqueteries, les fabriques de fibre de verre, d'émaux, les aciéries, la sidérurgie, etc. qui épurent généralement leurs gaz avant rejet à l'atmosphère.</p>
+			<p id="p65">- Ozone</p>
+			<p id="p66">C'est un élément intermédiaire important du processus de formation et d'évolution des oxydants photochimiques . L'ozone stratosphérique ('bon ozone') nous protège des rayons UV du soleil, tandis que l'ozone troposphérique ('mauvais ozone') est un polluant très toxique car il est en contact direct avec l'homme et les autres écosystèmes. Il n'y a que très peu de sources industrielles d'ozone. On connaît aussi les petits ozoniseurs domestiques.</p>
+			<p id="p67">La combinaison du rayonnement solaire, des NOx et des COV favorise la production d'ozone troposhérique dans nos régions et de façon plus marquée dans le sud. C'est un problème complexe car la réduction des oxydes d'azote peut, comme on l'a déjà observé, favoriser l'augmentation des concentrations d'ozone.</p>
+			<p id="p68">2</p>
+			<p id="p69">, il est utile de savoir que l'odeur disparaît avant d'atteindre le seuil de toxicité (le seuil de perception olfactive de H</p>
+			<p id="p70">2</p>
+			<p id="p71">2</p>
+			<p id="p72">S est surtout produit par les usines de production de pâte à papier (procédé Kraft) et par les 'unités Claus' des raffineries de pétrole.</p>
+			<p id="p73">Il existe différentes sources de métaux lourds qui contaminent l'atmosphère :</p>
+			<p id="p74">L'arsenic (As) provient, d'une part, de traces de ce métal dans les combustibles minéraux solides ainsi que dans le fioul lourd et, d'autre part, dans certaines matières premières utilisées notamment dans des procédés comme la production de verre, de métaux non ferreux ou la métallurgie des ferreux.</p>
+			<p id="p75">Le cuivre (Cu) provient majoritairement de l'usure des caténaires induit par le trafic ferroviaire. Par ailleurs, comme pour les autres métaux lourds, les procédés de la métallurgie des métaux ferreux et non-ferreux, le traitement des déchets et la combustion constituent à des degrés divers les principales sources émettrices de cuivre.</p>
+			<p id="p76">Le mercure (Hg) est émis en quantité faible, mais toujours trop importante, par la combustion du charbon, du pétrole, la production de chlore, mais aussi par l'incinération de déchets ménagers, hospitaliers et industriels. Les actions préventives ont permis de diminuer les émissions de mercure de façon notable au cours des dernières années.</p>
+			<p id="p77">Le plomb (Pb), était principalement émis par le trafic automobile jusqu'à l'interdiction de l'essence plombée (01/01/2000). Les autres sources de plomb sont la première et de la seconde fusion du plomb, la fabrication de batteries électriques, la fabrication de certains verres (cristal), etc. La toxicité du plomb est très aiguë (saturnisme), aussi les émissions sont-elles très sévèrement réglementées à des niveaux très faibles.</p>
+			<p id="p78">L' ammoniac (NH</p>
+		</body>
+	</text>
+</cesDoc>

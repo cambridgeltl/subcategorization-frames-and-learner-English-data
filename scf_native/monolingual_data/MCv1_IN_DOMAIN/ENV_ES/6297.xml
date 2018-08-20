@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ecologistas reprueban a Agencia Ambiental | Milenio.com</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ecologistas reprueban a Agencia Ambiental | Milenio.com</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:29:50.0</pubDate>
+							<eAddress>http://www.milenio.com/node/550366</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/6297.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Ecologistas reprueban a Agencia Ambiental</p>
+			<p id="p2">Especialistas cuestionan el desempeño de la dependencia, ya que consideran que no ha contribuido a resolver la grave problemática de contaminación que afecta a Tampico, Madero y Altamira.</p>
+			<p id="p3">La contaminación de los cuerpos de agua es uno de los principales problemas que padece la zona</p>
+			<p id="p4">Ecologistas de la zona reprueban el desempeño de la Agencia Ambiental para el Desarrollo Sustentable (AADS), la cual consideran no es más que una figura decorativa del gobierno estatal, pues no ha contribuido a resolver los graves problemas de contaminación que arrastra la zona.</p>
+			<p id="p5">En su opinión,el trabajo de la AADS ha sido nulo, caótico y su creación sólo sirvió para cumplir compromisos políticos. Alfredo Trejos, miembro de la Comisión de Medio Ambiente del Movimiento Ciudadano, señaló que la insalubridad que se está viviendo en la zona, está provocando enfermedades que no se pueden controlar.</p>
+			<p id="p6">“Ya no hay control sobre los padecimientos, la Agencia Ambiental debería ver que las plantas de tratamiento estuvieran funcionando ya en la actualidad, pero no lo ha hecho”, apuntó.</p>
+			<p id="p7">La Agencia Ambiental, dijo, tiene la capacidad económica para aterrizar proyectos en pro de la ecología, sin embargo, ha mostrado nulo interés en la situación que se está viviendo.</p>
+			<p id="p8">“Esta dependencia puede ayudar mucho pero sólo ha estado como una figura decorativa, ellos tienen el poder y las participaciones económicas para remediar los problemas del entorno ambiental, sin embargo no lo hacen”, indicó.</p>
+			<p id="p9">El Oceanólogo Marcelo René García, indicó que el trabajo de la dependencia ha sido caótico; que no ha cumplido con los objetivos de su creación y que en vez de mejorar la situación ecológica, cada vez la empeoran más.</p>
+			<p id="p10">Ejemplificó que la propia Agencia Ambiental está permitiendo la operación de un relleno sanitario en Altamira con una serie de irregularidades que afectan el ecosistema y la salud de la ciudadanía.</p>
+			<p id="p11">“No se ha visto avance, no han creado programas o proyectos. Hay que exigirles que se pongan a trabajar porque se les paga con recursos públicos”, indicó.</p>
+			<p id="p12">Por su parte, Alfonso Amieba, ecologista, pidió a los titulares estatal y regional de la AADS que se olviden de cuestiones personales y partidistas y se pongan a realizar acciones que empiecen a abatir la contaminación. “No veo que estén solucionando algún problema, desde el punto de vista local, puedo decir que su participación ha sido pobre o nula”, reiteró.</p>
+			<p id="p13">A su vez, Sergio García, integrante de la Gaviota Vida Marina, coincidió con sus homólogos, y recalcó que la propia dependencia incumple con las leyes ambientales al permitir y solapar la contaminación que generan empresas, industrias y demás organismos.</p>
+			<p id="p14">Desde su punto de vista, este tipo de direcciones fueron creadas solamente para cumplir con compromisos y asuntos políticos.</p>
+			<p id="p15">Patricia Azuara</p>
+		</body>
+	</text>
+</cesDoc>

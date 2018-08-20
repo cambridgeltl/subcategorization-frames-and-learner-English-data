@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Environmental Economics: Climate change and outdoor recreation: Part 2</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Environmental Economics: Climate change and outdoor recreation: Part 2</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 12:14:50.0</pubDate>
+							<eAddress>http://www.env-econ.net/2008/03/climate-chang-1.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/13661.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">News, Opinion, Analysis</p>
+			<p id="p2">Recent Comments</p>
+			<p id="p3">Member since 05/2005</p>
+			<p id="p4">Climate change and outdoor recreation: Part 2</p>
+			<p id="p5">In Part 1 I reviewed the scant U.S. literature (another two papers have been sent to me since then, thanks!) and in Part 2 I'm looking at the effects of temperature and precipitation on recreation participation in three sectors: boating, freshwater fishing and hunting.</p>
+			<p id="p6">The data is from the 2000 National Survey on Recreation and the Environment (which doesn't include days participation (intensity) for boating, freshwater fishing and hunting (as far as I can tell ... I could get days participation from the National Survey of Fishing, Hunting and Wildlife-Associated Recreation but that's a lot of work and this stupid blog is not a peer-reviewed journal)). I'm using complete case analysis so I lose about 32% of the cases that don't report income. Cleaning the rest of the data for item nonresponse leaves me with 21,813 cases. Participation rates are:</p>
+			<p id="p7">Boating (any type) = 44%</p>
+			<p id="p8">Hunting (any type) = 14%</p>
+			<p id="p9">I'm analyzing the factors that affect participation in each of these activities including family income (income), race (white=1), sex (male=1), age (age), education (educ), household size (hhnum), children under 6 (under6), urban resident (metro), average state temperature in January (jantemp) and July (jultemp), January precipitation (janpcp) and July precipitation (julpcp). Temperature and precipitation data is obtained from NOAA*.</p>
+			<p id="p10">The idea, not mine (see part 1 ), is to obtain an estimate of the effect of climate on participation across the U.S. and use this relationship to forecast changes in behavior as climate changes.</p>
+			<p id="p11">The estimate of the effect of climate on participation across the U.S. is obtained using the linear probability model (logistic regression obtains the same results but the simulations are more difficult with a nonlinear model; hey, this is a stupid blog ... give me a break) plus " business intelligence software " and a desktop computer. At first glance, regression results ( Download Table ) indicate that climate has uncertain effects on recreation participation in boating, freshwater fishing and hunting:</p>
+			<p id="p12">For boating, increases in July temperature will decrease participation. January temperature has no effect. Increases in precipitation will increase participation.</p>
+			<p id="p13">For freshwater fishing, temperature has no effect on participation. Increases in January precipitation will decrease participation while increases in July precipitation will increase participation.</p>
+			<p id="p14">For hunting, increases in temperature will have no effect on participation. Increases in January precipitation will decrease participation while increases in July precipitation will increase participation.</p>
+			<p id="p15">Since climate change is expected to increase temperature and precipitation in the U.S. the net effect of climate change on recreation participation is not clear. To determine the overall impacts I simulated the effects of the change in temperature and precipitation on the overall recreation participation levels with U.S. average temperature [ pdf ] and precipitation [ pdf ] forecasts (developed by Ben Poulter of the Potsdam Institute for Climate Change Research ... Thanks Ben!).</p>
+			<p id="p16">Participation rates in 2098 with climate change (holding income constant) are:</p>
+			<p id="p17">Boating (any type) = 43%</p>
+			<p id="p18">Hunting (any type) = 5%</p>
+			<p id="p19">Boating (any type) = -1%</p>
+			<p id="p20">Hunting (any type) = -9%</p>
+			<p id="p21">In contrast to previous studies, I'm finding that climate change decreases boating and hunting participation with no effect on freshwater fishing. If I was really serious about this I'd need to dig further but it does bring into question the aggregate data national estimates from a few years ago ( Part 1 ).</p>
+			<p id="p22">Just for fun, how about if we simulate income increases on top of climate change? Suppose that incomes double from 2000 to 2098 (a 0.72% real growth rate [this is conservative]). Participation rates in 2098 with climate change and a doubling of income are:</p>
+			<p id="p23">Boating (any type) = 54%</p>
+			<p id="p24">Hunting (any type) = 6%</p>
+			<p id="p25">The change in participation rates from 2000 to 2098 with climate change and a doubling of income are:</p>
+			<p id="p26">Boating (any type) = 8%</p>
+			<p id="p27">Hunting (any type) = -8%</p>
+			<p id="p28">A doubling of income doesn't lead to crazy results. The biggest effect is that people will buy more boats and crowd those navigable waters. Watch out.</p>
+			<p id="p29">I'd appreciate any comments on this analysis. Looking ahead, part 3 will consider the effects of temperature and precipitation on the intensity of participation (days, not just yes or no) for skiing, camping, saltwater fishing, beach going, and wildlife watching.</p>
+			<p id="p30">*Note: State average climate data can be found at: http://www1.ncdc.noaa.gov/pub/data/cirs/ . </p>
+			<p id="p31">The data is in text format. Documentation is in readme file: state.README. The temperature and precipitation data are drd964x.tmpst.txt and drd964x.pcpst.txt.</p>
+			<p id="p32">Posted by John Whitehead on March 25, 2008 at 08:07 AM in Climate Change | Permalink</p>
+			<p id="p33">... because Blogads are good for you.</p>
+			<p id="p34">Search</p>
+			<p id="p35">-- Economic Way of Thinking</p>
+			<p id="p36">-- UKNEE</p>
+			<p id="p37">-- The Olive Ridley Crawl</p>
+			<p id="p38">-- Mark C R UK</p>
+			<p id="p39">-- American Institute of Biological Sciences</p>
+			<p id="p40">-- Fritz</p>
+			<p id="p41">... the Environmental Economics blog ... is now the default homepage on my browser (but then again, I guess I am a wonk -- a word I learned on the E.E. blog). That is a very nice service to the profession.</p>
+			<p id="p42">-- Anonymous</p>
+			<p id="p43">"... I try and read the blog everyday and have pointed it out to other faculty who have their students read it for class. It is truly one of the best things in the blogosphere."</p>
+			<p id="p44">-- Anonymous</p>
+		</body>
+	</text>
+</cesDoc>

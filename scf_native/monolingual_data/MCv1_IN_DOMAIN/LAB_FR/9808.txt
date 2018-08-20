@@ -1,0 +1,18 @@
+Ai-je le droit d’inclure l’indemnité de non-concurrence dans le salaire ?
+Publicité
+NON
+De façon générale, l’opportunité de recourir à une clause de non-concurrence  doit être précisément mesurée.
+La protection de l’entreprise peut certes justifier l’inclusion dans le contrat de travail de cette clause, par laquelle le salarié s’engage à ne pas travailler, après la rupture du contrat, pour le compte d’une entreprise concurrente.
+Néanmoins, pour éviter les entraves excessives à la liberté du salarié, les juges considèrent que cette clause de non-concurrence n’est valable que si elle remplit certaines conditions cumulatives, notamment :
+être limitée dans l’espace (définition d’un secteur de non-concurrence) et dans le temps (durée déterminée) ;
+comporter, à la charge de l’employeur, une contrepartie financière dont le montant sera fixé par les parties à un montant « non dérisoire », sous le contrôle des juges (par exemple, a été jugée dérisoire une indemnité équivalent à 10 % du salaire mensuel pendant la durée de l’interdiction de concurrence), et au moins égal au montant fixé par la convention collective applicable, le cas échéant.
+En toute logique, ces deux conditions sont liées : pour ne pas être jugée dérisoire, la contrepartie financière devra être d’autant plus élevée que l’interdiction de concurrence aura un secteur étendu et une durée importante.
+En l’absence de contrepartie financière suffisante, le salarié pourra obtenir soit l’annulation de la clause de non-concurrence (afin d’en être libéré), soit (s’il a respecté la clause) le versement de dommages et intérêts fixés par les juges.
+Il peut donc être tentant de prévoir dans le contrat de travail que la rémunération mensuelle du salarié inclut, par son importance et par avance, la contrepartie financière à l’obligation de non-concurrence.
+Mais il s’agira là d’un marché de dupe, car les juges ont récemment condamné ce montage, aux motifs que le montant de la contrepartie ne peut pas dépendre de la durée d’exécution du contrat.
+La contrepartie devra donc être versée après la rupture du contrat, à condition évidemment que le salarié respecte l’obligation de non-concurrence.
+(Cass. soc., 7 mars 2007, n° 05-45511)
+En collaboration avec Matthieu BABIN, Avocat, cabinet Capstan    
+Partagez cet article :
+Articles sur le même thème : Rémunération
+Services droit du travail :

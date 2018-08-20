@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Centre de Stockage des Déchets Ultimes (CSDU)</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Centre de Stockage des Déchets Ultimes (CSDU)</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 23:03:19.0</pubDate>
+							<eAddress>http://www.actu-environnement.com/ae/dictionnaire_environnement/definition/centre_de_stockage_des_dechets_ultimes_csdu.php4</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>dictionnaire</keyTerm>
+					<keyTerm>définition</keyTerm>
+					<keyTerm>définitions</keyTerm>
+					<keyTerm>glossaire</keyTerm>
+					<keyTerm>centre</keyTerm>
+					<keyTerm>stockage</keyTerm>
+					<keyTerm>déchets</keyTerm>
+					<keyTerm>déchet</keyTerm>
+					<keyTerm>ultimes</keyTerm>
+					<keyTerm>ultime</keyTerm>
+					<keyTerm>csdu</keyTerm>
+					<keyTerm>anciennement</keyTerm>
+					<keyTerm>dénommés</keyTerm>
+					<keyTerm>dénommé</keyTerm>
+					<keyTerm>décharge</keyTerm>
+					<keyTerm>cet</keyTerm>
+					<keyTerm>centre</keyTerm>
+					<keyTerm>enfouissement</keyTerm>
+					<keyTerm>technique</keyTerm>
+					<keyTerm>existe</keyTerm>
+					<keyTerm>trois</keyTerm>
+					<keyTerm>troi</keyTerm>
+					<keyTerm>types</keyTerm>
+					<keyTerm>type</keyTerm>
+					<keyTerm>csdu</keyTerm>
+					<keyTerm>csdu</keyTerm>
+					<keyTerm>déchets</keyTerm>
+					<keyTerm>déchet</keyTerm>
+					<keyTerm>industriels</keyTerm>
+					<keyTerm>industriel</keyTerm>
+					<keyTerm>dangereux</keyTerm>
+					<keyTerm>dangereu</keyTerm>
+					<keyTerm>csdu</keyTerm>
+					<keyTerm>déchets</keyTerm>
+					<keyTerm>déchet</keyTerm>
+					<keyTerm>ménagers</keyTerm>
+					<keyTerm>ménager</keyTerm>
+					<keyTerm>assimilés</keyTerm>
+					<keyTerm>assimilé</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/17286.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Anciennement dénommés décharge ou CET (Centre d'Enfouissement Technique).</p>
+			<p id="p2">Il existe trois types de CSDU :</p>
+			<p id="p3">- CSDU 1 : déchets industriels dangereux.</p>
+			<p id="p4">- CSDU 2 : déchets ménagers et assimilés.</p>
+			<p id="p5">- CSDU 3 : déchets dits inertes.</p>
+			<p id="p6">La France comptait en 1999 1.100 CSDU II. En 1997, 48% des déchets municipaux allaient en décharge.</p>
+			<p id="p7">Le CSDU est composé de casiers, indépendants sur le plan hydraulique, eux-mêmes composés d'alvéoles, dans lesquelles sont entreposés les déchets. Les casiers sont entourés de digues étanches. L'étanchéité est assurée par superposition d'une géomembrane en mélange de fibres textiles en PEHD et de matériaux drainant. Les lixiviats sont récupérés, traités par lagunage puis envoyés en stations d'épuration. L'ensemble est entouré d'une digue périphérique. La hauteur et la pente des digues, la distance des casiers par rapport à la limite de l'exploitation, les contrôles, ..., sont réglementés. La duré d'exploitation est en général de vingt ans.</p>
+			<p id="p8">Les CSDU peuvent être à l'origine de plusieurs types de nuisances :</p>
+			<p id="p9">- Génération d’odeurs : pas de caractère dangereux mais la nuisance peut-être forte pour les riverains.</p>
+			<p id="p10">- Génération de lixiviats ou jus de décharge provenant de la décomposition des déchets et de la lixiviation : ils jus sont récupérés, pompés puis envoyés vers des usines de traitement adéquates (station de traitement). Ces jus présentent un caractère toxique. Ils sont contenus grâce à la géomembrane (étanchéité active du dispositif) et par une couche d’argile (filtration). L’eau traverse l’argile à raison d'environ 3 cm par an.</p>
+			<p id="p11">- Génération de biogaz : une grande partie des gaz dégagés ne présente pas de risques sur l’organisme mais d’autres sont en revanche nocifs : acide fluorhydrique, chlorure d’hydrogène, acide sulfurique, ... . Ils sont généralement brûlés sur place à l’aide d’une torchère. Exemple : sur le CSDU II de Sauvigny le bois (21), ce sont 275.000 m3 de gaz générés pour une période 6 mois.</p>
+			<p id="p12">- Augmentation du transport routier d'où génération de nuisances pour les riverains.</p>
+			<p id="p13">A son arrivée sur un centre de stockage, le transporteur présente deux documents : le certifcat d'acceptation préalable et un BSDI (Bordereau de suivi des déchets industriels) comportant notamment les caractéristiques du déchet et la traçabilité de sa production.</p>
+			<p id="p14">La digestion préalable des boues et des déchets avant stockage en CSDU permet :</p>
+			<p id="p15">- La réduction des quantités à déshydrater, transporter, stocker en CSDU.</p>
+			<p id="p16">- La diminution de la production de biogaz et lixiviats en CSDU</p>
+			<p id="p17">- De plus la valorisation du biogaz est plus facile dans des structures de traitement qu’en CSDU.</p>
+			<p id="p18">Quelques références réglementaires :</p>
+			<p id="p19">- Décision du 19/12/02 : Critères et procédures d'admission des déchets dans les décharges.</p>
+			<p id="p20">- Circulaire du 04/07/02 : Installations de stockage de déchets ménagers et assimilés.</p>
+			<p id="p21">- Circulaire du 17/06/02 : Bande de 200 m autour des décharges existantes et des nouvelles installations de stockage de déchets ménagers et assimilés.</p>
+			<p id="p22">- Arrêté du 03/04/02 : Stockage des déchets de classe II.</p>
+			<p id="p23">- Circulaire du 14/02/02 : Calcul des garanties financières pour les installations de stockage de déchets.</p>
+			<p id="p24">- Arrêté du 31/12/01 : Stockage de déchets ménagers et assimilés.</p>
+			<p id="p25">- Circulaire du 29/04/99 : Garanties financières des installations de stockage de déchets.</p>
+			<p id="p26">- Arrêté du 09/09/97 : Décharges de classe II.</p>
+			<p id="p27">- Quelques références réglementaires supplémentaires : Se reporter à Élimination.</p>
+			<p id="p28">2/ le 10/09/2010 à 20h00</p>
+		</body>
+	</text>
+</cesDoc>

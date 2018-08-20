@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Dizionario ecologico: decreto Ronchi, deforestazione, desertificazione, diossina, discarica, ecodizionario</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Dizionario ecologico: decreto Ronchi, deforestazione, desertificazione, diossina, discarica, ecodizionario</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 01:36:27.0</pubDate>
+							<eAddress>http://www.educambiente.tv/dizionario-ecologico-d.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/27522.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Educazione Ambientale</p>
+			<p id="p2">Sensibilizzare e far conoscere agli studenti di tutte le scuole il problema rifiuti con una corretta comunicazione ambientale e informazione ambientale, con visite guidate presso gli impianti di riciclaggio.</p>
+			<p id="p3">Tu sei qui : Homepage > Dizionario</p>
+			<p id="p4">Cerca i termini per ordine alfabetico</p>
+			<p id="p5">Decreto Ronchi</p>
+			<p id="p6">Il Decreto Ronchi, dal nome del legislatore, è il decreto legislativo che stabilisce come debba essere correttamente gestito il ciclo dei rifiuti , dal produttore al consumatore finale.</p>
+			<p id="p7">Il merito del decreto Ronchi è soprattutto quello di spostare l'attenzione dalla logica dello smaltimento indifferenziato alla logica di una gestione ambientalmente sostenibile dei rifiuti, anche sulla scia delle direttive europee, ponendo come priorità la prevenzione, il riutilizzo e la riduzione a monte dei rifiuti (guarda video) .</p>
+			<p id="p8">I principali obiettivi qualitativi sono la protezione dell'ambiente nelle attività di recupero e smaltimento dei rifiuti, la cooperazione tra pubblico e privato (per esempio la raccolta differenziata) e l'applicazione del principio "chi inquina paga".</p>
+			<p id="p9">Desertificazione</p>
+			<p id="p10">Per desertificazione si intende un processo di degradazione del territorio o di un'area geografica i cui effetti possono dipendere da naturali variazioni climatiche o dalle attività umane incontrollate. Un suolo viene definito desertificato quando registra una presenza di sostanza organica inferiore all'1%; viene definito in via di desertificazione quando la presenza organica è inferiore al 2%.</p>
+			<p id="p11">La desertificazione è ormai riconosciuta come un vero e proprio problema economico e sociale, oltre che ambientale, poichè intacca la fertilità del suolo e quindi la capacità di un territorio di produrre beni e servizi (guarda video) .</p>
+			<p id="p12">Disboscamento o deforestazione</p>
+			<p id="p13">Il disboscamento, o deforestazione, consiste nell'abbattimento degli alberi per fini commerciali o di sfruttamento spinto del terreno per l'attività agricola (guarda video) .</p>
+			<p id="p14">Questo fenomeno, purtroppo ancora molto frequente in Amazzonia e in aumento in molte altre aree della terra priva di molti alberi i polmoni verdi che sono le foreste (guarda video) .</p>
+			<p id="p15">Il disboscamento (sia volontario che non voluto) è il risultato della rimozione di alberi senza che vi sia una politica di riforestazione, e sta causando un notevole ed incontrollato aumento di CO2 nell'atmosfera, con un'influenza negativa diretta sull' effetto serra ed il riscaldamento globale (guarda video) .</p>
+			<p id="p16">Diossina</p>
+			<p id="p17">La diossina è un composto organico, tossico per l'organismo umano e per l'ambiente. Ha un peso molecolare elevato, quindi tende a depositarsi sul suolo entrando così nel ciclo dell'alimentazione animale ed umana, provocando gravi ed accertati danni alla salute. La diossina è prodotta quando materiale organico viene bruciato in presenza di cloro (contenuto, ad esempio, nella plastica): questo fà sì che gli inceneritori ne producano un'immensa quantità (guarda video) . Ma non sono solo gli inceneritori a produrre diossina: per esempio, ne emettono le industrie e le centrali termoelettriche.</p>
+			<p id="p18">Discarica</p>
+			<p id="p19">La discarica è comunemente un sito dove vengono depositati, in maniera indifferenziata, i rifiuti solidi urbani e tutti i rifiuti provenienti dalle attività umane.</p>
+			<p id="p20">Dow Jones Sustainibility Group Index</p>
+			<p id="p21">Creato all'interno dell'indice generale della Borsa di New York, il Dow Jones Sustainibility Group Index ha l'obiettivo di fornire un indice flessibile e scientifico per monitorare le performance ambientali e sociali delle aziende leader di mercato. La famiglia di indici di sostenibilità Dow Jones è composta da indicatori calcolati a livello globale. Gli indici vengono calcolati utilizzando la metodologia Corporate Sustainability Assessment, basata sull'applicazione di criteri di carattere ambientale, sociale ed economico alle imprese di specifici settori. Il Dow Jones Sustainability Group Index analizza più di 200 società che rappresentano 73 gruppi industriali in 33 Paesi.</p>
+			<p id="p22">Non trovi un termine che secondo te dovrebbe trovarsi in questa pagina, mandaci una mail, con il termine e la descrizione, se lo riterremo opportuno lo pubblicheremo per tutti.</p>
+			<p id="p23">Powered by</p>
+		</body>
+	</text>
+</cesDoc>

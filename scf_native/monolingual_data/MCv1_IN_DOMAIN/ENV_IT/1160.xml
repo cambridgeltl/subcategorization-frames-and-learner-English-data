@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> UFAM - Rifiuti - Glossario</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> UFAM - Rifiuti - Glossario</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 17:38:54.0</pubDate>
+							<eAddress>http://www.bafu.admin.ch/abfall/01471/index.html?lang=it</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/1160.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Ufficio federale dell'ambiente UFAM</p>
+			<p id="p2">La presente edizione è adatta per browser con un supporto CSS insufficiente e destinata soprattutto alle persone ipovedenti. Tutti i contenuti sono visualizzabili anche con browser meno recenti. Per una migliore visualizzazione grafica si raccomanda tuttavia l'uso di un browser come Firefox 3 o Internet Explorer 7.</p>
+			<p id="p3">Glossario</p>
+			<p id="p4">Tutto quello che avreste voluto sapere sui rifiuti ma non avete mai osato chiedere: ecco le definizioni in ordine alfabetico relative ai termini più importanti nel settore dei rifiuti.</p>
+			<p id="p5">Un glossario quadrilingue (D, F, I, E) è disponibile come banca dati Access:</p>
+			<p id="p6">autorizzazione all'esportazione</p>
+			<p id="p7">Ai sensi dell'ordinanza sul traffico di rifiuti (OTRif) le esportazioni di rifiuti dalla Svizzera necessitano in linea di principio di un'autorizzazione dell'UFAM.</p>
+			<p id="p8">a perdere</p>
+			<p id="p9">Imballagio o bottiglia che si utilizza una volta sola, e quindi senza deposito, ma che può comunque essere riciclata.</p>
+			<p id="p10">avanzi di legno problematici</p>
+			<p id="p11">Legname di scarto impregnato o trattato con prodotti per la protezione del legno o ricoperto con un rivestimento contenente composti organo-alogenati.</p>
+			<p id="p12">bilancio ecologico</p>
+			<p id="p13">Elenco e valutazione dei flussi input e output e dell'impatto ambientale potenziale di un sistema di prodotto nel corso del suo ciclo di vita.</p>
+			<p id="p14">biodegradabile</p>
+			<p id="p15">biogas</p>
+			<p id="p16">Gas prodotto dalla degradazione anaerobica della materia organica, composto principalmente di metano e di biossido di carbonio.</p>
+			<p id="p17">ceneri</p>
+			<p id="p18">ceneri di caldaia (scorie)</p>
+			<p id="p19">ceneri leggere</p>
+			<p id="p20">codice dei rifiuti</p>
+			<p id="p21">Codice a sei cifre, utilizzato per identificare qualsiasi tipo di rifiuto nel catalogo europeo dei rifiuti e nell'elenco svizzero dei rifiuti.</p>
+			<p id="p22">combustione</p>
+			<p id="p23">Reazione chimica di ossidazione di un combustibile con un carburante (aria o ossigeno) che avviene con forte sviluppo di energia termica.</p>
+			<p id="p24">compost</p>
+			<p id="p25">compostaggio</p>
+			<p id="p26">Processo in grado di garantire l'andamento ottimale dell'attacco microbico del materiale organico e la sua parziale o totale umificazione.</p>
+			<p id="p27">compostaggio di quartiere</p>
+			<p id="p28">Compostaggio di rifiuti organici da parte di un gruppo di persone, il quale ha l'obiettivo di compostare i rifiuti organici propri e altrui per utilizzare il composto il più vicino possibile al luogo di produzione.</p>
+			<p id="p29">compostaggio domestico</p>
+			<p id="p30">contributo di riciclaggio anticipato</p>
+			<p id="p31">Importo, basato su un accordo volontario del settore e riscosso sul prezzo di vendita alla messa in commercio di un prodotto, allo scopo di coprire i costi del successivo smaltimento.</p>
+			<p id="p32">contributo di riciclaggio posticipato</p>
+			<p id="p33">Importo, basato su un accordo volontario del settore e riscosso alla consegna di un prodotto destinato allo smaltimento, allo scopo di coprire i costi causati da quest'ultimo.</p>
+			<p id="p34">deposito</p>
+			<p id="p35">Somma pagata dall'acquirente al momento dell'acquisto di una pila o di un imballaggio e che gli sarà rimborsata all'atto della restituzione dell'oggetto usato, per riutilizzo o smaltimento separato.</p>
+			<p id="p36">deposito in discarica</p>
+			<p id="p37">destinatario</p>
+			<p id="p38">digestato Materiale fermentato d'origine vegetale e animale, ottenuto mediante procedimento anaerobico.</p>
+			<p id="p39">digestione anaerobica</p>
+			<p id="p40">Digestione biologica anaerobica di rifiuti organici in condizioni controllate grazie all'azione di microrganismi (inclusi batteri produttori di metano) allo scopo di produrre biogas e residui di fermentazione solidi.</p>
+			<p id="p41">discarica</p>
+			<p id="p42">discarica per materiali inerti</p>
+			<p id="p43">Discarica controllata nella quale possono essere depositati solo materiali sassosi, poco inquinanti, che diluiti in acqua disciolgano solo minime quantità di contaminanti.</p>
+			<p id="p44">discarica per sostanze residue</p>
+			<p id="p45">Discarica controllata destinata al deposito di materiali ad alto tenore di metalli pesanti, di composizione nota e contenenti solo piccole frazioni di componenti organiche, che non possono produrre né gas, né sostanze facilmente solubili in acqua.</p>
+			<p id="p46">discarica reattore</p>
+			<p id="p47">downcycling</p>
+			<p id="p48">elettrodomestici bianchi</p>
+			<p id="p49">elettrodomestici bruni</p>
+			<p id="p50">emissione</p>
+			<p id="p51">forno a letto fluido</p>
+			<p id="p52">Forno verticale sul cui fondo è posto uno strato di sabbia che viene portato allo stato fluido dall'aria comburente iniettata nel fondo del forno attraverso una miriade di ugelli.</p>
+			<p id="p53">forno a tamburo rotante</p>
+			<p id="p54">Forno d'incenerimento costituito da un cilindro rotante leggermente inclinato e rivestito di mattoni refrattari, impiegato essenzialmente nell'incenerimento dei fanghi e dei rifiuti industriali e speciali (allo stato liquido, pastoso o solido) oltre che per il trattamento dei suoli contaminati.</p>
+			<p id="p55">forno d'incenerimento</p>
+			<p id="p56">Parte di un impianto d'incenerimento composto del sistema di alimentazione dei rifiuti, della griglia di combustione, della camera di combustione, del circuito di aria comburente, del sistema di evacuazione delle scorie e delle centraline di comando idrauliche.</p>
+			<p id="p57">fumi</p>
+			<p id="p58">Emissioni gassose da combustione in caldaia contenenti ossidi di carbonio, d'azoto e di zolfo, vapore acqueo, particolato e altri inquinanti, a seconda del materiale incenerito nella caldaia.</p>
+			<p id="p59">Gas prodotto nelle discariche, principalmente dalla degradazione anaerobica della materia organica.</p>
+			<p id="p60">gas di scarico Aria di scarico, gas di combustione e altri inquinanti atmosferici emessi da impianti.</p>
+			<p id="p61">gasificazione</p>
+			<p id="p62">Ossidazione parziale della sostanza organica solida per trasformarla in forma gassosa, dove l'energia necessaria all'essiccamento e alla volatilizzazione è fornita dalla combustione di una frazione del materiale.</p>
+			<p id="p63">igienizzazione</p>
+			<p id="p64">Trattamento dei rifiuti organici nell'ambito della produzione di compost e di residui di fermentazione solidi, con lo scopo di uccidere i microrganismi che hanno un effetto patogeno sull'uomo, sugli animali e sulle colture al fine di ridurre al minimo i rischi di trasmissione di malattie.</p>
+			<p id="p65">imballaggio</p>
+			<p id="p66">Tutti i prodotti adibiti a contenere e a proteggere determinate materie prime o merci, a consentire la loro manipolazione e la loro consegna dal produttore al consumatore o all'utilizzatore, e ad assicurare la loro presentazione.</p>
+			<p id="p67">imballaggio non riutilizzabile</p>
+			<p id="p68">imballaggio riutilizzabile</p>
+			<p id="p69">immissione</p>
+			<p id="p70">impermeabilizzazione</p>
+			<p id="p71">Strato isolante in materiale naturale o sintetico, coprendo il fondo ed i lati di una discarica , al fine di impedire la fuoriuscita incontrollata di gas o liquidi.</p>
+			<p id="p72">impianto d'incenerimento</p>
+			<p id="p73">Impianto per la combustione dei rifiuti, nel quale i parametri influenzando quest'ultima, quali la temperatura, il tempo di ritenzione, la turbolenza e l'apporto di aria comburente, possono essere controllati.</p>
+			<p id="p74">incenerimento dei rifiuti</p>
+			<p id="p75">inventario ecologico</p>
+			<p id="p76">Voce del bilancio ecologico che include l'elenco e la quantificazione di input e output di un dato sistema di prodotto nel corso del suo ciclo di vita.</p>
+			<p id="p77">legno usato</p>
+			<p id="p78">modulo di accompagnamento</p>
+			<p id="p79">Modulo che si deve compilare prima dell'inizio del trasporto e che accompagna i rifiuti speciali durante il loro trasporto e la loro consegna.</p>
+			<p id="p80">modulo di notifica</p>
+			<p id="p81">numero d'esercizio</p>
+			<p id="p82">percolato</p>
+			<p id="p83">Qualsiasi liquido che coli attraverso i rifiuti depositati e sia emesso da una discarica o contenuto all'interno di essa.</p>
+			<p id="p84">pila</p>
+			<p id="p85">Fonte di energia elettrica ottenuta mediante trasformazione diretta di energia chimica, costituita da uno o più elementi primari (non ricaricabili) o secondari (ricaricabili).</p>
+			<p id="p86">pila al mercurio</p>
+			<p id="p87">Piccola pila a bottone, in genere a base di ossido di mercurio, ossido di argento o di aria-zinco.</p>
+			<p id="p88">pirolisi Degradazione della materia organica, dovuta all'azione del calore, in condizioni anaerobiche.</p>
+			<p id="p89">potenza termica Quantitativo di energia prodotto durante l'incenerimento che l'impianto è in grado di assorbire e di trasformare in vapore o in acqua calda per mezzo della caldaia, pari alla quantità oraria di rifiuti inceneriti moltiplicata per il loro potere calorifico.</p>
+			<p id="p90">potere calorifico Quantità di energia prodotta dalla combustione di un'unità di massa di rifiuti o combustibile.</p>
+			<p id="p91">principio chi inquina paga</p>
+			<p id="p92">Principio secondo il quale le spese delle misure prese secondo la legge sulla protezione dell'ambiente sono sostenute da chi ne è la causa.</p>
+			<p id="p93">processo a secco</p>
+			<p id="p94">Processo di trattamento dei fumi nel quale l'elemento neutralizzante allo stato secco, sotto forma di calce o calcare, viene nebulizzato in controcorrente in un reattore, provocando un trasferimento di materiale dalla fase gassosa verso la superficie delle particelle solide.</p>
+			<p id="p95">processo a semi-secco</p>
+			<p id="p96">Processo di trattamento dei fumi derivato da quello a secco, che consiste nel nebulizzare del latte di calce in un atomizzatore per neutralizzare gli inquinanti acidi contenuti nei fumi e assicurarene il raffreddamento per iniezione di acqua.</p>
+			<p id="p97">processo ad umido</p>
+			<p id="p98">punto di raccolta di materiali riciclabili</p>
+			<p id="p99">Area attrezzata dove gli utenti possono deporre i loro rifiuti separati per categoria.</p>
+			<p id="p100">quench</p>
+			<p id="p101">Sistema per il raffreddamento dei fumi depolverizzati per iniezione di acqua.</p>
+			<p id="p102">recupero energetico Utilizzazione di rifiuti combustibili quale mezzo per produrre energia mediante incenerimento diretto con recupero del calore.</p>
+			<p id="p103">reimpiego diretto Consiste ad esempio nella pulizia e il riempimento di bottiglie di vetro riciclate o la vendita di indumenti lavati e accomodati presso i centri di raccolta di abiti usati.</p>
+			<p id="p104">residui di frantumazione (fluff)</p>
+			<p id="p105">Residui di frantumazione inutilizzabili che rimangono dopo la separazione delle frazioni metalliche.</p>
+			<p id="p106">riciclaggio Reimpiego diretto, riciclaggio di materie prime provenienti da materiali usati e recupero energetico a partire da rifiuti.</p>
+			<p id="p107">riciclaggio di materie prime</p>
+			<p id="p108">Il riciclaggio di materie prime provenienti da materiali usati, per esempio la rifusione di metalli nell'industria metallurgica o la produzione di cartone con carta riciclata, si divide in recycling (in senso stretto) e downcycling.</p>
+			<p id="p109">rifiuti</p>
+			<p id="p110">rifiuti biodegradabili</p>
+			<p id="p111">rifiuti citostatici</p>
+			<p id="p112">Medicamenti citostatici scaduti e materiali provenienti dall'uso, dalla produzione e dalla preparazione di citostatici e da essi contaminati.</p>
+			<p id="p113">rifiuti con pericolo di contaminazione</p>
+			<p id="p114">Rifiuti di parti anatomiche, di organi e di tessuti, rifiuti sporchi di sangue, secreti ed escreti.</p>
+			<p id="p115">rifiuti con pericolo di lesione</p>
+			<p id="p116">Categoria di rifiuti sanitari di cui fanno parte gli oggetti a punta o taglienti, quali aghi di siringhe, scalpelli o altri tipi di lame.</p>
+			<p id="p117">rifiuti di apparecchiature elettriche ed elettroniche</p>
+			<p id="p118">Apparecchiature elettriche ed elettroniche che sono rifiuti, inclusi tutti i componenti, sottoinsiemi e prodotti di consumo che sono parte integrante del prodotto al momento in cui si decide di eliminarlo.</p>
+			<p id="p119">rifiuti domestici</p>
+			<p id="p120">rifiuti inerti</p>
+			<p id="p121">rifiuti infettivi</p>
+			<p id="p122">Rifiuti che contengono in quantità rilevanti materiali, sostanze o mezzi contagiosi e significativi dal punto di vista epidemiologico, dai quali proviene un pericolo di diffusione ulteriore di agenti patogeni.</p>
+			<p id="p123">rifiuti sanitari</p>
+			<p id="p124">rifiuti soggetti all'obbligo di controllo</p>
+			<p id="p125">Rifiuti il cui smaltimento conforme alle esigenze ecologiche richiede misure tecniche e organizzative particolari limitate a causa della loro composizione o delle loro proprietà fisico-chimiche.</p>
+			<p id="p126">rifiuti speciali</p>
+			<p id="p127">Rifiuti il cui smaltimento conforme alle esigenze ecologiche richiede misure tecniche e organizzative particolari globali a causa della loro composizione o delle loro proprietà fisico-chimiche.</p>
+			<p id="p128">rifiuti urbani</p>
+			<p id="p129">risanamento</p>
+			<p id="p130">Realizzazione di misure di decontaminazione di un sito contaminato, oppure di provvedimenti cautelari equivalenti, al fine di prevenire a lungo termine pericoli ambientali.</p>
+			<p id="p131">scarti di legno</p>
+			<p id="p132">Scarti dall'industria della lavorazione del legno o da cantieri edili, alla condizione di non essere stato né impregnati con un procedimento a getto né ricoperti con un rivestimento contenente composti organo-alogenati.</p>
+			<p id="p133">scarti verdi</p>
+			<p id="p134">Scarti della manutenzione del verde (sfalci erbosi, potature, fogliame) e trucioli, segatura o altri scarti lignosi non contaminati.</p>
+			<p id="p135">separatore magnetico a correnti indotte</p>
+			<p id="p136">Apparecchio per separare i metalli non ferrosi dal materiale triturato.</p>
+			<p id="p137">sistema a consegna</p>
+			<p id="p138">Raccolte differenziate dei rifiuti in cui i diversi materiali vengono conferiti dai cittadini presso punti di raccolta prefissati.</p>
+			<p id="p139">sistema a ritiro</p>
+			<p id="p140">Tutte le raccolte differenziate di rifiuti a domicilio, in cui il materiale viene predisposto davanti all'edificio dell'utente e raccolto dal servizio apposito.</p>
+			<p id="p141">smaltimento dei rifiuti</p>
+			<p id="p142">Riciclaggio o deposito definitivo di rifiuti, nonché le operazioni preliminari di raccolta, trasporto, deposito provvisorio e trattamento.</p>
+			<p id="p143">sostanze residue</p>
+			<p id="p144">Materiali ad alto tenore di metalli pesanti, di composizione nota e contenenti solo piccole componenti organiche, che non possono produrre né gas, né sostanze facilmente solubili in acqua.</p>
+			<p id="p145">stazione di transito</p>
+			<p id="p146">Stazione dove sono raggruppati ed eventualmente compattati i rifiuti domestici prima del loro trasferimento in una stazione di trattamento utilizzando un mezzo di trasporto a capacità elevate.</p>
+			<p id="p147">tassa di smaltimento anticipata</p>
+			<p id="p148">Tassa, basata su una norma di legge, riscossa sul prezzo di vendita alla messa in commercio di un prodotto, allo scopo di coprire i costi del successivo smaltimento.</p>
+			<p id="p149">tassa proporzionale alla quantità</p>
+			<p id="p150">Quota per la gestione dei rifiuti urbani , proporzionale alla quantità di rifiuti prodotti e determinata in modo che sia assicurata la copertura integrale dei costi di investimento e di esercizio relativi alla gestione dei rifiuti urbani.</p>
+			<p id="p151">tasso sul peso</p>
+			<p id="p152">tassa sul sacco</p>
+			<p id="p153">trattamento termico Termine generico per il trattamento dei rifiuti per incenerimento, pirolisi o gasificazione.</p>
+			<p id="p154">veicolo fuori uso</p>
+			<p id="p155">Fine zona contenuto</p>
+		</body>
+	</text>
+</cesDoc>

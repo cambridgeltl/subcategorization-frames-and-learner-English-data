@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Book of Odds - Numbers Blog: Oil on the Lamb—er—Fish </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Book of Odds - Numbers Blog: Oil on the Lamb—er—Fish </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 12:06:20.0</pubDate>
+							<eAddress>http://www.bookofodds.com/Blogs/Numbers/2010/05-May/Oil-on-the-Lamb-er-Fish</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>oil;oil spill;Exxon;Wind turbines;alternative energy;odds</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/13122.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">In just a few weeks, we’ve gone from “Drill, Baby! Drill!” to “Spill, Baby! Spill!” to “Burn, Baby! Burn!” and finally to “Scrub, Baby! Scrub!” Oil spills like the one in the Gulf are not unprecedented , so it should come as no surprise when environmental disasters like this happen at an offshore rig. What’s surprising is that in over twenty years since the Exxon accident, we’re still no better equipped to clean up major oil spills. Let’s consider some of the options by the numbers.</p>
+			<p id="p2">1. “Burn, Baby! Burn!”</p>
+			<p id="p3">As the saying goes, “If you can’t beat ‘em, set ‘em on fire and hope they’ll completely combust before they get to you.” This seems to be the most high-tech solution people can come up with to fix the spill, and yet I can’t help but hear Beavis screaming “Fire! Fire!” while giggling maniacally. How much environmental damage does burning all the oil do?</p>
+			<p id="p4">It’s estimated that 210,000 gallons of oil are spilling out each day. Crude oil has a density of about 800 kg per cubic meter and is about 85% carbon by weight. From this info, we can find the total amount of carbon released:</p>
+			<p id="p5">If the oil is completely combusted, all this carbon will form the greenhouse gas carbon dioxide. Carbon dioxide weighs about 3.7 times more than elemental carbon, meaning that burning the oil will release about 2.0×10^6 kg (~2,000 tons) of carbon dioxide into the atmosphere each day. This is like having everyone in New Orleans running a 1,000-Watt hair dryer nonstop.</p>
+			<p id="p6">2. “Scrub, Baby! Scrub”</p>
+			<p id="p7">Let’s face it. Nothing ruins a perfect beach day more than a disgusting, oily, highly flammable seagull swooping in and trying to steal your French fries. How many seagulls could you cover with the escaping oil each day?</p>
+			<p id="p8">In 1773, Ben Franklin found that a teaspoon of oil dropped on a calm pond could spread out over an acre. Lord Rayleigh calculated the thickness of this oil film to be about 1.6 nm. Presumably, the layer of oil that covers the seagulls would have a similar thickness. Now consider a spherical seagull with a 1.0 ft diameter¹. This rotund seagull will have a total surface area of about 0.3 m^2. From this information, we can estimate the number of seagulls we could cover with oil each day:</p>
+			<p id="p9">3. “Blow, Baby! Blow”</p>
+			<p id="p10">Clearly, the best method for cleaning up an oil spill is to avoid having the spill in the first place. Compared to oil spills, wind spills tend to cause a lot less environmental damage. How much energy could we get each day by lining the Gulf Coast with wind turbines?</p>
+			<p id="p11">Wind turbines convert the kinetic energy of the wind into electric energy. I’ll assume the turbine’s blades are 45 m long, so that they sweep out an area of 6400 m^2. The Gulf Coast has a total length of 17,141 miles, meaning you could fit about 600,000 wind turbines in a single row. Assuming a fairly mild wind speed of 10 mph, we can estimate the total power absorbed by this array of turbines:</p>
+			<p id="p12">This is about 600 times larger than the equivalent power we could get out of the oil being dumped into the Gulf Coast by the BP spill².</p>
+			<p id="p13">So there you have it. For the cost of 1.4 trillion seagulls and enormous environmental damage, you get about 1/600th the energy that you would by installing an environmentally friendly wind farm.</p>
+			<p id="p14">[1] You’ll have to forgive statements like this. It’s the physicist in me.</p>
+			<p id="p15">[2] I should emphasize that this comparison only considers the oil that is leaking, not the total amount of oil in the Gulf. The total amount of Gulf oil will be much larger and would likely require many more wind turbines to replace it.</p>
+			<p id="p16">Comments (4)</p>
+			<p id="p17">zturpin</p>
+			<p id="p18">Spherical seagulls make for an awesome image: at first I was skeptical of the 1-foot diameter, but I looked up 'adult human skin surface area' -- we have an average surface area of 20 sq ft -- so we'd be spheres 2.5 ft wide. I buy it.</p>
+			<p id="p19">anonymous</p>
+			<p id="p20">&gt; Oil spills like the one in the Gulf are not unprecedented, so it should come as no surprise when environmental disasters like this happen at an offshore rig.</p>
+			<p id="p21">Wrong. This "spill" is likely to become the worst in the history of the industry, making it by definition "unprecedented." Indeed, anyone with half a brain should be more than "suprised" by the magnitude of the unfolding disaster; he/she should be shocked.</p>
+			<p id="p22">Aaron Santos</p>
+			<p id="p23">Aaron Santos is a physicist, author, and blogger. He currently works as a postdoc at the University of Michigan. He is the author of How Many</p>
+			<p id="p24">Licks, or How to Estimate Damn Near Anything , a humorous collection of approximations: how many licks does it take to get to the Tootsie Roll center of a Tootsie Pop, how many people are having sex at this instant, how long it would take to dig your way out of jail with a spoon, etc.</p>
+			<p id="p25">Similar estimations can be found on his blog at diaryofnumbers.blogspot.com. He lives in Ann Arbor with his lovely and highly talented wife Anna Lackaff.</p>
+			<p id="p26">Archives</p>
+			<p id="p27">COMPANY</p>
+			<p id="p28">Branding, website design and development by Kurani Interactive</p>
+		</body>
+	</text>
+</cesDoc>

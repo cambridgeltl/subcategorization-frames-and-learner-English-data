@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>
+ΛΑΡΚΟ (3).Επιστολή Εργαζομένων κατά των "χορτάτων" 14/1/08
+</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>
+ΛΑΡΚΟ (3).Επιστολή Εργαζομένων κατά των "χορτάτων" 14/1/08
+</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2009-11-27 15:30:41.0</pubDate>
+							<eAddress>http://peiramatiko2.pblogs.gr/2008/05/larko-3-epistolh-ergazomenwn-kata-twn-hortatwn-14-1-08.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="el"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>λαρκο</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EL/25680.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Το κείμενο που ακολουθεί διαφωτίζει αρκετά για την ρύπανση που προκαλεί η εταιρία. Αλλά θα βοηθήσει και πολλούς που δήθεν νοιάζονται για θέσεις εργασίας κλπ. Προσέξτε τι λένε κάποιοι από τους πρώτους συνδικαλιστές της εταιρίας (όσοι ακόμη ζουν, αφού οι συνθήκες εργασίας στην ΛΑΡΚΟ δεν αφήνουν πολλά περιθώρια για μακροημέρευση). </p>
+			<p id="p2">[το κείμενο προέρχεται από το HELLENIC UNDERWATER TIMES (The first English speaking Independent e-magazine and community regarding diving in Greece. Awarded as the best Educational Site in Antibes Underwater Festival 2006)]</p>
+			<p id="p3">Με την άδεια του κράτους η ΛΑΡΚΟ ρυπαίνει με τα απόβλητά της τόσο τον βυθό του Ευβοϊκού όσο και παράκτιες περιοχές γύρω από τον κόλπο</p>
+			<p id="p4">Το διαρκές περιβαλλοντικό έγκλημα που συντελείται στον Ευβοϊκό και την ευρύτερη περιοχή της Λάρυμνας δεν έχει τέλος. Μέρα - νύχτα δύο φορτηγίδες φορτώνουν πάνω από 600 τόνους σκουριάς από τις εγκαταστάσεις της μεταλλουργίας και ακολούθως ξεφορτώνουν στη θάλασσα. Πραγματοποιούν 7 - 8 δρομολόγια το 24ωρο και περίπου 2 εκατομμύρια τόνοι σκουριάς που είναι τα απόβλητα της παραγωγής σιδηρονικέλιου καταλήγουν στη θάλασσα ετησίως. </p>
+			<p id="p5">Ισως περιέχουν τοξικά </p>
+			<p id="p6">Οι νόμοι τα προβλέπουν αυτά, αλλά ποιος την ελέγχει... </p>
+			<p id="p7">Από τη θάλασσα στο βουνό </p>
+			<p id="p8">Δίπλα στις ιχθυοκαλλιέργειες </p>
+			<p id="p9">Από ψαροχώρι... καρβουνοχώρι </p>
+			<p id="p10">Η σκουριά είναι παντού </p>
+			<p id="p11">Τυφλώνονται και τα ψάρια </p>
+			<p id="p12">( το κείμενο ολόκληρο βρίσκεται στο: http://www.huts.gr/modules.php?name=Forums&amp;file=viewtopic&amp;t=1213&amp;postdays=0&amp;postorder=asc&amp;start=0 )</p>
+			<p id="p13">Έχετε λογαριασμό στο Pathfinder;</p>
+			<p id="p14">Γράψτε τους χαρακτήρες που φαίνονται στην εικόνα</p>
+			<p id="p15">ΠΡΟΦΙΛ</p>
+		</body>
+	</text>
+</cesDoc>

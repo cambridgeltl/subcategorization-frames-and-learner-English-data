@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 45 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 45 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:12:19.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=45</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/10607.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">08/10/2009</p>
+			<p id="p2">Le respect de la vie privée permet de protéger les salariés. Ainsi, un salarié ne peut pas être sanctionné pour des actes tirés de sa vie personnelle… sauf si cela caractérise un trouble objectif au sein de l’entreprise.</p>
+			<p id="p3">07/10/2009</p>
+			<p id="p4">La semaine dernière, nous vous proposions un état des lieux de l’emploi des 15-29 ans... Cette fois, c’est au tour des seniors ! Car eux aussi font l’objet de nombreuses mesures pour les maintenir dans l’emploi, eux aussi sont censés rencontrer des difficultés particulières... Qu’en est-il réellement ?</p>
+			<p id="p5">06/10/2009</p>
+			<p id="p6">Une ancienneté minimum dans l’entreprise est nécessaire pour bénéficier de l’indemnité compensatrice de préavis et de l’indemnité de licenciement. Mais les arrêts de travail pour maladie non professionnelle ne sont pas pris en compte dans ce calcul de l’ancienneté.</p>
+			<p id="p7">05/10/2009</p>
+			<p id="p8">Vous êtes alerté qu’une dispute entre deux salariés a dégénéré et qu’un échange de coups a eu lieu, provoquant éventuellement des blessures plus ou moins graves. Le plus souvent, vous n’aurez pas assisté personnellement à la situation. Que devez-vous faire ? Quels sont les bons réflexes à avoir et les erreurs à éviter ?</p>
+			<p id="p9">05/10/2009</p>
+			<p id="p10">Au moment où le seuil épidémique de grippe est atteint en France, où les fermetures d’écoles se multiplient, il nous semble indispensable de rappeler le cadre légal qui s’applique en matière de santé et de sécurité sur le lieu de travail.</p>
+			<p id="p11">05/10/2009</p>
+			<p id="p12">Le licenciement d'un salarié en raison de son état de santé est interdit, sauf lorsque son absence prolongée désorganise l’entreprise et nécessite son remplacement définitif. A condition d’agir rapidement entre le recrutement et le licenciement.</p>
+			<p id="p13">05/10/2009</p>
+			<p id="p14">Les Editions Tissot vous proposent de lire ou de relire une sélection des articles qui ont le plus intéressé leurs lecteurs au cours du mois de septembre, classés par thèmes.</p>
+			<p id="p15">02/10/2009</p>
+			<p id="p16">Parmi vos salariés, certains sont à temps partiel et occupent peut-être en complément un autre emploi. Votre accord pour ce cumul d’emploi n’est pas nécessaire, sauf si cela est indispensable à la protection des intérêts de votre entreprise.</p>
+			<p id="p17">Toute l'actualité en droit du travail PME</p>
+			<p id="p18">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p19">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Labor relations and Social Security</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Labor relations and Social Security</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2003-08-13 01:35:10.0</pubDate>
+							<eAddress>http://www.devunit.gov.ms/labour.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/202.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Labor relations</p>
+			<p id="p2">Availability of labor</p>
+			<p id="p3">The labor force numbers is small majority are employed by the government. There is no readily available pool of skilled and semi-skilled labour due to the small population and the previous emigration. The labor that is available is responsive to new opportunities and challenges. </p>
+			<p id="p4">Where it can be shown that the right caliber of staff is not available locally, the government will grant work permits to employ foreign staff.</p>
+			<p id="p5">Semi-skilled labor is available from other countries in the Leeward and Windward Islands, and technical and professional staff may be employed from any country. Obviously, the costs of retaining foreign staff are higher than those of employing comparable locals and thus it is in the interests of the government and employers to ensure that locals are trained to allow them to fill senior positions, where feasible.</p>
+			<p id="p6">Employer-employee relationships</p>
+			<p id="p7">Labor relations are governed by the Employment ordinance No. 19 of 1979. The Labor Department provides conciliation service. The Employment Ordinance provides for settlement of disputes by a Labor Tribunal.</p>
+			<p id="p8">Unions</p>
+			<p id="p9">The Montserrat Allied Workers Union is the Union which provides representation for workers outside of the Public Service.</p>
+			<p id="p10">Wage contract are signed for 1 – 3 years. </p>
+			<p id="p11">There has been no industrial unrest in recent times.</p>
+			<p id="p12">Employee training programs</p>
+			<p id="p13">Vocational and Technical training is aviable at the Montserat secondary school, the school of continuing studies which offers adult classes, and the National Development Foundation provision of courses in hotel training.</p>
+			<p id="p14">There is no minimum wage legislation. However it is recommended that prospective employers pay wages not less than those approved for Government non-established workers.</p>
+			<p id="p15">Hours worked </p>
+			<p id="p16">Paid holidays and vacations</p>
+			<p id="p17">There are eleven statutory holidays each year, and certain other days may be declared Public Holidays. According to the employment Ordinance the minimum holiday entitlement after each calendar year of continuous employment is not less than two full weeks with pay.</p>
+			<p id="p18">Equal opportunities</p>
+			<p id="p19">Regulations concerning equal opportunities do not exist, but there is no statutory discrimination with regard to race, religion or sex. </p>
+			<p id="p20">Health and safety</p>
+			<p id="p21">There are regulations for protecting the health and safety of workers but they are not stringent and no instances have arisen of legal action or sanctions against employers for noncompliance.</p>
+			<p id="p22">Termination of employment</p>
+			<p id="p23">A few cases heard by the Labor Tribunal deal with wrongful dismissal and any employer is strongly advised to study and adhere to the correct procedures in order to avoid proceedings before the Tribunal.</p>
+			<p id="p24">Severance pay is applicable after one year of service and is calculated in accordance with the</p>
+			<p id="p25">Employment Act no.5 of 1996, as follows: weekly paid employees are entitled to one day's pay for every month of service; monthly paid employees are entitled to one month's pay for every year of service.</p>
+			<p id="p26">Social security system</p>
+			<p id="p27">The social security scheme, is based on modern principles and are designed to provide benefits in return for contributions. Social security benefits are related to earnings.</p>
+			<p id="p28">Coverage</p>
+			<p id="p29">Contributions</p>
+			<p id="p30">Employer contributions are at the rate of 4 and one-half percent on earnings up to EC$2,600 per month for monthly paid employees and earnings up to EC$600 per week for weekly paid employees. 1 and one-half percent of the contribution by employers is towards employment injury.</p>
+			<p id="p31">Employee contributions are 3 percent of monthly or weekly earnings up to the same limits.</p>
+			<p id="p32">Benefits</p>
+			<p id="p33">Totalization agreements</p>
+			<p id="p34">Work permits</p>
+			<p id="p35">Every person who is not a national of Montserrat must have a work, permit before taking up employment in the country. Normally, a work permit will be issued for a specific period to a nonnational to fill a particular post and only when qualified nationals are unavailable. New enterprises should include in their applications for concessions the rights to a certain number of work permits. In other cases posts must be advertised in the local newspaper and radio station prior to the submission of an application for a work permit. Advertisements should reflect faithfully the duties to be performed and the minimum qualifications and experience required. This requirement is to ensure that suitable nationals are given an opportunity to fill the vacancy.</p>
+			<p id="p36">Work permits are approved by Executive Council.</p>
+			<p id="p37">Special arrangements or concessions</p>
+			<p id="p38">There are no special arrangements or concessions for foreign personnel apart from the accepted privileges extended to members of the diplomatic corps and certain United Nations organization.</p>
+			<p id="p39">Restriction on employment</p>
+			<p id="p40">Before granting work permits to nonnationals the Immigration authorities consider the number of nonnational employees in the employ of the company at the time of application.</p>
+			<p id="p41">Living conditions</p>
+			<p id="p42">An expatriate employee's family may accompany the employee to Montserrat.</p>
+			<p id="p43">Nonnationals are not allowed to purchase property without obtaining a license under the Non-Citizens Land Holding Regulations Act. Consumer goods are available in adequate supply.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Pollution Air Episodes de pollution PM 10 PM10 août 2003 : PREV'AIR</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Pollution Air Episodes de pollution PM 10 PM10 août 2003 : PREV'AIR</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-11 02:40:41.0</pubDate>
+							<eAddress>http://prevair.ineris.fr/fr/episode-pm10.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Episodes</keyTerm>
+					<keyTerm>prev'air</keyTerm>
+					<keyTerm>PREVAIR</keyTerm>
+					<keyTerm>prevert</keyTerm>
+					<keyTerm>pollution</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/24483.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Compte tenu de leurs effets sanitaires potentiels, les phénomènes de pollution particulaire font l'objet d'une surveillance particulière. Dans ce cadre, le système PREV'AIR système national de prévision de la qualité de l'air développé par l'INERIS, Météo-France, l'ADEME et le CNRS, pour le compte du Ministère de l'Ecologie, de l'Energie, du Développement Durable et de l'Aménagement du Territoire (MEEDDAT) a prévu et permis d'analyser les premiers épisodes de particules printaniers de l'année, qui ont fait leur apparition en Europe de l'Ouest la semaine dernière. La France, la Belgique, les Pays Bas et l'Allemagne ont été plus particulièrement concernés.</p>
+			<p id="p2">L'analyse préliminaire des simulations fournies par PREV'AIR et des mesures de concentration réalisées par les Associations Agréées de Surveillance de la Qualité de l'Air (AASQA) a permis de préciser les caractéristiques de cet épisode de pollution. Les particules seraient constituées en grande partie de nitrate d'ammonium, polluant qui se forme en présence d'oxydes d'azote et d'ammoniac. Les oxydes d'azotes sont principalement émis par le trafic routier. Les épandages agricoles pratiqués en cette période de l'année induisent quant à eux des émissions importantes d'ammoniac, et dans une moindre mesure de monoxyde d'azote, surtout lorsque les températures sont élevées. Ainsi les panaches contenant de fortes concentrations de polluants particulaires ont été observés dans les pays et régions où l'activité agricole est plus intense. En France, il est probable que des panaches en provenance des pays voisins (Benelux et en particulier Pays-Bas) se soient enrichis de nos émissions locales pour atteindre les niveaux de pollutions enregistrés dans l'ouest du pays.</p>
+			<p id="p3">Cet épisode de pollution est différent de ceux observés en janvier 2009, qui ont plutôt concerné les grandes villes de l'Europe de l'Ouest, au cours desquels les particules émises localement par le trafic routier, les activités industrielles, le chauffage urbain se sont retrouvées piégées dans une atmosphère exceptionnellement stable, sans possibilité de dispersion. Le Laboratoire Central de Surveillance de la Qualité de l'Air (LCSQA), dont l'INERIS est partie prenante et piloté par le MEEDDAT, va procéder à l'analyse chimique a posteriori d'échantillons prélevés par les AASQA sur plusieurs sites concernés par les épisodes que l'on observera ce printemps, afin d'affiner les connaissances de l'origine des particules en complément des informations apportées par PREV'AIR. En revanche, ils sont tout à fait comparables aux épisodes de pollution observés à la fin de l'hiver 2003 et au printemps 2007, et que nous avons étudiés avec nos moyens de simulations et d'analyse comme rapporté dans Bessagnet et al, 2005 et et Aymoz et al, 2007.</p>
+			<p id="p4">Animation horaire des concentrations de particule (PM10) en surface sur l'Europe d'après les prévisions réalisées par PREV'AIR pour la période du 29 mars au 5 avril 2009.</p>
+			<p id="p5">Evolution des concentrations journalières moyennes de particules (PM10) du 29 mars au 5 avril 2009 en France. Résultats extraits des "analyses", de la plateforme nationale de prévision et surveillance de la qualité de l'Air Prev'Air, combinant calculs des modèles et observations de surface.</p>
+			<p id="p6">Février 2006</p>
+			<p id="p7">La carte ci-dessus présente les isocontours des concentrations maximales de PM10 (en µg/m3) simulées par le modèle CHIMERE pour le 1er février 2006. Dans ce cas, les fortes concentrations de PM10 observées sur la région parisienne ont une origine locale - comme en attestent les observations, ainsi que la composition des aérosols telle qu'elle est simulée par le modèle.</p>
+			<p id="p8">Les conditions de forte stabilité atmosphérique qui prévalent lors de situations anticycloniques limitent la dispersion des polluants atmosphériques et favorisent leur accumulation à proximité des grands centres d'émissions (agglomérations, industries) .</p>
+			<p id="p9">Mars 2004</p>
+			<p id="p10">Les cartes ci-contre présentent les isocontours des concentrations de PM10 (en µg/m3) simulées par le modèle CHIMERE lors d'un épisode hivernal de pollution particulaire qui s'est déroulé du 26 au 31 mars 2004 (les cartes sont présentées pour le 30 mars 2004, à 00 heures). Elles mettent en évidence l'origine largement continentale de cet épisode de pollution particulaire: les régions concernées s'étendent sur une large bande, depuis l'Allemagne de l'est jusqu'au Cotentin. Tout le Nord de la France est touché.</p>
+			<p id="p11">De tels épisodes hivernaux de pollution particulaires sont souvent associés à des systèmes anticycloniques localisés sur la Scandinavie ou la Mer du Nord. Les conditions de forte stabilité atmosphérique ainsi que le léger flux de Nord-Est qui prévalent sur l'Europe dans ces situations limitent la dispersion des polluants atmosphériques et favorisent le transport de ceux-ci de régions de fortes émissions (agglomérations, industries) vers des zones plus éloignées des grands centres d'émissions.</p>
+			<p id="p12">Références</p>
+			<p id="p13">Bessagnet, B., Hodzic, A., Blanchard, O., Lattuati, M., Le Bihan, O., Marfaing, H. et L. Rouïl, Origin of particulate matter pollution episodes in wintertime over the Paris Basin, Atmospheric Environment, Volume 39, Issue 33, October 2005 , pages 6159-6174</p>
+		</body>
+	</text>
+</cesDoc>

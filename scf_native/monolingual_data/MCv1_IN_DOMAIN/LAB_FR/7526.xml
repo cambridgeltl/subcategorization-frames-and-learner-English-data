@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Chômage partiel : taux de prise en charge de l’allocation complémentaire - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Chômage partiel : taux de prise en charge de l’allocation complémentaire - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:37:14.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=528&amp;titre=Ch%C3%B4mage+partiel+%3A+taux+de+prise+en+charge+de+l%E2%80%99allocation+compl%C3%A9mentaire</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7526.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Chômage partiel : taux de prise en charge de l’allocation complémentaire</p>
+			<p id="p2">Les salariés en chômage partiel bénéficient d'une allocation publique financée par l'État et, pour certains, d’une allocation complémentaire à la charge de l’employeur. Cette allocation complémentaire peut, dans certaines conditions, être remboursée en partie par l’Etat. Un arrêté fixe le taux maximal de cette prise en charge.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Le chômage partiel est la situation dans laquelle se trouvent des salariés qui, tout en restant liés à leur employeur par un contrat de travail, subissent une perte de salaire due :</p>
+			<p id="p5">soit à la fermeture temporaire de l'établissement qui les emploie ;</p>
+			<p id="p6">soit à la réduction de l'horaire de travail habituellement pratiqué dans l'établissement en deçà de la durée légale du travail.</p>
+			<p id="p7">Cette situation peut donner lieu à une indemnisation par l'Etat, voire au versement d'une allocation complémentaire de l'employeur.</p>
+			<p id="p8">Le versement de l’allocation complémentaire ne concerne que les entreprises appliquant l’accord national interprofessionnel du 21 février 1968, c'est-à-dire les entreprises représentées au MEDEF.</p>
+			<p id="p9">Les employeurs concernés doivent verser à chaque salarié, pour chaque heure indemnisable, une allocation complémentaire égale à 60 % de sa rémunération brute diminuée de l’allocation d’aide publique (3,84 euros pour les entreprises de 250 salariés et moins, 3,33 euros pour les entreprises de plus de 250 salariés).</p>
+			<p id="p10">À la charge de l’entreprise, cette allocation complémentaire peut toutefois être prise en charge par l’État, sur la base d’une convention, en vue d’éviter des licenciements économiques ( Code du travail , art. L. 5122-2).</p>
+			<p id="p11">Le taux de prise en charge par l’État est déterminé au cas par cas.</p>
+			<p id="p12">L’indemnisation totale (allocation publique + allocation complémentaire) ne doit pas être inférieure à 6,84 euros par heure.</p>
+			<p id="p13">Pour les conventions signées du 1er janvier au 31 décembre 2010, ce taux de prise en charge est limité à 80 % de l’allocation complémentaire (arrêté du 9 avril 2010).</p>
+			<p id="p14">Exemple :</p>
+			<p id="p15">Pour les entreprises de 250 salariés et moins, l’allocation publique est plafonnée à 3,84 euros.</p>
+			<p id="p16">L’indemnisation totale étant au minimum de 6,84 euros, l’allocation complémentaire à la charge de l’employeur est de 6,84 – 3,84 = 3 euros.</p>
+			<p id="p17">Sur ces 3 euros, si sa demande de prise en charge est acceptée et après signature d’une convention avec l’Etat, il pourra se faire rembourser au maximum 80 %, soit 2,40 euros.</p>
+			<p id="p18">Le ministre chargé de l’Economie et celui chargé du Budget pourront cependant décider, à titre exceptionnel, de relever ce taux à 100 %.</p>
+			<p id="p19">Concrètement, le taux de prise en charge est défini au regard des difficultés exprimées par l’entreprise, de l’importance de la réduction apportée au nombre des licenciements envisagés, ainsi que des efforts consentis.</p>
+			<p id="p20">Pour vous aider à répercuter le chômage partiel sur la paie, les Editions Tissot vous proposent leurs formations en paie .</p>
+			<p id="p21">A. Ninucci</p>
+			<p id="p22">(Arrêté du 9 avril 2010 portant application de l'article D. 5122-42 du code du travail – JO du 14)</p>
+			<p id="p23">Article publié le 22 avril 2010</p>
+			<p id="p24">Partagez cet article :</p>
+			<p id="p25">Articles sur le même thème : Rémunération</p>
+			<p id="p26">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

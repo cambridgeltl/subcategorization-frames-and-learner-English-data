@@ -1,0 +1,18 @@
+Clause de non-concurrence : le montant de la contrepartie ne dépend pas du motif de départ
+Etant donné les restrictions qu’elle impose au salarié, une clause de non-concurrence doit notamment prévoir une contrepartie financière. Il n’est pas possible de prévoir que le montant de cette contrepartie sera minoré en cas de licenciement pour faute.
+Publicité
+La clause de non-concurrence  est une clause, insérée dans le contrat de travail ou résultant de l’application d’une convention collective, par laquelle le salarié se voit interdire de travailler pour une entreprise concurrente ou d’exercer lui-même une activité concurrente lorsqu’il quitte l’entreprise pendant un certain laps de temps.
+Pour être valable, la clause de non-concurrence doit notamment comporter une contrepartie financière versée par l’employeur soit en une seule fois, soit par des versements périodiques.
+Dans un arrêt du 8 avril 2010  (3 p.) , les juges de la Cour de cassation affirment que le montant de la contrepartie financière ne peut pas être minoré en cas de licenciement pour faute.
+Dans cette affaire, un salarié avait signé une clause de non-concurrence prévoyant que le montant de la contrepartie financière serait diminué de moitié en cas de licenciement pour faute grave, de ¾ en cas de licenciement pour faute lourde.
+Pensez à prévoir le sort de la clause de non-concurrence en cas de rupture du contrat de travail
+Devant les juges, ce salarié demande que la clause soit reconnue comme nulle compte tenu de ces minorations.
+Les juges ne suivent pas tout à fait sa demande : ils refusent de reconnaître la nullité de la clause de non-concurrence (il faut dire que le salarié avait démissionné et n’avait pas respecté ses obligations), mais refusent également la validité d’une telle clause.
+En résumé, ne prévoyez jamais la possibilité de faire varier le montant de la contrepartie financière de la clause de non-concurrence en fonction du motif de départ du salarié : en cas de litige, cette disposition serait au mieux réputée non écrite.
+Mais il est également possible que les juges aillent plus loin que dans cette affaire, en décidant cette fois que l’ensemble de la clause est nulle. Vous ne seriez alors plus protégé d’un acte de concurrence de la part de votre ancien salarié.
+Pour ne pas risquer d’en arriver là, le plus simple est d’utiliser un modèle fiable et à jour de clause de non-concurrence : c’est ce que vous proposent les Editions Tissot dans leur ouvrage «   Modèles commentés pour la gestion du personnel   ».
+A. Ninucci
+(Cour de cassation, chambre sociale, 8 avril 2010, n° 08-43056 : une clause de non-concurrence ne peut pas prévoir que le montant de la contrepartie financière due au salarié est minoré en cas de licenciement pour faute)
+Article publié le 21 avril 2010
+Partagez cet article :
+Services droit du travail :

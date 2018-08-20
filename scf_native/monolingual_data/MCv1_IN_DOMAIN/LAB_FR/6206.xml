@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 17 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 17 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:20:58.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=17</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/6206.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">07/05/2010</p>
+			<p id="p2">La GMP 2010 correspond à la garantie minimale de points de retraite complémentaire acquis par les cadres et assimilés touchant des revenus inférieurs à un certain seuil. Quels sont les paramètres (critères et montants de cotisation) pour la GMP 2010 ?</p>
+			<p id="p3">06/05/2010</p>
+			<p id="p4">Le salarié en arrêt maladie doit informer rapidement son employeur. Rien n’est fixé par le Code du travail mais ce délai est estimé, selon les conventions collectives et/ou les usages, à 48 heures. En cas de prolongation de cet arrêt, le salarié ne commet pas une faute grave s’il ne transmet pas son certificat médical.</p>
+			<p id="p5">05/05/2010</p>
+			<p id="p6">Tous les travailleurs doivent veiller à leur santé et à leur sécurité, ainsi qu’à celles de leurs collègues. Cela implique de respecter les règles de sécurité, ainsi que d’alerter l’employeur sur toute situation susceptible d’entraîner un risque. Un salarié qui ne signale pas ce genre de situation peut-il être sanctionné, voire licencié ?</p>
+			<p id="p7">04/05/2010</p>
+			<p id="p8">Le travail dissimulé cause un préjudice à l’Administration (fisc, URSSAF, etc.) mais également au salarié. Sans déclaration, le salarié ne peut pas bénéficier de certains droits tels que les allocations chômage. L’employeur fautif doit réparer le préjudice subi par ce travailleur.</p>
+			<p id="p9">03/05/2010</p>
+			<p id="p10">L’employeur qui envisage de licencier un salarié pour motif personnel ou, dans certains cas, économique doit suivre une procédure destinée à assurer le respect des droits du salarié. Cette procédure démarre par une étape-clé : l’entretien préalable. Qu’il s’agisse de la convocation du salarié ou du déroulement de cet entretien, la rigueur est de mise...</p>
+			<p id="p11">03/05/2010</p>
+			<p id="p12">Le débat sur la réforme des retraites s’est ouvert avec la publication du 8e rapport du Conseil d’Orientation des Retraites (COR) : « Retraites : perspectives actualisées à moyen et long terme en vue du rendez-vous de 2010 ». Une étrange impression se dégage de ce document : existe-t-il vraiment une solution pour sauver notre système de retraite ?</p>
+			<p id="p13">03/05/2010</p>
+			<p id="p14">Les 1er et 8 mai sont des jours fériés qui, cette année, tombent des samedis. Des entreprises sont fermées ces jours-là : doivent-elles accorder des jours de repos supplémentaires ? Et comment cela doit-il être géré dans les entreprises qui travaillent habituellement le samedi ?</p>
+			<p id="p15">03/05/2010</p>
+			<p id="p16">La question de cette semaine porte sur une conséquence peut-être inattendue lorsque l’employeur dispense un salarié de préavis : le paiement des jours de RTT acquis pendant cette période non travaillée.</p>
+			<p id="p17">03/05/2010</p>
+			<p id="p18">Les Éditions Tissot vous proposent de lire ou de relire une sélection des articles qui ont le plus intéressé leurs lecteurs au cours du mois d’avril, classés par thèmes.</p>
+			<p id="p19">Toute l'actualité en droit du travail PME</p>
+			<p id="p20">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

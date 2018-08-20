@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Extinción del contrato por voluntad del trabajador : Despido e indemnización</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Extinción del contrato por voluntad del trabajador : Despido e indemnización</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-11-11 11:52:24.0</pubDate>
+							<eAddress>http://despido-indemnizacion.blogspot.com/2009/01/extincion-voluntad-trabajador.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Despido</keyTerm>
+					<keyTerm>despido improcedente</keyTerm>
+					<keyTerm>despido procedente</keyTerm>
+					<keyTerm>despido nulo</keyTerm>
+					<keyTerm>radicalmente nulo</keyTerm>
+					<keyTerm>indemnización</keyTerm>
+					<keyTerm>causas objetivas</keyTerm>
+					<keyTerm>contrato</keyTerm>
+					<keyTerm>trabajo</keyTerm>
+					<keyTerm>magistratura</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/11925.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El trabajador puede solicitar la extinción del contrato de trabajo, por los siguientes motivos:</p>
+			<p id="p2">a) Por cambio sustancial en las condiciones de trabajo que tenía el trabajador, siempre y cuando estos cambios menoscaben su dignidad, o vayan en perjuicio de su formación profesional.</p>
+			<p id="p3">b) El impago de la nómina, o los retrasos continuados en el pago, por parte de la empresa.</p>
+			<p id="p4">c) Cualquier otro tipo de incumplimiento grave por parte del empresario, de sus obligaciones, salvo en aquellos casos de fuerza mayor. También será un motivo que pueda alegar el trabajador, la negativa por parte del empresario a volver a colocar al empleado en sus anteriores condiciones de trabajo, en los supuestos contemplados en el artículo 40 y 41 del Estatuto de los Trabajadores, siempre que una sentencia judicial haya declarado esos cambios en las condiciones de trabajo, como injustificados.</p>
+			<p id="p5">En el caso de extinción del contrato por voluntad del trabajador, aun no siendo un despido este tipo de extinciones de contrato (ni disciplinario, ni colectivo), el trabajador tendrá derecho a la misma indemnización que corresponde al despido improcedente, es decir, 45 días de indemnización por año trabajado, con el tope de 42 mensualidades.</p>
+			<p id="p6">No hay que confundir la extinción del contrato de trabajo por voluntad del trabajador, como si fuese la misma causa que la dimisión del trabajador, pues son dos conceptos completamente distintos.</p>
+			<p id="p7">domingo 25 de enero de 2009 Publicado por Javier Marco en 00:45 </p>
+		</body>
+	</text>
+</cesDoc>

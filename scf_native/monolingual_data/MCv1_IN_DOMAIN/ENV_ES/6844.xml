@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title></title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:35:18.0</pubDate>
+							<eAddress>http://www.mma.es/secciones/calidad_contaminacion/eionet/sub_aema.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/6844.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Qué es la Agencia Europea de Medio Ambiente (AEMA)</p>
+			<p id="p2">La Agencia Europea de Medio Ambiente, con sede en Copenhague, es una de las Agencias especializadas de la Unión Europea.</p>
+			<p id="p3">La AEMA se crea en base al Reglamento (CEE) nº 1210/90, de 7 de mayo que entró en vigor el 30 de octubre de 1993, modificado posteriormente por el Reglamento (CE) 933/1999 del Consejo, de 29 de abril de 1999, DOCE Serie L 117 de 5 de mayo de 1999, que configura la Agencia definitivamente como un Centro de Referencia Europeo para el medio ambiente.</p>
+			<p id="p4">La Agencia Europea de Medio Ambiente es el principal organismo público europeo dedicado a suministrar información ambiental a los políticos y a los ciudadanos, con el fin de apoyar el desarrollo sostenible y de contribuir a conseguir mejoras significativas y cuantificables del medio ambiente de Europa.</p>
+			<p id="p5">Objetivos de la AEMA</p>
+			<p id="p6">El objetivo de la AEMA es proporcionar información oportuna, específica, relevante, fiable y comparable sobre el medio ambiente, que pueda servir de base a los responsables de la formulación y aplicación de las políticas ambientales nacionales y europeas, y facilitar esta información a los ciudadanos.</p>
+			<p id="p7">El trabajo de la AEMA se basa en la información y gestión de datos aprovechando los conocimientos ya existentes en otras organizaciones para reunir los mejores datos disponibles sobre medio ambiente en cada país.</p>
+			<p id="p8">Gracias a la información que facilita la AEMA, la UE y los países miembros de la Agencia pueden tomar, con conocimiento de causa, decisiones destinadas a mejorar el medio ambiente, integrar las cuestiones ambientales en las políticas económicas y avanzar en materia de sostenibilidad.</p>
+			<p id="p9">Países miembros de la AEMA</p>
+			<p id="p10">Aunque la AEMA es un organismo de la Unión Europea, en ella pueden participar otros países que compartan sus objetivos. En la actualidad son 31 países los que conforman la Red EIONET:</p>
+			<p id="p11">Los 25 Estados miembros de la UE: Alemania, Austria, Bélgica, Chipre, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Italia, Letonia, Lituania, Luxemburgo, Malta, Países Bajos, Polonia, Portugal, Reino Unido, República Checa y Suecia.</p>
+			<p id="p12">Noruega, Islandia y Liechtenstein.</p>
+			<p id="p13">Programa de trabajo de la AEMA. Estrategia 2004-2008</p>
+			<p id="p14">Los Programas de Trabajo Multianual (PTM) y Anual (PTA) constituyen las herramientas para determinar el alcance y el calendario de las actividades encaminadas a traducir la misión y los objetivos de la AEMA en resultados útiles.</p>
+			<p id="p15">Estos Programas de Trabajo Multianual se desagregan, a su vez, en los denominados "Programas de Trabajo Anuales". El PTM 1994-1998 ha desarrollado, con pequeños reajustes de fusión, 93 proyectos divididos en diez ámbitos. El segundo PTM abarcó el periodo 1999-2003. En el año 2003 se aprueba el Tercer Programa de Trabajo Multianual para el periodo de 2004 a 2008, sintetizado en el documento titulado "Estrategia de la Agencia Europea 2004-2008". Esta estrategia está diseñada para apoyar el desarrollo del Sexto Programa de Acción de Medio Ambiente, en torno a cuatro áreas temáticas principales: cambio climático, pérdida de biodiversidad/cambios en los usos del suelo, protección de la salud humana y la calidad de vida, uso y gestión de los recursos naturales y los residuos.</p>
+			<p id="p16">La lucha contra el cambio climático, mediante la evaluación del cumplimiento de los objetivos de Kioto y de la efectividad de las políticas nacionales y comunitarias, así como el seguimiento de las emisiones de Gases de Efecto Invernadero (GEI). En esta línea también se prestará apoyo al análisis sectorial integrado de las políticas de la UE, la estrategia de desarrollo sostenible y la política destinada a incrementar la utilización de la energía renovable y la mejora de la eficiencia energética.</p>
+			<p id="p17">La lucha contra la pérdida de biodiversidad, contribuyendo a la comprensión de los cambios espaciales y a la consecución del objetivo para 2010 de detener la pérdida de la biodiversidad mediante evaluaciones sobre la planificación territorial, la agricultura, la silvicultura, la pesca, la contaminación ambiental y del suelo y la gestión del medio rural.</p>
+			<p id="p18">El uso sostenible y gestión de los recursos naturales y los residuos, proporcionando información y evaluaciones que respalden las políticas en materia de uso sostenible de los recursos naturales y la gestión de los residuos, con el fin de garantizar una reducción apreciable de los mismos, la disociación del crecimiento económico y el consumo y vigilando que los impactos asociados no superen la capacidad de carga del medio.</p>
+			<p id="p19">La protección de la salud y la calidad de vida: en relación con el medio ambiente y la salud humana surgen problemas que demandan nuevas soluciones. La sociedad debe movilizar a los ciudadanos y la innovación de las empresas e implicar a todos en la planificación para un cambio que garantice la calidad de vida. Para lograr este objetivo la AEMA lleva a cabo actuaciones conjuntas con la Autoridad Europea de Seguridad Alimentaria y la Organización Mundial de la Salud.</p>
+			<p id="p20">En relación con la protección de la salud y la calidad de vida de los europeos las principales líneas de actuación de la AEMA dentro de la Estrategia 2004-2008 son:</p>
+			<p id="p21">Respaldar las políticas para reducir los riesgos que plantea la utilización de los productos químicos, incluidos los plaguicidas, colaborando en actuaciones con la nueva Agencia Europea de Productos Químicos.</p>
+			<p id="p22">Contribuir a mejorar la disponibilidad y calidad de las aguas subterráneas y superficiales, a través del apoyo a la Directiva marco de agua, evaluando los avances que se producen hacia los objetivos fijados para 2015 y contribuyendo al desarrollo de Eurowaternet, la red europea de vigilancia del agua.</p>
+			<p id="p23">Apoyar la estrategia comunitaria del mar mediante la evaluación de los ocho grandes ecosistemas marinos que rodean Europa, prestando especial atención a su funcionamiento, eutrofización, contaminación y llevando a cabo el análisis socioeconómico del uso sostenible de los recursos marinos.</p>
+			<p id="p24">Respaldar el proceso dirigido a conseguir una calidad del aire que no dé lugar a riesgos significativos para la salud humana y el medio ambiente mediante evaluaciones de la distancia a los objetivos, contaminación a escala local y espacios interiores.</p>
+			<p id="p25">En relación con el medio urbano, las actuaciones de la Agencia están dirigidas a evaluar los usos del suelo y la gestión urbana sostenible, el apoyo a la estrategia temática en el medio ambiente urbano y a la evaluación de la contaminación acústica en zonas concretas.</p>
+			<p id="p26">Respaldar el desarrollo de un marco legislativo en materia de prevención de riesgos naturales y tecnológicos, impulsando la elaboración de mapas de riesgos y la evaluación de su impacto ambiental.</p>
+			<p id="p27">La AEMA como Centro de Referencia Europeo</p>
+			<p id="p28">La AEMA se ha consolidado como Centro de Referencia Europeo para el medio ambiente asegurando una amplia difusión de información al público en general, para lo cual hace un amplio uso de las nuevas tecnologías. Los instrumentos para lograr esa difusión son:</p>
+			<p id="p29">La bases de datos temáticas e informes</p>
+			<p id="p30">Los informes integrados (por temas, áreas y sectores)</p>
+			<p id="p31">Los informes periódicos</p>
+			<p id="p32">El acceso a la información proporcionada por la AEMA puede hacerse a través de:</p>
+			<p id="p33">Estas páginas constituyen uno de los más amplios servicios públicos de información medioambiental existentes en Internet y es el canal de información más utilizado, llegando a las 100.000 sesiones de consulta en los meses de máximo uso.</p>
+			<p id="p34">Publicaciones: Cada año la AEMA publica una serie de informes y un número cada vez mayor de resúmenes informativos sobre cuestiones específicas cuyo catálogo se puede consultar desde la página web. Un buen número de estos informes han sido traducidos al español y publicados por el Ministerio de Medio Ambiente. Entre otras destacan las siguientes series:</p>
+			<p id="p35">Informes periódicos</p>
+		</body>
+	</text>
+</cesDoc>

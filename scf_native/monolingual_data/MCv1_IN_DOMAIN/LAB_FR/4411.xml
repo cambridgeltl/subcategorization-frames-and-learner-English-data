@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Mon employeur peut-il m’imposer d’alléger mon temps de travail, de passer à 4 jours sur 5, moyennant une baisse de revenu ? - Juritravail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Mon employeur peut-il m’imposer d’alléger mon temps de travail, de passer à 4 jours sur 5, moyennant une baisse de revenu ? - Juritravail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:01:23.0</pubDate>
+							<eAddress>http://www.juritravail.com/question-avocat/alleger-temps-travail-baisse-revenu.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit du travail</keyTerm>
+					<keyTerm>code du travail</keyTerm>
+					<keyTerm>défendre ses droits</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/4411.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Question à l'avocat</p>
+			<p id="p2">Mon employeur peut-il m’imposer d’alléger mon temps de travail, de passer à 4 jours sur 5, moyennant une baisse de revenu ?</p>
+			<p id="p3">La réponse de Maître Anne-Claude HOGREL</p>
+			<p id="p4">Avocat au Barreau de Paris</p>
+			<p id="p5">è Si la durée du travail a été contractualisée, elle ne peut pas être modifiée sans l'accord du salarié.</p>
+			<p id="p6">La solution s'applique en sens inverse, c'est-à-dire lorsque l'employeur propose au salarié une durée du travail inférieure à celle prévue au contrat.</p>
+			<p id="p7">è De la même manière, la rémunération contractuelle est composée des éléments convenus entre l'employeur et le salarié.</p>
+			<p id="p8">Si l'un de ces éléments est modifié il y a modification du contrat de travail.</p>
+			<p id="p9">¯¯¯</p>
+			<p id="p10">En conséquence si l'employeur envisage une modification du contrat de travail pour un motif économique ou pas, il doit soumettre préalablement cette modification à l'accord du salarié.</p>
+			<p id="p11">En effet, la modification du contrat par l'employeur pour quelque cause que ce soit nécessite l'accord préalable du salarié.</p>
+			<p id="p12">è Si la modification ne repose pas sur un motif économique et lorsque l'employeur impose cette modification au salarié, ce dernier peut :</p>
+			<p id="p13">- soit exiger la poursuite du contrat aux conditions initiales,</p>
+			<p id="p14">- soit prendre acte de la rupture de son contrat de travail aux torts de l'employeur et faire constater que cette voie de fait s'analyse en un licenciement sans cause réelle et sérieuse, l'employeur ne pouvant pas renoncer ultérieurement à la modification du contrat et au licenciement,</p>
+			<p id="p15">- soit demander au Juge des référés de faire cesser le trouble manifestement illicite même en présence d'une contestation sérieuse,</p>
+			<p id="p16">- soit demander la résolution judiciaire de son contrat de travail aux torts de l'employeur, laquelle produira les effets d'un licenciement sans cause réelle et sérieuse.</p>
+			<p id="p17">è Si la modification repose sur un motif économique, il doit informer le salarié par lettre RAR.</p>
+			<p id="p18">Le salarié dispose alors d'un délai d'un mois à compter de la réception de la lettre RAR lui notifiant la modification de son contrat pour faire connaître son refus.</p>
+			<p id="p19">A défaut de réponse dans le mois, le salarié est réputé avoir accepté la modification proposée.</p>
+			<p id="p20">Si le salarié accepte la modification dans le délai d'un mois ou garde le silence pendant plus d'un mois, l'employeur peut immédiatement mettre en œuvre la modification.</p>
+			<p id="p21">En pratique il est recommandé de formaliser une modification du contrat de travail au moyen d'un avenant au contrat initial.</p>
+			<p id="p22">Si le salarié à l'issu du délai d'un mois refuse la modification de son contrat, l'employeur a l'obligation :</p>
+			<p id="p23">- soit de maintenir les conditions antérieures,</p>
+			<p id="p24">- soit de tirer les conséquences du refus de l'intéressé en prenant l'initiative de la rupture c'est-à-dire en déclenchant une procédure de licenciement.</p>
+			<p id="p25">Mais préalablement à cette procédure, l'employeur est tenu de tenter de reclasser le salarié avant de le licencier.</p>
+			<p id="p26">Maître Anne-Claude HOGREL</p>
+		</body>
+	</text>
+</cesDoc>

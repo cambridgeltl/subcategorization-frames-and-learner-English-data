@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Turkey - Employment Facts</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Turkey - Employment Facts</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-03-31 17:48:40.0</pubDate>
+							<eAddress>http://www.turkisheconomy.org.uk/investment/employment_facts.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/240.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">(last updated on January 2, 2008)</p>
+			<p id="p2">SOCIAL SECURITY &amp; LABOUR ARRANGEMENTS </p>
+			<p id="p3">What standards?</p>
+			<p id="p4">The legal arrangements with regards to social security and labour in Turkey are in line with the ILO (International Labour Organisation) and other generally accepted international standards.</p>
+			<p id="p5">The Compulsory Social Insurance Schemes</p>
+			<p id="p6">Social insurance schemes are compulsory for both employees and the self-employed Turkish nationals. The social insurance schemes for the self-employed and employees are Bag-Kur and SSK, respectively.</p>
+			<p id="p7">These schemes cover the following risks: Old-age, invalidity, sickness, maternity, work injuries &amp; occupational diseases, mortality. Thus, having paid social insurance contributions on behalf of the employees, employers are not to pay for any costs associated with the compensation of those risks confronted by employees.</p>
+			<p id="p8">In addition, for foreign nationals working in Turkey, only short-term risks (maternity leave, sickness, work injuries and occupational diseases) are covered by the associated scheme. On the other hand, foreign citizens can voluntarily register to social insurance institutions for the long-term risk coverage (invalidity, old-age, mortality). However, citizens of the countries with which reciprocity agreements in the power of law have been made are to be fully covered (compulsory) by the relevant social insurance scheme. These countries are UK, Germany, Netherlands, Belgium, Austria, Switzerland, France, Sweden, Libya, Denmark, Norway, and Turkish Republic of Northern Cyprus.</p>
+			<p id="p9">Old-age, invalidity, sickness, maternity, work injuries &amp; occupational diseases, mortality</p>
+			<p id="p10">Employer*: 19.5%</p>
+			<p id="p11">Maximum: YTL 3,952*** (approximately £ 1,700)</p>
+			<p id="p12">Minimum: YTL 325.23 (approximately £ 116)</p>
+			<p id="p13">Maximum: YTL 1,499.91 (approximately £ 539)</p>
+			<p id="p14">(*)For workplaces of type ‘high risk, the rate may increase by up to 5.5 percentage points.</p>
+			<p id="p15">(**) If the actual monthly salary/income of the person exceeds the maximum, then the contribution is calculated out of the maximum, instead of actual wage.</p>
+			<p id="p16">(***) For 01.01.2008-30.06.2008 (For 01.07.2008-31.12.2008 YTL 638 and YTL 4,147 respectively)</p>
+			<p id="p17">Employees covered by SSK are also to be covered by the Unemployment Insurance.</p>
+			<p id="p18">The Unemployment Insurance contribution rates (in percent of the contribution base for an employee) are as follows:</p>
+			<p id="p19">Employer:</p>
+			<p id="p20">Provision of basic health services</p>
+			<p id="p21">The State provides its residents with all basic health services and medication. The basic package includes a very wide range of services and healthcare products, and thus is generous when compared to international ones. The associated costs of people under the coverage of social insurance are financed by the social insurance institutions. Those for the poor, on the other hand, are financed by the State social assistance funds.</p>
+			<p id="p22">With regard to the basic health insurance, residents can use either State hospitals or the private healthcare providers with whom the Social Insurance institutions have made contracts.</p>
+			<p id="p23">If a resident demands some services not included in the basic healthcare package, he/she has to finance the additional costs.</p>
+			<p id="p24">Private Pension Schemes and Private Health Insurance</p>
+			<p id="p25">Private pension schemes (individual savings accounts/Defined Contribution type pension funds) are voluntary.</p>
+			<p id="p26">Moreover, since the basic health insurance is provided by the State, private health insurance is voluntary.</p>
+			<p id="p27">However, some employers opt to provide their employees with private pension or health insurance products designated for institutional clients so as to increase loyalty to their companies.</p>
+			<p id="p28">Severance Pay</p>
+			<p id="p29">An employer is free to fire the employees. In addition, employees may leave the work for reasons such as military service (men), maternity (women) and retirement. If one of these events occurs, the employer has to pay a Severance Pay to the leaving/fired employee.</p>
+			<p id="p30">Severance Pay (SP) is calculated as follows:</p>
+			<p id="p31">SP= Number of years the Employee worked for the company * Recent Monthly Salary of the Employee</p>
+			<p id="p32">However, the recent monthly salary term cannot exceed YTL 1,727.15 (approximately, £640). The official ceiling on this term is periodically updated by the Government.</p>
+			<p id="p33">In case an employer fires an employee due to an unacceptable behaviour (as defined by the Labour Law) of the employee, then no severance pay is made by the employer.</p>
+			<p id="p34">Unions and collective bargaining</p>
+			<p id="p35">According to Unions Act No. 2821, being a member of any union is voluntary for both employers and employees.</p>
+			<p id="p36">On the other hand, collective bargaining agreements are contained in the Collective Bargaining Agreements, Strikes, and Lock Outs Act No. 2822. These agreements can be signed between</p>
+			<p id="p37">the authorised employers’ union (or the employer in case the employer has not registered by any employer union) and</p>
+			<p id="p38">the authorised trade union (authorisation is only possible when a trade union covers at least 50% of workers in a workplace and at least 10% of the workers in the relevant industry).</p>
+			<p id="p39">Collective bargaining agreements are benefited by workers registered to a trade union.</p>
+			<p id="p40">Employment of the disabled, terror victims and former-prisoners</p>
+			<p id="p41">So as to prevent social unrest, the labour law makes enterprises with 50 or more employees employ</p>
+			<p id="p42">disabled people</p>
+			<p id="p43">The Council of Ministers periodically determines the respective composition of those groups.</p>
+			<p id="p44">The wages to be paid to the people in this category cannot be less than the minimum wage.</p>
+			<p id="p45">However, some private companies evade this regulation since (monetary) penalties chargeable in case non-compliance is detected by work inspectors are not significant.</p>
+			<p id="p46">Establishing a workplace health unit</p>
+			<p id="p47">Enterprises with 50 or more employees have to set up a health unit which will be in charge of</p>
+			<p id="p48">defining biological, chemical and physical risks of the work and workplace,</p>
+			<p id="p49">prevention of those risks,</p>
+			<p id="p50">periodical measurement, analysis and control of the relevant parameters.</p>
+			<p id="p51">A workplace health unit is composed of a doctor and a nurse (or a health officer) both of who have been licensed by the Ministry of Labour and Social Security. Depending on the number people employed and the level of risks, part-time or full-time employment of those health personnel is possible.</p>
+			<p id="p52">Recruitment of a work safety expert</p>
+			<p id="p53">An enterprise with 50 or more employees has to sign a contract with a work safety expert who has been licensed by the Ministry of Labour and Social Security and who will periodically visit and supervise the workplace. Instead of hiring such an external person, employers can assign one of their engineers to carry out the activities supposed to be done by an expert. In that case, the engineer in question has to be licensed by the Ministry and is supposed not to do any other job during the times allocated for work safety supervision.</p>
+			<p id="p54">WAGES &amp; COST TO EMPLOYER </p>
+			<p id="p55">Minimum Wage</p>
+			<p id="p56">Gross wages cannot be less than the national minimum (gross) wage, which is currently YTL 608 per month (approximately £ 260 per month) for employees at the age of 16 or more. (The cost to employer is YTL 738.72/employee). The gross wage will be YTL 638 and the cost to employer will be YTL 775.17 from 1st July 2008.</p>
+			<p id="p57">In other words, if you establish a firm and recruit employees in Turkey, the monthly minimum labour cost will amount to approximately £318/employee @2,32 on 2 Jan 2008.</p>
+			<p id="p58">Minimum wage is applied nation-wide and updated periodically. The Minimum Wage Commission composed of the social partners advices the Government on what the minimum wage ought to be, and the Government determines the amount taking into account this advised figure.</p>
+			<p id="p59">Average wages in the industry</p>
+			<p id="p60">In the manufacturing sector, gross wages for blue collar workers start from £318 per month. For example, in Istanbul, the most expensive province in Turkey, a net wage of £350-£600 is attractive enough for an average blue collar worker.</p>
+			<p id="p61">With regard to an average white collar worker (an engineer or a person in charge of office works in departments such as accounting, marketing), gross wage starts from £350. In Istanbul, a net wage of £450-750 is attractive enough for an average white collar worker.</p>
+			<p id="p62">Very skilful white-collar workers, engineers or managers (even top managers) who graduated from Turkey’s top universities and have very good command of English can be employed at a net salary of £900-to-£3000 per month in Istanbul.</p>
+			<p id="p63">The above figures were obtained from some of the licensed human resources bureaus in Turkey. The reason why wages in Istanbul are used in this section is that it is the most expensive city in Turkey. In other provinces, wages are lower.</p>
+			<p id="p64">Cost to employer</p>
+			<p id="p65">As explained in the above sections, total cost of an employee to the employer is the gross wage plus social insurance and unemployment insurance contributions made by the employer (employer’s total contribution is 21.5% of the contribution base. For workplaces with high work safety risks the rate may extend to a level up to 27%).</p>
+			<p id="p66">To give some examples,</p>
+			<p id="p67">1. A worker works for an enterprise which was rated as ‘high risk’ and is paid a monthly gross salary of £350. His total cost to the employer is then</p>
+			<p id="p68">£ 444.5 (=350+ 27%*350)</p>
+			<p id="p69">2. A company manager works under no-work injury risk conditions and is paid a gross salary of £2000 per month. Taking into account that the gross salary exceeds the contribution base ceiling of £1700, his total cost to the employer is £ 2365.50 (=2000+ 21.5%*1700)</p>
+			<p id="p70">How to calculate a net wage?</p>
+			<p id="p71">Since negotiations on wages are generally based on net terms, it is important to know how to calculate a net wage. A net wage is calculated as follows:</p>
+			<p id="p72">Net Wage= Gross Wage - Social insurance and unemployment insurance contributions by the employee - taxes (personal income tax and stamp tax)</p>
+			<p id="p73">As explained in the relevant sections, social insurance and unemployment insurance contributions to be made by an employee are 14% and 1% of the contribution base, respectively.</p>
+			<p id="p74">On the other hand, the personal income tax rates start from 15%. The stamp tax rate for wages is 0.6%. The personal income and stamp taxes are applied to the amount to be calculated to equal “the gross wage minus employee’s contributions”.</p>
+			<p id="p75">To give an example, suppose that an employee earns a gross wage of £300 per month and he is in the lowest income bracket (income tax rate of 15%). Then the net salary to be paid to him (£215.2) is calculated as follows:</p>
+			<p id="p76">£215.2 =300- 300*(14%+1%) - [300- 300*(14%+1%)]*(15%+0.6%)</p>
+			<p id="p77">WORKING HOURS &amp; HOLIDAYS </p>
+			<p id="p78">Number of normal working hours for an employee is 45 hours per week.</p>
+			<p id="p79">If the total number of working hours exceeds 45 hours, the difference between it and 45 is considered as overtime and the overtime work is granted 50% extra wage.</p>
+			<p id="p80">In a year, total amount of overtime cannot exceed 270 hours.</p>
+			<p id="p81">An employee cannot be forced to work for more than 11 hours a day. Moreover, he/she cannot work for more than 7.5 hours between 8.00 pm and 6.00 am (night).</p>
+			<p id="p82">Employers can ask their employees to work in shifts provided that they carry out some formalities (such as informing Regional Labour Directorate about the issue) defined by the relevant regulations. Number of shifts must be at least 3 and for an employee the interval between two consecutive shifts cannot be shorter than 11 hours.</p>
+			<p id="p83">An employee must be granted a holiday of at least 24 hours (continuous) per week.</p>
+			<p id="p84">Leave with pay</p>
+			<p id="p85">Employers have to let their employees have “leave with pay”. The duration of the leave depends on the number of years worked.</p>
+			<p id="p86">Number of Years Worked</p>
+			<p id="p87">Public Holidays</p>
+			<p id="p88">New Year’s Day,</p>
+			<p id="p89">Religious Festivals (Festivals of Sacrifice and Ramadan)</p>
+			<p id="p90">In the Turkish labour market, generally, two methods are used:</p>
+			<p id="p91">Enterprises which want to employ new personnel have job/vacancy advertisements published in daily newspapers with high circulation rates. Then interested parties (applicants) are invited to interviews or skill tests by those enterprises. Terms are freely agreed by the parties.</p>
+			<p id="p92">Some enterprises prefer using the licensed employment bureaus since those bureaus have broad databases and good expertise in selecting qualified people on behalf of their clients, and provide very wide range of industrial training programs. Thus, enterprises just clearly define what labour qualifications they are seeking, the number of personnel needed and the average wages etc and then employment bureaus find candidates for the vacancies. Click here to see the full list of the licensed employment bureaus in Turkey.</p>
+			<p id="p93">FULL LIST OF WORK REGULATIONS </p>
+			<p id="p94">Pursuant to the Labour Law and taking into account the relevant EU Directives, the following regulations are to be obeyed by enterprises so as to assure work health and safety, and fit and proper relations between employers and employees:</p>
+			<p id="p95">The work safety and security regulation</p>
+			<p id="p96">The workplace and worker safety in enterprises where machinery with monitors/screens are used</p>
+			<p id="p97">The vibration regulation</p>
+			<p id="p98">Safety and health signs/symbols regulation</p>
+			<p id="p99">The regulation for asbestos production or use</p>
+			<p id="p100">The regulation for explosion-prevention</p>
+			<p id="p101">The regulation for the use or production of chemicals</p>
+			<p id="p102">The regulation for workplace health unit (for enterprises with 50 or more employees)</p>
+			<p id="p103">The regulation for the use of licensed work safety engineers or experts (for enterprises with 50 or more employees)</p>
+			<p id="p104">The regulations for the use of hands in carrying goods (so as to prevent back and waist injuries)</p>
+			<p id="p105">The regulation for the use of equipments in safety and health terms</p>
+			<p id="p106">The health and safety regulations for buildings and their extensions</p>
+			<p id="p107">The regulation for protective equipments and accessories</p>
+			<p id="p108">The regulation for the individual use of protective equipments and accessories</p>
+			<p id="p109">The safety and health regulation for mines using drilling and boring methods</p>
+			<p id="p110">The safety and health regulation for underground and ground mines</p>
+			<p id="p111">The regulation for financial penalties to be charged on employees</p>
+			<p id="p112">The regulation for sharing of tips (granted by customers) among employees (for restaurants or entertainment sector companies)</p>
+			<p id="p113">The regulation for leaves with pay</p>
+			<p id="p114">The regulation for caretakers/porters employed in residential sites</p>
+			<p id="p115">The regulation for the definition of industrial, commercial, agricultural and forestry works</p>
+			<p id="p116">The regulation for the employment of the disabled, terror victims and ex-prisoners (for only enterprises with 50 or more employees)</p>
+			<p id="p117">The regulation for short term works</p>
+			<p id="p118">The regulation for the training of personnel on work safety and health</p>
+			<p id="p119">The regulation for the employment of young people</p>
+			<p id="p120">The regulation for working hours</p>
+			<p id="p121">The regulation for the work conditions of agricultural and forestry jobs</p>
+			<p id="p122">The regulation for working in shifts</p>
+			<p id="p123">The regulation for the works for which maximum 7.5 working hours per day restriction is applied</p>
+			<p id="p124">The regulation for preparatory and cleaning works</p>
+			<p id="p125">The safety and health regulation for temporary or limited-time jobs</p>
+			<p id="p126">The regulation for heavy and dangerous works</p>
+			<p id="p127">The regulation for female employees working in night shifts</p>
+			<p id="p128">The minimum wage regulation</p>
+			<p id="p129">The regulation for the inspection of army-related or national security-sensitive workplaces</p>
+			<p id="p130">The regulation for the Wage Guarantee Fund (this fund is a sub-fund under the Unemployment Insurance scheme and is supposed to pay the wages of people working for a company subject to bankruptcy processes)</p>
+			<p id="p131">The safety and health regulation for jobs on fishery boats</p>
+			<p id="p132">The regulation for enterprise establishment and operation permits</p>
+			<p id="p133">The regulation for the inspection of workplaces</p>
+			<p id="p134">Click here to see the full-text of those regulations (in Turkish)</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ecología y Desarrollo: Elecciones Generales 08 y Cambio Climático</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ecología y Desarrollo: Elecciones Generales 08 y Cambio Climático</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 13:09:06.0</pubDate>
+							<eAddress>http://archivo.ecodes.org/pages/especial/10_objetivos_cambio_climatico/index.asp</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/10217.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Rincón electoral 08</p>
+			<p id="p2">Se impone, en los tiempos que vivimos, articular una Alianza Estratégica para frenar el cambio climático mediante una apuesta decidida por la sostenibilidad.</p>
+			<p id="p3">La movilidad, el modelo de desarrollo o la política energética, entre otros asuntos, deben estar impregnados transversalmente por una noción de desarrollo sostenible que nos ayude a frenar las tropelías que hemos ido cometiendo en el planeta.</p>
+			<p id="p4">Desde la sociedad civil, encontramos multitud de iniciativas que se están impulsando para concienciar a la ciudadanía de la necesidad de modificar hábitos de conducta y consumo que nos permitan tener un modelo de vida más saludable, y cada día crece el número de empresas y entidades que deciden, por una u otra vía, y conscientes de su responsabilidad, medir, reducir y compensar las emisiones de CO2 que ocasionan en sus actividades.</p>
+			<p id="p5">Necesitamos, por lo tanto, políticos a la altura de los tiempos y de las circunstancias, que sean conscientes de la emergencia civilizatoria en que estamos inmersos, y haciendo un ejercicio de responsabilidad, sean capaces de sacar los temas de sostenibilidad y de cambio climático fuera de la arena del combate partidista. Necesitamos liderazgos políticos que articulen un ámbito común de trabajo por el desarrollo sostenible.</p>
+			<p id="p6">Por estos motivos, desde Ecología y Desarrollo, hemos propuesto a los partidos políticos que se presentan a las elecciones generales que recojan en sus programas electorales las medidas que aquí proponemos. El documento enuncia 10 objetivos en la lucha contra el cambio climático y propone, a continuación, cincuenta medidas que podrían aplicarse de inmediato si existiera la voluntad política para ello. Estas propuestas son fruto de nuestro trabajo, de la experiencia recogida en los proyectos e iniciativas de Ecología y Desarrollo, junto con iniciativas que se están desarrollando.</p>
+			<p id="p7">Además, desde Ecología y Desarrollo, hemos contado con la colaboración altruista y generosa de expertos que han analizado los programas electorales. Esperamos que el trabajo realizado y el espacio que abrimos en esta web sea útil a la sociedad en su conjunto para ayudar a reflexionar sobre el enorme reto que el Cambio Climático supone.</p>
+			<p id="p8">Doctor en Ecología</p>
+			<p id="p9">Vicepresidente de CiMA (Científicos por el Medio Ambiente)</p>
+			<p id="p10">Propuestas de otras organizaciones:</p>
+			<p id="p11">Propuestas concretas de Arrels Fundació, FATEC, CCOO y Càritas Diocesana de Barcelona a los partidos políticos para hacer frente a la pobreza estructural, definida como aquella situación de pobreza determinada por la asignación de ingresos públicos por debajo del umbral de la pobreza. Y que podría llegar a afectar hasta un 10% de los ciudadanos españoles.</p>
+			<p id="p12">Más información de interés :</p>
+			<p id="p13">En el Blog Directiva Marco del Agua se pueden consultar las propuestas en materia de agua de los programas electorales de los principales partidos políticos. Además, también se puede participar en la encuesta sobre quién presenta las mejoras propuesta para gestionar el agua en España.</p>
+			<p id="p14">Ecología y Desarrollo</p>
+			<p id="p15">Plaza San Bruno, 9 · 50001 Zaragoza · España Tel: + 34 976 29 82 82 · Fax: +34 976 20 30 92</p>
+		</body>
+	</text>
+</cesDoc>

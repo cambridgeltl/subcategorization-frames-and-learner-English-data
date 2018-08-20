@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Jornada de trabajo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Jornada de trabajo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:13:15.0</pubDate>
+							<eAddress>http://html.rincondelvago.com/jornada-de-trabajo_2.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Derecho Laboral español. Horas extraordinarias. Trabajo nocturno. Tiempo de la prestación. Descansos</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/557.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">1.- JORNADA DE TRABAJO</p>
+			<p id="p2">La jornada de trabajo es el tiempo que cada trabajador dedica diariamente a prestar sus servicios pactados en el contrato de trabajo.</p>
+			<p id="p3">La duración será la que se pacte en el Convenio Colectivo ó pacto individual ó en el estatuto, con un máximo de 40 horas /semana en cómputo anual (52 semanas de 40 horas).</p>
+			<p id="p4">Si el empresario con los representantes de personal de la empresa hace que el trabajador pacte una semana de 60 horas es porque está pactado. Esta distribución irregular debe respetar el descanso diario y semanal.</p>
+			<p id="p5">El descanso diario será de 12 horas y de trabajo serán 9 horas diarias ( se le puede sumar hasta 12 horas). Los menores de 18 años no pueden trabajar más de 8 horas diarias.</p>
+			<p id="p6">Si la jornada dura más de 6 horas seguidas, el trabajador tiene 15 minutos de descanso retribuidos. Si es menor de 18 años si trabaja más de 4 horas y media tendrá 30 minutos de descanso retribuidos.</p>
+			<p id="p7">En jornadas especiales (los que trabajan los fines de semana, por la noche, etc..) es el gobierno quien las determina.</p>
+			<p id="p8">Los trabajadores tienen derecho a un descanso de un día y medio a la semana, pero los trabajadores de jornadas especiales no descansan el día y medio sino que lo recuperan otro día.</p>
+			<p id="p9">2.- HORAS EXTRAORDINARIAS</p>
+			<p id="p10">Se pueden hacer hasta 3 horas diarias puesto que solo se puede trabajar 12 horas al día y la jornada puede ser de hasta 9 horas.</p>
+			<p id="p11">Se pacta el modo de retribución y si no se pactase pueden pagar en especies (descanso, etc) en los 4 meses siguientes a la fecha de su realización.</p>
+			<p id="p12">El trabajador puede hacer un máximo de 80 horas anuales pero no cuentan las que recuperamos con descanso.</p>
+			<p id="p13">Si por ejemplo el trabajador hace 40 horas extras y recupera 20 con descanso, solo puede trabajar 20 horas extras más.</p>
+			<p id="p14">Las horas extras se computan diariamente y a final de mes se pagan.</p>
+			<p id="p15">Ningún menor de 18 años puede hacer horas extras.</p>
+			<p id="p16">3.- TRABAJO NOCTURNO Y TRABAJADORES NOCTURNOS</p>
+			<p id="p17">El trabajo nocturno es el que se realiza entra las 22:00 y las 6:00 horas.</p>
+			<p id="p18">Si un trabajador tiene parte de sus horas de trabajo entre esas 2 horas, es decir si trabaja como mínimo 3 horas entre esas 2 horas se le considerará trabajador nocturno.</p>
+			<p id="p19">Los trabajadores nocturnos no pueden hacer horas extras no pueden trabajar más de 8 horas</p>
+			<p id="p20">( en un cómputo de 15 días).</p>
+			<p id="p21">4.- TRABAJO A TURNOS.</p>
+			<p id="p22">5.- DESCANSO DOMINICAL</p>
+			<p id="p23">Tiempo dado una vez a la semana por 1 día y medio. Puede pactarse su disfrute cada 15 días (serían 3 días de descanso, acumulable) para la jornada ordinaria. Para la jornada especial va de otro modo. Este tiempo ha de respetarse.</p>
+			<p id="p24">6.- FESTIVIDADES LABORALES</p>
+			<p id="p25">Son los días que no se trabajan pero no son de vacaciones. Se decretan oficialmente en la cual se sigue cobrando. En total hay 14 al año, de las cuales 4 son nacionales:</p>
+			<p id="p26">25/12 Navidad</p>
+			<p id="p27">01/05 Día del trabajador</p>
+			<p id="p28">12/10 Día del Pilar</p>
+			<p id="p29">De las 14 fiestas no se suelen celebrar todas sino 10 u 11 porque no todas las fiestas son</p>
+			<p id="p30">nacionales, algunas van por comunidades autónomas. Las fiestas que no son nacionales pueden trasladarse al lunes si caen en sábado. Las nacionales no se pueden trasladar.</p>
+			<p id="p31">7.- CALENDARIO LABORAL EN LA EMPRESA</p>
+			<p id="p32">Para que un trabajador sepa qué fiestas tiene su empresa lo mira en el calendario laboral de la empresa, elaborado por el empresario(tanto vacaciones como días festivos).</p>
+			<p id="p33">Licencias ó permisos retribuidos: Son causas por las que el trabajador puede tener un día libre(lo puede decir el convenio colectivo ó en su defecto la ley). Estas son:</p>
+			<p id="p34">15 días naturales por matrimonio</p>
+			<p id="p35">2 días por nacimiento de un hijo, muerte de un pariente en la misma provincia ó 4 días si el trabajador ha de desplazarse a otra provincia.</p>
+			<p id="p36">1 día por mudanza</p>
+			<p id="p37">Para un deber público ó personal incluido sufragio activo (ir a votar). Si para hacer esto durante 3 meses superas el 20 % de la jornada, el trabajador deberá pedir una excedencia. A los que cobran por estar en una mesa electoral, el empresario podrá descontarle de su sueldo lo que le paguen.</p>
+			<p id="p38">El padre ó la madre pueden pedir hasta que el niño cumpla 9 meses una reducción de la jornada de hasta 30 minutos ó una hora libre que puede ser por la mañana ó por la tarde ó media hora cada turno sin que le bajen el salario. También puedes pedir una reducción de jornada si tienes a tu cargo un menor de 6 años ó un disminuido psíquico</p>
+			<p id="p39">8.- DESCANSO ANUAL : REGIMEN DE VACACIONES</p>
+			<p id="p40">Vacaciones anuales: Son como mínimo 30 días por año. Se pactan por Convenio Colectivo ó en el contrato pero siempre respetando ese mínimo.</p>
+			<p id="p41">No se puede renunciar a las vacaciones por dinero ó por otra cosa, el empresario siempre tiene que respetarlas.</p>
+			<p id="p42">Las fechas de vacaciones, el empresario debe de comunicarlas con 3 meses de antelación.</p>
+			<p id="p43">Por mes trabajado serán 2 días y medio.</p>
+		</body>
+	</text>
+</cesDoc>

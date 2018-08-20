@@ -1,0 +1,244 @@
+Relations individuelles
+Portail Droit du travail
+En droit du travail français, le licenciement pour motif économique  est un mode de rupture du contrat de travail à durée indéterminée, à l'initiative de l'employeur, pour un motif non inhérent à la personne du salarié. Le motif économique implique la suppression de l'emploi, la transformation de l'emploi, ou la modification d'un élément essentiel du contrat de travail refusée par le salariée. Enfin, la suppression ou la transformation de l'emploi doivent être consécutives notamment à des difficultés économiques ou à des mutations technologiques.
+À l'inverse du licenciement pour motif personnel, nécessairement individuel, le licenciement économique peut être individuel ou collectif, et suit une procédure variable selon le nombre de salariés licenciés, la taille de l'entreprise, et l'existence d' institutions représentatives du personnel dans l'entreprise.
+Le licenciement pour motif économique est caractérisé par le contrôle réduit exercé par les institutions du droit du travail . Malgré la suppression de l'autorisation administrative de licenciement, l'autorité administrative conserve des prérogatives de contrôle de la procédure, lesquelles sont exercées par les inspecteurs du travail . Cependant, le juge judiciaire s'est refusé à contrôler la cause exacte du licenciement économique dans l'arrêt « Pages jaunes ». Enfin, les institutions représentatives du personnel exercent un contrôle de la procédure, de la notification du projet à l'effectivité des licenciements.
+Selon l'économiste Pierre Cahuc , les licenciements économiques représentent à peine 2 % de tous les départs de l'emploi
+Historique du licenciement pour motif économique
+La notion de licenciement pour motif économique apparaît pour la première fois dans la jurisprudence du Conseil d'État, en application de l'ordonnance du 24 mai 1945 relative au contrôle de l'emploi. La juridiction suprême de l'ordre administratif considère alors que l'exigence d'une autorisation administrative préalable à tout licenciement ne concerne que les licenciements pour motif économique. La loi du 18 juin 1966
+prévoit le contenu de la consultation du comité d'entreprise, et le délai minimal entre la saisine du comité d'entreprise et la décision de licencier, en matière de licenciement pour motif économique.
+En 1974, un accord national interprofessionnel crée une allocation d'attente, à la charge des Assedic , qui permet aux salariés de moins de 60 ans, licenciés pour motif économique, de percevoir 90% du salaire brut qu'ils percevaient en période d'activité
+. Par ailleurs, un avenant à l'accord national interprofessionnel de 1969 sur la sécurité de l'emploi est signé la même année. Le 3   janvier   1975 , la loi relative aux licenciements pour cause économique organise la consultation des représentants du personnel sur les projets de licenciement pour motif économique, et instaure l'autorisation administrative préalable de licenciement
+Le régime du licenciement pour motif économique a été transformé depuis les années 1980, sans perdre toutefois son autonomie. Ainsi, le régime d'indemnisation du chômage est devenu identique, que les travailleurs aient été licenciés pour motif économique ou pour motif personnel. Par ailleurs, l'accord national interprofessionnel du 20   octobre   1986
+. Cette loi développe les mesures d'accompagnement des salariés licenciés pour motif économique appelées « plan social ». Ces mesures visent à maintenir les salariés dans l'entreprise malgré les difficultés économiques, ou à faciliter leur départ en aidant leur reconversion, leur formation et leur recherche d'emploi. À cet effet, la loi du 2 août 1989 organise les conventions de conversion. La loi du 27 janvier 1993 a renforcé les prérogatives de contrôle des institutions représentatives et administratives. Elle répute nulle et non avenue la procédure de licenciement entreprise par l'employeur sans consultation des réprésentants du personnel sur le plan de reclassement, et habilite l'inspection du travail à constater la carence d'un plan social.
+La loi de modernisation sociale du 17   janvier   2002 a réformé le régime du licenciement pour motif économique, pour prévenir la survenance de tels licenciements dans les entreprises économiquement saines. Le rôle de l'administration du travail et des représentants du personnel a été renforcé, un congé de reclassement a été institué et la loi a substitué au plan social un plan de sauvegarde de l'emploi .
+Il ne faut pas confondre la cause et le motif : le licenciement a toujours un motif économique mais il n'est pas toujours justifié. Il doit, en plus, avoir une cause économique réelle et sérieuse . Ces causes figurent dans l'  article L. 321-1 du Code du travail . Elles ne sont toutefois pas limitatives
+Définition de licenciement économique
+Une première source de désaccord importante concernant le licenciement pour motif économique est apparue en 2002 avec la loi dite de modernisation sociale. Elle portait sur la définition même de ce type de licenciement.
+Le licenciement économique est justifié par un impératif économique conjoncturel ou structurel. La loi de modernisation sociale du 17 mars 2002 a remanié le droit du licenciement économique en établissant une définition plus stricte , suscitant alors de vifs débats. Elle prévoyait en effet :
+Limitation des causes justificatives prévues par la loi et ne plus en admettre d'autres.
+d'introduire dans la loi les "nécessités de réorganisation" comme causes de licenciement mais en les soumettant à la compétitivité de "l'activité de l'entreprise" et non de sa sauvegarde.
+d'exiger que les difficultés économiques n'aient pu être surmontées par d'autres moyens que le licenciement.
+Autrement dit, le législateur souhaitait s'engager vers une définition plus restrictive du licenciement pour motif économique.
+Le Conseil constitutionnel en a toutefois décidé différemment. En effet, il censura cette nouvelle définition du motif économique Décision du 12 janvier 2002, invoquant une atteinte à la liberté d'entreprendre, principe à valeur constitutionnelle reconnue.
+On se réfère donc à la loi du 2 août 1989 pour la définition du motif économique qui est étranger à la personne du salarié. La loi parle d'un ou plusieurs motifs non inhérents au salarié. Il s'agit notamment de difficultés économiques, de mutations technologique. La jurisprudence a ajouté un troisième motif qui est la réorganisation de l'entreprise pour sauvegarder la compétitivité de cette dernière.
+Les conditions matérielles du licenciement
+Selon l'  article L.321-1 du code du travail , ce licenciement résulte soit d'une suppression ou transformation d'emploi, soit d'une modification du contrat de travail que le salarié aurait refusée. Ainsi, si, par exemple, cet emploi est supprimé, cela justifie le licenciement du salarié qui occupait ce poste.
+En matière jurisprudentielle, il a été précisé que l'employeur souhaitant supprimer des emplois pour motif économique doit respecter les dispositions d'ordre public des articles L. 321-1 et s. du code du travail, "peu important que ces emplois ne soient supprimés que par la voie des départs volontaires dans le cadre d'un accord collectif d'entreprise "( Cour de cassation, ch. sociale du 22 février 1995 n°92-11.566 et du 2 décembre 2003 n°01-46.176 Cass. soc., et 5 mai 2004, no 02-40.702).
+Au plan pénal, l'employeur qui n'a pas respecté les formalités mentionnées par les articles L. 321-1 et s. du code du travail et notamment la consultation du comité d'entreprise est "reconnu coupable du délit d'entrave au fonctionnement du comité d'entreprise"  (Cour de cassation ch. crim du 29 novembre 1994 n° 93-81.321 .
+Qu'entend-t-on par suppression d'emploi?
+Il peut s'agir d'une suppression de poste, comme dit précédemment, mais aussi d'une modification de la répartition des tâches que le salarié effectuait, entre d'autres salariés de l' entreprise .
+Qu'entend-t-on par transformation d'emploi?
+Il s'agit d'une modification de la nature même de l'emploi (introduction de nouvelles tâches, informatisation ...), cette modification pouvant entraîner une modification du contrat de travail .
+Dans ce cas, l'employeur devra proposer par écrit et par lettre recommandée à chaque salarié la modification de son contrat de travail. Le salarié dispose alors d'un mois à compter de la réception de la lettre pour éventuellement faire connaître son refus. Passé ce délai, s'il n'a pas répondu, le salarié sera réputé avoir accepté la modification. Si le salarié refuse, l'employeur devra attendre que ce délai soit écoulé pour le licencier. Depuis la loi de cohésion sociale du 18 janvier 2005, l'employeur n'est tenu d'élaborer un plan de sauvegarde de l'emploi que si dix salariés au moins refusent la modification.
+Les causes de licenciement
+L'  article L.321-1 du Code du travail énonce que : « Constitue un licenciement pour motif économique le licenciement effectué par un employeur pour un ou plusieurs motifs non inhérents à la personne du salarié résultant d'une suppression ou transformation d'emploi ou d'une modification, refusée par le salarié, d'un élément essentiel du contrat de travail, consécutives notamment à des difficultés économiques ou à des mutations technologiques . »
+Les mutations technologiques (acquisition de nouveaux outils entraînant de nouvelles méthodes de travail, informatisation) posent peu de problèmes particuliers en droit du travail. Il en va différemment des difficultés économiques et de la sauvegarde de la compétitivité de l'entreprise. Face au silence des textes sur la question, c'est à la jurisprudence qu'il a appartenu de délimiter les notions.
+Les difficultés économiques
+Que faut-il entendre par « difficultés économiques » ? L'entreprise doit-elle être au bord de la faillite ou peut-elle opter pour des licenciements préventifs, destinés à éviter la liquidation ? Quels actes destinés à sauvegarder la compétitivité peuvent être tolérés au regard du droit du travail ? Autrement dit, dans quelle mesure les difficultés économiques constituent-elles une cause réelle et sérieuse de licenciement ?
+La jurisprudence considère qu'il y a des difficultés économiques dans divers cas : cessation des paiements, redressement judiciaire, résultats déficitaires...
+Remarque : si l'entreprise appartient à un groupe, c'est dans le cadre du secteur d'activité auquel appartient l'entreprise que s'apprécie l'existence de difficultés économiques.
+La réorganisation de l'entreprise en vue de la sauvegarde de la compétitivité
+Remarque : l'article L. 321-1 du Code du travail ne fait pas référence à la réorganisation de l'entreprise, ni à la sauvegarde de la compétitivité. Il s'agit de concepts jurisprudentiels .
+Toute réorganisation de l'entreprise ne constitue pas une cause réelle et sérieuse de licenciement. D'où la création de la notion de « sauvegarde de la compétitivité » par les juges.
+Se pose alors le problème récurrent de la conciliation entre deux grands principes du droit : la liberté d'entreprendre et le droit à conserver son emploi.
+La sauvegarde de la compétitivité admise comme cause de réorganisation
+La sauvegarde de la compétitivité de l'entreprise comme cause de réorganisation de cette dernière a été admise pour la première fois par la Cour de cassation dans l'arrêt Vidéocolor du 5 avril 1995
+Précisions sur la réorganisation
+La Cour de cassation a récemment réaffirmé que « seule une cessation complète de l'activité de l'employeur [pouvait] constituer en elle-même une cause de licenciement »
+. Une cessation partielle d'activité ne peut donc pas justifier un licenciement pour motif économique.
+Par ailleurs, les juges ne sont pas obligés de rechercher la cause de la cessation d'activité. Ils sont simplement tenus de vérifier "l'absence de fraude ou de légèreté blâmable de l'employeur"
+Le licenciement économique « préventif »
+La question s'est posée de savoir si une entreprise en bonne santé pouvait licencier par anticipation (pour prévenir) des difficultés économiques à venir. La Cour de cassation apportera une réponse dans l'arrêt « Pages Jaunes » du 11 janvier 2006
+ : désormais, une entreprise peut licencier sans avoir à justifier que sa survie est menacée. L’employeur est toutefois tenu de justifier la décision prise devant les représentants du personnel, puis si celui-ci est saisi, devant le juge. Ce dernier vérifiera alors si l’employeur a agi en "bon père de famille", s’il a rempli son obligation de justification de la qualité de l’acte de gestion comme peut le démontrer un arrêt de la Cour de cassation du 30 mars 2006. Ces arrêts ne modifient pas la notion de sauvegarde de la compétitivité, ils précisent seulement la notion en prenant en compte les exigences de la gestion prévisionnelle des emplois. Une partie de la doctrine a toutefois soulevé le fait que l'intervention du juge ne peut s'effectuer qu' a posteriori  (soit après la prise de décision), n'empêchant donc pas les licenciements. Reste l'intervention des représentants du personnel au cours des procédures de licenciement.
+Pour que les mutations technologiques justifient un licenciement économique, l'employeur doit au préalable avoir respecté son obligation d'adaptation des salariés aux évolutions prévisibles de leurs emplois
+. Enfin, la compétitivité de l'entreprise ne doit pas nécessairement être menacée pour que les changement technologiques constituent une cause de licenciement valable.
+La délimitation de cette notion par la jurisprudence reste toutefois encore floue. En effet, la Cour de Cassation avait par exemple décidé
+qu'un changement d'exploitation du matériel informatique ajouté à l'installation de nouveaux logiciels entraînant des suppressions d'emploi caractérisaient une cause réelle et sérieuse de licenciement au sens de l'article L.321-1 du Code du travail. Cependant, elle affirme exactement le contraire dans un arrêt de 2003
+La procédure de licenciement pour motif économique
+La Cour de cassation se base sur l'article L. 321-1 du code du travail, selon lequel toute rupture du contrat de travail fondée sur un ou plusieurs motifs non inhérents à la personne du salarié résultant d'une suppression d'emploi, consécutive notamment à des difficultés économiques ou à des mutations technologiques, est soumise aux dispositions sur le licenciement économique.
+Attention : cette procédure diffère de celle observée pour le licenciement pour motif personnel .
+Elle obéit à des règles précises qui diffèrent à partir du moment où le seuil de 10 salariés licenciés est atteint. On parle alors de licenciement économique collectif.
+Il faut toutefois garder à l'esprit qu'avant d'entamer une quelconque procédure de licenciement, l'employeur est tenu de respecter l'obligation de reclassement.
+Le champ d'application des procédures de licenciement pour motif économique
+Le départ et la mise à la retraite d'un salarié résultant de la mise en œuvre d'un plan de sauvegarde de l'emploi supprimant plusieurs emplois doivent être assimilés à un licenciement économique pour suppression d'emploi. Arrêt Cour de Cassation chambre sociale du 18 avril 2000, no 97-45.434 .
+Refus d'un salarié d'accepter une modification de son contrat de travail
+Pour les contrats dits de fin de chantier (art. L. 321-12 du Code du travail), c'est la procédure de licenciement pour motif personnel( Arrêts de la Cour de Cassation du 15 novembre 2006, no 04-48.672 et [du 5 décembre 1989, no 87-40.747 ).
+Enfin, notons que dans le cas d'un licenciement fondé sur la fin de mission à l'export, la procédure du licenciement économique peut ne pas s'appliquer si un accord collectif le prévoit.
+L'obligation de reclassement de l'employeur
+Cette obligation est contenue dans le 3
+e
+alinéa de l'  article L.321-1 du Code du travail :
+« Le licenciement pour motif économique d'un salarié ne peut intervenir que lorsque tous les efforts de formation et d'adaptation ont été réalisés et que le reclassement de l'intéressé sur un emploi relevant de la même catégorie que celui qu'il occupe ou sur un emploi équivalent ou, à défaut, et sous réserve de l'accord exprès du salarié, sur un emploi d'une catégorie inférieure ne peut être réalisé dans le cadre de l'entreprise ou, le cas échéant, dans les entreprises du groupe auquel l'entreprise appartient. Les offres de reclassement proposées au salarié doivent êtres écrites et précises».
+Elle doit être distinguée de l'obligation de réintégration . Il s'agit d'une obligation de moyen (et non de résultat)
+La tentative de reclassement doit se faire sur un poste équivalent ou inférieur, avec l’accord du salarié, dans l’entreprise ou dans le groupe.
+L'obligation de reclassement occupe une place très importante lorsque l'on traite des licenciements économiques. Car pour que le licenciement soit une cause réelle et sérieuse, l'employeur devra prouver qu'il était dans l'impossibilité de reclasser le salarié. Un arrêt du 20 septembre 2006 est venu préciser que l'employeur devait justifier des offres écrites et précises de reclassement qu'il avait adressées au salarié avant de lui notifier son licenciement
+. Tout manquement à l'obligation de recherche de reclassement peut suffire à invalider un licenciement.
+Ainsi, les recherches de reclassement doivent bien sûr s'effectuer avant la notification du licenciement, et s'apprécient antérieurement à la date du licenciement
+La convention de reclassement personnalisé
+L’article 74 de la loi du 18 janvier 2005 remplace le PARE anticipé par la convention de reclassement personnalisé d’une durée de huit mois au maximum (article L. 321-4-2 du Code du travail). Cette convention vise à accompagner le salarié licencié afin de faciliter son reclassement, notamment par des actions de soutien psychologique, évaluation des compétences professionnelles ou formation.
+Cette disposition s'applique aux entreprises de moins de 1 000 salariés, à chaque salarié dont le licenciement pour motif économique (individuel ou collectif) est envisagé ou engagé depuis le 31 mai 2005 et aux salariés justifiant d’au moins deux ans d’ancienneté de services continus chez le même employeur ou à défaut, remplissant la condition d’affiliation pour avoir droit à l’Aide au retour à l'emploi (ARE).
+Le salarié qui accepte la convention voit son contrat de travail rompu par un commun accord des parties. Il devient alors stagiaire de la formation professionnelle pendant l’exécution de la convention. Il perçoit une allocation égale à 80 % de son salaire de référence pendant les trois premiers mois, puis égale à 70 % pendant les cinq mois suivants.
+Le salarié dispose d'un délai de 21 jours pour accepter ou refuser cette convention. Le fait pour le salarié d'adhérer à la convention de reclassement personnalisé ne le prive pas du droit de contester le motif de son licenciement
+La procédure de licenciement individuel
+Les licenciements économiques actuellement prononcés sont majoritairement individuels. La procédure de licenciement économique individuel diffère essentiellement de la procédure pour licenciement collectif car elle n'exige pas nécessairement de consultation des institutions représentatives du personnel .
+1
+la liste établissant l'ordre des licenciements
+Aux termes de l' article L.321-1-1 du Code du travail , l'employeur doit d'abord établir l'ordre des licenciements suivant certains critères. Si rien n'est précisé par la convention collective ou l' accord collectif applicable à l'entreprise, l'employeur est libre d'établir cet ordre comme il l'entend (moyennant la prise en compte de certains éléments comme l'âge, les charges familiales du salarié, son ancienneté, handicap...). Dans ce cas, il devra toutefois préalablement consulter les représentants du personnel . Les critères retenus ne doivent évidemment pas être discriminatoires
+Cependant :
+L'employeur peut privilégier un critère mais doit prendre en compte l'ensemble de ceux-ci
+Enfin le salarié, dans les 10 jours suivant son départ effectif de l'entreprise, peut demander à l'employeur par lettre recommandée avec accusé de réception de lui indiquer les critères retenus. Le chef d'entreprise est alors tenu de lui répondre dans les mêmes formes et dans les mêmes délais
+l'entretien préalable
+Ensuite, tout comme dans le cadre du licenciement pour motif personnel, l'employeur doit convoquer le salarié à un entretien préalable soit par lettre recommandée, soit par remise de la lettre en main propre contre décharge. Dans ce dernier cas, la lettre doit être datée et contresignée par le salarié.
+Monsieur Prénom Nom Fonction Adresse Code Postal Ville
+Monsieur
+Lettre recommandée avec accusé de réception
+Madame, Monsieur,
+Nous avons le regret de vous informer que nous avons décidé de procéder à votre licenciement.
+En application de l’article L.122-14 du code du travail, nous vous prions de bien vouloir venir le (précisez la date), à (précisez l’heure), dans nos locaux, pour votre entretien préalable de licenciement. Nous vous exposerons alors les raisons qui nous ont conduits à prendre cette décision.
+Pour cet entretien, vous pouvez vous faire accompagner d’un représentant du personnel, d’une personne de votre choix appartenant à la société, ou d’un conseiller extérieur à l’entreprise. Vous trouverez une liste de ces conseillers (précisez le lieu et l’adresse).
+Nous vous prions d’agréer, Madame, Monsieur, nos respectueuses salutations.
+Signature
+Un exemple de lettre de convocation à l'entretien préalable
+La lettre doit indiquer l'objet de la convocation, la date et l'heure. Elle doit également mentionner la possibilité pour le salarié de se faire assister par une personne de son choix appartenant au personnel de l’entreprise. En l’absence de représentant du personnel dans l’entreprise, le salarié peut se faire assister par un intervenant extérieur (inscrit sur la liste départementale dressée par le préfet et disponible auprès de l’ inspection du travail ou de la mairie).
+Ici aussi il faut respecter un délai de cinq jours ouvrables minimum entre la date à laquelle la convocation est présentée au salarié et la date fixée pour cet entretien.
+Le licenciement étant une mesure de derniers recours en droit du travail, l'employeur doit informer le salarié de toutes les solutions pouvant permettre d'éviter ce licenciement. Plus encore, il doit tout mettre en œuvre pour l'empêcher.
+C'est ainsi que le droit impose l' obligation de reclassement  (voir le développement consacré à cette obligation plus haut).
+3
+la notification
+Si le reclassement du salarié se révèle impossible, le licenciement doit être notifié au salarié par lettre recommandée avec avis de réception. C'est dans cette lettre que l'employeur doit exposer les motifs du licenciement. Le salarié a alors un délai de 12 mois
+pour contester la régularité ou la motivation du licenciement devant les tribunaux (article L. 321-16 du Code du travail).
+15 jours doivent s'être écoulés entre le jour de l'entretien préalable et l'envoi de la notification pour les cadres; 7 jours pour les autres travailleurs.
+4
+information des autorités administratives
+Le directeur départemental du travail, de l’emploi et de la formation professionnelle (DDTEFP) doit être informé du licenciement dans un délai de huit jours maximum à compter de l’envoi des lettres de licenciement.
+Remarque : si l'entreprise est dotée de représentants du personnels, une réunion devra être organisée avec eux avant la convocation à l'entretien préalable. Un délai de 5 jours ouvrables devra s'être écoulé entre la date de la réunion et l'envoi de la convocation au salarié.
+La procédure de licenciement lorsque 10 salariés ou plus sont concernés
+Une fois effectuée la recherche de reclassement, la procédure de licenciement va se dérouler de la manière suivante :
+Etape 1 
+, le comité d'entreprise est obligatoirement informé et consulté sur les questions intéressant l'organisation, la gestion et la marche générale de l'entreprise et, notamment, sur les mesures de nature à affecter le volume ou la structure des effectifs, la durée du travail, les conditions d'emploi, de travail et de formation professionnelle du personnel.
+Les représentants du personnel sont convoqués à la première réunion. L'ordre du jour doit leur être indiqué par la remise d'un projet de licenciement économique ou/et d'un document d'information sur le projet de licenciement. Un délai de trois jours ouvrables
+doit être respecté entre la convocation et le jour de la réunion.
+Au terme de la première réunion un PV (procès-verbal) est envoyé à la DDETFP (Direction Départementale du Travail et de la Formation Professionnelle)et les représentants du personnel sont convoqués à la deuxième réunion.
+Le délai entre les deux réunions varie selon l'importance des licenciements
+de 100 à 249 licenciements : 21 jours
+250 licenciements et plus : 28 jours.
+Remarque : le comité d'entreprise peut décider de faire appel à un expert-comptable pour évaluer la situation de l'entreprise. Dans ce cas, la première réunion est consacrée à la désignation de cet expert. Dans ce cas, une troisième réunion est organisée avant la remise des conventions de reclassement personnalisées.
+Au cours de ces réunions, l'employeur informe les représentants du personnel sur les motifs de licenciement, le nombre de salariés de l'établissement, le nombre de salariés dont le licenciement est envisagé, les catégories professionnelles concernées et les critères pour établir l'ordre des licenciements, et le calendrier prévisionnel des licenciements. On notera toutefois que les membres du comité d'entreprisen 'ont qu'une voix consultative dans la mesure où ils ne peuvent qu'émettre un avis (favorable ou non) sur la décision de l'employeur, et non agir directement, les décisions relatives à la marche de l'entreprise relevant du pouvoir de direction de l'employeur.
+La deuxième réunion vise davantage à instaurer un débat ou dialogue entre l'employeur et les représentants du personnel. A l'issue de cette réunion, un procès-verbal est également envoyé à l'administration (à la DDTEFP).
+Les salariés disposent alors d'un délai de 14 jours pour accepter ou non les conventions de reclassement qui ont pu leur être proposées. En cas d'acceptation, le contrat de travail est alors rompu. Dans le cas contraire, il faudra respecter un délai de 30 jours
+Dans les entreprises de moins de 50 salariés
+, l'employeur doit informer les délégués du personnel des motifs économiques de licenciement, du nombre de salariés de l'établissement du nombre de salariés dont le licenciement est envisagé, des catégories professionnelles concernées et les critères pour établir l'ordre des licenciements, du calendrier prévisionnel des licenciements.
+Deux réunions successives espacées de 14 jours maximum doivent ensuite être organisées entre l'employeur et les délégués du personnel. Ces derniers émettent alors un avis sur le projet de licenciement collectif et sur les mesures sociales d'accompagnement des licenciements envisagées.
+Remarque : Lorsque le licenciement pour motif économique est soumis à la procédure d'information et de consultation des représentants du personnel, l'employeur doit remettre aux salariés concernés par le projet de licenciement économique, contre récépissé, le document d'information sur la convention de reclassement personnalisé. Cette remise doit avoir lieu à l'issue de la dernière réunion du comité d 'entreprise ou des délégués du personnel.
+En l'absence d'institutions représentatives du personnel , les salariés seront convoqués à un entretien préalable. Un plan de sauvegarde de l'emploi (PSE) doit alors obligatoirement être affiché sur les lieux de travail et communiqué à l'administration en même temps que les informations sur le projet de licenciement. Les salariés disposent alors d'un délai de 14 jours pour accepter ou refuser la convention de reclassement personnalisée qui leur a été proposée.
+La convocation et l'entretien préalable suivent les mêmes règles que la procédure de licenciement économique individuel. Il en va de même pour la lettre de licenciement.
+Le plan de sauvegarde de l'emploi est obligatoire dans les entreprises d'au moins 50 salariés. Le PSE doit être soumis à la consultation des représentants du personnel
+3
+Information de l'administration
+La direction départementale du travail, de l'emploi et de la formation professionnelle (DDTEFP) dont dépend l'entreprise ou l'établissement concerné suit, dès l'énoncé du projet de licenciement, le déroulement de la procédure. Elle peut également présenter toute proposition tendant à compléter ou modifier le plan de sauvegarde de l'emploi élaboré par l'employeur.
+L'administration doit être informée en même temps que les instances représentatives du personnel (l'employeur doit lui envoyer des copies des informations transmises aux représentants du personnel).
+L'Administration ne contrôle pas la réalité du motif économique des licenciements mais vérifie :
+le respect de la procédure de consultation des représentants du personnel ;
+la mise en œuvre de mesures d'accompagnement ;
+le contenu du plan de sauvegarde de l'emploi. Si l'Administration, qui dispose d'un délai variable selon l'importance du licenciement pour procéder aux vérifications, relève des irrégularités, elle adresse des observations à l'employeur. Celui-ci ne peut poursuivre la procédure tant qu'il n'y a pas répondu.
+4
+Ici encore, l'envoi de la notification doit s'effectuer par lettre recommandée avec avis de réception.
+Un délai entre la notification du projet de licenciement à l'administration et la notification au salarié doit toutefois être respecté. Il varie selon le nombre de licenciements :
+de 10 à 99 licenciements : 30 jours
+de 100 à 249 licenciements : 45 jours
+à partir de 250 licenciements : 60 jours.
+L'indemnisation des salariés
+L'ancienneté du salarié joue un rôle majeur dans la détermination du montant des indemnités lorsqu'il s'avère que le licenciement est sans cause réelle et sérieuse .
+Dans le cadre des licenciements individuels
+Cette indemnisation varie selon l'ancienneté du salarié :
+S'il a au moins un an d'ancienneté, il bénéficiera d'une indemnité au moins égale à deux dixièmes de mois de salaire par année d’ancienneté.
+A partir de dix ans d’ancienneté, cette indemnité passe à deux dixième de mois de salaire plus deux quinzièmes de mois par année d’ancienneté au delà de 10 ans.
+On se basera sur le douzième de la rémunération des douze derniers mois ou le tiers des trois derniers mois précédant le licenciement pour calculer l'indemnité. La somme la plus favorable au salarié est retenue.
+Quand 10 salariés ou plus ont été licenciés
+Si le licenciement s'est révélé dépourvu de motif valable (absence de motif économique sérieux), donc sans cause réelle et sérieuse , le salarié percevra une indemnité d'au moins 6 mois de salaire s'il a au moins 2 ans d'ancienneté dans les entreprises de 10 salariés et plus ; pour les autres, l'indemnité sera fixée en fonction du préjudice subi.
+Sanctions générales
+Si le licenciement est jugé abusif, c'est-à-dire sans cause réelle et sérieuse ou... :
+si le salarié n'a pas été convoqué à l'entretien préalable
+si le salarié n'a pas été informé de ses droits à se faire accompagner lors de l'entretien préalable ou si ayant choisi un accompagnateur conformément aux dispositions du code du travail ce dernier s'est vu interdit d'entrée dans l'entreprise
+si la lettre de licenciement n'a pas été envoyée ou n'était pas conforme aux dispositions légales (exemple : lettre non motivée ou mal motivée)
+si l'ordre des licenciements n'a pas été respecté
+...le salarié aura alors droit (en plus des indemnisations précitées), à des dommages et intérêts en fonction du préjudice subi.
+Ensuite, la non-consulation des représentants du personnel entraîne la nullité de la procédure et de tout ce qui s'ensuit
+Contestation du licenciement
+Le Conseil de prud'hommes, seul compétent
+Seul le Conseil de prud'hommes est compétent pour trancher les litiges en matière de licenciements pour motif économique. Il devra notamment contrôler la réalité et la justesse du motif invoqué pour licencier le salarié.
+Toute contestation portant sur la régularité ou la validité du licenciement doit être réalisée dans les douze mois suivant la dernière réunion du comité d'entreprise ou, dans le cadre du droit individuel du salarié à contester son licenciement, dans les douze mois à compter de la notification. Ce délai n'est opposable au salarié que s'il en a été informé dans la lettre de licenciement
+Les personnes aptes à intenter une action
+Peuvent exercer en justice une action relative à un licenciement pour motif économique :
+le salarié qui est menacé de licenciement
+le comité d'entreprise, un syndicat ou des salariés qui contesteraient la validité du plan de sauvegarde de l'emploi . Dans ce cas, ils saisiront le juge des référés ou le tribunal de grande instance (France) . En revanche, s'il s'agit d'un salarié (c-à-d d'une action individuelle), ce dernier devra saisir le conseil de prud'hommes, seul compétent pour connaître des litiges individuels nés de la relation de travail en vertu de l'  article L. 511-1 du Code du travail .
+Notes et références
+ », dans Recueil Dalloz , 1975, p.  135    
+↑ Accord national et interprofessionnel du 20   octobre   1986 sur l'emploi, étendu par
+ », dans Droit social , 1989, p.  621 et s.      .
+. Xavier Prétot, « 
+La conformité à la constitution de la loi relative à la prévention du licenciement économique et au droit à la conversion
+ », dans Droit social , 1989, p.  701 et s.    
+↑ Voir développements ultérieurs
+↑ La réorganisation est en théorie une notion distincte des difficultés économiques. Cependant, pour justifier un licenciement économique, la réorganisation doit être opérée « en vue de sauvegarder la compétitivité de l'entreprise ». Autrement dit, des difficultés économiques doivent déjà exister. Il est donc logique de traiter ces deux notions dans le même paragraphe.
+↑ Cass. Soc., 5 avril 1995, BC V n° 123 : " lorsqu’elle n’est pas liée à des difficultés économiques ou à des mutations technologiques, une réorganisation peut constituer un motif économique si elle est nécessaire à la sauvegarde de la compétitivité de l’entreprise" . Puis Cass. Soc. 11 juillet 2001, BC V n° 266 : "la réorganisation de l’entreprise constitue un motif économique de licenciement si elle est effectuée pour en sauvegarder la compétitivité ou celle du secteur d’activité du groupe auquel elle appartient" .
+↑ à condition donc d'être justifiée par la volonté de sauvegarder la compétitivité de l'entreprise !
+↑ cass. Soc., 7 avril 2004, BC V n° 112
+↑ Soc., 28 février 2006, Monsieur X c/ Société Les fils de Stéphane X, n° 03-47880.
+↑ Un simple changement de logiciel par exemple ne suffit pas à légitimer le licenciement
+↑ Soc., 29 mai 2002, n° 99-45 897.
+↑ Une obligation de moyen impose de tout mettre en œuvre pour la respecter. En revanche, l'obligation de résultat impose de parvenir au résultat demandé (par exemple, l'obligation du transporteur est une obligation de résultat : tous les passager doivent arriver à l'endroit prévu sains et saufs ; l'obligation de reclassement elle, est une obligation de moyen : à terme, le reclassement ne doit pas nécessairement être réalisé. En revanche, l'employeur aura dû mettre en œuvre tous les moyens à sa disposition pour tenter de le réaliser
+↑ Conformément à l'article L. 122-45 du Code du travail
+↑ Cass. soc. 28 octobre 1997, BC V n° 346; RJS 12/97 n° 1354
+↑ Exemple : Cass. Soc., 3 décembre1992, SARL Pyrénées Rail Voiries cl Faux et autres : l'employeur, qui se borne à prendre en considération l'âge des salariés et les sanctions antérieurement prononcées contre eux ne respecte pas l'ordre des licenciements qui doit, en l'absence de convention ou accord collectif applicable, prendre en compte les critères édictés par la loi. Pour plus de détails voir [2]
+↑ Article L. 432-1 du Code du travail
+↑ Pour calculer ce délai, il convient de faire application des articles 641 et 642 du Nouveau code de procédure civile. La Cour de cassation précise ainsi qu’“ il résulte de l'article 641 du Nouveau Code de Procédure Civile que, lorsqu'un délai est exprimé en jours, celui de la notification qui le fait courir ne compte pas. Aux termes de l'article 642 du Nouveau Code de Procédure Civile, tout délai expire le dernier jour à 24 heures. Le délai qui expirerait normalement un samedi, un dimanche ou un autre jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant ” (Cass.Soc., 09/06/99, Bull.V n° 273).
+↑ Ces délais correspondent au temps laissé à l'administration pour examiner le dossier qui lui est soumis
+↑ permettant les échanges entre la DDTEFP, les représentants du personnel et l'employeur
+↑ Soit en même temps que les réunions concernant les licenciements, soit séparément
+↑ Sauf si l'entreprise a déposé le bilan
+↑ Exemples : Cass soc 14/1/2003 N° 01-10239 ; cass soc 13/2/97 N° 96-41874
+Droit du travail
+(ISBN 978-2-247-08039-7)
+, p.  601-651    
+Raphaël Dalmasso, Essai sur le concept de licenciement économique, étude comparée des droits français et italien, LGDJ, coll. Bibliothèque de droit social tome n°49, Juin 2009
+Sites Internet
+Des exemples relatifs à la sauvegarde de la compétitivité sur: [4]
+Un commentaire sur les arrêts Pages Jaunes : [7] . Voir aussi : [8] et [9]
+La procédure de licenciement pour motif économique individuel : [10]
+La procédure de licenciement à partir de 10 salariés : [11]
+Articles de doctrine
+Les références comportent des abréviations, couramment admises, pour les revues juridiques et les juridictions : vous pourrez en trouver une liste ici .
+BOUBLI (B.), 30 ans après, un nouveau visage du licenciement économique, Droit social , 1
+er
+mars 2007, p. 293-297.
+TOURREIL (J.E), Licenciement économique : effet d'irrégularités dans la procédure de consultation du comité sur la demande en nullité des licenciements, Jurisprudence sociale Lamy , 13 février 2007, p. 22-24.
+BRISSY (S.), Motivation de la lettre de licenciement pour motif économique, JCP S  , 16 janvier 2007, p. 28-29.
+INFOREG, La procédure de licenciement collectif pour motif économique, Cahiers de l'entreprise , 1
+er
+novembre 2006, p. 59-63.
+KELLER (R.), La nécessité de sauvegarder la compétitivité de l'entreprise peut justifier un licenciement pour motif économique, Droit social , 1
+er
+octobre 2006, p. 857-860.
+MICHEL (J.), La notion du "motif économique" de nature à justifier le licenciement d'un salarié protégé, Les petites affiches , 2 août 2006, p. 26-30.
+LAHALLE (T.), Licenciement pour motif économique : licenciement du fait d'une mutation technologique et obligation d'adaptation des salariés, note sous arrêt, JCP S , 25 juillet 2006, p. 25-26.
+KERBOUCH (J.Y), Licenciement pour motif économique d'un salarié protégé et sauvegarde de la compétitivité de l'entreprise, JCP S , 18 avril 2006, p. 31-33.
+HALLER (M.C), Licenciement pour motif économique : l'obligation de réintégration ne s'étend pas au groupe, note sous arrêt, Cour de cassation, Chambre sociale, 15 février 2006, 04-43.282, société PGA Groupe, Jurisprudence sociale Lamy , 14 mars 2006, p. 12-14.
+BEAL (S.), Obligation de reclassement en matière de licenciement économique, JCP E , 20 décembre 2001, p. 2052-2055.
+CRISTAU (A.), L'employeur seul juge du choix économique, note sous Cass. , Assemblée Plénière, 8 décembre 2000, SAT contre Coudière et autres, Droit social , 1
+er
+Catégories : Rupture  | Fonctionnement de l'entreprise
+Catégories cachées : Portail:Droit français/Droit du travail/Articles liés  | Portail:France/Articles liés  | Portail:Droit français/Articles liés  | Portail:Économie/Articles liés
+Regardez d'autres dictionnaires:
+Accord De Méthode —  La forme ou le fod de cet article est à vérifier. Améliorez le, ou discutez des poits à vérifier. Si vous veez d’apposer le badeau, merci d’idiquer ici les poits à vérifier. L'article doit être débarrassé d'ue partie… (Français Wikipedia)
+Accord de methode — Accord de méthode La forme ou le fod de cet article est à vérifier. Améliorez le, ou discutez des poits à vérifier. Si vous veez d’apposer le badeau, merci d’idiquer ici les poits à vérifier. L'article doit être débarrassé d'ue partie… (Français Wikipedia)
+Accord de méthode —  La forme ou le fod de cet article est à vérifier. Améliorez le, ou discutez des poits à vérifier. Si vous veez d’apposer le badeau, merci d’idiquer ici les poits à vérifier. L'article doit être débarrassé d'ue partie… (Français Wikipedia)
+Accords Collectifs En France — Accords collectifs e Frace Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · Accords et covetios : distictio et gééralités La loi établit ue distictio etre la covetio collective, qui… (Français Wikipedia)
+Accords collectifs —  e Frace Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · Accords et covetios : distictio et gééralités La loi établit ue distictio etre la covetio collective, qui… (Français Wikipedia)
+Accords collectifs en France — Accords collectifs e Frace Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · Accords et covetios : distictio et gééralités La loi établit ue distictio etre la covetio collective, qui… (Français Wikipedia)
+Alain Supiot — Alai Supiot Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · Biographie Docteur d'État e droit (Bordeaux, 1979) et agrégé des facultés de droit (1980), licecié de sociologie (1972), Alai Supiot a été… (Français Wikipedia)
+C. Trav. — Code du travail (Frace)  Pour les autres articles atioaux, voir Code du travail. Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · Histoire Le code de 1910 1920 Le premier code du travail, ititulé Code… (Français Wikipedia)
+CDD senior — Cotrat à durée détermiée Cet article est ue ébauche cocerat le droit e Frace. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. Pour les articles homoymes, voir… (Français Wikipedia)
+CDEN — Coseil départemetal de l'éducatio atioale E Frace, das chaque départemet, u coseil départemetal de l'éducatio atioale (CDEN) réuit différets acteurs de l'éducatio. Sommaire 1 Histoire1.1 1854 18861.2 1886 19851.3 Depuis… (Français Wikipedia)
+CHSCT — Comité d'hygièe, de sécurité et des coditios de travail Droit du travail e Frace Sources du droit du travail Iteratioales : OIT · article L. 4612 1 du code du travail fraçais   Le comité d'hygièe, de sécurité et des… (Français Wikipedia)

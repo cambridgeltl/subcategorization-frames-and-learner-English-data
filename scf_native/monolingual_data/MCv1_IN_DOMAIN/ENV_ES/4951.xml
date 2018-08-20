@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Salud</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Salud</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2001-12-04 00:39:33.0</pubDate>
+							<eAddress>http://www.sagan-gea.org/hojared/hojaab.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/4951.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">LA CONTAMINACIÓN ATMOSFÉRICA Y LA SALUD</p>
+			<p id="p2">Todos los días nos enteramos -por diferentes medios- acerca de la peligrosidad de las sustancias que flotan en el aire en determinadas zonas. Muchos de los productos que consumimos en la casa, son liberadores potenciales de esas sustancias. Por ello, es importante tener al menos, una información mínima básica que nos permita actuar ante la contaminación cotidiana. Con esa finalidad, veamos algunos aspectos que pueden mejorar nuestro conocimiento acerca de los contaminantes y los riegos para la salud.</p>
+			<p id="p3">¿ En qué grado pueden afectar los contaminantes a nuestra salud?</p>
+			<p id="p4">Según los datos con que se cuenta, podemos diferenciar los efectos nocivos de la contaminación en: MUY SERIOS (los que ocasionan una baja calidad de vida, la ponen en peligro y sus efectos son irreversibles) y SERIOS (no comprometen la vida y sus efectos son reversibles). Entre ellos podemos citar:</p>
+			<p id="p5">¿ Cómo se puede determinar el riesgo que representa un contaminante para la salud?</p>
+			<p id="p6">El riesgo puede estimarse considerando : RIESGO = PELIGROSIDAD X EXPOSICIÓN.</p>
+			<p id="p7">Así, el riesgo para la salud depende de la peligrosidad y la exposición al contaminante (tiempo, cercanía, forma...). Los experimentos de laboratorio, la mayoría de las veces utilizando animales de experimentación, permiten estimar de manera directa, la peligrosidad de una sustancia. Los resultados obtenidos son utilizados para determinar la probabilidad de producir enfermedades según diferentes niveles de exposición.</p>
+			<p id="p8">La estimación de la exposición al contaminante se obtiene mediante diversos medios como: el monitoreo (como el utilizado para determinar el INDICE METROPOLITANO DE CALIDAD DEL AIRE , IMECA), o a través de la elaboración de modelos matemáticos que simulan y predicen los efectos de la contaminación.</p>
+			<p id="p9">¿ Qué hace inciertas las decisiones acerca de la determinación de los riesgos para la salud?</p>
+			<p id="p10">Muchos contaminantes se comportan de manera diferente en los animales de laboratorio y en el hombre, lo que dificulta la interpretación de su peligrosidad. Por otra parte, no se tiene una información completa acerca de la forma en que los contaminantes producen enfermedades o de cómo se mueven a través del aire, el agua o el suelo.</p>
+			<p id="p11">Pocos animales y humanos han sido estudiados como para tener una idea confiable acerca de la peligrosidad de la sustancias aisladas o en combinación con otras.</p>
+			<p id="p12">El monitoreo puede ofrecer datos específicos en lugares bien delimitados y en determinados tiempos, sin embargo, las condiciones pueden variar significativamente de un sitio a otro, por más cercano que éste se encuentre, así como, la actividad humana nos lleva a movernos constantemente, cambiando drásticamente nuestra posición, por lo que a presencia y concentración de contaminantes se trata.</p>
+			<p id="p13">¿Qué factores deben tomarse en cuenta para tomar las mejores decisiones?</p>
+			<p id="p14">Toda vez que la contaminación parece parte inseparable de la actividad humana, erradicarla luce imposible. La situación en que nos encontramos sería comparable a tratar de controlar los accidentes automovilísticos dejando de manejar. Lo más que se puede hacer al respecto es desarrollar todas aquellas medidas (normas, equipos, procesos) que hagan menos probable un accidente de tránsito, pero se considera imposible y, hasta indeseable, que la solución fuese que todos dejáramos de transportarnos en vehículos.</p>
+			<p id="p15">En el caso de la contaminación atmosférica ocurre algo similar ya que lo que se tiende a hacer es identificar los contaminantes más peligrosos y tratar de minimizar el nivel en que se encuentran en nuestro alrededor.</p>
+			<p id="p16">¿Qué decisiones se tratan de tomar?</p>
+			<p id="p17">Los resultados científicos pueden mostrar que ciertas sustancias peligrosas representan bajo riesgo para una determinada población, no obstante, la población que está expuesta no lo considera así y debe informárseles con honestidad y objetividad, considerando aspectos como:</p>
+			<p id="p18">¿Qué tan seria es la enfermedad que produce?</p>
+			<p id="p19">¿ Qué tan cierto y completo es el conocimiento científico que se tiene al respecto?</p>
+			<p id="p20">¿ Quién está más expuesto?</p>
+			<p id="p21">¿ Es obligado o voluntario el riesgo?</p>
+			<p id="p22">¿ Qué o quien produce el riego y cómo le beneficia?</p>
+			<p id="p23">Para estimar los riesgos podemos considerar lo que las compañías aseguradoras tienden a estimar la perspectiva de riesgo:</p>
+			<p id="p24">Para estimar la probabilidad de riesgo ambiental, los analistas lo describen como una línea continua donde se ubican los diferentes riesgos más cotidianos. Es importante señalar que generalmente, sus estimaciones parten del riesgo máximo de exposición individual.</p>
+			<p id="p25">Estar mejor informado contribuye a disminuir los riesgos ya que podemos reconocer cuando algo es inaceptable, así como tomar la decisión de cambiar ciertos hábitos personales y proponer o demandar el desarrollo de mejores políticas ambientales ya sea en pequeñas comunidades o en el gobierno de grandes ciudades.</p>
+			<p id="p26">¿CÓMO EVALUAR LA EXPOSICIÓN A LOS CONTAMINANTES ATMOSFÉRICOS?</p>
+			<p id="p27">Tratando el problema a nivel grupal o general, es importante establecer los parámetros necesarios para determinar el riesgo de un contaminante para la salud, donde se deben puntualizar diferentes aspectos referentes a los contaminantes tóxicos.</p>
+			<p id="p28">Primero habrá que considerar que un contaminante tóxico atmosférico aumenta la probabilidad de desarrollar una enfermedad o disminuir la capacidad de defensa del organismo.</p>
+			<p id="p29">En algunos países se considera que un contaminante de alto riesgo para la salud es aquel que:</p>
+			<p id="p30">Afecta a muchas personas.</p>
+			<p id="p31">Causa efectos graves a la salud (cáncer, defectos en el embrión, enfermedades graves incapacitantes y/o la muerte.</p>
+			<p id="p32">Se libera a la atmósfera en grandes cantidades.</p>
+			<p id="p33">¿ Qué aspectos deben estudiarse para estimar la peligrosidad de un contaminante con base en la exposición a él?</p>
+			<p id="p34">Identificación de los contaminantes presentes en el aire.</p>
+			<p id="p35">Estimación de la cantidad y concentración de los contaminantes con base en el conocimiento de las fuentes que los producen.</p>
+			<p id="p36">Determinación de los contaminantes por área de interés.</p>
+			<p id="p37">Estimación del número de personas expuestas en diferentes niveles y formas.</p>
+			<p id="p38">Conocimiento de los patrones regulares que se manifiestan en los contaminantes (emisiones industriales, emisiones por automotores).</p>
+			<p id="p39">Previsión de contingencias o accidentes (fugas, incendios, explosiones, accidentes de transportación).</p>
+			<p id="p40">¿ Cómo se prevé el alcance de un contaminante?</p>
+			<p id="p41">Si se conocen los efectos sobre la salud de una determinada concentración de un contaminante, se pueden inferir las consecuencias a diferentes concentraciones.</p>
+			<p id="p42">Por otra parte, si se conoce la fuente de una emisión contaminante y la cantidad que produce en un determinado tiempo, puede inferirse hasta cuánto puede alcanzar el contaminante en la atmósfera en un tiempo dado.</p>
+			<p id="p43">La estimación del incremento de un contaminante atmosférico está relacionada también con otros factores como la velocidad y facilidad con que se produce en una fuente dada, así como con otros factores que modifican su comportamiento.</p>
+			<p id="p44">La cantidad de gases contaminantes que producen los autos se puede estimar por la concentración de estas sustancias en el aire, en un tiempo determinado. Para prever qué pasará en un momento deben conocerse otros factores como: cantidad de gasolina que consumen por kilómetro, cantidad de vehículos que circulan al mismo tiempo en un área dada, eficiencia promedio de los motores , temperatura ambiental, intensidad y dirección de los vientos, frecuencia de las lluvias o humedad ambiental, etc..</p>
+			<p id="p45">Para determinar la concentración de un contaminante en diferentes lugares es importante considerar que los contaminantes tienden a difundirse desde un lugar de alta concentración a uno de menor concentración. La dilución o dispersión depende en gran medida de la acción de los vientos que a su vez es condicionada por otros factores como el relieve del terreno y la naturaleza de la fuente emisora.</p>
+			<p id="p46">Las zonas industriales producen ciertos contaminantes en determinadas horas del día, mientras que otros se producen continuamente.</p>
+			<p id="p47">La distancia respecto a la fuente emisora y los factores que facilitan o empujan a los contaminantes influye directamente en la distribución de éstos en una zona determinada.</p>
+			<p id="p48">La estimación del número de personas potencialmente expuestas al riesgo puede hacerse mediante modelos, en los que se consideran las diferentes variables que actúan tanto en la emisión como en la velocidad y forma de dispersión.</p>
+			<p id="p49">REPRESENTACIÓN DEL ÁREA DE INFLUENCIA E INTENSIDAD DEL EFECTO DE UN CONTAMINANTE</p>
+			<p id="p50">La zona clara sombreada ilustra una influencia ligeramente superior a la concentración habitual</p>
+			<p id="p51">La zona obscura ilustra una influencia significativamente mayor a la concentración habitual</p>
+			<p id="p52">EFECTOS DE LOS CONTAMINANTES EN LA PIEL</p>
+			<p id="p53">Los contaminantes atmosféricos tienen su impacto más visible o dramático en el sistema respiratorio y cardiovascular. Sin embargo, sus efectos en la piel también llegan a ser importantes ya que los compuestos químicos que la afectan pueden producir reacciones importantes, entre las que podemos diferenciar tres clases (dermatitis) típicas:</p>
+			<p id="p54">A. Dermatitis irritante</p>
+			<p id="p55">C. Dermatitis fotosensible</p>
+			<p id="p56">A. Dermatitis irritante. Causada por sustancias químicas que atacan directamente la piel (ácidos o álcalis, por ejemplo) produciendo lesiones semejantes a las que ocasiona la sobreexposición a las radiaciones solares, es decir: enrojecimiento, ardor, dolor, y hasta ampollas y úlceras. La zona expuesta es la más afectada.</p>
+			<p id="p57">Para atenderlos se acostumbra lavar la zona afectada con agua. Para atenuar las molestias se acostumbra, bajo prescripción médica, la aplicación de cremas elaboradas a base de esteroides.</p>
+			<p id="p58">La única forma de prevenir este tipo de dermatitis consiste en no exponerse al agente causante, entre los que se encuentran:</p>
+			<p id="p59">ALGUNOS PESTICIDAS QUE LA PRODUCEN:</p>
+			<p id="p60">ALGUNOS VEGETALES QUE LA PRODUCEN:</p>
+			<p id="p61">ZIRAM</p>
+			<p id="p62">ÁRBOL DE CAUCHO</p>
+			<p id="p63">B. Dermatitis alérgica por contacto. Se produce como respuesta al contacto con una o varias sustancias, generando una reacción alérgica localizada. Esta reacción no tiene que presentarse de inmediato, hay casos donde la reacción aparece varios años después de la exposición al agente causante.</p>
+			<p id="p64">Las lesiones que se producen son parecidas a las que ocasiona la dermatitis irritante, es decir, enrojecimiento, ardor, dolor, formación de ampollas y úlceras. El tratamiento que se emplea se reduce a evitar infecciones posteriores, utilizar cremas anestésicas para atenuar las molestias, e investigar el posible agente causante, entre los que se encuentran:</p>
+			<p id="p65">ALGUNOS PESTICIDAS</p>
+			<p id="p66">LÍQUENES</p>
+			<p id="p67">C. Dermatitis fotosensible. Se manifiesta indirectamente cuando algunas sustancias con las que la piel ha tenido contacto, reaccionan ante la presencia de luz. Estas sustancias pueden ser sintetizadas por hongos o plantas. Algunos animales domésticos y ciertas personas pueden presentar una reacción directa a los rayos solares, sin que medien en ella, sustancia alguna.</p>
+			<p id="p68">Las reacciones son semejantes a las que producen las quemaduras ocasionadas por el sol. Para tratarlas es necesario evitar la exposición excesiva al sol y el contacto con las sustancias que generan la reacción indirecta. Entre los contaminantes identificados se encuentran:</p>
+			<p id="p69">ALGUNOS COMPUESTOS QUE LAS PRODUCEN:</p>
+			<p id="p70">ALGUNOS VEGETALES QUE LA PRODUCEN:</p>
+			<p id="p71">TETRACICLINAS</p>
+		</body>
+	</text>
+</cesDoc>

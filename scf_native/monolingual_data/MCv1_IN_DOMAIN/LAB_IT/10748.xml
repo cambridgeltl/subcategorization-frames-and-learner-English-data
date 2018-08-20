@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Gravosità delle condizioni di lavoro e onere della prova. Insufficienti le deduzioni generiche </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Gravosità delle condizioni di lavoro e onere della prova. Insufficienti le deduzioni generiche </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 16:42:30.0</pubDate>
+							<eAddress>http://www.laprevidenza.it/news/pubblico-impiego/gravosita-delle-condizioni-di-lavoro-e-onere-della-prova-insufficienti/4917</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Cass.</keyTerm>
+					<keyTerm>sez. lav.</keyTerm>
+					<keyTerm>18 giugno 2009</keyTerm>
+					<keyTerm>n. 14192 - Luca Lodi</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/10748.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">(Cass., sez. lav., 18 giugno 2009, n. 14192 - Luca Lodi)</p>
+			<p id="p2">Sicurezza sul lavoro - Denuncia di infortunio - Nesso di causalità tra servizio ed evento - Mancata prova della gravosità delle condizioni di lavoro - Fattispecie</p>
+			<p id="p3">(Massima redazionale) In sede di giudizio per la domanda di equo indennizzo, la “causa di servizio“ va dimostrata non già con mero accertamento di C.T.U., bensì con deduzioni specifiche, fatti e documenti di idonea ed adeguata rilevanza probatoria. Le circostanze generiche relative alla gravosità delle condizioni di lavoro non integrano l’accertamento dell’esistenza di un nesso causale tra l’evento lesivo e il servizio prestato dal lavoratore.</p>
+			<p id="p4">***</p>
+			<p id="p5">A breve distanza dalla sentenza n. 13947 del 16/6/09, che verteva sull‘onere probatorio a carico del lavoratore per la dimostrazione del nesso causale tra malattia professionale e nocività dell‘ambiente di lavoro, la Suprema Corte ha approfondito, con la sentenza n. 14192 del 18 giugno 2009, il criterio del nesso di causalità tra servizio ed evento con riguardo al decesso di un ferroviere a seguito di infarto. Gli eredi di An. Vi. - queste le iniziali del de cuius - si rivolgevano nel 2002 al giudice del lavoro per accertare che il decesso fosse avvenuto a causa di servizio ai sensi dell’art. 64 del d.p.r. n. 1092/73. Il positivo parere del tribunale veniva integralmente riformato nel 2005 dalla Corte di Appello di Napoli “in quanto le circostanze relative alla gravosità delle condizioni di lavoro di An. (…) sarebbero state talmente generiche da non poter in alcun modo fondare l’accertamento dell’esistenza di un nesso causale tra l’evento morte e il servizio prestato alle dipendenze delle ferrovie, mentre le successive specificazioni modali riportate nella relazione del C.T.U. (…) non avrebbero costituito oggetto di prova”.</p>
+			<p id="p6">LaPrevidenza.it, 19/09/2010</p>
+			<p id="p7">Newsletter informativa!</p>
+			<p id="p8">Registrati subito e ricevi, ogni lunedì, il sommario delle news pubblicate nella settimana, direttamente nella tua casella e-mail!</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 16:05:02.0</pubDate>
+							<eAddress>http://www.di-elle.it/index.php?url=/consultazione/giurisprudenza_2/parit_di_trattamento_498/normativa_comunitaria_500/view/500/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/6333.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Direttore responsabile Mario Fezzi — www.fezzi.it</p>
+			<p id="p2">normativa comunitaria</p>
+			<p id="p3">Il periodo di aspettativa senza retribuzione usufruito ai sensi dell'art. 4, 2° comma, L. 8/3/2000 n. 53, al fine di accudire un parente affetto da grave disabilità, deve essere computato nell'anzianità di servizio; la disposizione di legge che espressamente esclude tale compatibilità deve essere infatti disapplicata per contrasto con la direttiva 2000/78, come interpretata dalla Corte di Giustizia nella sentenza Coleman, in forza della quale il divieto di discriminazione per ragioni di disabilità si applica non solo al disabile stesso, ma anche a colui che presta in suo favore la parte essenziale delle cure. (Trib. Pavia 19/9/2009, ord., est. Ferrari, in D&amp;L 2009, con nota di Sara Russi, "Divieto di discriminazione del parente disabile: una prima applicazione della sentenza Coleman", 770)</p>
+			<p id="p4">Gli artt. 1, 2 e 6 della direttiva del Consiglio 27 novembre 2000, 2000/78/CE, che stabilisce un quadro generale per la parità di trattamento in materia di occupazione e di condizioni di lavoro, vanno interpretati nel senso che ostano ad una normativa nazionale che, al fine di non sfavorire la formazione generale rispetto alla formazione professionale e di promuovere l’inserimento dei giovani apprendisti sul mercato del lavoro, esclude che siano presi in considerazione i periodi di lavoro svolti precedentemente al compimento del diciottesimo anno di età ai fini della determinazione dello scatto nel quale vengono collocati i dipendenti a contratto del pubblico impiego di uno Stato membro. (Corte di Giustizia CE 18/6/2009, causa C-88/08, Pres. Rosas Rel. Lindh, in D&amp;L 2009, 649, con commento di Marco Peruzzi, “Politiche sociali e differenze di trattamento fondate sull’età: il giudizio di appropriatezza della Corte”, 649)</p>
+			<p id="p5">Una pensione corrisposta al lavoratore in relazione a un intercorso rapporto di lavoro (c.d. criterio dell'impiego), riconosciuta soltanto a una categoria particolare di lavoratori in funzione diretta degli anni di servizio prestati e il cui importo dipenda dall'ultimo stipendio del dipendente, rientra a pieno titolo nella nozione di retribuzione di cui all'art. 141 TCE. Mantenendo in vigore una no0rmativa in forza della quale i dipendenti pubblici hanno diritto a percepire la pensione di vecchiaia in età diverse a seconda che siano uomini o donne, la Repubblica italiana è venuta meno all'obbligo, di cui all'art. 141 TCE, di garantire una pari retribuzione ai lavoratori di sesso maschile e a quelli di sesso femminile per uno stesso lavoro o per un lavoro di pari valore. (Corte di Giustizia CE 13/11/2008, causa 46/07, Pres. Lenaerts Rel. Von Danwitz, in Riv. it. dir. lav. 2009, con nota di Luca Terminiello, "La previsione di un diverso requisito anagrafico per uomini e donne ai fini della percezione della pensione INPDAP viola l'art. 141 TCE", 452)</p>
+			<p id="p6">Una prestazione ai superstiti concessa nell'ambito di un regime previdenziale di categoria come quello gestito dall'ente di previdenza dei lavoratori tedeschi rientra nella sfera di applicazione della direttiva del Consiglio 27 novembre 2000, 2000/78/CE, che stabilisce un quadro generale per la parità di trattamento in materia di occupazione e di condizioni di lavoro. Il combinato disposto degli artt. 1 e 2 della direttiva 2000/78 osta a una normativa come quella controversa nella causa principale in base alla quale, dopo il decesso del partner con il quale ha contratto un'unione solidale, il partner superstite non percepisce una prestazione ai superstiti equivalente a quella concessa a un coniuge superstite, mentre, nel diritto nazionale, l'unione solidale porrebbe le persone dello stesso sesso in una posizione analoga a quella dei coniugi per quanto riguarda la detta prestazione ai superstiti. E' compito del giudice a quo verificare se, nell'ambito di un'unione solidale, il partner superstite sia in una posizione analoga a quella del coniuge beneficiario della prestazione ai superstiti prevista dal regime previdenziale di categoria gestito dall'ente di previdenza dei lavoratori teatrali tedeschi. (Corte di Giustizia CE, Grande Sezione, 1/4/2008, causa C-267/06, Pres. Skouris Rel. Klucka, in Lav. nella giur. 2008, con commento di Daniela Izzi, 1223)</p>
+			<p id="p7">L'art. 4, n. 1, della direttiva del Consiglio 19/12/78, 79/7/Ce (relativa alla graduale attuazione del principio di parità di trattamento tra gli uomoni e le donne in materia di sicurezza sociale) osta a una normativa nazionale che nega il beneficio della pensione di vecchiaia a una persona che sia passata dal genere maschile al sesso femminile, in conformità alle condizioni stabilite dal diritto nazionale, per il motivo che essa non ha raggiunto l'età di 65 anni, quando invece questa stessa persona avrebbe avuto diritto a detta pensione all'età di 60 anni se fosse stata considerata una donna in base al diritto nazionale. (Corte di Giustizia CE 27/4/2006, causa C-423/04, Pres. Jann Rel. Cunha Rodrigues, in D&amp;L 2006, con nota di Monica Rota, "In tema di diritto alla pensione del transgender", 734)</p>
+			<p id="p8">Il principio di parità delle retribuzioni fra i lavoratori di sesso maschile e quelli di sesso femminile di cui all'art. 119 del Trattato Ce dev'essere interpretato nel senso che impone- laddove la retribuzione percepita dalla lavoratrice durante il suo congedo di maternità sia determinata almeno in parte in base allo stipendio corrispostole prima dell'inizio di tale congedo- che ogni aumento di stipendio di riferimento e la fine del congedo medesimo venga incluso tra gli elementi dello stipendio computati ai fini del calcolo dell'importo di detta retribuzione. (Corte di Giustizia CE 30/3/2004, C-147/02, Pres. V. Skouris, Rel. R. Schintgen, in D&amp;L 2004, 281)</p>
+			<p id="p9">Gli art. 2, n. l, e 5, n. l, della direttiva del consiglio 9 febbraio 1976 n. 76/207/Cee, relativa all'attuazione del principio della parità di trattamento fra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro, devono interpretarsi nel senso che ostano ad una norma di contratto collettivo per il pubblico impiego che consenta ai dipendenti di sesso maschile e di sesso femminile di fruire del lavoro a tempo parziale per motivi di età, qualora tale disposizione conceda il diritto ad un siffatto lavoro a tempo parziale solo fino alla data in cui si può far valere per la prima volta il diritto ad una pensione a tasso pieno in base al regime legale di assicurazione per la vecchiaia e qualora la categoria di persone che può ottenere una siffatta pensione all'età di sessant'anni sia costituita quasi esclusivamente da donne, mentre la categoria che può ottenerla solo dall'età di sessantacinque anni è costituita quasi esclusivamente da uomini, a meno che tale disposizione non sia giustificata da fattori obiettivi ed estranei a qualsiasi discriminazione basata sul sesso. Qualora disposizioni legislative o di contratti collettivi creino una discriminazione in contrasto con la direttiva 76/207/Cee e siano quindi incompatibili con questa, i giudici nazionali sono tenuti ad eliminare tale discriminazione, con tutti i mezzi possibili, ed in particolare applicando le suddette disposizioni a favore delle categorie svantaggiate, senza doverne chiedere o ottenere la previa rimozione in via legislativa, mediante contrattazione collettiva o altro procedimento. (Corte di Giustizia CE, 23/3/2003, causa C-187/00, Pres.Schintgen, in Foro it. 2003, parte terza, 137)</p>
+			<p id="p10">L'art. 2 n. 1, della direttiva del consiglio 9 febbraio 1976 n. 76/207/Cee, relativa all'attuazione del principio della parità di trattamento fra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione ed alla promozione professionali e le condizioni di lavoro, deve essere interpretato nel senso che osta a che la lavoratrice, che prima della scadenza del congedo parentale intende essere reintegrata nel suo posto con il consenso del datore di lavoro, sia tenuta ad informare quest'ultimo del proprio stato di gravidanza se, a causa di taluni divieti, posti dalla normativa sul lavoro, non potrebbe svolgere talune delle sue mansioni. L'art. 2, n. 1, della direttiva 76/207 deve essere interpretato nel senso che osta a che un datore di lavoro possa, ai sensi del diritto nazionale, rimettere in discussione l'accordo da lui dato al reintegro di una lavoratrice nel suo posto prima della scadenza del congedo parentale per il motivo che avrebbe versato in errore sullo stato di gravidanza dell'interessata. (Corte di Giustizia CE, 27/2/2003, causa C-320/01, Pres.Wathelet, in Foro it. parte quarta, 105)</p>
+			<p id="p11">Non rientra nell'ambito di applicazione dell'art. 141, n. 1, del Trattato CE una situazione in cui, come nella fattispecie in esame nella causa principale, le differenze rilevate nelle retribuzioni di lavoratori di sesso diverso, i quali svolgono uno stesso lavoro ovvero un lavoro di identico valore, non possono essere ricondotte ad un'unica fonte. (Corte di Giustizia 17/9/2002, causa n. C-320/00, Pres. Rodriguez Iglesias, Rel. Cornelic, in Riv. it. dir. lav. 2003, 209, con nota di Pasqualino Albi, Principio di parità retributiva, divieto di discriminazioni e decentramento produttivo)</p>
+			<p id="p12">Gli artt. 5, 1 della direttiva del Consiglio 9/2/76 n. 76/207/Ce (relativa all'attuazione del principio di parità di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione ed alla promozione professionale e le condizioni di lavoro) e l'art. 10 della direttiva del Consiglio 19/10/92 n. 92/85/Ce (concernente l'attuazione di misure volte a promuovere il miglioramento della sicurezza e della salute sul lavoro delle lavoratrici gestanti, puerpere o in periodo di allattamento) devono essere interpretati nel senso che ostano al licenziamento di una lavoratrice a motivo del suo stato di gravidanza: 1) quand'anche la lavoratrice sia stata assunta a tempo determinato; 2) abbia omesso di informare il datore di lavoro in merito al proprio stato di gravidanza, pur essendone a conoscenza al momento della conclusione del contratto di lavoro; 3) a motivo di tale stato non sia più in grado di svolgere l'attività lavorativa per una parte rilevante della durata del contratto stesso. La circostanza che la lavoratrice sia stata assunta da un'impresa di grandi dimensioni che assume frequentemente personale a tempo determinato resta del tutto irrilevante ai fini dell'interpretazione dell'art. 5, n. 1 delle direttive 76/207/Ce e 92/85/Ce. (Corte di Giustizia CE 4/10/2001 n. C-109/2000, Pres. La Pergola Rel. M. Wathelet, in D&amp;L 2002, 299)</p>
+			<p id="p13">L'art. 2, nn. 1 e 3, della direttiva del Consiglio 9/2/76, n. 76/207/CEE, relativa all'attuazione del principio della parità di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionale e le condizioni di lavoro, osta al rifiuto di assunzione di una donna incinta per un rapporto di lavoro a tempo indeterminato, motivato con un divieto di legge ad adibire la medesima a determinate mansioni, fin dall'inizio e per la durata dello stato di gravidanza (Corte Giustizia 3/2/00, n. C-207/98, in Riv. it. dir. lav. 2001, pag. 173, con nota di Vettor, Stato di gravidanza e assunzione in mansioni vietate alle donne in tale stato)</p>
+			<p id="p14">DL online | Viale Piave 12, | 20129 Milano | Contatti: info@di-elle.it</p>
+		</body>
+	</text>
+</cesDoc>

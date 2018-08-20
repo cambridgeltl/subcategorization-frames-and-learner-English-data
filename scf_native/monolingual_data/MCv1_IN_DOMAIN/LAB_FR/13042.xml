@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Modification du lieu de travail : faut-il l’accord du salarié ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Modification du lieu de travail : faut-il l’accord du salarié ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:47:24.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=412&amp;titre=Modification+du+lieu+de+travail+%3A+faut-il+l%E2%80%99accord+du+salari%C3%A9+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/13042.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Modification du lieu de travail : faut-il l’accord du salarié ?</p>
+			<p id="p2">Toute modification d’un élément essentiel du contrat de travail ne peut être mise en œuvre qu’avec l’accord du salarié. Or, le lieu de travail peut être un de ces éléments essentiels : cela dépend en partie de la façon dont le contrat a été rédigé.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Le lieu de travail peut être un élément essentiel du contrat de travail, au même titre que la rémunération, la durée du travail, etc.</p>
+			<p id="p5">Dans ce cas, l’employeur ne peut pas le modifier sans l’accord du salarié. Si ce dernier refuse, aucune sanction ou décision de licenciement ne pourra être prise à son encontre.</p>
+			<p id="p6">Le problème est donc de distinguer à partir de quand la modification du lieu de travail relève du pouvoir de direction de l’employeur (auquel cas il est possible de l’imposer au salarié) ou quand cette décision nécessite l’accord préalable du salarié.</p>
+			<p id="p7">La première des précautions à prendre réside dans la rédaction même du contrat de travail.</p>
+			<p id="p8">Si le salarié accepte de modifier son contrat de travail, pensez à rédiger un avenant .</p>
+			<p id="p9">Exemple</p>
+			<p id="p10">Si le contrat de travail prévoit que le salarié « exercera ses fonctions aussi bien à son domicile qu’au siège social », il ne sera pas possible d’imposer au salarié de le faire travailler exclusivement au siège social.</p>
+			<p id="p11">Un employeur en a récemment fait les frais : suite au refus du salarié de ne travailler qu’au siège social, il avait licencié ce dernier pour faute grave. Le licenciement a été considéré par les juges comme étant sans cause réelle et sérieuse. Selon eux, la décision de l’employeur devait en réalité s’interpréter comme une modification d’un élément essentiel du contrat de travail, qui nécessitait donc l’accord du salarié. Résultat : l’employeur a été condamné à payer au salarié :</p>
+			<p id="p12">une indemnité compensatrice de préavis ;</p>
+			<p id="p13">l’indemnité de licenciement ;</p>
+			<p id="p14">D’où l’importance de rédiger avec précision toutes les clauses du contrat de travail !</p>
+			<p id="p15">A. Ninucci</p>
+			<p id="p16">(Cour de cassation, chambre sociale, arrêt n° 08-41209 du 20 mai 2009 : le refus d’un salarié de modifier son lieu de travail)</p>
+			<p id="p17">Pour éviter ce genre de situation et rédiger des contrats de travail clairs et sans risque d’ambiguïté, les Editions Tissot vous conseillent leur ouvrage « Modèles commentés pour la gestion du personnel ».</p>
+			<p id="p18">Article publié le 4 juin 2009</p>
+			<p id="p19">Partagez cet article :</p>
+			<p id="p20">Actualités de la semaine pour les PME</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

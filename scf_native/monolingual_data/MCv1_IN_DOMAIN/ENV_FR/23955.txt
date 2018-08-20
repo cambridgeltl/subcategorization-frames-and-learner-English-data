@@ -1,0 +1,82 @@
+environnement et risques naturels depuis 2001
+Les feux de bois et de végétaux : principales sources de pollution atmosphérique carbonée en hiver
+14957 lectures / 12 commentaires 12 décembre 2007, 11 h 12
+La combustion de biomasse (feux de cheminée, feux agricoles et feux de jardins) est responsable de 50 à 70% de la pollution carbonée hivernale en Europe. Tel est le verdict rendu par le programme européen CARBOSOL chargé d'étudier la pollution particulaire en composés carbonés en Europe, et coordonné par le Laboratoire de glaciologie et géophysique de l'environnement (LGGE, CNRS / Université Grenoble 1). Un résultat surprenant, à paraître le 15 décembre dans The Journal of Geophysical Research, qui a en outre le mérite de souligner les voies possibles de lutte contre cette pollution.
+Dans les années 2000, des campagnes de mesure de la pollution particulaire globale, c'est-à-dire de tous les aérosols, ont été lancées. Elles étaient en partie motivées par la croissance de la motorisation diesel, forte émettrice d'aérosols carbonés, dont on pensait qu'ils jouaient un rôle notable dans la pollution particulaire .
+C'est dans ce contexte qu'a été lancé, en 2001, le programme européen CARBOSOL (1) d'étude de la pollution particulaire en composés carbonés. Ses objectifs étaient de faire un état des lieux de la quantité et de la composition des aérosols carbonés à l'échelle de l'Europe mais également d'en déterminer les sources. Il s'agissait notamment de définir les parts respectives des combustibles fossiles (transport, industrie, chauffage au fioul et au gaz) et de la biomasse (chauffage au bois, feux de végétaux) à cette pollution. Les recherches développées par ce programme, coordonné par Michel Legrand, directeur de recherche CNRS au LGGE(2), ont été soutenues par l'INSU-CNRS.
+La biomasse, une importante source de pollution atmosphérique particulaire
+Les principales méthodes utilisées dans ce programme faisaient appel à des traceurs chimiques et au carbone 14 (14C). Le levoglucosan, sucre produit lors de la combustion de la cellulose, s'est avéré un excellent traceur chimique permettant de relever sans ambiguïté les émissions dues à la combustion de biomasse. Le 14C, quant à lui, est un isotope radioactif du carbone qui se désintègre trop vite(3) pour se trouver dans les combustibles fossiles, mais qui est présent dans la biomasse.
+Les chercheurs ont ainsi établi qu'en hiver, 50 à 70% de la masse des aérosols carbonés provient de la combustion de biomasse , ceci partout en Europe et aussi bien pour les masses d'air étudiées près du sol qu'en altitude. Les sites de mesure allaient en effet de la côte portugaise à la Hongrie, en passant par les observatoires du puy de Dôme (1400 m) et du Mont Blanc (4300 m).
+Des résultats corroborés par des observations locales
+Bousculant les idées reçues, ces résultats confirment et généralisent des observations plus locales, comme celle réalisée en 2004 au centre de Zurich qui a montré que la combustion de biomasse est responsable d'au moins 40% de la pollution en particules carbonées. Par ailleurs, concernant les métropoles françaises, une première étude conduite au cours de l'hiver 2007 par l'INERIS(4), à la demande du ministère de l'Écologie et du développement durable, avec la participation du Laboratoire de chimie moléculaire et environnement (LCME, Université de Savoie), du LGGE et des Associations agréées de surveillance de la qualité de l'air (AASQA) de Paris, Lille, Strasbourg et Grenoble, a remis des résultats très similaires à ceux obtenus à Zurich.
+Comment lutter efficacement contre la pollution particulaire carbonée?
+Si de nombreux et coûteux efforts ont été faits et se poursuivent pour limiter la pollution particulaire carbonée, ces nouvelles études suggèrent que la manière la plus efficace de limiter cette pollution à l'échelle continentale, notamment en hiver, consisterait à s'attaquer principalement à la combustion de biomasse, par des évolutions technologiques et une réglementation sévère limitant ses modes d'utilisation. De telles mesures sont d'autant plus nécessaires, que de récentes études épidémiologiques ont souligné la similarité des effets sur la santé entre les fumées de combustion de biomasse et les produits pétroliers (diesel), tant dans la nature que dans la fréquence des troubles engendrés (affection respiratoire, cancer du poumon). De nombreux États ont d'ailleurs interdit depuis longtemps les feux de cheminées ouvertes, les feux agricoles et ceux de jardins.
+Références
+Legrand, M. and H. Puxbaum, Summary of the CARBOSOL project: Present and Retrospective State of Organic versus Inorganic Aerosol over Europe, J. Geophys. Res., 112 (D23), doi:1029/2006JD008271, 2007.
+Pio, C., M. Legrand, T. Oliveira, J. Afonso, C. Santos, A. Caseiro, P. Fialho, F. Barata, H. Puxbaum, A. Sanchez-Ochao, A. Kasper-Giebl, A. Gelencsér, S. Preunkert, and M. Schock, Climatology of aerosol composition (organic versus inorganic) at non-urban sites on a West-East transect across Europe, J. Geophys. Res., 112 (D23), doi:1029/2006JD008038, 2007.
+Puxbaum, H., A. Caseiro, A. Sánchez-Ochoa, A. Kasper-Giebl, M. Claeys, A. Gelencsér, M. Legrand, S. Preunkert, and C. A. Pio, Levoglucosan levels at background sites in Europe for assessing the impact of biomass combustion on the European aerosol background, J. Geophys. Res., 112 (D23), doi:1029/2006JD008114, 2007.
+Gelencsér, A., B. May, D. Simpson, A. Sánchez-Ochao, A. Kasper-Giebl, H. Puxbaum, A. Caseiro, C. Pio, and M. Legrand, Source apportionment of PM2.5 organic aerosol over Europe: primary/secondary, natural/anthropogenic, fossil/biogenic origin, J. Geophys. Res., 112 (D23), doi:1029/2006JD008094, 2007.
+Szidat, S., T.M. Jenk, H.W. Gäggeler, H.A. Synal, R. Fisseha, U. Baltensperger, M. Kalberer, V. Samburova, S. Reimann, A. Kasper-Giebl, and I. Hajdas, Radiocarbon (14C)-deduced biogenic and anthropogenic contributions to organic carbon (OC) of urban aerosols from Zürich, Switzerland, Atmos. Environ., 38, 40354044, 2004.
+Naeher, L.P., M. Brauer, M. Lipsett, J.T. Zelikoff, C.D. Simpson, J.Q. Koenig, and K.R Smith, Woodsmoke health effects: A review, Inhalation Toxicology, 19:1, 67-106, doi: 10.1080/08958370600985875, 2007.
+Notes
+1) Outre la contribution française du LGGE, ce projet européen (2001-2005) rassemblait des chercheurs allemands (Institut für Umweltphysik, Heidelberg, Max Planck Institute for meteorology, Hambourg), autrichiens (Université technique de Vienne), portugais (Université d'Aveiro), hongrois (Université de Veszprém) et norvégiens (Institut météorologique norvégien, Oslo).
+2) Laboratoire de glaciologie et géophysique de l'environnement (CNRS / Université de Grenoble 1).
+3) Sa demi-vie est de 5700 ans.
+4) Institut national de l'environnement industriel et des risques.
+Auteur
+Actualités connexes
+laval  - 14/12/2007, 13:23
+je ne comprends pas comment vous pouvez éditez cet article en même temps que l'article --- Hors-série 3 Habitat Naturel : spécial chauffage au bois --- http://www.notre-planete.info/actualites/com.php?id=1412 --- qui dit notamment "Le bois est le seul combustible qui soit à la fois abondant en Europe, renouvelable et neutre dans son bilan carbone : la combustion du bois ne rejette que le CO2 absorbé par larbre durant sa croissance."
+Je n'ai aucun parti pris ni pour l'un, ni pour l'autre mais j'aimerais comprendre comment on peut défendre sur une même publication deux points de vue qui me semble s'opposer.
+Christophe Magdelaine - notre-planete.info  - 14/12/2007, 13:31
+@ laval : question pertinente. Je vous répondrais que l'article du magazine Habitat Naturel est un communiqué dont l'objectif est promotionnel, pas l'article du CNRS qui est un résumé d'études.
+De plus, il y a une marge entre la combustion de bois contrôlée dans un foyer fermé et le feux de brousaille   au niveau des émissions.
+Enfin, vous verrez que sur ce site il y a quelques fois des points de vue contradictoires, ceci afin de donner le plus d'éléments possibles pour la réflexion. C'est toujours enrichissant de connaître le pour et le contre pour se décider...
+André  Lanaudière  - 17/12/2007, 19:27
+Il n'existe aucun contrôle de pollution avec la combustion. Désolé mais ce sont vos voisins qui héritent de votre pollution en plus de vous-même. De grâce il faut être logique la fumée de tabac dérange mais celle-ci est encore plus dance et importante. Toute combustion entraine de la pollution nocive pour la santé humaine voir même décès.
+Certe vous pouvez polluer moins mais c'est encore trop. Avons nous de droit à un air sans fumée sur nos terrains, dans notre maison en plus de la suie. Si le bois est neutre en carbone même là j'ai rarement vue un arbre qui me boucane ajouter les autres polluants comme les HAP, Méteaux lourds, PM etc. Un cocktail chimique incroyable.
+Quéméneur Jean-Paul, Loperhet 29470  - 14/01/2008, 11:08
+Pouvez-vous me donner une idée de la nocivité pour la santé des feux de cheminées ouvertes. De tels feux d'agréments sont-ils à proscrire même si le bois est sec et si le tirage est bon?
+A partir de quels types d'études et de quels constats certains états ont interdit de tels feux ?
+Bien Cordialement.
+haute savoie  - 14/05/2008, 14:13
+Vous pouvez me dire si on a le droit de faire du feux dans notre jardin (bois ,copeaux,carton.....)
+mercie
+Christophe Magdelaine - notre-planete.info  - 14/05/2008, 14:15
+@ haue savoie : il faut vous renseigner auprès de votre mairie mais de nombreuses villes interdisent les feux dans les jardins
+Mini-einshtein  - 13/09/2008, 18:22
+Car il y'a des risque d'incedie à 75% !! :)
+jean-pierre isère  - 10/12/2008, 01:08
+Je découvre avec quelque retard votre question.
+Le brûlage à l'air libre de tous déchets, y compris les déchets végétaux et de bois, est interdit par l'article 84 du règlement sanitaire départemental type, approuvé par tous les préfets.
+Ici, les risques sanitaires s'ajoutent aux risques d'incendie.
+Ces feux émettent des fumées aussi toxiques que celles qui s'échappent des véhicules Diesel, même pire, puisque ces combustions ne sont pas contrôlées.
+Les préfectures et les municipalités qui autorisent ces feux sont dans l'illégalité; les exceptions à cette interdiction doivent faire l'objet d'un arrêté préfectoral, dans des conditions bien précises (article 164 du règlement sanitaire départemental).
+Les textes législatifs (L) et réglementaires (R) de référence sont en particulier les suivants (Code de l'environnement) :
+L541-1.
+R541-8 relatif à la classification des déchets (anciennement décret n°2002-540 du 18 avril 2002) et la rubrique 20 de son annexe II qui liste les déchets ménagers et assimilés, dans laquelle figurent les déchets de jardins et de parcs (rubrique 20 02).
+Un cas épineux est celui des déchets végétaux de l'agriculture.
+Pour plus de renseignements sur ce sujet, vous pouvez consulter cette réponse du 25/09/2007 à une question écrite à l'assemblée nationale :
+http://questions.assemblee-nationale.fr/q13/13-147QE.htm
+Ces feux sont interdits depuis longtemps, mais beaucoup trop de monde encore ignore les textes législatifs et réglementaires qui s'y rapportent, même certaines préfectures ne semblent pas avoir connaissance de l'article R541-8.
+Le problème aussi est que trop peu de publicité est faite sur la toxicité des feux de biomasse, toxicité que l'on s'ingénie à noyer dans la fumée des Diesel.
+On pourrait à ce sujet parler de malhonnêteté intellectuelle.
+Les principaux émetteurs de polluants tels que les particules très fines (PM2,5 et PM1,0), les HAP, le benzène, et même les PCB (pyralènes) sont les combustions de biomasse et pas les véhicules Diesel, qui y contribuent de manière significative, mais pas majoritaire.
+Feux de cheminées et feux à l'air libre sont de véritables petits incinérateurs. Et tout le monde sait que les petits ruisseaux font des grandes rivières ... de pollution!
+Savez-vous qu'en 2006 par exemple : le chauffage au bois a émis 39% de particules PM2,5 (il est le principal émetteur) contre 14% pour l'ensemble des véhicules Diesel, 64% de PM1,0 (encore plus nocives) contre 16% pour l'ensemble du transport routier,  74% de benzène, 74% encore de HAP contre 18% pour le gazole, 17% de dioxines et furannes contre 0,7% pour le gazole, 70% de PCB contre 0,8% pour le gazole, 18% de plomb contre 0,0% (pratiquement rien) pour le gazole (source CITEPA).
+Heureusement, le Plan Particules du ministère de l'écologie va s'occuper sérieusement (espérons le) du chauffage au bois, particulièrement polluant dans le secteur domestique.
+ViolonD'ingres 69      Villefranche sur Saone  - 18/01/2009, 16:24
+J'habite le Beaujolais, magnifique région produisant un vin trop décrié. Pendant tout l'hiver, les vignes sont enfumées par le brulage de sarments, les taux de particules sont certainement très élevés.
+Par ailleurs, les organismes techniques viticoles constatent une inquiétante diminution de la matière organique des sols. Il serait donc si simple de favoriser l'enfouissement de ces sarments à l'isue de la saison de taille.
+Je n'ai jamais entendu parler de promotion de ces techniques enfouissement ou même compostage qui permettent de diminuer fortement la pollution de l'air et d'enrichir les sols .
+Par contre lors de l'épisode de pollution par particules de janvier 2009, on a accusé la circulation automobile et l'on a imposé une réductiondes vitesses de 20km/h...Trop facile
+moizan île maurice  - 23/09/2009, 14:05
+moi chez moi a l'île maurice ils brûle les champ de canne à sucre et on rçoit tout
+wissal  adlani maroc je vous aime  - 26/10/2009, 21:07
+bisou notre préfére site de recherche et moi je à les enfant et les éléves de recherché sourtout ici sourtout iciparceque ce site s'est bon site qui peut vous conseiller dans votre vie maitenant ou apreset bisdou monpréfére etbelle site aurevoir
+Votre nom et lieu de résidence :
+Pour éviter les abus des robots spammeurs, merci de répondre à cette question :
+Notre planète s'appelle la
+Votre commentaire :
+Tout commentaire qui est injurieux, incompréhensible (style SMS), non constructif, promeut des produits ou services, sera immédiatement supprimé. Toute récidive entraînera le bannissement définitif du posteur.
+notre-planete.info est un site indépendant qui vise à informer et sensibiliser objectivement sur l'environnement, l'écologie, les sciences de la Terre, les risques naturels et le développement durable

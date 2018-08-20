@@ -1,0 +1,51 @@
+This archive contains eight files:
+
+README
+
+  This file.
+
+subcat_inventory.xml
+
+  Descriptions of each SCF defined in the Rasp inventory.  Includes mappings
+  to LingoERG, ANLT, TSG, XTAG and COMLEX inventories, where available, as 
+  well as an example sentence with the relevant grammatical relations.
+
+best_mapping.txt
+
+  Mapping from each BioLexicon frame that occurs for the target verbs to its
+  linguist-determined best match among the Rasp frames.
+
+inclusive_mapping.txt
+
+  Supersets of Rasp frames such that both the Rasp and BioLexicon systems can
+  fully distinguish them.
+
+lexicon_relative_frequency.txt
+
+  A subcategorization frame lexicon for 4,857 verbs, built from the OpenPMC
+  corpus of biomedical text, filtered using a simple relative frequency
+  cutoff of 0.03.  Each line consists of four fields: a verb lemma, SCF
+  frame number, relative frequency (of the frame for the verb) and absolute
+  count.  The frame numbers correspond to those in subcat_inventory.xml.
+
+lexicon_scf_specific_frequency.txt
+
+  A subcategorization frame lexicon for 4,857 verbs, built from the OpenPMC
+  corpus of biomedical text, filtered using the optimal SCF-specific method
+  from the article.  The format is identical to lexicon_relative_frequency.txt.
+
+annotations.xml
+
+  Biomedical sentences annotated using two definitions of subcategorization: 
+  syntactic and semantic.  The format is XML with top-level "verb" elements 
+  for each unique verb.  These elements in turn contain "instance" elements,
+  which contain the text in question, and some number of annotations.  An 
+  annotation has six fields, any combination of which may be blank (e.g. if
+  an instance is invalid, the annotator was unsure, etc).
+
+create_gold_standard.py
+
+  This utility creates a RASP-style subcategorization gold standard file from
+  raw annotated data.  It can limit the result to particular annotators, verbs,
+  or just verbs above a particular threshold.  It also performs some mapping
+  between frames needed due to idiosyncrasies in the inventories.

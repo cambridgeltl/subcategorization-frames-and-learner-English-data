@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ecologia | Ecologiae</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ecologia | Ecologiae</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 05:07:40.0</pubDate>
+							<eAddress>http://www.ecologiae.com/ecologia/21679/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>bioma</keyTerm>
+					<keyTerm>biosfera</keyTerm>
+					<keyTerm>ecologia</keyTerm>
+					<keyTerm>ecosistema</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/36922.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Ecologia</p>
+			<p id="p2">Il termine ecologia fu coniato nel 1869 dal biologo tedesco Ernst Haeckel. La parola ha origine greca, da οίκος, oikos, “casa” o anche “ambiente”; e λόγος, logos, “discorso” o “studio” e indica la disciplina di studio della biosfera, l’insieme delle zone del pianeta Terra in cui le condizioni ambientali permettono lo sviluppo della vita, dei biomi, delle popolazioni e delle comunità. Nella sua accezione originaria, è</p>
+			<p id="p3">l’insieme di conoscenze che riguardano l’economia della natura – l’indagine del complesso delle relazioni di un animale con il suo contesto sia inorganico sia organico; comprende soprattutto le sue relazioni positive e negative con gli animali e le piante con cui viene direttamente o indirettamente a contatto – in una parola, l’ecologia è lo studio di tutte quelle complesse relazioni alle quali Darwin fece riferimento come alle condizioni della lotta per l’esistenza.</p>
+			<p id="p4">Per Haeckel, dunque, l’ecologia è lo studio delle relazioni degli esseri viventi con l’ambiente biologico circostante, con l’analisi di come ogni elemento di un ecosistema influisca sulle altre componenti, in una complessa trama di relazioni che può essere compresa solo grazie a conoscenze multidisciplinari. Per questo motivo l’ecologia è definita come scienza di sintesi perché richiede conoscenze da diverse altre scienze, dalla botanica alla zoologia, dalla fisiologia alla genetica, dalla fisica alla chimica alla geologia.</p>
+			<p id="p5">Altri scienziati negli anni a venire si occuparono dello studio delle relazioni simbiotiche e antagoniste instaurate dalle varie specie viventi.</p>
+			<p id="p6">Nel 1925, August Thienemann, Charles Elton e altri stimolarono la nascita dell’ecologia della comunità, lavorando con concetti come la catena alimentare, la piramide delle specie, in cui il numero degli individui diminuisce progressivamente dalla base alla cima, dalle piante agli animali erbivori ai carnivori.</p>
+			<p id="p7">Negli ultimi decenni c’è stato un interesse crescente da parte dell’uomo per l’ambiente in cui vive dovuto fondamentalmente ad una presa di coscienza delle problematiche che interessano il nostro pianeta e richiedono una soluzione rapida. Il termine ecologia fu portato alla ribalta dei più dal movimento ambientalista negli anni ‘60 e ’70, inteso come disciplina-guida per le relazioni tra l’uomo e l’ambiente e spesso confuso, tutt’oggi, con i termini ambiente o ambientalismo, malgrado l’ecologia sia lo studio scientifico delle relazioni tra gli organismi e l’ambiente.</p>
+			<p id="p8">La mancanza di spazi verdi, la sovrappopolazione, lo smog e il surriscaldamento generato dalle attività umane, in aggiunta alla contaminazione acustica e visiva hanno reso le città un ambiente negativo per l’uomo. Nuovo nome, vecchio problema perché i temi affrontati oggi dall’ecologia, al contrario di quanto si pensi, idealizzando l’uomo primitivo e dipingendolo in un rapporto idilliaco con l’ambiente, presentano nodi di antiche origini. Già nel periodo neolitico, diecimila anni fa, gli uomini distrussero intere foreste per ottenere legno e anche per ricavarne terreni da adibire all’agricoltura. Così facendo, modificarono gli ecosistemi in cui vivevano le comunità umane, con un impatto significativo sull’ambiente. In Grecia, Platone scrisse della deforestazione nell’Attica, che era rimasta come “lo scheletro di un corpo deperito per una malattia”. L’acqua, osservava il filosofo, prima veniva trattenuta, ora scorre sulla montagna nuda.</p>
+			<p id="p9">Naturalmente, il problema non ha interessato solo l’antichità: nel corso della storia diverse aree terrestri sono state modificate dall’azione dell’uomo. Per esempio, negli anni ’50 l’agricoltura ha sperimentato una forte crescita favorita dai progressi dell’ingegneria genetica. Questa intensificazione dell’uso del suolo ha causato il degrado della stesso e la necessità di coltivare in nuove aree. Quando l’attività umana di sfruttamento delle risorse della Terra è priva di controllo possono verificarsi grandi disastri ecologici. Le fuoriuscite di petrolio, ad esempio, che causano la morte di numerosi organismi, alterando l’equilibrio ecologico. Quando scompaiono intere foreste si verifica una grave perdita di ossigeno nell’atmosfera, viene compromessa la fertilità del suolo, ed aumenta il fenomeno dell’erosione.</p>
+			<p id="p10">Oggi la Terra è dilaniata dalla contaminazione dell’atmosfera, dei fiumi, dei mari, che sostengono la vita. A rischio estinzione numerose specie animali e vegetali, tra cui l’uomo, vittima di catastrofi naturali, come frane, inquinamento delle falde acquifere, alluvioni imputabili ad una cattiva gestione del territorio e ai cambiamenti climatici aggravati dal riscaldamento globale , ma anche malattie favorite dal proliferare di virus e batteri agevolati da temperature più calde.</p>
+			<p id="p11">Consapevoli della gravità della situazione, i Paesi membri delle Nazioni Unite si riunirono nel 1992, in una Conferenza dal tema “Ambiente e sviluppo”, meglio conosciuta come il Vertice di Rio de Janeiro: fu la prima conferenza mondiale dei capi di stato sull’ambiente. Governanti, scienziati e giornalisti di tutto il mondo furono informati e avvisati sui problemi legati allo sviluppo industriale e tecnologico. Da Eco ’92 venne fuori la  Convenzione quadro delle Nazioni Unite sui cambiamenti climatici che a sua volta portò, alcuni anni dopo, l’11 dicembre 1997, alla stesura del protocollo di Kyōto, volto ad una riduzione su scala globale delle emissioni di gas serra.</p>
+			<p id="p12">Ed oggi l’ecologia, nelle sue specializzazioni interne, si occupa di diverse problematiche ed aspetti legati agli esseri viventi ed all’ambiente in cui vivono: dall’ecologia industriale che tratta della pianificazione e della gestione ecosostenibile dei sistemi produttivi all’ ecologia del paesaggio , dall’ecologia culturale all’ecologia urbana e sociale, dall’ecologia delle acque interne all’ecologia comportamentale.</p>
+			<p id="p13">Commenti:</p>
+			<p id="p14">[...] Con i suoi scatti Finlay riesce infatti a fare molto di più di mille discorsi retorici pronunciati al G8 o sui giornali, riesce ad arrivare all’anima sensibilizzando le coscienze con immagini che non possono non scuotere l’umanità, risvegliando ai problemi ambientali e sviluppando il senso civico. La foto sopra è una chiara testimonianza dell’abilità di Finlay di colpire con pochi scatti l’immaginario collettivo: potenza dell’arte al servizio dell’ecologia. [...]</p>
+			<p id="p15">Sito Internet (opzionale)</p>
+			<p id="p16">Il network di ISayBlog!</p>
+			<p id="p17">Favorevole</p>
+			<p id="p18">Inserisci il tuo indirizzo email per iscriverti alla Newsletter e ricevere tutti i nuovi post del blog:</p>
+			<p id="p19">Tag</p>
+			<p id="p20">Partita IVA: 09729901000</p>
+		</body>
+	</text>
+</cesDoc>

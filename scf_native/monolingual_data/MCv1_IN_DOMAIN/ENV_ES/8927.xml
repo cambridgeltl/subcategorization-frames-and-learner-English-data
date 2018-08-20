@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ecosistema: estructura</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ecosistema: estructura</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:56:09.0</pubDate>
+							<eAddress>http://html.rincondelvago.com/ecosistema_estructura.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Ecología. Organización de la naturaleza. Abiota. Biota. Reguladores. Especies</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/8927.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El ecosistema.</p>
+			<p id="p2">Un ecosistema es una comunidad de organismos que se autorregulan y sobreviven interactuando con el medio físico dentro de un espacio geográfico definido. Ecos se refiere al conjunto de organismos vivos en un ambiente particular, y sistema a los procesos necesarios para mantener la integridad de ese ambiente a través de un balance complejo.</p>
+			<p id="p3">El ecosistema es el nivel de organización de la naturaleza que interesa a la ecología. En la naturaleza los átomos están organizados en moléculas y estas en células. Las células forman tejidos y estos órganos que se reúnen en sistemas, como el digestivo o el circulatorio. Un organismo vivo está formado por varios sistemas anatómico-fisiológicos íntimamente unidos entre sí.</p>
+			<p id="p4">NIVELES DE ORGANIZACIÓN EN LA NATURALEZA</p>
+			<p id="p5">La organización de la naturaleza en niveles superiores al de los organismos es la que interesa a la ecología. Los organismos viven en poblaciones que se estructuran en comunidades. El concepto de ecosistema aún es más amplio que el de comunidad porque un ecosistema incluye, además de la comunidad, el ambiente no vivo, con todas las características de clima, temperatura, sustancias químicas presentes, condiciones geológicas, etc. El ecosistema estudia las relaciones que mantienen entre sí los seres vivos que componen la comunidad, pero también las relaciones con los factores no vivos.</p>
+			<p id="p6">La ecosfera en su conjunto es el ecosistema mayor. Abarca todo el planeta y reúne a todos los seres vivos en sus relaciones con el ambiente no vivo de toda la Tierra. Pero dentro de este gran sistema hay subsistemas que son ecosistemas más delimitados. Así, por ejemplo, el océano, un lago, un bosque, o incluso, un árbol, o una manzana que se esté pudriendo son ecosistemas que poseen patrones de funcionamiento en los que podemos encontrar paralelismos fundamentales que nos permiten agruparlos en el concepto de ecosistema.</p>
+			<p id="p7">Componentes del ecosistema.</p>
+			<p id="p8">Los ecosistemas están conformados por elementos no vivos o componentes abióticos, la abiota, y por componentes vivos o bióticos, la biota. Estos interactúan para proveer los materiales y la energía necesarios para que los organismos sobrevivan.</p>
+			<p id="p9">Abiota</p>
+			<p id="p10">La abiota se compone por la energía, la materia (nutrientes y elementos químicos) y los factores físicos como la temperatura, la humedad, el rocío, la luz, el viento y el espacio disponible.</p>
+			<p id="p11">El comportamiento de la energía es explicado por dos leyes conocidas como leyes de la termodinámica. La primera ley dice que la energía puede ser trasformada de una forma (como la luz) a otra (como alimento o biomasa), mas nunca puede ser creada o destruida. La segunda ley dice que ningún proceso que involucra la transformación de la energía puede ocurrir a menos que exista degradación de esa energía de una forma concentrada(como gasolina) hacia una forma dispersa(como el calor).</p>
+			<p id="p12">La Materia es todo aquello que tiene masa y ocupa un espacio. Es el sustento de la vida. Los animales, plantas y minerales están compuestos de materia.</p>
+			<p id="p13">Todas la materia esta formada por los elementos, que son sustancias que no pueden ser trasformadas en otras más simples por medios químicos. Cada uno tiene un nombre y es representado por un símbolo. Entre los mas familiares están el oxigeno (O), el carbono (C), el nitrógeno (N) y el hidrogeno (H).</p>
+			<p id="p14">De acuerdo con la ley de la conservación de la materia, durante los cambios físicos y químicos la materia no se crea ni se destruye. No obstante, la forma si puede ser cambiada o desplazada de un sitio a otro.</p>
+			<p id="p15">El carbono, el oxigeno, el hidrogeno, el nitrógeno, el fósforo y el azufre constituyen a los macronutrientes, los cuales son los elementos esenciales con los que los organismos vivos construyen proteínas, grasas y carbohidratos o azucares. Estos seis elementos conforman los complejos orgánicos encontrados en todos los seres vivientes. Junto a estos se encuentran los micronutrientes, los cuales son sustancias traza necesarias, como el cobre, el zinc, el selenio y el litio, y son regulados por ciclos junto con los macronutrientes para que estén disponibles en el medio físico.</p>
+			<p id="p16">Biota</p>
+			<p id="p17">La biota esta compuesta por los organismos vivos de un ecosistema, los cuales se dividen en dos categorías generales: los autótrofos y los heterótrofos. Esta distinción se basa en sus necesidades nutricionales y el tipo de alimentación.</p>
+			<p id="p18">Los autótrofos o productores son organismos capaces de producir su propio alimento. Auto, “a si mismo”; trophos, “nutrición”.</p>
+			<p id="p19">Los fotótrofos los constituyen la mayoría de las plantas verdes y algas que emplean la energía solar para convertir elementos químicos relativamente simples, como el dióxido de carbono, el agua y nutrientes, en compuestos complejos (carbohidratos, lípidos y proteínas). Los quimiótrofos convierten los compuestos inorgánicos en energía, por ejemplo, las bacterias que viven en el fondo del mar alrededor de ventilas termales, las cuales utilizan la energía del hidróxido de sulfato para su nutrición.</p>
+			<p id="p20">Los heterótrofos o consumidores son aquellos que comen partes de células, tejidos o materiales de desecho orgánico de otros organismos para su subsistencia. Los heterótrofos obtienen la energía química necesaria en forma directa o indirecta de los autótrofos, y por tanto, de manera indirecta del sol.</p>
+			<p id="p21">Los macroconsumidores ingieren partes y cuerpos enteros, vivos o muertos, de otros, de otros organismos; aquí se incluyen los herbívoros o consumidores primarios, los carnívoros o consumidores secundarios, los omnívoros o consumidores terciarios, y los detritívoros o consumidores de detritus (materia orgánica en proceso de descomposición, partes de tejidos y desechos).</p>
+			<p id="p22">Ecosistema acuático y terrestre.</p>
+			<p id="p23">Los microconsumidores son los descomponedores y se alimentan de materiales de desecho de seres vivos o partes de tejidos ya en descomposición. se distinguen de los detritívoros en que digieren los materiales fuera de sus cuerpos, utilizan enzimas que arrojan sobre las partículas y después absorben los materiales en sus células. Reducen moléculas complejas a moléculas simples y las regresan al medio físico para que los productores puedan disponer de ellos.</p>
+			<p id="p24">Estructura del ecosistema.</p>
+			<p id="p25">Reguladores abióticos.</p>
+			<p id="p26">Son conocidos como los factores limitantes que determinan la estructura del ecosistema. Estos son la temperatura, la luz existente, la lluvia, la disponibilidad de fósforo, nitrógeno y oxígeno.</p>
+			<p id="p27">Los factores abióticos son un conjunto complejo de interacciones que limitan el control de las actividades de los organismos, poblaciones y comunidades.</p>
+			<p id="p28">Reguladores bióticos.</p>
+			<p id="p29">Las afectaciones que una población puede provocar sobre un ecosistema es algo que los ecólogos han comenzado a comprender. En ciertos ecosistemas algunas especies, llamadas especies clave, cumplen un papel importante en la estructura de la comunidad.</p>
+			<p id="p30">Por ejemplo, los castores que construyen represas en los causes de los ríos ayudan a disminuir el flujo de agua, con lo cual se invaden áreas que son propicias para el desarrollo de una gran diversidad de plantas y animales.</p>
+			<p id="p31">5</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Procedimiento</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Procedimiento</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:34:42.0</pubDate>
+							<eAddress>http://www.mailxmail.com/curso-motivos-despidos-ausencia-trabajo/procedimiento</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>procedimiento</keyTerm>
+					<keyTerm>curso</keyTerm>
+					<keyTerm>curso gratis</keyTerm>
+					<keyTerm>cursos</keyTerm>
+					<keyTerm>cursos online</keyTerm>
+					<keyTerm>formación gratuita</keyTerm>
+					<keyTerm>cursos gratis online</keyTerm>
+					<keyTerm>cursos on line</keyTerm>
+					<keyTerm>capítulo</keyTerm>
+					<keyTerm>fascículo</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/3374.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Busca cursos gratis:</p>
+			<p id="p2">Respecto a la naturaleza (judicial o extrajudicial) de la resolución contractual, la jurisprudencia se ha inclinado por el carácter judicial de la resolución.</p>
+			<p id="p3">11.Así, sólo en supuestos excepcionales en que la continuidad en la prestación de servicios pudiera suponer un grave riesgo físico o moral para el trabajador o cuando se den situaciones que por sí mismas ponen de manifiesto que resulta muy difícil la continuación de la convivencia, se admite la posibilidad de que el trabajador suspenda la prestación de servicios hasta al decisión judicial correspondiente.</p>
+			<p id="p4">12.El carácter judicial de la resolución contractual instada por el trabajador y la necesidad consiguiente de mantener viva la relación de trabajo durante el procedimiento implican, a su vez, varias consecuencias:</p>
+			<p id="p5">a.Que hasta que la sentencia se pronuncie, el trabajador debe observar una conducta laboral apropiada a dicha situación.</p>
+			<p id="p6">b.Los efectos extintivos del contrato de trabajo se producen a partir del momento en que exista sentencia estimatoria firme de la pretensión del trabajador.</p>
+			<p id="p7">Efectos.-</p>
+			<p id="p8">13.El art. 50.2 ET señala que el trabajador tendrá derecho a las indemnizaciones señaladas para el despido improcedente.</p>
+			<p id="p9">14.Respecto a la indemnización, no se puede considerar incluida en la misma los llamados salarios de tramitación, ya que el trabajador va a continuar prestando servicios durante la sustanciación del procedimiento.</p>
+			<p id="p10">15.Únicamente en el caso de que el incumplimiento empresarial hubiera consistido en colocar al trabajador en una situación depresiva o vejatoria tal que le hubiera impedido continuar físicamente en la empresa, permitiendo una suspensión de la prestación, serían debidos los salarios de tramitación.</p>
+			<p id="p11">Escribe tu e-mail:</p>
+			<p id="p12">Cursos similares a Motivos de despidos y ausencia en el trabajo</p>
+			<p id="p13">Vídeo</p>
+			<p id="p14">15.379</p>
+			<p id="p15">1.048</p>
+			<p id="p16">3.620</p>
+		</body>
+	</text>
+</cesDoc>

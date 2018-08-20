@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>El Corchado Ecológico: 2011, Año Internacional de los Bosques</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>El Corchado Ecológico: 2011, Año Internacional de los Bosques</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-11 22:31:31.0</pubDate>
+							<eAddress>http://ecocorchado.blogspot.com/2010/12/2011-ano-internacional-de-los-bosques.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/4362.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">•21:17</p>
+			<p id="p2">El 20 de diciembre de 2006, la Asamblea General de las Naciones Unidas aprobó la resolución (A/RES/61/193) por la que se declaraba 2011 Año Internacional de los Bosques. Esta celebración resultará útil para tomar mayor conciencia de que los bosques son parte integrante del desarrollo sostenible del planeta debido a los beneficios económicos, socioculturales y ambientales que proporcionan. Con este fin, se promoverá la acción internacional en pos de la ordenación sostenible, la conservación y el desarrollo de todo tipo de bosques, incluidos los árboles fuera de ellos.</p>
+			<p id="p3">Entre las actividades conmemorativas del Año Internacional de los Bosques figura el intercambio de conocimientos sobre estrategias prácticas que favorezcan la ordenación forestal sostenible y el retroceso de la deforestación y la degradación de los bosques. Con objeto de facilitar la organización de estas actividades, se alienta a los gobiernos a que establezcan comités nacionales y centros de coordinación en sus países respectivos, y a que aúnen sus esfuerzos a los de las organizaciones regionales e internacionales y las organizaciones de la sociedad civil.</p>
+			<p id="p4">La Secretaría del Foro de las Naciones Unidas sobre los Bosques (FNUB) será el centro de coordinación designado para la puesta en práctica del Año Internacional de los Bosques. Es la segunda vez que se asigna a los bosques su propio «año internacional». La primera fue en 1985, cuando el Consejo de la FAO pidió a todos los Estados Miembros que concedieran un reconocimiento especial a los bosques en el curso del año a fin de centrar la atención mundial en la necesidad de conservar y proteger los bosques; despertar la conciencia política y pública en lo relativo a los recursos forestales; identificar y poner de relieve los factores que amenazan a estos recursos forestales; y movilizar a la población, y en especial a los jóvenes, para que participasen en actividades orientadas hacia la protección de los bosques.</p>
+			<p id="p5">La FAO estima que cada año, mas de 130.000 km² de bosques se pierden debido a la deforestación. La conversión a tierras agrícolas, la recolección insostenible de madera, las prácticas de la gestión inadecuada de la tierra, y la creación de los asentamientos humanos son las razones más comunes para la pérdida de zonas boscosas. Según el Banco Mundial, la deforestación representa hasta un 20 por ciento de las emisiones globales de gases de efecto invernadero, que contribuyen al calentamiento global y, con ello, al cambio climático. Los bosques constituyen el hábitat de alrededor de dos tercios de todas las especies sobre la tierra y la deforestación de bosques tropicales produce la pérdida de biodiversidad de hasta 100 especies por día.</p>
+			<p id="p6">Los bosques y su ordenación sostenible pueden contribuir significativamente al desarrollo sostenible, la erradicación de la pobreza y el logro de los objetivos de desarrollo convenidos internacionalmente, incluidos los objetivos de desarrollo del Milenio.</p>
+			<p id="p7">0 comentarios:</p>
+		</body>
+	</text>
+</cesDoc>

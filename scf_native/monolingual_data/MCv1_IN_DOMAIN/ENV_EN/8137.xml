@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Feedback: Hurricanes Archives</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Feedback: Hurricanes Archives</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 10:59:36.0</pubDate>
+							<eAddress>http://blogs.nature.com/climatefeedback/categories/topics/climate_science/hurricanes/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/8137.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">The world's most advanced simulation of extreme weather on a warming Earth completed its first run last Friday - though the data won't be fully digested into human-readable format until spring. Yesterday I talked to meteorologist Greg Holland, co-leader of the study, at the Willis insurance company's London office - whose cycle racks, I can report, are tucked away discreetly across the street from its intimidatingly curved and purple-lit lobby.</p>
+			<p id="p2">Willis's research arm funded the work, along with the offshore oil industry, the US Department of Energy and the US National Center for Atmospheric Research (NCAR), where Holland is based. They all want to know how climate change will alter hurricane patterns in the Atlantic. At the request of several US state governors, the project is also looking at rainfall over the Rockies and winds in the Great Plains. Says Holland:</p>
+			<p id="p3">I'm not going to forecast a squall line through New York in 2050. But what we want to do is be able to say: "What are the statistics of squall lines going through New York in 2050?" or "What are the statistics of hurricanes coming into Miami in 2050?"</p>
+			<p id="p4">With a month to go until its official finish, the 2008 Atlantic hurricane season has seen more damage, as measured in dollars, than any other year except the monster 2005 season. Scientists have yet to agree whether human-induced climate change has caused spiking Atlantic hurricane activity since the early 1990s - and while the season has raged on, researchers have continued to go back and forth on whether worse is in store as the ocean keeps warming. Science this week has the latest salvo in the longtime debate: a Perspective (subscription) by Gabriel Vecchi of NOAA, Kyle Swanson of the University of Wisconsin-Milwaukee, and Brian Soden of the University of Miami.</p>
+			<p id="p5">Warming sea surface temperatures (SSTs) in the Atlantic, thought to fuel hurricanes, are correlated with the recent surge in storm activity. The trend is roughly linear, note Vecchi et al., and extending it along with predicted temperature rises implies that by 2100, a hurricane season like 2005’s might be considered mild.</p>
+			<p id="p6">But that’s only true, they caution, when you look at absolute temperatures. Relative warming - the Atlantic heating up even more than other tropical seas - is equally well-correlated. Citing their recent papers in Nature and Geochemistry, Geophysics and Geosystems , and Knutson et al. in Nature Geoscience , the authors make an argument that relative warming is more likely to be the true cause of increasing activity. And relative warming of the Atlantic sea surface, in contrast to absolute warming, doesn’t keep trending upwards in 21st-century climate predictions.</p>
+			<p id="p7">Cyclones appear to be responsible for a large amount of organic carbon tied up in ocean sediments.</p>
+			<p id="p8">In a paper published in Nature Geoscience, Robert Hilton and colleagues report on the impact of cyclone-induced floods on carbon in the LiWu River in Taiwan. They found that between 77 and 92% of non-fossil carbon eroded from the LiWu catchment area was moved during floods linked to cyclones.</p>
+			<p id="p9">As increased sea surface temperatures from global warming could increase the intensity of cyclones, this could create negative feedback, with bigger cyclones locking up more organic carbon in sediments. Sadly this is not going to stop global warming.</p>
+			<p id="p10">Hurricanes may become rarer in the Atlantic throughout the 21st century if the world continues to warm, suggests a new study. The research is the latest to address the question of how – and whether - global warming will affect the intensity and frequency of hurricanes.</p>
+			<p id="p11">Globally, the number of major hurricanes has shot up by 75% since 1970. And although rising ocean temperatures are generally accepted as the key culprit – hurricanes can only form where sea surface temperatures exceed 26ºC - the link to global warming has remained a contentious issue.</p>
+			<p id="p12">In the new study , published online yesterday in Nature Geoscience [subscription], Thomas Knutson of the US National Oceanic and Atmospheric Administration and colleagues showed, using a regional climate model of the Atlantic basin, that the trend in increased hurricane activity in the Atlantic over the past 25 years will not continue into the future, though hurricanes in the area may become more intense and associated with heavier rainfall.</p>
+			<p id="p13">Though they use a different model, the results generally concur with the recent paper by hurricane specialist Kerry Emanuel , which shows that hurricanes are likely to decrease in frequency but increase in intensity in certain locations as temperatures rise.</p>
+			<p id="p14">I’ve written the full story here for Nature News.</p>
+			<p id="p15">Olive Heffernan</p>
+			<p id="p16">Posted by Olive Heffernan on May 19, 2008</p>
+			<p id="p17">Kevin Trenberth</p>
+			<p id="p18">The situation on how hurricanes have changed and will likely change in the future are outlined in my recent Scientific American article, but may seem as murky as ever to the public although clarity is actually emerging.</p>
+			<p id="p19">A recent news report in the Press Register outlines some sources of confusion related to just how well the past record is known. It cites work by Landsea that relied on numbers of land-falling storms as a way to calibrate the Atlantic hurricane record, and which concluded that there may be an undercount of 3.2 storms per year prior to 1966. The most recent Eos Transactions has two articles that follow up and point out why use of land-falling storms is misleading [ Holland 2007; Eos 88 (36) 348-349 ] and that the conclusions of increased activity do not change anyway [ Mann et al., 2007; Eos 88 (36) 349-350 ].</p>
+			<p id="p20">The Holland article points out that there are good reasons why the fraction of storms making landfall should change, both because of natural variations and especially if the climate changes. The Mann et al. article adopts the Landsea-suggested changes for the past as a “what if” test and goes on to show that even a substantial underestimate of early 20th century storms does not change the significance of the increase in activity since 1994. Nor does it change the strong relationship with observed sea surface temperatures (SSTs) in the region; the SSTs have a much more reliable observational record and have clearly increased.</p>
+			<p id="p21">Surprisingly, none of these studies refers to what seems to me to be the most definitive analysis of the likely missed storms in the historical counts by Chang and Guo (2007) in which they analyze in detail the actual ship tracks in the past compared with modern tropical storm tracks. To quote their main conclusions: “It is estimated that the number of tropical cyclones not making landfall over any continent or the Caribbean may have been underestimated by up to 2.1 per year during 1904–1913, with this number decreasing to 1.0 per year or less during the 1920s and later decades. Our results suggest that the characteristics of North Atlantic tropical cyclone track statistics might have changed during the 20th century.”</p>
+			<p id="p22">In 2007 the tropical storm season has been fairly normal in many respects up to now. Only 3 hurricanes have been recorded (versus average 3 to 4) but two were category 5 storms, and that is highly unusual. Forecasts of hurricane activity by NOAA and Bill Gray continue to forecast substantially above normal activity in the Atlantic. To me, observing the events thus far, the incredibly intense convective activity in the Indian Ocean from May to July was an important and totally overlooked factor. The subsequent heavy rains and flooding in India and China were no doubt related. The fact that Atlantic hurricane activity is influenced by events in the Indian Ocean seems to be overlooked by the hurricane forecasters.</p>
+			<p id="p23">Kevin Trenberth</p>
+			<p id="p24">Kevin Trenberth</p>
+			<p id="p25">A recent paper published by Gaertner et al. in Geophysical Research Letters (GRL) (in press as of 12 July 2007) explores the possibility for tropical cyclones to occur in the Mediterranean area in the future with global warming. It has been featured in the Times . The paper correctly points out that tropical cyclones have recently ventured into some unusual places with Catarina on the east coast of Brazil in March 2004 and Vince making landfall in Spain in 2005. Gaertner et al. use an ensemble of regional climate models to assess new locations of tropical cyclone occurrence. They find an increase in extremes of cyclone intensity over the Mediterranean Sea in regional model climate change scenario simulations. This increase, they claim, is clearly related to tropical cyclone formation, revealing for the first time a risk of tropical cyclone development over the Mediterranean Sea under future climate change conditions.</p>
+			<p id="p26">The regional model framework for this study is one limitation as it may not create the correct large-scale atmospheric circulation across the region. In particular, the Mediterranean climate in summer is one of clear skies and sunny days associated with the overall global monsoon circulation, such that the upward motion and rains in southern Asia are linked to the subsiding air over the Mediterranean that makes for a very stable environment unfavorable for storms. Unless that link is properly simulated (and it may not be, especially in a regional model) the vertical atmospheric temperature and wind structure are unlikely to be right.</p>
+			<p id="p27">The authors are aware of the summer difficulties and so they choose September as the time for the simulations. This has the advantage that the sea surface temperatures (SSTs) are highest then. The sun has been beating down all summer, but it tends to form a shallow layer of warm water and whether there is adequate heat below the surface is also a critical question. As cyclones form they churn up the ocean, bringing cold waters up from below and cool the ocean, creating a cold wake. In this work the SSTs were specified and fixed and this was not allowed to happen.</p>
+			<p id="p28">Moreover, by September, the mid-latitude westerlies have set in and the winds in the upper troposphere are typically over 20 m/s, so the wind shear environment is generally unfavorable for such storms. It is possible that the weather could change enough to relax the winds for just long enough to open a window for tropical cyclones but the odds are not high. This is the extratropics, after all.</p>
+			<p id="p29">All these questions remain. Nonetheless, with higher SSTs it does seem likely that cyclones would be more vigorous. But whether they are truly tropical or not is a key issue. The paper does not comment on water vapor: the Mediterranean Sea is surrounded by land where the air is drier and this can cause storms to run out of moisture and peter out. Nor does it mention rainfalls and flooding: a chief characteristic of tropical cyclones is the heavy rainfalls of several mm per hour. Nonetheless, warm core storms have been noted in the Mediterranean and are colloquially referred to as “Medicanes”.</p>
+			<p id="p30">Kevin E. Trenberth</p>
+			<p id="p31">US National Center for Atmospheric Research</p>
+			<p id="p32">Posted by Olive Heffernan on July 24, 2007</p>
+			<p id="p33">Posted by Olive Heffernan on behalf of Alex Witze</p>
+			<p id="p34">June 1 is almost here, and for residents of the eastern US, Caribbean and Central America that means just one thing: stock up on the plywood and batten down the hatches, for the Atlantic hurricane season is upon us.</p>
+			<p id="p35">This week’s Nature features a minor rush of hurricane-related items. First off, in a technical manuscript , Ryan Sriver and Matthew Huber of Purdue University spell out how tropical cyclones could play a significant role in mixing the ocean’s topmost layers. They find that about 15 percent of the peak ocean heat transport can be linked to the ocean mixing caused by cyclones. Kerry Emanuel of MIT has had much the same idea before, but the Purdue work extends and better quantifies the role of hurricanes. It’s an interesting study that turns some conventional wisdom on its head: instead of worrying about how climate change affects hurricanes, maybe we should be worrying instead about how hurricanes affect climate change. Quirin Schiermeier, our correspondent in Munich, has a longer news feature on this, plus more on ocean mixing in general. (See also Martin Visbeck’s essay on ocean mixing from last week).</p>
+			<p id="p36">I've got a short news story previewing the 2006 Atlantic hurricane season. The National Hurricane Center in Miami has put out almost exactly the same forecast as last year, calling for an above-average number of storms. The 2006 predictions didn’t pan out so well – blame a late summer El Nino that surged unexpectedly, quashing the number of expected hurricanes. This year, forecasters don’t expect that to happen – and in fact anticipate a weak La Nina, the opposite weather pattern that should permit more hurricanes to form. In other words, buckle up.</p>
+			<p id="p37">One of the interesting things about this year’s season is that there is a new director for the hurricane center. This is a very big and high-profile job in the US; the center director serves as a public face for warning of dangerous storms, including trying to get people to evacuate when necessary. The previous director, Max Mayfield, was well liked by nearly everyone (even if New Orleans officials didn’t listen to his warnings as much as perhaps they should have as Hurricane Katrina approached the city in August 2005). Now the hot seat belongs to Bill Proenza, a former director of the southern region of the National Weather Service. He’s a frequent and outspoken critic of his bosses, and this month has been complaining that his center doesn’t get enough money for forecasting. He may be right, but the Atlantic is by far the best-funded and best-studied of all the world’s hurricane regions. Let us not forget the Pacific or the Indian oceans, which get hammered regularly without the benefit of a highly regarded, highly publicized hurricane center to spread warnings.</p>
+			<p id="p38">The other thing to pay attention to is the relative merits of the different ways of studying wind directons above the sea surface. The US currently has two satellites that measure this factor, but in two very different ways. The QuikSCAT satellite is a scatterometer, bouncing microwaves off the surface and measuring them when they return. The Coriolis satellite uses a radiometer , which measures microwave emissions from the ocean surface itself. Which is the better approach? Each has its merits for detecting wind vectors and each has its disadvantages. Members of Congress, though, are upset that no plans are in the works to replace the QuikSCAT scatterometer, which is far past its intended lifetime. One thing that didn’t make it into the story is the fact that Europe operates its own scatterometer, ASCAT.</p>
+			<p id="p39">If you want to stay up to date as the hurricane season progresses, I recommend checking out the Florida newspapers. The Miami Herald and the St. Petersburg Times are particularly good sources of local information. For more of an overview, check out this week’s New York Times science section , which has a pair of lead stories devoted to hurricanes; John Schwartz, a technology reporter who covered much of the Katrina failure, has a piece on how engineers try to outwit the storms through construction. And Cornelia Dean, who has long covered coastal development issues, has a good overview on the ongoing debates over the potential links between climate change and hurricanes.</p>
+			<p id="p40">Here at Nature, we too will do our part to keep you involved and informed. Complementing our existing coverage online and in print, Nature Reports Climate Change , NPG's dedicated climate change website will be launching next week - check in with us for updated coverage as the season gets underway.</p>
+			<p id="p41">Alex Witze</p>
+			<p id="p42">Nature</p>
+			<p id="p43">Posted by Olive Heffernan on May 30, 2007</p>
+			<p id="p44">Nature’s</p>
+			<p id="p45">online resource dedicated to in-depth coverage of climate science and the implications for policy, the economy and society.</p>
+			<p id="p46">Search</p>
+			<p id="p47">the most recent were:</p>
+		</body>
+	</text>
+</cesDoc>

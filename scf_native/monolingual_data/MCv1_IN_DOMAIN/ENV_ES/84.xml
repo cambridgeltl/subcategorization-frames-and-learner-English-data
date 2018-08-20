@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La Contaminación Atmosférica</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La Contaminación Atmosférica</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2009-04-03 22:18:02.0</pubDate>
+							<eAddress>http://www.jmarcano.com/recursos/contamin/catmosf.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>contaminación</keyTerm>
+					<keyTerm>aire</keyTerm>
+					<keyTerm>atmosférica</keyTerm>
+					<keyTerm>recursos naturales</keyTerm>
+					<keyTerm>ambiente</keyTerm>
+					<keyTerm>educación</keyTerm>
+					<keyTerm>educación ambiental</keyTerm>
+					<keyTerm>república dominicana</keyTerm>
+					<keyTerm>pollution</keyTerm>
+					<keyTerm>air</keyTerm>
+					<keyTerm>atmosphere</keyTerm>
+					<keyTerm>natural resources</keyTerm>
+					<keyTerm>environment</keyTerm>
+					<keyTerm>education</keyTerm>
+					<keyTerm>environmental education</keyTerm>
+					<keyTerm>dominican republic</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/84.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El Aire: Un Bien Común en Peligro</p>
+			<p id="p2">La degradación del medio ambiente debida a la actitud adoptada por los humanos hacia la naturaleza durante el último siglo, en el sentido de que en su actuación tenía licencia para explotar los recursos naturales con una total indiferencia ante todo lo que no repercutiera en beneficio directo del hombre, ha dado lugar a uno de los problemas capitales que la Humanidad tiene planteados en la actualidad, la contaminación.</p>
+			<p id="p3">La explotación intensiva de los recursos naturales y el desarrollo de grandes concentraciones industriales y urbanas en determinadas zonas, son fenómenos que, por incontrolados, han dado lugar a la saturación de la capacidad asimiladora y regeneradora de la Naturaleza y pueden llevar a perturbaciones irreversibles del equilibrio ecológico general, cuyas consecuencias a largo plazo no son fácilmente previsibles.</p>
+			<p id="p4">La lucha contra la contaminación del aire, de las aguas continentales y marítimas, del suelo, así como la defensa del paisaje, la restauración y mejora de las zonas de interés natural y artístico, la protección de la fauna y de la flora, el tratamiento y eliminación de los residuos, la defensa de las zonas verdes y espacios libres, la reinstalación de industrias fuera de las zonas urbanas, la congestión del tráfico urbano, la lucha contra el ruido y tantas otras cuestiones, no son sino aspectos parciales e interrelacionados que han de tenerse en cuenta al abordar acciones o programas de actuación para la defensa del medio ambiente.</p>
+			<p id="p5">En estas páginas, abordaremos de una forma general el problema de la contaminación ambiental, aunque sin perder de vista que la Naturaleza actúa como una unidad, que en ella todo es interdependiente, existiendo relaciones múltiples entre el aire, el agua y el suelo, elementos que constituyen el hábitat o lugar donde se desarrolla normalmente el ciclo vital y la biosfera, sistema que engloba a los elementos anteriores y a todos los seres vivos de nuestro planeta.</p>
+			<p id="p6">Se considera el aire como un bien común limitado, indispensable para la vida; por lo tanto, su utilización debe estar sujeta a normas que eviten el deterioro de su calidad por el uso o abuso indebido del mismo, de tal modo que se preserve su pureza como garantía del normal desarrollo de los serves vivos sobre la Tierra y de la conservación del patrimonio natural y artístico de la Humanidad. Todos tenemos el deber de trabajar para lograr un mundo limpio y habitable, sustento de una mejor calidad de vida para las generaciones futuras.</p>
+			<p id="p7">La Atmósfera</p>
+			<p id="p8">La Atmósfera es la envoltura gaseosa, de unos 200 kilómetros de espesor, que rodea la Tierra. Constituye el principal mecanismo de defensa de las distintas formas de vida. Ha necesitado miles de millones de años para alcanzar su actual composición y estructura que la hacen apta para la respiración de los seres vivos que la habitan.</p>
+			<p id="p9">Una de las funciones más importantes que realiza la atmósfera es proteger a los seres vivos de los efectos nocivos de las radiaciones solares ultravioleta. La Tierra recibe todo un amplio espectro de radiaciones procedentes del Sol, que terminarían con toda forma posible de vida sobre su superficie de no ser por el ozono y el oxígeno de la atmósfera, que actúan como un filtro absorbiendo parte de las radiaciones ultravioleta.</p>
+			<p id="p10">Para más detalles, vea sobre la atmófera</p>
+		</body>
+	</text>
+</cesDoc>

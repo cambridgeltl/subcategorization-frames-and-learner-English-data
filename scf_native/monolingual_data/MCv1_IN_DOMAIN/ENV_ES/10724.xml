@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Tendencias a futuro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Tendencias a futuro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2006-07-15 02:42:42.0</pubDate>
+							<eAddress>http://www.peruecologico.com.pe/lib_c27_t10.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/10724.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Tendencias a Futuro</p>
+			<p id="p2">Si seguimos con el modelo de desarrollo actual, las tendencias a futuro marcan un camino hacia un mayor deterioro de los recursos naturales, en desmedro de las necesidades de la creciente población y de la economía del país.</p>
+			<p id="p3">A futuro, si no se toman medidas, son de esperarse los siguientes problemas:</p>
+			<p id="p4">1. Erosión, empobrecimiento y degradación de los suelos</p>
+			<p id="p5">Hoy en día, de las 700 000 hectáreas irrigadas en la costa, casi el 50% está afectada por la salinización. El 60% de las tierras agrícolas de la sierra tienen problemas de erosión. Casi la totalidad de las tierras desboscadas en las selvas alta y baja están afectadas por procesos preocupantes de erosión y pérdida de fertilidad.</p>
+			<p id="p6">Las tendencias a futuro son de una patética disminución de la superficie cultivada y una mayor inseguridad alimentarla.</p>
+			<p id="p7">2. Desertización</p>
+			<p id="p8">Actualmente, los procesos de desertización son graves en los bosques secos de la costa norte, en las vertientes occidentales y en la puna. A causa de la destrucción de la cobertura vegetal por tala, quema, y sobrepastoreo, el recurso hídrico está siendo mermado. Lo que sucede en la cuenca del río Rímac' que no abastece ya de agua suficiente a la ciudad de Lima, es solamente una señal de alarma.</p>
+			<p id="p9">3. Tala de bosques en la selva</p>
+			<p id="p10">Si hasta hoy hemos talado cerca de 9 millones de hectáreas de bosques en la selva, dentro de 1 0 años serán 1 1,5 millones, y habremos quemado 525 millones de m' de madera y destruido toda la productividad natural. Algunos predicen que dentro de 50 años la Amazonía, como el bosque tropical más extenso del mundo, habrá dejado de existir, si no se toman las medidas preventivas necesarias.</p>
+			<p id="p11">4. Crisis de energía</p>
+			<p id="p12">La crisis de energía en el Perú se expresa de dos formas a futuro: falta de leña en la sierra y la merma de nuestras reservas energéticas por despilfarro. En la sierra, la falta de energía rural es muy aguda y la población destruye los últimos restos de cobertura vegetal o utiliza las bosta de los animales para cocinar sus alimentos.</p>
+			<p id="p13">IMPORTANTE</p>
+			<p id="p14">El otro aspecto de la crisis energética se expresa en la merma de nuestros recursos petroleros, por falta de previsión. Con el descubrimiento del gas de Camisea ha surgido una nueva esperanza; pero tampoco se está considerando su uso racional en el largo plazo, más bien se planifica su uso inmediato para satisfacer necesidades inmediatas.</p>
+			<p id="p15">5. Contaminación y tugurización</p>
+			<p id="p16">Dos problemas más son de preocupación a futuro: el incremento de la contaminación urbana, atmosférica y de las aguas, y la caótica distribución de nuestra población. La contaminación ambiental tiende a crecer continuamente por la falta de control del problema y de educación de la población. Las áreas críticas de hoy seguirán ampliándose, y la contaminación de los recursos acuáticos, marinos y continentales seguirá en aumento.</p>
+			<p id="p17">¿SABÍAS QUÉ?</p>
+			<p id="p18">Nuestra población crece a un ritmo de cerca del 2% anual y su distribución es caótica, especialmente en las ciudades por la migración desde el campo, con efectos de tugurización y graves problemas ambientales, sociales, sicológicos y económicos. A futuro es de esperarse un incremento de estos problemas, porque no se están tomando las medidas adecuadas y urgentes para resolverlo, como un fuerte fomento de las zonas rurales.</p>
+			<p id="p19">En fin, estamos hipotecando el futuro de las generaciones venideras, que recibirán un país saqueado, si no se toman medidas ahora mismo.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>IMPACTS POTENTIELS DU CHANGEMENT CLIMATIQUE</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>IMPACTS POTENTIELS DU CHANGEMENT CLIMATIQUE</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2006-05-29 11:30:53.0</pubDate>
+							<eAddress>http://www.agora21.org/mies/chan-clim3.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/6702.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">A la base de notre compréhension du changement climatique d'origine humaine, il y a des faits indiscutés. La température globale d'un corps dans l'espace est déterminée par l'équilibre entre les énergies reçue et émise par rayonnement. L'énergie émise est diminuée par la présence de certains gaz dits à effet de serre. Leur présence a pour conséquence un réchauffement. Or on observe une augmentation continue dans la teneur de l'atmosphère d'au moins deux gaz à effet de serre : le dioxyde de carbone et le méthane. Cette augmentation s'accélère depuis le début de l'ère industrielle.</p>
+			<p id="p2">La prévision quantitative du changement climatique nécessite l'utilisation de modèles numériques, malgré les difficultés de calcul et la connaissance limitée des phénomènes à modéliser. Les résultats actuels de ces modèles sont compatibles avec l'évolution observée du climat, notamment l'augmentation de la température moyenne de 0,3 à 0,6 °C depuis un siècle et une élévation du niveau de la mer de 10 à 25 cm.</p>
+			<p id="p3">Les modélisations du changement climatique</p>
+			<p id="p4">Les diverses modélisations menées dans différents pays convergent sur les importants points suivants : le climat se réchauffera, et ce d'une manière plus marquée aux latitudes polaires qu'aux tropiques, davantage sur les continents que sur les océans. Elles varient quant aux effets plus régionaux ainsi que sur l'évolution suivant les saisons.</p>
+			<p id="p5">Pour essayer d'aller plus loin, une équipe de Météo-France a appliqué un scénario de doublement de la concentration de dioxyde de carbone à un modèle à résolution spatiale variable. L'intérêt d'un modèle de ce type est qu'il permet d'obtenir des informations à l'échelle régionale pour la France. Les conclusions sont qu'en France l'élévation de la température hivernale serait de 1 à 2 °C, alors que l'élévation en été et en automne serait supérieure à 2 °C sur la plus grande partie du pays.</p>
+			<p id="p6">En ce qui concerne les précipitations, les résultats indiquent une augmentation des pluies en hiver et une certaine diminution en été. La quantité d'eau dans les sols, qui ne dépend pas seulement des précipitations, diminuerait en été et en automne sur la plus grande partie du pays.</p>
+			<p id="p7">Une question essentielle pour prévoir les conséquences du changement de climat est celle de la variabilité de ce nouveau climat. C'est une question particulièrement difficile, mais au vu des résultats actuels, il semblerait que la variabilité tendrait à augmenter.</p>
+			<p id="p8">L'effet de l'élévation du niveau de la mer</p>
+			<p id="p9">L'élévation du niveau de la mer est une des conséquences attendues d'un réchauffement global ; elle serait causée principalement par la fonte partielle des glaciers et par la dilatation thermique de la tranche d'eau superficielle des océans et des mers. La valeur la plus probable à l'horizon de l'an 2100 est une hausse autour de 50 cm. Les impacts possibles de cette élévation sont de plusieurs ordres : submersion, accentuation de l'érosion, phénomènes de salinisation des estuaires, réduction du volume des eaux douces souterraines, accroissement de la fréquence des surcotes.</p>
+			<p id="p10">Ces effets seront accrus par d'autres résultats de l'activité humaine et par d'autres conséquences de l'effet de serre comme l'augmentation des cyclones dans les régions tropicales et celle des ondes de tempêtes dans les latitudes tempérées. Les récifs coralliens seraient alors menacés. En métropole, les régions les plus concernées sont les espaces deltaïques de la Camargue ainsi que le rivage à lagunes du Languedoc.</p>
+			<p id="p11">L'effet sur l'enneigement</p>
+			<p id="p12">L'enneigement des montagnes françaises est d'une très grande variabilité naturelle. Des modèles numériques spécifiques ont été développés pour modéliser l'enneigement en fonction des données météorologiques. En entrant dans ces modèles un scénario climatique prenant en compte l'effet de serre, on peut ainsi prévoir les conséquences sur l'enneigement du changement climatique. Les résultats obtenus montrent une nette diminution de la durée d'enneigement à 1500 m d'altitude : de 20 à 25 % dans les Alpes du nord, de l'ordre de 30 % dans les Alpes du sud du Dévoluy à la Haute-Tarantaise, et plus de 40 % dans les Alpes azuréennes, l'Ubaye et le Mercantour. Dans les Pyrénées, la diminution est aussi très forte à 1500 m. Les zones de haute altitude (au-dessus de 2000 m) sont moins concernées, avec des réductions de l'ordre de 10 %. Des problèmes sont donc attendus pour les stations de sport d'hiver ne disposant pas de domaine de haute altitude.</p>
+			<p id="p13">L'effet sur les eaux superficielles et souterraines</p>
+			<p id="p14">L'étude des effets possibles sur l'écoulement des eaux superficielles repose aussi sur la modélisation numérique appliquée cette fois au comportement d'un bassin versant. L'écoulement résulte des précipitations et du partage au sol des précipitations entre l'évapotranspiration, l'infiltration vers les nappes souterraines et le ruissellement. Après calage sur des données réelles observées, le modèle a été appliqué à un scénario de précipitations et de températures représentatif du climat modifié. Il faut souligner que cet exercice nécessite des scénarios précis quant à la répartition sur l'année des précipitations. La modélisation a été appliquée à un bassin versant particulier, celui de la Dore, en Auvergne. L'évolution qui se dessine est l'occurrence de crues plus accentuées et plus fréquentes en hiver et des étiages plus marqués l'été. Mais des conclusions précises pour d'autres bassins versants nécessiteraient d'autres études pour prendre en compte à chaque fois les particularités locales.</p>
+			<p id="p15">En ce qui concerne les nappes souterraines, l'impact du changement climatique devrait être différent suivant leur type : les nappes les plus étendues devraient voir leur niveau moyen s'élever légèrement, l'irrégularité accrue des approvisionnements entre saisons et années devrait se répercuter sur le régime des nappes locales à faible réserve, comme celles des massifs anciens ou celles à vidange rapide (karst).</p>
+			<p id="p16">L'effet sur les sols</p>
+			<p id="p17">L'évolution des sols est a priori caractérisée par de nombreux paramètres tels que la réserve organique (carbone, azote), l'acidité et surtout les caractéristiques hydriques. En ce qui concerne le cycle du carbone et des éléments nutritifs, le changement climatique devrait se traduire en général par une vitesse accrue des cycles. Des prévisions plus précises demanderaient de prendre en compte les données locales du climat futur, les caractéristiques pédologiques et les changements d'usage des sols.</p>
+			<p id="p18">L'évolution de la teneur en eau est un élément perturbateur très important : l'action répétée des cycles de dessiccation due au changement de climat tendrait à diminuer la réserve en eau des sols, ceci ayant une influence négative sur la recharge des nappes ; la même action répétée entraînerait la consolidation des sols avec des conséquences possibles sur le tassement des constructions.</p>
+			<p id="p19">En ce qui concerne le problème important de l'érosion, on peut prévoir une aggravation des risques d'érosion hydrique, compte tenu de l'augmentation de la pluviométrie pendant les saisons où le sol est peu couvert, compte tenu aussi de l'augmentation prévue des événements de type orageux et de la diminution possible de la quantité de matière organique dans le sol.</p>
+			<p id="p20">L'impact sur l'agriculture</p>
+			<p id="p21">On peut prévoir que l'effet de serre aura plusieurs types d'impacts sur l'agriculture française : sur les productions elles-mêmes, sur les filières amont, sur l'environnement, sur l'espace rural. L'étude menée sur les céréales montre une augmentation des rendements compte tenu de la fertilisation carbonée que constitue l'augmentation de la concentration atmosphérique du dioxyde de carbone. Pour d'autres productions, comme pour la vigne, le résultat pourrait être contraire à cause de la réduction attendue du cycle de végé-tation.</p>
+			<p id="p22">On peut s'attendre également à une plus grande compétitivité des mauvaises herbes et à des conditions plus favorables au développement des maladies cryptogamiques et des insectes. Dans tous ces cas, il faudra renforcer la lutte. Par ailleurs, la donnée de la variabilité temporelle après le réchauffement climatique serait très importante pour estimer l'impact réel du changement climatique.</p>
+			<p id="p23">Sur le plan économique, les augmentations attendues des productions pourraient se traduire par une déstabilisation accrue des systèmes de production déjà fragiles aujourd'hui, par une réorientation de tous ces systèmes au gré de l'intervention publique pour soutenir les cours et pour réguler l'émission par l'activité agricole de gaz à effet de serre. Si, comme on le prévoit, la variabilité du climat augmente, cela ne serait pas non plus sans conséquence sur les systèmes de production les plus fragiles.</p>
+			<p id="p24">L'impact sur la sylviculture</p>
+			<p id="p25">La forêt et la sylviculture sont, elles aussi, concernées par les conséquences de l'effet de serre : modification du régime thermique, modification des précipitations et de la réserve en eau des sols, influence directe de l'augmentation du dioxyde de carbone. Ces divers facteurs vont avoir des effets différents suivant les espèces d'arbres, les régions, les sols ; la prévision de l'évolution globale est bien difficile dans l'état actuel des connaissances.</p>
+			<p id="p26">Néanmoins, quelques grandes tendances de l'évolution possible peuvent être dégagées. Certaines espèces dont l'extension vers le nord est actuellement limitée par les minima thermiques hivernaux (pin maritime, pin d'Alep, chêne pubescent, chêne vert) auraient une possibilité d'extension vers le nord, alors qu'elles pourraient rencontrer des difficultés dans certaines parties de leurs zones actuelles du fait de l'augmentation des déficits hydriques. Ce pourrait par exemple être le cas du Pin maritime en Aquitaine. L'augmentation des contraintes hydriques pourrait compromettre la production et même l'existence de certaines forêts actuelles de la moitié nord de la France, en particulier les hêtraies sur sols superficiels ; cette assertion doit être modulée suivant la réserve hydrique des sols et suivant la réaction particulière des différentes espèces d'arbres (notamment la réduction ou non de l'évapotranspiration en présence d'un taux de dioxyde de carbone augmenté). Des mesures d'adaptation semblent possibles tant sur le choix des espèces et des génotypes que sur la conduite des travaux forestiers.</p>
+			<p id="p27">L'impact sur les écosystèmes forestiers méditerranéens</p>
+			<p id="p28">Plusieurs études utilisant différents types de données (résultats de modèles de circulation générale, longues séries de données historiques, indices biologiques) s'accordent pour mettre en évidence des modifications dans le climat de la région méditerranéenne au cours du XXIe siècle. Ces modifications sont : l'augmentation de la température, la diminution des pluies estivales et la perturbation du régime pluviométrique allant vers une augmentation en fréquence des fortes pluies.</p>
+			<p id="p29">Il est important de comprendre comment les écosystèmes naturels méditerranéens feront face à ces modifications, d'autant plus que leur surface est en augmentation constante depuis les dernières décennies à cause du phénomène de déprise agricole. L'utilisation de modèles de simulation des flux d'eau et de carbone validés sur un écosystème de chêne vert caractéristique permet d'apporter des éléments de réponse. L'adaptation à court terme de cette végétation à la disponibilité en eau se fait par des ajustements de la surface foliaire autour d'un état d'équilibre.</p>
+			<p id="p30">La prise en compte par simulation de l'augmentation de la variabilité du climat conduit à prévoir une augmentation sensible du nombre de jours où la plante est en état de stress hydrique. Cette plus longue période de stress peut rendre les écosystèmes plus sensibles aux risques d'incendie. Suivant les espèces d'arbres, le risque d'inflammabilité varie ainsi que la vitesse de reconstitution d'un écosystème mature après incendie.</p>
+			<p id="p31">L'impact en zone de montagne</p>
+			<p id="p32">L'impact du changement climatique aurait un caractère particulier en zone de montagne. Dans les Alpes occidentales, l'élévation de température pourrait être plus forte que la hausse moyenne prévue pour la France. L'évolution des glaciers et du permafrost montre une tendance récente au réchauffement en dehors des marges de variation naturelle de l'holo-cène. La réduction de la couverture neigeuse accroîtra la sécheresse estivale et le risque d'incendies.</p>
+			<p id="p33">L'accroissement de la moyenne des précipitations et l'augmentation des précipitations de forte intensité d'une part, la déstabilisation des pentes liée à une dégradation du permafrost d'autre part, devraient accroître les risques de glissements de terrain, de flux de boue, de chutes de rochers.</p>
+			<p id="p34">La flore alpine serait affectée de manière complexe. En se plaçant dans l'hypothèse d'une possibilité de migration en altitude en réponse à l'élévation de température, les plantes d'étages alpin et nival verraient leur aire réduite, alors que ce sont ces étages qui contiennent la majeure partie des endémiques de la flore alpine. L'évolution pourrait être plutôt favorable pour les forêts de mélèzes les plus élevées en altitude et défavorable à celles des Alpes méditerranéennes.</p>
+			<p id="p35">L'impact sur le tourisme</p>
+			<p id="p36">L'évolution du climat ne peut manquer d'influer sur l'industrie française du tourisme. Toutefois, la prévision de cet impact se heurte à l'imprécision des scénarios d'évolution du climat, mais aussi à l'ignorance de l'évolution des attentes des touristes. Néanmoins, on peut envisager comme exigences minimales, la sécu-rité, la régularité de l'ensoleillement, la faible fréquence des précipitations diurnes, le confort thermique et hydrique (sécheresse de l'air), l'absence de risque pour la santé.</p>
+			<p id="p37">L'attractivité estivale de la façade ouest pourrait augmenter ainsi que celle des régions de moyenne montagne ; l'attractivité de la côte méditerranéenne française pourrait ne pas se dégrader, surtout si on la com pare à la côte espagnole déjà plus chaude. La saison hivernale des zones côtières ne devrait pas être favorisée par l'évolution climatique. Ce seront peut-être des villes importantes ou des espaces de loisirs artificiels qui pourraient voir leur fréquentation s'accentuer en hiver. La coupure entre destinations pour une clientèle apte à supporter les excès climatiques et une clientèle plus âgée et fragile pourrait s'approfondir.</p>
+			<p id="p38">L'évolution climatique pourrait poser d'autres problèmes aux sites touristiques comme le manque de ressources en eau, la disparition des plages de sable, la diminution de l'enneigement, les freins mis au développement des transports.</p>
+			<p id="p39">L'impact sur la santé</p>
+			<p id="p40">La prévision de l'impact du changement de climat sur la santé nécessite un certain nombre de spéculations. On peut néanmoins supposer que les saisons ³ normales ² du milieu du XXIe siècle reproduiront sensiblement les saisons anormalement chaudes déjà observées et en tirer des enseignements quant à l'impact sur la santé de conditions climatiques nouvelles. Cet impact sera plus important sur les sujets déjà sensibles pour d'autres raisons, notamment les personnes âgées et les malades chroniques. Le changement climatique devrait avoir une influence sur la répartition de la mortalité entre les saisons. On peut s'attendre à une certaine diminution de la mortalité en hiver et à une assez franche surmortalité en été. La répartition géographique de ces changements ne serait pas homogène sur le territoire. Des prévisions plus précises nécessiteraient une meilleure connaissance de la répartition journalière des températures et de leur répartition annuelle : y aura-t-il par exemple une augmentation des fortes chaleurs de fin de printemps ?</p>
+			<p id="p41">Les pathologies les plus susceptibles de contribuer à un excès de mortalité, suite au changement du climat, sont les maladies cardiovasculaires et cérébrovasculaires. Mais d'autres pathologies sont susceptibles de voir leur occurrence augmenter : les maladies de l'appareil respiratoire, en relation avec l'évolution de la qualité de l'air, les lithiases, les naissances prématurées, les troubles psychiques. Parmi les effets indirects, on peut prévoir l'augmentation du risque d'intoxications alimentaires et de contamination par les systèmes de climatisation.</p>
+			<p id="p42">Le changement de climat étant propice pour nombre de vecteurs de maladies (tiques, moustiques, phlébotomes), on peut s'attendre à leur extension géographique, à l'allongement de leur longévité et à un raccourcissement de la durée du développement de l'agent infectieux chez le vecteur. Le risque de développement des maladies à vecteur tant en métropole que dans les DOM-TOM augmentera donc. Il sera important de mettre en place un dispositif de surveillance épidémiologique et entomologique.</p>
+			<p id="p43">La prévision de l'impact sur la santé du changement climatique s'avère un exercice d'une grande difficulté. Des effets bénéfiques pourront coexister avec les effets négatifs. Il faut enfin souligner les marges d'incertitude qui existent sur les données climatiques futures et l'importance de la prise en compte des cofacteurs.</p>
+		</body>
+	</text>
+</cesDoc>

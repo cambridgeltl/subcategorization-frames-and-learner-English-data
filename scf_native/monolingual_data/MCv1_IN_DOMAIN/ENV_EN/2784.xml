@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Wengen 2006 Workshop - Adaptation to the Impacts of Climate Change in the European Alps</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Wengen 2006 Workshop - Adaptation to the Impacts of Climate Change in the European Alps</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 09:39:22.0</pubDate>
+							<eAddress>http://www.oecd.org/document/42/0,3343,en_2649_34361_37774506_1_1_1_1,00.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>alps</keyTerm>
+					<keyTerm>adaptation to climate change</keyTerm>
+					<keyTerm>winter tourism</keyTerm>
+					<keyTerm>economic impacts of climate change</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/2784.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Impacts of climate change are now being felt across the European Alps and future scenarios predict even greater changes, which will include a reduction in snow cover at lower altitudes, receding glaciers and melting permafrost, and changes in temperature and precipitation extremes. These changes have potential implications for critical aspects of Alpine economies, including winter tourism; exposure of human settlements and infrastructure to natural hazards; agriculture and ecosystems; and water resources. Adaptation to these observed and projected impacts is therefore becoming increasingly important – both to limit near and medium term damages and also to avoid decisions that might exacerbate vulnerability to climate changes over the longer term.</p>
+			<p id="p2">The Wengen 2006 workshop took place from October 4-6, 2006, and brought together experts from the climate science, policy, and economics communities together with decision-makers from countries within the Alpine Arc to examine the vulnerability of particular sectors and systems to climate change impacts, and more importantly to assess progress on the formulation and implementation of adaptation responses at local, regional, and national levels. A particular focus was placed on: the role of government and private actors; comparative experiences between the Alpine countries; synergies and conflicts between adaptation responses and other priorities.</p>
+			<p id="p3">Final agenda with links to presentations:</p>
+			<p id="p4">INTRODUCTORY REMARKS</p>
+			<p id="p5">Shardul Agrawala, OECD, Paris, France; </p>
+			<p id="p6">Chris Hewitt , EU ENSEMBLES Project and Hadley Center, UK Met Office, UK</p>
+			<p id="p7">KEYNOTES</p>
+			<p id="p8">CHAIR: MARC GILLET, ONERC, FRANCE</p>
+			<p id="p9">CHAIR: ELLEN WIEGANDT, GRADUATE INSTITUTE OF INT’L STUDIES </p>
+			<p id="p10">Compagnie des Alpes, France </p>
+			<p id="p11">Diversification of tourism as a response to climate change: an example from the department of Isère, France</p>
+			<p id="p12">Gerard Arnaud</p>
+			<p id="p13">THEMATIC SESSION 1C: WINTER TOURISM / LOOKING FORWARD</p>
+			<p id="p14">CHAIR: GREG GREENWOOD, DECANAT</p>
+			<p id="p15">University of Natural Resources and Applied Life Sciences, Vienna, Austria</p>
+			<p id="p16">THEMATIC SESSION 2: AGRICULTURE AND ECOSYSTEMS</p>
+			<p id="p17">CHAIR: CHRIS HEWITT, ENSEMBLES PROJECT/HADLEY CENTER</p>
+			<p id="p18">ETH-Zurich, Switzerland</p>
+			<p id="p19">Changing vegetation patterns at the alpine-nival ecotone – recent results from a GLORIA master site in the central Alps: part I , part II</p>
+			<p id="p20">Michael Gottfried</p>
+			<p id="p21">THEMATIC SESSION 3A: NATURAL HAZARDS/ SCIENTIFIC BASIS</p>
+			<p id="p22">CHAIR: M. BENISTON, UNIVERSITY OF GENEVA</p>
+			<p id="p23">Anticipating climate-driven geosystem changes in high mountain areas: a case-study in the Upper Engadine, Eastern Swiss Alps: part I , part II</p>
+			<p id="p24">Wilfried Haeberli</p>
+			<p id="p25">University of Zurich, Switzerland</p>
+			<p id="p26">University of Fribourg, Switzerland</p>
+			<p id="p27">CHAIR: MARKUS STOFFEL, UNIVERSITY OF FRIBOURG</p>
+			<p id="p28">Institut Universitaire Kurt Boesch, Sion, and University of Geneva, Switzerland</p>
+			<p id="p29">THEMATIC SESSION 3C: NATURAL HAZARDS/ INSURANCE</p>
+			<p id="p30">CHAIR: J.M. VENGEON, Pôle Grenoblois Risques Naturels</p>
+			<p id="p31">THEMATIC SESSION 4: WATER RESOURCE MANAGEMENT</p>
+			<p id="p32">CHAIR: M. BENISTON, UNIVERSITY OF GENEVA</p>
+			<p id="p33">Paolo Burlando</p>
+			<p id="p34">Clarisse Fil</p>
+			<p id="p35">SPECIAL KEYNOTE</p>
+			<p id="p36">Closing Remarks</p>
+			<p id="p37">Martin Beniston, University of Geneva, Switzerland</p>
+		</body>
+	</text>
+</cesDoc>

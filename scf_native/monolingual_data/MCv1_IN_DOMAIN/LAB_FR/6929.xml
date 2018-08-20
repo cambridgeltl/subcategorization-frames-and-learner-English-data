@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 19 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 19 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:30:57.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=19</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/6929.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">22/04/2010</p>
+			<p id="p2">Les salariés en chômage partiel bénéficient d'une allocation publique financée par l'État et, pour certains, d’une allocation complémentaire à la charge de l’employeur. Cette allocation complémentaire peut, dans certaines conditions, être remboursée en partie par l’Etat. Un arrêté fixe le taux maximal de cette prise en charge.</p>
+			<p id="p3">21/04/2010</p>
+			<p id="p4">Etant donné les restrictions qu’elle impose au salarié, une clause de non-concurrence doit notamment prévoir une contrepartie financière. Il n’est pas possible de prévoir que le montant de cette contrepartie sera minoré en cas de licenciement pour faute.</p>
+			<p id="p5">20/04/2010</p>
+			<p id="p6">Un salarié peut être reconnu inapte à occuper son poste de travail. Cette reconnaissance ne peut être prononcée que par le médecin du travail suite à deux examens médicaux (un seul en cas de danger immédiat). Elle n’a pas à intervenir obligatoirement dans le cadre d’une visite de reprise.</p>
+			<p id="p7">19/04/2010</p>
+			<p id="p8">Un salarié en contrat à durée indéterminée (CDI) peut rompre son contrat de travail sans avoir à donner d’explication. Mais attention aux démissions données sur un coup de tête. Vous prenez un risque si la volonté du salarié de rompre le contrat n’est pas claire et non équivoque. Les étapes à suivre pour ne prendre aucun risque.</p>
+			<p id="p9">19/04/2010</p>
+			<p id="p10">A travail égal, salaire égal... Mais que se passe-t-il lorsque des salariés ayant la même qualification professionnelle effectuent le même travail alors que leur diplôme est de niveau différent ?</p>
+			<p id="p11">19/04/2010</p>
+			<p id="p12">Un salarié ne peut pas être sanctionné deux fois pour les mêmes faits. Lorsque l’employeur a connaissance de plusieurs fautes, il ne peut pas notifier une sanction pour certaines d'entre elles et décider ensuite de licencier le salarié pour celles qui n’ont pas encore fait l’objet d’une sanction disciplinaire.</p>
+			<p id="p13">19/04/2010</p>
+			<p id="p14">Cette semaine, nous répondons à une question relative à la grève : un salarié gréviste peut-il être réquisitionné pour des raisons de sécurité ?</p>
+			<p id="p15">16/04/2010</p>
+			<p id="p16">Un salarié dispose d’un véhicule de fonction qu’il utilise également pour son usage personnel. Attention, en cas de suspension du contrat de travail (pour maladie, par exemple), vous ne pouvez pas reprendre ce véhicule, sauf disposition contraire.</p>
+			<p id="p17">Toute l'actualité en droit du travail PME</p>
+			<p id="p18">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p19">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

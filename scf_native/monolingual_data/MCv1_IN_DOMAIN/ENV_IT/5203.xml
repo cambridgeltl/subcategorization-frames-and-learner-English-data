@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Trasporti :: Legambiente.it</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Trasporti :: Legambiente.it</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 18:55:33.0</pubDate>
+							<eAddress>http://www.legambiente.it/dettaglio.php?tipologia_id=10&amp;contenuti_id=280</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/5203.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Trasporti</p>
+			<p id="p2">Il trasporto - il trasferimento, cioè, di beni e persone - è un’attività che ha sempre avuto un ruolo decisivo nella storia dell’uomo: non è un caso se anche la rivoluzione planetaria in corso con la globalizzazione sia strettamente legata alla crescente rapidità e facilità degli spostamenti. Proprio quello dei trasporti, tuttavia, è uno dei settori che esercitano le maggiori pressioni sulle risorse naturali. Tante le “criticità” – come sottolineano le varie edizioni del Rapporto sullo stato dell’ambiente del ministero dell’Ambiente – nel rapporto fra trasporti e ambiente: il consumo di energia da fonti non rinnovabili, e l’inquinamento atmosferico che ne deriva, l’inquinamento acustico prodotto dai mezzi di trasporto, il consumo di suolo delle infrastrutture viarie, ferroviarie e portuali, le interferenze sugli ecosistemi e sulla biodiversità, l’alterazione del paesaggio. Spesso conflittuale, dunque, l’interazione fra trasporti e ambiente è resa ancor più problematica dagli scenari di crescita del settore: quelli più verosimili per l’Italia, ad esempio, prevedono fino al 2030 un aumento medio annuo dell’1,4% per i passeggeri e dell’1,7% per le merci.</p>
+			<p id="p3">Tra le varie modalità di trasporto, quella dominante - ma anche con l’impatto maggiore sull’ambiente, il territorio, la salute e la sicurezza dei cittadini - è quella che utilizza la strada: automobili e motocicli per le persone, Tir per le merci. Nell’Unione europea si spostano in automobile circa il 70% dei cittadini, in Italia sono circa 8 su 10. Quanto alle merci, la logistica incide in Italia fino a più di un quinto del valore della produzione industriale, e la metà di questi costi è dovuto ai trasporti: più dei due terzi delle merci che viaggia lungo lo Stivale lo fa su strada (mentre in Europa non arrivano al 50%)</p>
+			<p id="p4">Cod. Fiscale 80458470582 - P. Iva 02143941009</p>
+		</body>
+	</text>
+</cesDoc>

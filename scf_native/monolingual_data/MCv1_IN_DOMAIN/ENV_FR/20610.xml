@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Réchauffement climatique - Encyclo-ecolo.com - l'encyclopédie écologique</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Réchauffement climatique - Encyclo-ecolo.com - l'encyclopédie écologique</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-08-07 15:30:16.0</pubDate>
+							<eAddress>http://www.encyclo-ecolo.com/R%C3%A9chauffement_climatique</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Réchauffement climatique</keyTerm>
+					<keyTerm>CO2</keyTerm>
+					<keyTerm>dioxyde de carbone</keyTerm>
+					<keyTerm>CSC Capture et stockage du carbone</keyTerm>
+					<keyTerm>Energies fossiles</keyTerm>
+					<keyTerm>GIEC</keyTerm>
+					<keyTerm>Gaz à effet de serre</keyTerm>
+					<keyTerm>Glaciers</keyTerm>
+					<keyTerm>Groenland</keyTerm>
+					<keyTerm>Kyoto</keyTerm>
+					<keyTerm>Maximum thermique du Paléocène/Eocène</keyTerm>
+					<keyTerm>Méthane</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/20610.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Le réchauffement climatique</p>
+			<p id="p2">D’ici à la fin du siècle, la température moyenne de notre pays augmentera de 1,5 à 6 °C.</p>
+			<p id="p3">Selon les scénarios du Giec (Groupe d’experts intergouvernemental sur l’évolution du climat), la fourchette la plus probable se situe entre 3 et 3,5 °C.</p>
+			<p id="p4">D’après une étude de la revue Nature Geoscience, l’élévation du niveau des mers pourrait atteindre 1,60 m au cours du XXIe siècle.</p>
+			<p id="p5">Selon un rapport de l’Office parlementaire des choix scientifiques et technologiques, le coût du changement climatique pourrait s’élever de 2,5 à 3 % de notre PIB (Produit intérieur brut) en 2030, contre 1 % aujourd’hui</p>
+			<p id="p6">A l’origine du réchauffement climatique, les gaz à effet de serre, avec en tête le gaz carbonique qui représente 70% des émissions. Sa concentration dans l’atmosphère ne cesse d’augmenter depuis le début de l’ère industrielle. Depuis 1750, la concentration en gaz carbonique a augmenté de 31% et celle en méthane de 150%. Une partie de ces gaz reste dans l’atmosphère et le reste est absorbé par les océans et les végétaux.</p>
+			<p id="p7">Petite chronologie du réchauffement climatique</p>
+			<p id="p8">Réchauffement climatique : chronologie</p>
+			<p id="p9">1824 Joseph Fourier, un Français, prédit que l’atmosphère terrestre voit sa température de la surface de la planète influencée par les gaz qu’elle contient et qu’on appelle aujourd’hui gaz à effet de serre (GES).</p>
+			<p id="p10">1897 Le glaciologue Claude Lorius analyse les bulles d’air contenues dans les glaciers et il démontre que, dans le passé, la température globale de la Terre augmentait quand la teneur en C02 des bulles d’air augmentait. Il démontrait ainsi le lien historique entre le taux en C02 de l’atmosphère et le réchauffement climatique.</p>
+			<p id="p11">1950 La teneur en C02 dans l’atmosphère atteint 331 ppm</p>
+			<p id="p12">1990 Le Groupe intergouvernemental d’experts sur l’évolution du climat, le GIEC, produit son 1er rapport. Les autres rapports du GIEC sont publiés en 1995, 2001 et 2007</p>
+			<p id="p13">2005 la teneur en C02 dans l’atmosphère atteint 379 ppm</p>
+			<p id="p14">2001-2009 Réchauffement - Le saviez-vous ? L’administration de l’ex-président américain Bush a censuré plus de 400 rapports scientifiques faisant état du réchauffement climatique.</p>
+			<p id="p15">2009 Le sommet de l’ONU sur le climat se tient dans la suite de ceux de Kyoto et de Bali.</p>
+			<p id="p16">D'où viennent les gaz à effet de serre produits par l'homme ?</p>
+			<p id="p17">Le gaz carbonique est surtout dû à la combustion des énergies fossiles (charbon, pétrole, gaz) et à l'industrie (fabrication de ciment) ;</p>
+			<p id="p18">le méthane provient de l'élevage des ruminants, de la culture du riz, des décharges d'ordures, des exploitations pétrolières et gazières ;</p>
+			<p id="p19">le protoxyde d'azote vient des engrais azotés et de divers procédés chimiques ;</p>
+			<p id="p20">les gaz fluorés sont des gaz propulseurs dans les bombes aérosols, des gaz réfrigérants (climatiseurs). Ils sont émis aussi par diverses industries (mousses plastiques, composants d'ordinateurs) ;</p>
+			<p id="p21">l'hexafluorure de soufre est un gaz détecteur de fuites, utilisé également pour l'isolation électrique ;</p>
+			<p id="p22">les hydrocarbures perfluorés sont entre autres émis lors de la fabrication de l'aluminium.</p>
+			<p id="p23">Hartmut Aumann, chercheur au Jet Propulsion Laboratory (JPL) dans le nord-est de Los Angeles, scrute le globe en infrarouge depuis 2003 pour mieux connaître les nuages tropicaux dont dépendent les précipitations.</p>
+			<p id="p24">Ses conclusions ? Le nombre du nuages très élevés s'accroît dans les zones tropicales du fait du réchauffement climatique, ce qui est la cause d'une augmentation des tempêtes et des chutes de pluie très importantes. Il conclue qu'il y a un lien très net entre la fréquence de ces nuages et les variations saisonnières de la température de surface moyenne des zones tropicales des océans".</p>
+			<p id="p25">Pour chaque hausse de 1° de la température de surface moyenne, on a constaté un accroissement de 45% de la fréquence des nuages en haute altitude. Étant donné que le réchauffement climatique est sur un rythme de 0,13 degré par décennie, l'équipe du JPL a conclu que la fréquence de ces tempêtes devrait augmenter de 6% par décennie.</p>
+			<p id="p26">Les conséquences du réchauffement</p>
+			<p id="p27">Au 20ème siècle, les températures ont en moyenne connu une hausse d'environ 0,7%°C au-dessus de l'époque pré-industrielle et pour des scientifiques, même l'objectif des Européens pourrait se révéler irréaliste en raison de la hausse des émissions de gaz à effet de serre due à la combustion des Energies fossiles .</p>
+			<p id="p28">La montée du niveau des océans due à la hausse des températures qui risque de faire fondre les glaces au Groenland et en Antarctique pourraient submerger 43 Etats insulaires. Cette montée engloutirait également les côtes situées en dessous du niveau de la mer sur un arc allant du Bangladesh à la Floride.</p>
+			<p id="p29">Par ailleurs, la hausse des températures et la montée du niveau des mers endommagera les coraux, provoquera une érosion du littoral, perturbera le cycle des pluies et entrainera plus de maladies.</p>
+			<p id="p30">De quoi placer la lutte contre le réchauffement climatique en tête des préoccupations dans ces petits pays qui ont donc lancé un appel à la communauté internationale, actuellement réunie à Poznan en Pologne jusqu'au 12 décembre.</p>
+			<p id="p31">Cette conférence a pour objectif de préparer la voie au successeur du protocole de Kyoto, qui devrait être signé à Copenhague à la fin 2009.</p>
+			<p id="p32">Le salut des petits Etats insulaires passe par les pays industrialisés. Ces derniers doivent baisser leurs émissions de gaz à effet de serre de plus de 40 % en dessous des niveaux de 1990 d'ici 2020 et de plus de 95% d'ici 2050. (voir Les Etats insulaires en alerte</p>
+			<p id="p33">La Conférence internationale sur les changements climatiques estime que le niveau des mers pourrait monter de 18 à 59 centimètres au cours du XXIe siècle. (voir la fiche sur le GIEC )</p>
+			<p id="p34">Selon l'Institut de Postdam sur la recherche sur l'impact du climat, "Il est toujours probable que le niveau moyen des mers augmentera de moins d'un mètre d'ici 2100, mais il ne faut pas exclure des chiffres plus importants. Si la calotte glaciaire de l'Antarctique fondait totalement, le niveau général des mers monterait de 57 mètres. En cas de fonte du Groenland, cette montée serait de 7 mètres".</p>
+			<p id="p35">L'Antarctique se réchauffe aussi</p>
+			<p id="p36">Contrairement à ce que l'on croyait, une étude de Eric Steig a montré que le continent antarctique a vu sa température augmenter elle aussi de 0,1°C par décennie depuis 50 ans, soit des valeurs comparables à ce que l'on constate sur le reste de la planète. Même s'il semble que la partie est du continent se réchauffe un peu moins que l'ouest, ce réchauffement concerne l'ensemble du continent</p>
+			<p id="p37">Rechauffement et montée des eaux</p>
+			<p id="p38">Le réchauffement climatique dilate les océans et fait fondre les calottes glaciaires continentales.</p>
+			<p id="p39">En conséquence, gonflée par la chaleur et alimentée en eau douce, l'eau des océans monte, de 3 millimètres par an depuis 1993, selon les observations des satellites Topex-Poseidon et Jason-1 et Jason-2, une coopération entre les Etats-Unis, le Centre national d’études spatiales (France) et l’organisation européenne Eumetsat.</p>
+			<p id="p40">Réchauffement, bilan 2008</p>
+			<p id="p41">On estime que l’augmentation de la température entre les années 80 et la fin du 2ème siècle sera comprise entre 1,8°C et 4°C !</p>
+			<p id="p42">Selon Météo France, l'année 2008 aurait été en France métropolitaine, "légèrement plus chaude que la normale (moyenne 1971-2000) d'environ 0,4 °C, ce qui devrait la positionner vers le vingtième rang des années les plus chaudes depuis le début du XXe siècle... Mais elle est aussi "l'une des plus fraîches de ces dix dernières années".</p>
+			<p id="p43">Le Goddard Institute for Space Studies (GISS) de la NASA évalue que l'année 2008 est la neuvième place plus chaude amais enregistrées depuis le milieu du XIXe siècle.</p>
+			<p id="p44">Selon la National Oceanic and Atmospheric Administration (NOAA) américaine et le Hadley Centre (UK) pensent que l'année 2008 est la 10ème années la plus chaude.</p>
+			<p id="p45">L'écart, positif, de température de l'année 2008 par rapport à la moyenne relevée entre 1951 et 1980 - est comprise entre 0,43 °C et 0,47 °C.</p>
+			<p id="p46">Voici l'article paru dans Courrier International au sujet de 2008, une mauvaise année météorologique 2008 serait "au 10e rang des années les plus chaudes depuis 1850, selon le bilan intérimaire rendu public cette semaine par l'Organisation météorologique mondiale (OMM). La liste des catastrophes et des phénomènes climatiques exceptionnels est longue.</p>
+			<p id="p47">La fonte de la banquise arctique a atteint son pic le 14 septembre 2008. Cette fonte est la deuxième en importance jamais observée par satellite depuis 1979. En 2008, la banquise ne couvrait plus que 4,6 millions de kilomètres carrés, contre 4,3 millions en 2006, l'année record pour la plus petite surface jamais observée. La banquise perd en moyenne 74 000 km2 par an depuis trente ans. Ces données ont été au centre des débats lors du récent congrès de l'American Geophysical Union (AGU) en raison du phénomène de l'"amplification arctique", qui retient de plus en plus l'attention des chercheurs car le cercle vicieux qui en résulte pourrait faire perdre à l'humanité le contrôle du climat.</p>
+			<p id="p48">Plus la surface libre de glace augmente dans les mers arctiques, plus elles absorbent le rayonnement solaire, ce qui augmente les températures régionales et accélère le dégel du permafrost, dans lequel dorment des milliards de tonnes de méthane, un des plus puissants gaz à effet de serre. Le réchauffement des océans arctiques semble aussi en voie de libérer une partie des milliards de tonnes d'hydrates de méthane – les clathrates – qui reposent solidifiées sur le fond de l'océan. Des équipes de chercheurs qui ont voulu mesurer, l'été dernier, la libération de méthane dans les mers voisines de la Sibérie parlent de taux 100 à 200 fois supérieurs aux niveaux naturels.</p>
+			<p id="p49">Pour l'Organisation météorologique mondiale (OMM), le plus inquiétant réside cependant dans la "disparition spectaculaire d'une partie importante – près de 25 % – des plates-formes de glace géantes qui bordent l'île d'Ellesmere. D'une épaisseur de 70 mètres, ces plateaux glaciaires couvraient, il y a un siècle, 9 000 km2, dont il ne reste aujourd'hui qu'à peine 1 000 km2". Ces glaces "historiques" vont être désormais remplacées par des glaces annuelles, de quelques mètres d'épaisseur. Au congrès de l'AGU, d'autres chercheurs ont fait état de liens nouveaux entre la réduction des glaces arctiques et la fonte de l'inlandsis, la calotte de glace de près de 2 kilomètres qui couvre le Groenland. La période de fonte estivale, qui dure habituellement de dix à quinze jours, s'est étendue cet été sur trente-cinq jours, du jamais-vu. La perte de volume de l'inlandsis aurait été trois fois plus importante cet été qu'en 2007.</p>
+			<p id="p50">Mais ces tendances de fond coïncident avec d'importantes disparités régionales ailleurs sur la planète. Les températures ont été en effet supérieures à la moyenne dans toute l'Europe. Dans les pays nordiques, l'hiver n'a jamais été aussi doux, alors qu'il s'est avéré un des plus rigoureux dans une grande partie de l'Eurasie, particulièrement en Turquie et en Chine. L'hiver dernier a été particulièrement sévère en Chine, recouvrant de neige 1,3 million de kilomètres carrés dans 15 provinces méridionales.</p>
+			<p id="p51">Pendant que l'Argentine et une bonne partie des régions méridionales de l'Amérique du Sud connaissaient des minima record, en Australie du Sud, les maxima au-dessus de 35 °C ont perduré plus de quinze jours. L'importante sécheresse que connaît cette région a donc vu ses effets s'amplifier en 2008. A la fin juillet, la majeure partie du sud-est de l'Amérique du Nord a connu une sécheresse de "modérée à exceptionnelle", selon l'OMM. Cette sécheresse a aussi touché le nord et le centre de la Californie, aux prises avec des incendies difficiles à réprimer. Au Canada, le sud de la Colombie-Britannique a connu sa cinquième plus longue sécheresse depuis soixante et un ans.</p>
+			<p id="p52">Le rapport de l'OMM fait par ailleurs état des chutes de neige exceptionnelles qu'a connues le Québec, avec un record absolu de 550 cm dans la vieille capitale, sans doute pour immortaliser son 400e anniversaire, avec ses maisons englouties et, il faut le dire, quatre morts pour cause d'effondrements. Le rapport note aussi que l'hiver torontois est le troisième en enneigement des soixante-dix dernières années. Quant à l'Ile-du-Prince-Edouard, elle a subi fin janvier une de ses pires tempêtes de glace des dernières décennies, qui a privé d'électricité 95 % de sa population pendant quelques jours.</p>
+			<p id="p53">Les inondations ont été nombreuses et souvent fatales sur la planète, particulièrement en Afrique, y compris dans la partie subsaharienne, et dans l'est de l'Australie, en Inde, au Pakistan et au Vietnam. En Inde, ces inondations ont déplacé 10 millions de personnes. Les cyclones ont aussi été abondants, et celui qui a frappé l'océan Indien et le Myanmar en mai, Nargis, a fait près de 78 000 victimes. L'Atlantique a connu seize tempêtes tropicales, dont huit sont devenues des ouragans particulièrement dommageables dans les Caraïbes, en Amérique centrale et aux Etats-Unis. "</p>
+			<p id="p54">La lutte contre le réchauffement</p>
+			<p id="p55">Les citoyens contre le réchauffement</p>
+			<p id="p56">Comment lutter au quotidien contre le réchauffement climatique?</p>
+			<p id="p57">Des changements dans le mode de vie et de nos comportements, faire le choix d'une consommation de produits plus respectueux de l'environnement , peuvent, accumulés, avoir un impact positif.</p>
+			<p id="p58">Les bonnes résolutions pouvant impacter la vie quotidienne dans le bon sens.</p>
+			<p id="p59">Les gouvernement contre le réchauffement</p>
+			<p id="p60">Sans les Etats et une coordination mondiale, point de salut. D'où les conférences de Kyoto et de Bali auxquelles ont fait suite celles de Poznan en décembre 2008 et de Copenhague fin 2009.</p>
+			<p id="p61">S'adapter au réchauffement</p>
+			<p id="p62">Dans la perspective du sommet de Copenhague, et pour contenir le réchauffement climatique de nombreux pays mettent en avant des objectifs de réduction de gaz à effet de serre, et au premier chef de C02. Un étude récente lance un pavé dans la marre des efforts anti-réchauffemetn. Cette étude suggère qu'il serait bien plus efficace d'aider les pays en voie de développement à s'adapter au réchauffement climatique. En effet, essayer de les conséquences du réchauffement en limitant trop brutalement les émissions de gaz à effet de serre seraient trop coûteux et relativement peu efficace. (Certains pensent d'ailleurs qu'il est déjà trop tard...).</p>
+			<p id="p63">Cette étude démontre que vouloir limiter à 2°C le réchauffement climatique serait particulièrement coûteux et aurait des conséquences fiscales lourdes (taxe carbone, multiplication des taxes sur les carburants, ..). Cette lutte généralisée anti C02 et anti réchauffement climatique amputerait de 12,9% le PIB mondial d'ici la fin du siècle. A comparer au coût du réchauffement proposé par le rapport Stern , soit 5 500 milliards de dollars.</p>
+			<p id="p64">L'étude part du constat que "le problème du réchauffement ne se produira pas dans le monde développé mais dans les pays en voie de développement".</p>
+			<p id="p65">Les chercheurs suggèrent qu'il vaudrait mieux investir dans des programmes permettant de s'adapter au changement climatique plutôt que de le stopper. Cela serait bien beaucoup plus rentable et efficace. Cela représenterait un investissement de 10 milliards de dollars ferait selon eux gagner 16 milliards de dollars sur un siècle.</p>
+			<p id="p66">Exemple : plutôt que d'essayer de changer le climat en cas de sécheresse régulière, il est plus efficace de changer ses pratiques de consommation d'eau. D'arrêter l'irrigation traditionnelle pour privilégier le goutte-à-goutte. Ainsi une politique qui consisterait à aider les agriculteurs des pays en voie de développement s'équiper en matériel d'irrigation en goutte-à-goutte et à adapter leurs pratiques agricoles, à isoler leurs habitations, etc serait bien plus efficace.</p>
+			<p id="p67">L'étude préconise de procéder à une adaptation progressive couplée à une réduction progressive et non pas brutale des émissions de GES et de CO2.</p>
+			<p id="p68">Ce rapport a été rapport publiée par le statisticien danois Bjorn Lomborg du Centre de consensus de Copenhague.et l'étude conduite par des chercheurs italiens</p>
+			<p id="p69">[ modifier ] A lire sur le réchauffement climatique</p>
+			<p id="p70">Dernière modification de cette page le 7 août 2010 à 12:26.</p>
+			<p id="p71">Le portail du développement durable</p>
+			<p id="p72">et de la consommation responsable</p>
+		</body>
+	</text>
+</cesDoc>

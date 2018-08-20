@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Convention collective du bâtiment : point sur le renouvellement de la période d’essai - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Convention collective du bâtiment : point sur le renouvellement de la période d’essai - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:32:48.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=BTP&amp;id_art=1572&amp;titre=Convention+collective+du+b%C3%A2timent+%3A+point+sur+le+renouvellement+de+la+p%C3%A9riode+d%E2%80%99essai</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7052.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Convention collective du bâtiment : point sur le renouvellement de la période d’essai</p>
+			<p id="p2">Vous avez une entreprise dans le secteur du bâtiment et vous venez d’embaucher un nouvel ouvrier. Vous souhaitez prévoir dans son contrat la possibilité du renouvellement de sa période d’essai. Mais que dit sur ce point la convention nationale des ouvriers du bâtiment ?</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Définition. La période d’essai vous permet d’évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d’apprécier si les fonctions occupées lui conviennent ( Code du travail , art. L. 1221-20).</p>
+			<p id="p5">Pendant ce laps de temps déterminé, vous et votre salarié restez libres de mettre fin au contrat sans avoir à respecter de condition ou de procédure particulière.</p>
+			<p id="p6">Avant de rédiger le contrat de travail, consultez votre convention collective à jour des dernières modifications.</p>
+			<p id="p7">Le renouvellement permet d'allonger la période d'essai quand elle a été jugée trop courte pour évaluer le salarié.</p>
+			<p id="p8">Cette possibilité ne se présume pas, elle doit être expressément stipulée dans le contrat de travail ou la lettre d’engagement (Code du travail, art. L. 1221-23).</p>
+			<p id="p9">Attention : la convention collective du bâtiment ou la convention collective des travaux publics applicable doit prévoir la possibilité d’un renouvellement de la période d’essai. Si elle ne le prévoit pas, il vous est impossible d’y recourir et de l’indiquer dans le contrat de travail, même avec l’accord du salarié. La clause du contrat sera nulle, même si la durée totale de la période d’essai renouvelée reste inférieure à la durée maximale de la période d’essai prévue par la convention.</p>
+			<p id="p10">Les conventions du BTP des ouvriers ne prévoient pas de renouvellement possible de la période d’essai.</p>
+			<p id="p11">Les conventions BTP des ETAM et des cadres prévoient la possibilité d’un renouvellement et d’un seul.</p>
+			<p id="p12">Pour information, les durées des périodes d'essai fixées par les différentes conventions collectives en vigueur dans le secteur du BTP sont les suivantes :</p>
+			<p id="p13">pour les ouvriers, 3 semaines au maximum (non renouvelable) ;</p>
+			<p id="p14">pour les employés, 2 mois au maximum (renouvelable une fois) ;</p>
+			<p id="p15">pour les techniciens, agents de maîtrise et cadres, 3 mois au maximum (renouvelable une fois).</p>
+			<p id="p16">I. Vénuat</p>
+			<p id="p17">(Cass. soc., 25 février 2009, n° 07-40155)</p>
+			<p id="p18">Les Editions Tissot vous proposent la convention collective bâtiment nationale ou de votre région. Pour les entreprises du secteur des TP, retrouvez la convention collective travaux publics applicable pour les différentes classifications (cadres, ETAM, ouvriers). Pour rédiger vos contrats de travail en toute sécurité, consultez votre convention collective : vous aurez la certitude d’être à jour des dernières modifications.</p>
+			<p id="p19">Article publié le 17 mars 2009</p>
+			<p id="p20">Partagez cet article :</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

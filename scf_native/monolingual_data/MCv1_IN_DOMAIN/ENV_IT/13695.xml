@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 21:08:32.0</pubDate>
+							<eAddress>http://rifiutizerovda.altervista.org/esperti/143/resoconto-della-conferenza-dibattito-del-20-maggio-a-gressan/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/13695.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Alla serata hanno partecipato molte persone, quante ne poteva contenere la sala e sono state presentate dai relatori alcune alternative al piano regionale di gestione e smaltimento finale dei rifiuti. In particolare si è posta l’attenzione sulla quantità esigua dei rifiuti prodoti nella nostra valle, insufficienti ad alimentare da soli un impianto di incenerimento. Sono state messe in luce anche le problematiche legate alla “bonifica” della discarica di Brissogne, come l’attuale assenza di inquinamento della falda, l’eliminazione di odori grazie alla normale gestione post-chiusura, la criticità di un’operazione mai effettuata in Europa di asservimento della discarica all’inceneritore. Le alternative all’inceneritore si basano sul rispetto delle normative europee e nazionali, quali la riduzione dei rifiuti, l’introduzione della raccolta e del compostaggio della frazione “umida”, l’aumento della raccolta differenziata con recupero dei materiali. Le ipotesi di chiusura del ciclo dei rifiuti tengono conto del contesto locale, privilegiando i trattamenti a freddo (TMB), che garantirebbero, tra le altre cose una vita 4-5 volte più lunga della futura discarica di Issogne, dove verrebbero smaltite le frazioni inerti risultanti dal trattamento e non ceneri di inceneritore, ben più problematiche.</p>
+			<p id="p2">Sono stati presentati diversi studi a livello nazionale (ISS, …) ed europeo (IVS …) che dimostrano un aumento di rischio per alcune patologie cancerogene e non per le popolazioni che vivono in prossimità degli impianti di incenerimento, fino a oltre 15 km di distanza. Si è parlato di alcuni eventi incidentali accaduti agli impianti, che hanno comportato l’emissione indesiderata di inquinanti tossici nell’ambiente. I finaziamenti impropri (ex- CIP6 ora Certificati Verdi) dati agli impianti che producono energia da fonti rinnovabili ed assimilate, che in Italia comprendono anche i rifiuti, sono stati discussi, dimostrando che l’energia prodotta con l’incenerimento dei rifiuti sarebbe poco economica e non competitiva in assenza di tali finanziamenti. Tali contributi sono stati aboliti e i loro effetti cesseranno entro il 2020, quindi un impianto valdostano non potrebbe avvalersene, con perdite di gestione cospicue, che si aggiungerebbero alle spese ingenti da sostenere per gli impianti e il sistema di filtri per i fumi.”</p>
+			<p id="p3">Scrivi un Commento</p>
+			<p id="p4">Sitoweb</p>
+		</body>
+	</text>
+</cesDoc>

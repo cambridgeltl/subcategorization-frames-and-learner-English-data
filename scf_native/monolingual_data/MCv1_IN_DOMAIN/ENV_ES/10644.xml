@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La diversidad de ecosistemas</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La diversidad de ecosistemas</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2006-07-15 02:44:12.0</pubDate>
+							<eAddress>http://www.peruecologico.com.pe/lib_c21_t05.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/10644.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La Diversidad de Ecosistemas</p>
+			<p id="p2">La Tierra comprende una enorme variedad de ambientes terrestres y acuáticos, desde los polos hasta la línea ecuatorial y desde las zonas costeras hasta las profundidades marinas. La clasificación de esta enorme diversidad es abordada por la biogeografía y la ecología.</p>
+			<p id="p3">El interés de clasificar los ambientes no es sólo teórico, sino que es de fundamental importancia para el manejo y la conservación de la biosfera.</p>
+			<p id="p4">Para tal clasificación se han acuñado una variedad de términos (comunidad, hábitat, ecosistema, bioma, reino, dominio, ecorregión) para establecer una jerarquía y poder mapear la distribución de la diversidad de ambientes.</p>
+			<p id="p5">En general, los intentos de clasificar las unidades ecológicas se basan en la identificación de las especies que se encuentran en ellas con una descripción de las características físicas del área, como el clima y la vegetación. Las unidades terrestres, por ejemplo, son identificadas en base a las comunidades vegetales, o sea, áreas con composición y estructura similar de las especies vegetales.</p>
+			<p id="p6">Las clasificaciones existentes son numerosas y ofrecen divergencias considerables. Por lo demás los mapas confeccionados a nivel mundial para tal fin son muy generales y tienen muy poco valor a nivel nacional y local.</p>
+			<p id="p7">IMPORTANTE</p>
+			<p id="p8">La clasificación más utilizada es desde un enfoque biogeográfico a nivel mundial, con detalles más elaborados a nivel nacional y regional. En general de reconocen a nivel global 6 reinos de flora y 7 regiones de fauna.</p>
+			<p id="p9">América Central y del Sur pertenece a la región neotropical, que se divide en dominios y provincias biogeográficas. El esquema general para situar al Perú es el de Región, Dominio y Ecorregiones, y dentro de éstas determinar en detalle las condiciones locales.</p>
+			<p id="p10">1. Región neotropical</p>
+			<p id="p11">· Dominio amazónico: Con las ecorregiones amazónica o selva baja, pacífica o bosque tropical del Pacífico, yungas o selva alta, páramo, y ecuatorial o bosque seco ecuatorial.</p>
+			<p id="p12">· Dominio andino-patagónico: Con las ecorregiones de la puna, del desierto costero, y vertientes occidentales o serranía esteparia.</p>
+			<p id="p13">· Dominio chaqueño: Con la ecorregión de la sabana de palmeras.</p>
+			<p id="p14">2. Región oceánica</p>
+			<p id="p15">· Dominio oceánico tropical: Ecorregión del mar tropical.</p>
+			<p id="p16">· Dominio oceánico peruano-chileno: Ecorregión del mar frío de la Corriente Peruana. A partir de esta clasificación general es posible integrar una clasificación en base a biotopos y ecosistemas, aspecto muy poco estudiado y nada claro aún.</p>
+			<p id="p17">Por ejemplo, para la ecorregión del desierto costero se pueden distinguir las siguientes biocenosis o ecosistemas: ecosistema del desierto, ecosistema de ríos costeros, ecosistema de lagunas salobres, ecosistema de lagunas de aguas dulces, ecosistema de pantanos, ecosistema del algarrobas, ecosistema de gramadal, ecosistema de bosques de galería, ecosistemas de las lomas costeras (loma de árboles, de arbustos y hierbas, de suculentos, de cactáceas, etc.).</p>
+			<p id="p18">EN CONCLUSIÓN</p>
+			<p id="p19">La clasificación de los ecosistemas a nivel mundial y nacional es un gran reto y necesita del concurso de técnicas modernas.</p>
+		</body>
+	</text>
+</cesDoc>

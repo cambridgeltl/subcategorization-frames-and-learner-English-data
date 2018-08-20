@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 21:05:28.0</pubDate>
+							<eAddress>http://rifiutizerovda.altervista.org/category/video/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/13460.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">nov 22 2009</p>
+			<p id="p2">Come forse saprete in Valle d’Aosta esiste un solo distributore per il latte, migliaia di valdostani d’altronde preferiscono bere latte lombardo o emiliano, per non parlare di quello tedesco… ma lo sapevate che in questi luoghi esistono molti inceneritori? Allora leggete il documento riportato al link seguente, ne scoprirete delle belle sulla correlazione tra impianti di incenerimento e diossine nel latte…io ai miei figli non lo darei…</p>
+			<p id="p3">Sul sito di youtube si trovano numerosi video aventi per tema l’incenerimento dei rifiuti, mi sono imbattuta in questo e mi è venuta in mente la conferenza del primo marzo a Palazzo Regionale. Altra realtà geografica, stessi problemi…ecco come vengono trattati i cittadini (competenti) che si permettono di intervenire ed esprimersi democraticamente… Leggi il resto di questo articolo »</p>
+			<p id="p4">Dott. Paul Connett professore di chimica Università St Lawrence Canton, NY 13617.</p>
+			<p id="p5">Il Dott. Paul Connett è professore di chimica alla St Lawrence University a Canton, New York, in cui ha insegnato per 15 anni. Ha ottenuto la laurea in scienze naturali all’università di Cambridge ed il suo Ph.D. in chimica all’università di Dartmouth negli Stati Uniti. Negli ultimi 14 anni ha studiato le problematiche della gestione dei rifiuti, con un’attenzione particolare ai pericoli derivanti dall’incenerimento ed alle alternative di non combustione più sicure e più sostenibili. Leggi il resto di questo articolo »</p>
+			<p id="p6">La frazione umida del rifiuto domestico rappresenta in media il 30% del totale. Questa è formata da scarti di cucina e di giardino. Nel rifiuto indifferenziato essa è responsabile dei cattivi odori, degli oleati e della proliferazione di batteri patogeni. Leggi il resto di questo articolo »</p>
+			<p id="p7">NEWSLETTER</p>
+			<p id="p8">Iscriviti alla Newsletter per rimanere in contatto con il Comitato Rifiuti Zero VdA (riunioni aperte, uscite pubbliche ed iniziative varie)</p>
+			<p id="p9">Indirizzo Email:</p>
+			<p id="p10">Commenti recenti</p>
+		</body>
+	</text>
+</cesDoc>

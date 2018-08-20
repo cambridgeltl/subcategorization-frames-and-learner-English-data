@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>:: ΚΕ.Π.Ε.Α. :: - ΚΕΝΤΡΟ ΠΛΗΡΟΦΟΡΗΣΗΣ ΕΡΓΑΖΟΜΕΝΩΝ &amp;amp; ΑΝΕΡΓΩΝ</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>:: ΚΕ.Π.Ε.Α. :: - ΚΕΝΤΡΟ ΠΛΗΡΟΦΟΡΗΣΗΣ ΕΡΓΑΖΟΜΕΝΩΝ &amp;amp; ΑΝΕΡΓΩΝ</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 19:17:48.0</pubDate>
+							<eAddress>http://www.kepea.gr/aarticle.php?id=209</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="el"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EL/5838.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Aπαιτείται έγγραφο για τη μερική απασχόληση</p>
+			<p id="p2">Η σύμβαση μερικής απασχόλησης πρέπει να καταρτίζεται εγγράφως. Η έγγραφη αυτή συμφωνία πρέπει να περιέχει τουλάχιστον τα ακόλουθα στοιχεία:</p>
+			<p id="p3">α) τα στοιχεία ταυτότητας των συμβαλλομένων,</p>
+			<p id="p4">β) τον τόπο παροχής της εργασίας, την έδρα της επιχείρησης ή τη διεύθυνση του εργοδότη,</p>
+			<p id="p5">γ) το χρόνο της απασχόλησης, τον τρόπο κατανομής και τις περιόδους εργασίας,</p>
+			<p id="p6">δ) τον τρόπο αμοιβής και</p>
+			<p id="p7">ε) τους τυχόν όρους τροποποίησης της σύμβασης.(άρθρο 2 Ν.2639/1998)</p>
+			<p id="p8">Ποια η συνέπεια παράλειψης του έγγραφου τύπου;</p>
+			<p id="p9">Αν παραληφθεί η τήρηση του εγγράφου τύπου, σύμφωνα με την κρατούσα νομολογία η σύμβαση είναι άκυρη ως μερικής απασχόλησης και ισχύει ως πλήρους απασχόλησης. Η άποψη αυτή ενισχύεται και από την ίδια την διάταξη του άρθρο 2, παρ.1,εδ. β του Ν.2639/98 η οποία καθιερώνει τεκμήριο (μαχητό) υπέρ της σύμβασης αορίστου χρόνου.</p>
+			<p id="p10">Υπάρχει υποχρέωση για γνωστοποίηση στην Επιθεώρηση Εργασίας;</p>
+			<p id="p11">Ο εργοδότης οφείλει, μέσα σε 8 ημέρες από την κατάρτιση της σύμβασης μερικής απασχόλησης, να τη γνωστοποιήσει στην αρμόδια Επιθεώρηση Εργασίας. Αν δεν προβεί στη γνωστοποίηση αυτή, τεκμαίρεται / θεωρείται ότι η σχετική σύμβαση καλύπτει σχέση πλήρους απασχόλησης.</p>
+		</body>
+	</text>
+</cesDoc>

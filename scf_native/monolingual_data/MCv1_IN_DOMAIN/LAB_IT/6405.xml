@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 16:05:11.0</pubDate>
+							<eAddress>http://www.di-elle.it/index.php?url=/consultazione/giurisprudenza_2/trasferimento_dazienda_683/trattamento_economico_e_normativo_690/view/690/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/6405.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Direttore responsabile Mario Fezzi — www.fezzi.it</p>
+			<p id="p2">trattamento economico e normativo</p>
+			<p id="p3">In caso di trasferimento di azienda e di applicazione di diverse fonti collettive da parte, rispettivamente, del datore di lavoro cedente e del cessionario, è conforme alla previsione di cui all'art. 2112 c.c. la stipulazione di un accordo, sottoscritto nel contesto delle procedure di confronto sindacale previste dall'art. 47 della L. n 428/1990, che regoli il passaggio da un'azienda all'altra e, in particolare, che confermi il trattamento economico e normativo applicato ai lavoratori presso l'azienda cedente. (Trib. Roma 3/5/2007, Est. Boghetich, in Lav. nella giur. 2008, con commento di Pasquale Dui, 177)</p>
+			<p id="p4">Per il nuovo istituto introdotto dalla L. n. 297/1982 unico debitore del Tfr, anche per il periodo passato alle dipendenze del precedente datore di lavoro, nel caso di trasferimento d'azienda, è il titolare dell'impresa al momento della cessazione del rapporto di lavoro, atteso che in tale momento matura, ed è esattamente determinabile nel suo importo, il diritto del lavoratore al Tfr, del quale la cessazione del rapporto è elemento costitutivo. (Trib. Grosseto 2/5/2007, Dott. Ottati, in Lav. nella giur. 2008, 99)</p>
+			<p id="p5">Nel trasferimento d’azienda ex art. 2112 c.c. i debiti contributivi, da considerarsi comunque estranei all’esercizio dell’azienda, non possono gravare su un soggetto che non ha rivestito la qualifica di datore di lavoro nel periodo a cui si riferisce la contribuzione. (Corte d’appello Catania 13/11/2004, Pres. Pagano Rel. Maiore, in Lav. nella giur. 2005, 701)</p>
+			<p id="p6">In caso di trasferimento di azienda le provvigioni riconosciute ad un dipendente di un concessionario di automobili addetto alla vendita delle medesime, non permangono quale obbligo in capo all'acquirente se la loro previsione non è contenuta in un contratto individuale, in uno collettivo né sono legate da un rapporto di reciprocità con le mansioni svolte dal lavoratore. (Trib. Trieste 17/9/2002, Est. Sonego, in Lav. nella giur. 2003, 237, con commento di Alessandra Marin)</p>
+			<p id="p7">A norma dell'art. 2112, 2° comma c.c. (come modificato dall'art.47, l. n. 428/90 in attuazione della direttiva CEE n. 187/77), nel caso in cui l'azienda acquirente applichi già, nell'ambito della propria organizzazione, un contratto collettivo, deve ritenersi che quest'ultimo sostituisca immediatamente e totalmente la disciplina collettiva vigente presso l'azienda alienante e che, secondo i principi generali, detto contratto possa essere modificato "in peius " dalla successiva contrattazione collettiva (Trib. Milano 22/11/00, est. Taraborrelli, in Orient. Giur. Lav. 2000, pag. 1002)</p>
+			<p id="p8">Qualora ai lavoratori sia riconosciuto un più favorevole trattamento economico del lavoro notturno, previsto da contratto integrativo aziendale, recepito nei singoli contratti individuali, non è consentito alla nuova società, incorporante la precedente datrice di lavoro, modificare in pejus il trattamento del lavoro notturno, in pretesa applicazione di diverso contratto collettivo, costituendo tale comportamento violazione di un diritto acquisito da ogni singolo lavoratore, in forza del richiamo al precedente contratto integrativo aziendale, contenuto in ogni singolo contratto individuale (Pret. Busto Arsizio, sez. Gallarate, 20/10/98, est. Guadagnino, in D&amp;L 1999, 373)</p>
+			<p id="p9">DL online | Viale Piave 12, | 20129 Milano | Contatti: info@di-elle.it</p>
+		</body>
+	</text>
+</cesDoc>

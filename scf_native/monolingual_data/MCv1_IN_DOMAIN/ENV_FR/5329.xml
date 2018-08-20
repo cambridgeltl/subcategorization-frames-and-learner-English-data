@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Glossaire - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Glossaire - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 19:18:39.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/Glossaire,12218.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/5329.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Envoyer à un ami close</p>
+			<p id="p2">Votre courriel</p>
+			<p id="p3">Pour l’année 2008 la France comptait dans sa base de données 18 660 agglomérations d’assainissement comprenant 18 830 stations d’épuration qui représentaient une charge globale de 75 millions d’Equivalents-habitants (Eh) pour une capacité épuratoire de l’ensemble des stations d’épuration de 94 millions d’Eh. Les agglomérations de plus de 2000 Eh étaient au nombre de 3190 pour 3280 stations d’épuration.</p>
+			<p id="p4">Sur ces 3083 stations d’épuration, 268 (9% du total) n’étaient pas conformes en termes de traitement des matières organiques et/ou des nutriments (phosphore et/ou azote) selon les échéances initiales imposées par la directive 91/271/CEE ; elles étaient 522 installations non conformes fin 2006.</p>
+			<p id="p5">Sur ces 3260 stations d’épuration, au 31 décembre 2009, 222 (7% du total) n’étaient pas conformes en termes de traitement des matières organiques et/ou des nutriments (phosphore et/ou azote) selon les échéances initiales imposées par la directive 91/271/CEE ; elles étaient 522 installations non conformes fin 2006. A ce chiffre il faut rajouter une centaine de stations d’épuration qui sont devenues non conformes depuis le 31 décembre 2006 et qui ont un objectif de mise en conformité au plus tôt.</p>
+			<p id="p6">Sommaire :</p>
+			<p id="p7">Agglomération d’assainissement</p>
+			<p id="p8">Une agglomération d’assainissement est une zone de population et d’activités économiques déjà raccordées à un système d’assainissement (Réseau de collecte ou/et Station d’épuration. Elle peut ainsi recouvrir plusieurs communes ou seulement une partie d’une commune. En règle générale, 1 agglomération d’assainissement = 1 système d’assainissement composé d’un réseau de collecte et d’une station de traitement des eaux usées.</p>
+			<p id="p9">DBO5 : Demande Biologique/Biochimique en Oxygène pour 5 jours. La DBO est la quantité d’oxygène nécessaire aux micro-organismes présents dans un milieu pour oxyder (dégrader) les substances organiques contenues dans un échantillon d’eau maintenu à 20° C et dans l’obscurité, pendant 5 jours.</p>
+			<p id="p10">Equivalents-habitants (Eh)</p>
+			<p id="p11">L’Equivalent-habitants est uneunité de mesure permettant de quantifier la charge brute de pollution organique, 1 Eh= 60 g de DBO5.</p>
+			<p id="p12">Traitement secondaire</p>
+			<p id="p13">Il s’agit de systèmes de traitement permettant d’éliminer la pollution particulaire et dissoute au niveau des matières organiques. Ils doivent respecter les obligations de traitement de la directive au niveau des paramètres DBO5 et DCO.</p>
+			<p id="p14">Traitement plus rigoureux</p>
+			<p id="p15">Il s’agit de systèmes de traitement permettant d’éliminer non seulement les matières organiques mais également le phosphore et ou l’azote global. En général, une boue activée faible charge bien dimensionnée, filière majoritaire en France, permet d’éliminer correctement l’azote total, d’où le nombre important de stations relevant du traitement plus rigoureux.</p>
+			<p id="p16">Zones sensibles</p>
+			<p id="p17">Qu’est ce qu’une zone sensible ?</p>
+			<p id="p18">La définition précise est donnée en annexe II.A de la directive 91/271/CEE. Les zones sensibles qui nous intéressent sur le territoire national sont principalement des masses d’eau sensibles à l’eutrophisation. Les pollutions visées sont essentiellement les rejets de phosphore et/ou d’azote en raison des risques que représentent ces polluants pour le milieu naturel (eutrophisation).</p>
+			<p id="p19">Conséquences sur la qualité de l’épuration des eaux usées urbaines ?</p>
+			<p id="p20">Les agglomérations de plus de 10 000 Eh dont les rejets sont effectués en zone sensible doivent faire subir à leurs eaux usées un traitement en complément du traitement biologique secondaire, afin de réduire les rejets des phosphore et/ou d’azote, source du risque d’eutrophisation. Elles doivent satisfaire les niveaux de traitement définis en annexe I.5 de la directive.</p>
+			<p id="p21">La révision des zones sensibles</p>
+			<p id="p22">La délimitation des zones sensibles est révisée tous les 4 ans. La première délimitation a été fixée en 1994 avec l’échéance de mise aux normes pour 1998 fixée dans la directive eaux urbaines résiduaires. Une deuxième délimitation a été prise en 1999 avec échéance 2006. La troisième révision publiée au journal officiel du 22 février 2006 a permis de fixer de nouvelles délimitations avec une échéance à début 2013 (sauf pour les zones concernées par le contentieux communautaire dont l’échéance est ramenée à 1998). Une nouvelle révision est prévue pour fin 2009.</p>
+			<p id="p23">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

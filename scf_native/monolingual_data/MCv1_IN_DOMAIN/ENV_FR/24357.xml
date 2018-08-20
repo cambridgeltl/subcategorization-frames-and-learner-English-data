@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Hydroélectricité, barrages hydroélectriques - notre-planete.info</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Hydroélectricité, barrages hydroélectriques - notre-planete.info</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-11 02:38:16.0</pubDate>
+							<eAddress>http://www.notre-planete.info/ecologie/energie/hydroelectricite.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/24357.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">environnement et risques naturels depuis 2001</p>
+			<p id="p2">L'hydroélectricité, les barrages hydroélectriques</p>
+			<p id="p3">Historique</p>
+			<p id="p4">L'usage de la force hydraulique remonte au début de notre ère. Jusqu'au moyen-âge, de nombreux moulins permettaient de fournir de l'énergie mécanique. Certains d'entre eux produisent encore aujourd'hui de l'énergie électrique renouvelable. La conversion des sites à la production d'électricité s'est faite à partir de la fin du XIXème siècle.</p>
+			<p id="p5">En France, les grandes installations hydroélectriques ont été développées au cours du XXème siècle sous le régime de la concession de force hydraulique : l'État confiait, généralement pour 75 ans, l'exploitation de la chute d'eau au concessionnaire en contrepartie de la réalisation, par ce dernier, des installations qui intègrent le domaine public hydroélectrique. Ceci a conduit à un important effort d'équipement qui a permis d'exploiter une grande partie du potentiel hydroélectrique français par de grands aménagements.</p>
+			<p id="p6">Les types de centrales</p>
+			<p id="p7">L'utilisation de la force motrice de l'eau peut s'envisager soit au "fil de l'eau" soit à partir de retenues obtenues par des barrages.</p>
+			<p id="p8">On distingue alors plusieurs techniques :</p>
+			<p id="p9">Les centrales au fil de l'eau, ne disposant pas de capacité pour retenir l'eau, turbinent en continu le débit du cours d'eau. En France, ces centrales produisent en moyenne 35 TWh par an.</p>
+			<p id="p10">Les centrales de lacs ou fonctionnant par éclusées permettent de moduler la production électrique en retenant l'eau dans leur réservoir créé notamment par des barrages et en turbinant en période de pointe de consommation. En France, ces centrales produisent en moyenne 30 TWh par an.</p>
+			<p id="p11">Les centrales de pompage-turbinage (ou stations de transfert d'énergie par pompage, STEP) utilisent un réservoir amont et un réservoir aval entre lesquels l'eau est pompée vers l'amont en période de basse consommation quand l'électricité est peu chère et turbinée vers l'aval en période de pointe de consommation. En France, ces centrales au rendement global de l'ordre de 75% produisent environ 5 TWh par an.</p>
+			<p id="p12">Les avantages de l'hydroélectricité</p>
+			<p id="p13">L'hydroélectricité est la seule énergie renouvelable et modulable et présente donc plusieurs atouts.</p>
+			<p id="p14">Il s'agit d'une source d'énergie renouvelable et nationale. Elle permet un stockage de l'énergie et la modulation de la production électrique, apportant ainsi une contribution appréciable à la stabilité du système électrique.</p>
+			<p id="p15">L'électricité ne se stockant pas, l'équilibre d'un système électrique ne peut être réalisé qu'en ajustant en permanence la production à la consommation, en étant capable de moduler quasiment instantanément la puissance produite et injectée sur le réseau. La possibilité de pouvoir moduler rapidement la production d'électricité revêt donc une importance particulière.</p>
+			<p id="p16">Cette source d'énergie n'émet pas directement des gaz à effet de serre, ni d'autres gaz polluants.</p>
+			<p id="p17">L'hydroélectricité, lorsqu'elle est associée à un réservoir (lac, barrage, etc.), est la seule énergie renouvelable modulable, avec de surcroît la possibilité de faire monter très rapidement la puissance électrique produite. Elle joue un rôle crucial dans la sécurité et l'équilibre d'un système électrique, en permettant :</p>
+			<p id="p18">un démarrage rapide et une montée jusqu'à la pleine puissance en quelques minutes,</p>
+			<p id="p19">une bonne stabilité de fonctionnement dans les situations très perturbées que peuvent connaître les réseaux électriques,</p>
+			<p id="p20">une capacité de redémarrage permettant, en cas d'écroulement du réseau électrique, de relancer le système électrique</p>
+			<p id="p21">Les conséquences négatives de l'hydroélectricité sur l'environnement</p>
+			<p id="p22">En créant des chutes d'eau artificielles lors de la construction d'un ou de plusieurs ouvrages, la ligne d'eau et la pente naturelle du cours d'eau sont modifiées. Les eaux courantes se transforment alors en une succession de retenues d'eau stagnante : les conséquences sur l'écosystème et l'environnement ne sont pas anodines :</p>
+			<p id="p23">ralentissement et une uniformisation de l'écoulement ;</p>
+			<p id="p24">une modification de la température ;</p>
+			<p id="p25">une augmentation de l'eutrophisation, représentée notamment par les proliférations d'algues, du fait d'un apport en éléments nutritifs (phosphore, azote) en provenance du bassin versant et du faible renouvellement des eaux ;</p>
+			<p id="p26">une baisse de la quantité d'oxygène dissout dans l'eau ;</p>
+			<p id="p27">une diminution de la quantité d'eau à l'étiage, due à l'évaporation plus forte des eaux stagnantes en période estivale ;</p>
+			<p id="p28">un débit réduit à l'aval de l'ouvrage (débit réservé) ou encore de brusques variations de débits (éclusées) en cas de dérivation des eaux ;</p>
+			<p id="p29">une diminution de la capacité auto-épuratrice du cours d'eau ;</p>
+			<p id="p30">une augmentation des hauteurs d'eau en amont de l'obstacle, accompagnée d'une immersion des berges par un élargissement plus ou moins important du cours d'eau selon la hauteur de l'ouvrage.</p>
+			<p id="p31">Lorsque ces ouvrages sont associés à une prise d'eau ou une dérivation alimentant un moulin par exemple, ils contribuent à l'uniformisation du débit du cours d'eau à un très faible niveau sur une grande partie de l'année et réduisent la fréquence des variations de débits liées en particulier aux petites crues.</p>
+			<p id="p32">Des sédiments bloqués à l'amont de l'ouvrage</p>
+			<p id="p33">La rivière est un flux continu de matériaux solides, fins ou grossiers, arrachés au bassin versant. De manière générale, l'obstacle peut entraîner un blocage du flux de sédiments et un déficit à l'aval, déséquilibrant la dynamique du cours d'eau et affectant la morphologie du lit. Transport solide et transport liquide étant naturellement équilibrés dans la dynamique fonctionnelle d'un cours d'eau, le déficit génère souvent une érosion du lit en aval de la retenue et provoque la disparition des substrats favorables à la vie et à la reproduction des espèces aquatiques. Selon l'importance du piégeage des sédiments par l'obstacle, on assiste à des phénomènes d'érosion et d'enfoncement du lit à l'aval pouvant aboutir au déchaussement de ponts et autres ouvrages d'art.</p>
+			<p id="p34">La mobilité des espèces et l'accès à leurs habitats restreints, voire condamnés</p>
+			<p id="p35">Les possibilités de déplacement des espèces sont fortement réduites en raison des obstacles à l'écoulement, plus ou moins infranchissables, et de la segmentation du cours d'eau induite par la succession d'obstacles. Selon les estimations, en France, les ouvrages seraient responsables de la diminution de 44% de la densité d'anguilles depuis 1983 tandis que les turbines des centrales hydroélectriques provoqueraient un taux de mortalité des anguilles retournant en mer de l'ordre de 10% à 20% pour les moins dommageables.</p>
+			<p id="p36">Or, toutes les espèces de poissons ont besoin de circuler sur un linéaire plus ou moins long de la rivière afin d'accomplir leur cycle de vie : reproduction, alimentation, croissance... Les grandes espèces migratrices amphihalines - anguilles, saumons, aloses, lamproies...-, qui peuvent avoir un parcours long de plusieurs centaines de kilomètres entre l'estuaire et l'amont des bassins versants, sont particulièrement concernées. Cette progression vers les lieux de croissance ou de reproduction est de plus en plus difficile, voire totalement impossible. Il en résulte un retard ou une absence des géniteurs sur les lieux de ponte et par conséquence, une réduction du renouvellement des populations. Résultat : une nette diminution des effectifs, voire l'extinction de l'espèce. Le saumon sauvage, considéré comme vulnérable en France, a ainsi disparu de la plupart des grands fleuves français : Rhin, Seine, Garonne... ; il est aujourd'hui très menacé sur l'axe Loire-Allier.</p>
+			<p id="p37">Enfin, la fragmentation des aires de répartition favorise l'isolement des populations. Ce cloisonnement empêche tout échange génétique entre les différents groupes d'une même espèce, augmente les risques en cas de pathologies et réduit les possibilités de fuite et d'éventuelles recolonisations lors de perturbations accidentelles (pollutions,...).</p>
+			<p id="p38">L'impact sur la faune aquatique</p>
+			<p id="p39">En France, dès 1865, une loi a acté l'importance de stopper les impacts des barrages sur la circulation des grands migrateurs (saumon, aloses, anguilles, etc.) dont les populations commençaient à baisser sérieusement, remettant en cause l'alimentation des populations rurales qui en dépendait. C'est pourquoi, les premiers décrets de classements de cours d'eau imposant des échelles à poissons sur les barrages à construire ont été pris au début du 20è siècle. Après 1984, cette obligation s'est petit à petit imposée aux ouvrages existants sur ces cours d'eau.</p>
+			<p id="p40">Afin de préserver des milieux aquatiques de qualité, un autre type de classement a été instauré depuis les années 1980, qui interdit tout nouveau barrage hydroélectrique sur les cours d'eau classés.</p>
+			<p id="p41">La loi sur l'eau et les milieux aquatiques (LEMA) du 30 décembre 2006 a prévu la révision de ces classements afin qu'ils permettent plus efficacement de respecter les obligations liées à la directive-cadre sur l'eau.</p>
+			<p id="p42">L'impact sur les populations</p>
+			<p id="p43">De nombreux projets pharaoniques de barrages sont en construction dans les pays en voie de développement. Outre l'énergie électrique conséquente qu'ils pourront fournir, ces barrages menacent directement des millions d'autochtones qui vivent sur les rives des fleuves convoités.</p>
+			<p id="p44">Ainsi, de tels projets souvent menés sans véritable concertation, entraînent la destruction des pêcheries des riverains et l'inondation de terres agricoles fertiles. Par conséquent, les autochtones sont obligés de se déplacer, alimentant notamment les bidonvilles des villes surpeuplées.</p>
+			<p id="p45">La production hydroélectrique</p>
+			<p id="p46">En France</p>
+			<p id="p47">L'hydroélectricité représente 12 % de la production nationale avec une capacité de production de 67 TWh en année moyenne. Ce qui en fait la seconde source de production d'électricité en France derrière le nucléaire.</p>
+			<p id="p48">La production varie selon les aléas de l'hydraulicité. En 2008, elle a été de 67,5 TWh. Depuis 1998, la production la plus faible a été de 55,8 Twh (2005) et la plus forte a été de 77,8 TWh (2001).</p>
+			<p id="p49">L'hydroélectricité représente une puissance installée de 25 GW en France, soit environ 20% de la puissance totale des centrales contribuant à l'alimentation des réseaux publics d'électricité.</p>
+			<p id="p50">Selon les statistiques du Ministère de l'Environnement, 60 000 seuils et barrages sont recensés sur les cours d'eau métropolitains. L'essentiel de ces ouvrages est abandonné et ne fait plus l'objet d'un usage clairement identifié ni même d'un entretien quelconque. La majeure partie est constituée de seuils inférieurs à 5m dont la prolifération constitue l'impact majeur sur l'état des milieux aquatiques.</p>
+			<p id="p51">Parmi ces ouvrages seuls un peu plus de 2000 sont en service pour la production hydroélectrique (dont 400 concessions constituées des plus gros barrages). Mais des milliers sont d'anciens seuils de moulin ou de prise d'eau d'irrigation ou d'alimentation d'étang, abandonnés depuis des siècles dont les impacts cumulés perdurent.</p>
+			<p id="p52">En savoir plus</p>
+			<p id="p53">notre-planete.info est un site indépendant qui vise à informer et sensibiliser objectivement sur l'environnement, l'écologie, les sciences de la Terre, les risques naturels et le développement durable</p>
+		</body>
+	</text>
+</cesDoc>

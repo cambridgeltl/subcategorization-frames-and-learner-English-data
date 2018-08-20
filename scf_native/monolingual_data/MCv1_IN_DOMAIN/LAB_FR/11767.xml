@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Modification des conditions de travail : tout n’est pas permis - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Modification des conditions de travail : tout n’est pas permis - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:25:41.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=1051&amp;titre=Modification+des+conditions+de+travail+%3A+tout+n%E2%80%99est+pas+permis</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11767.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Modification des conditions de travail : tout n’est pas permis</p>
+			<p id="p2">La possibilité de modifier les horaires de travail et/ou l’affectation géographique d’un salarié peut être prévue dans son contrat de travail. Mais ne croyez pas pour autant que le salarié est obligé de les accepter.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Il est tout à fait possible d’insérer dans le contrat de travail des clauses spécifiques prévoyant par avance la possibilité de changer les horaires de travail d’un salarié et/ou son affectation géographique ( clause de mobilité ).</p>
+			<p id="p5">Soyez vigilant et renseignez-vous sur la situation (notamment familiale) du salarié si vous souhaitez mettre en œuvre une clause de mobilité ou un changement des horaires de travail.</p>
+			<p id="p6">Ces décisions relèvent alors de votre pouvoir de direction et le salarié qui les refuserait commettrait une faute pouvant justifier un licenciement.</p>
+			<p id="p7">Mais attention : cela ne signifie pas pour autant que vous pourrez tout imposer à votre salarié. Vous devez en effet prendre en compte, notamment, sa situation de famille.</p>
+			<p id="p8">Le refus du salarié ne pourra pas constituer une faute, ni un motif de licenciement si ce changement n’est pas compatible « avec des obligations familiales impérieuses » ( Code du travail , art. L. 3123-24).</p>
+			<p id="p9">Que faut-il entendre par là ? Voici une illustration : un employeur souhaitait modifier à la fois les horaires et le lieu de travail d’une de ses salariées à temps partiel . Face au refus de cette dernière, il la licencie pour faute grave.</p>
+			<p id="p10">La salariée conteste ce licenciement et obtient gain de cause, en mettant en avant sa situation familiale : veuve, elle élève seule deux jeunes enfants. Les modifications proposées par l’employeur auraient entraîné des difficultés particulièrement lourdes.</p>
+			<p id="p11">Le licenciement est dès lors considéré comme étant sans cause réelle et sérieuse, l’employeur est condamné pour des rappels de salaires et des dommages et intérêts.</p>
+			<p id="p12">Notez-le : d’autres raisons peuvent justifier le refus d’un salarié :</p>
+			<p id="p13">le suivi d'un enseignement scolaire ou supérieur ;</p>
+			<p id="p14">une activité chez un autre employeur ;</p>
+			<p id="p15">une activité professionnelle non salariée.</p>
+			<p id="p16">Dans ces cas également, le refus du salarié ne pourra constituer ni une faute, ni un motif de licenciement .</p>
+			<p id="p17">A. Ninucci</p>
+			<p id="p18">(Cass. soc., 13 janvier 2009, n° 06-45562)</p>
+			<p id="p19">Pour plus de précisions sur les changements de conditions de travail et les clauses du contrat, les Editions Tissot vous proposent leur ouvrage « Gérer le personnel ».</p>
+			<p id="p20">Article publié le 4 février 2009</p>
+			<p id="p21">Partagez cet article :</p>
+			<p id="p22">Actualités de la semaine pour les PME</p>
+			<p id="p23">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

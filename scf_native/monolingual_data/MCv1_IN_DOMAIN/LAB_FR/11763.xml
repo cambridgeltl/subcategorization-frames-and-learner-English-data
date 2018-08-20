@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Licenciement des salariés protégés : quelles sont vos pratiques ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Licenciement des salariés protégés : quelles sont vos pratiques ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:25:36.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=1037&amp;titre=Licenciement+des+salari%C3%A9s+prot%C3%A9g%C3%A9s+%3A+quelles+sont+vos+pratiques+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11763.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Licenciement des salariés protégés : quelles sont vos pratiques ?</p>
+			<p id="p2">Vous le savez, les salariés protégés font l’objet d’une procédure particulière lorsque leur licenciement est envisagé. Une étude récente fait le point sur les pratiques des entreprises à ce sujet. Des enseignements intéressants qui vont peut-être à l’encontre de certaines idées reçues.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">L’employeur qui envisage de licencier un salarié protégé doit déposer une demande d’autorisation à l’inspection du travail.</p>
+			<p id="p5">Par « salarié protégé », il faut entendre principalement les représentants du personnel : délégués du personnel (DP), membres du comité d’entreprise (CE), du comité d’hygiène, de sécurité et des conditions de travail (CHSCT), délégués syndicaux (DS), etc.</p>
+			<p id="p6">Des demandes qui dépendent de l’activité de l’entreprise… Un quart des établissements appartenant au secteur de l’industrie et de la construction a déposé une demande auprès de l’inspection du travail, contre un établissement sur cinq dans le secteur des services et du commerce.</p>
+			<p id="p7">Dans ce secteur, le motif personnel est plus souvent à l’origine de la rupture du contrat de travail (65 % des demandes, contre 35 % pour motif économique ).</p>
+			<p id="p8">C’est l’inverse dans l’industrie et la construction, où la différence est cependant moins marquée (53 % des demandes sont d’origine économique, contre 47 % de motif personnel).</p>
+			<p id="p9">…Et de sa taille. 42 % des entreprises de 500 salariés et plus ont effectué une demande d’autorisation préalable, contre « seulement » 20 % dans celles de 50 à 199 salariés.</p>
+			<p id="p10">Dans ces dernières, c’est le motif personnel qui prédomine (64 %).</p>
+			<p id="p11">Cette étude a été effectuée auprès d’entreprises de 50 salariés et plus, effectif qui correspond au seuil de mise en place de la plupart des instances représentatives.</p>
+			<p id="p12">Quel est le sentiment des représentants du personnel ? Pour 80 % d’entre eux, leur mandat ne constitue ni une protection, ni une menace pour leur emploi.</p>
+			<p id="p13">Ils sont 56 % à estimer qu’il ne s’agit ni d’un moteur, ni d’un frein pour leur évolution professionnelle.</p>
+			<p id="p14">Le droit du travail semble donc instaurer des garanties relativement solides à l’égard de ces salariés.</p>
+			<p id="p15">A. Ninucci</p>
+			<p id="p16">(Étude DARES n° 2009-06.1 – Licenciement des salariés protégés et gestion de la main d’œuvre par les entreprises : une analyse des pratiques – Février 2009)</p>
+			<p id="p17">Pour plus de précisions sur le licenciement des salariés protégés et la procédure à respecter, les Editions Tissot vous proposent leur ouvrage « Gérer les départs des salariés ».</p>
+			<p id="p18">Partagez cet article :</p>
+			<p id="p19">Actualités de la semaine pour les PME</p>
+			<p id="p20">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

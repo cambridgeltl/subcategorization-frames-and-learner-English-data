@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> Trabajo nocturno - La guía de Derecho</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> Trabajo nocturno - La guía de Derecho</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 20:45:12.0</pubDate>
+							<eAddress>http://derecho.laguia2000.com/derecho-laboral/trabajo-nocturno</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/19205.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El trabajo nocturno no es el más apropiado para la salud psicofísica del trabajador, ya que afecta su ritmo de sueño, le impide gozar de una vida social adecuada, y repercute en sus hábitos alimentarios, pero a veces hay tareas que exigen que se desarrollen en estos horarios, en vista a lo cual, para reducir sus impactos negativos, la ley reduce la jornada laboral.</p>
+			<p id="p2">El primer párrafo del artículo 200 de la Ley de Contrato de Trabajo de la República Argentina, trata sobre el trabajo nocturno, antes de referirse a las tareas insalubres.</p>
+			<p id="p3">Considera trabajo nocturno al que se presta entre las 21 hs. y las 6 de la mañana del día siguiente, no pudiendo ser mayor de siete horas el tiempo de servicio prestado en tales condiciones, salvo que se trate de horarios rotativos en trabajos por equipos, ya que en estos casos no puede el trabajo interrumpirse, como sucede en el caso de la fundición de acero o en la industria del vidrio.</p>
+			<p id="p4">Como puede suceder que las horas se alternen en diurnas y nocturnas, la ley soluciona la cuestión reduciendo 8 minutos cada hora de la jornada nocturna, o como alternativa, se paguen esos 8 minutos como horas extras.</p>
+			<p id="p5">Con respecto al trabajo de menores , no podrá ocuparse en el trabajo nocturno a menores, ni varones ni mujeres, entendiéndose aquí como nocturno el que se preste entre las 20 hs. y las 8 de la mañana del día siguiente. Si son fábricas que desarrollen su actividad en tres turnos durante todo el día, solo comprende a los varones menores de 16 años.</p>
+			<p id="p6">Ya la OIT había fijado disposiciones similares sobre el trabajo nocturno de menores, y para mayores de 40 años, recomienda que el trabajo nocturno sea voluntario.</p>
+			<p id="p7">0 comentario/s hasta el momento</p>
+			<p id="p8">Para poder comentar, debes estar registrado. Este blog utiliza OpenID como sistema de identificación. Si no tienes usuario de OpenID, puedes registrarte siguiendo este enlace . Luego, podrás ingresar tu usuario en el campo que aperece debajo y loguearte.</p>
+			<p id="p9">OpenID URL</p>
+		</body>
+	</text>
+</cesDoc>

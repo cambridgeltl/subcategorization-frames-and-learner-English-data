@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>CRP : n’oubliez pas de préciser les motifs économiques de la rupture du contrat de travail - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>CRP : n’oubliez pas de préciser les motifs économiques de la rupture du contrat de travail - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:38:45.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=BTP&amp;id_art=1524&amp;titre=CRP+%3A+n%E2%80%99oubliez+pas+de+pr%C3%A9ciser+les+motifs+%C3%A9conomiques+de+la+rupture+du+contrat+de+travail</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7622.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Thème du droit du travail : Licenciement BTP</p>
+			<p id="p2">CRP : n’oubliez pas de préciser les motifs économiques de la rupture du contrat de travail</p>
+			<p id="p3">Vous avez procédé à des licenciements économiques et vos salariés ont accepté d’adhérer à une convention de reclassement personnalisé (CRP). Cela ne vous dispense pas de leur préciser par écrit les motifs de la rupture.</p>
+			<p id="p4">Publicité</p>
+			<p id="p5">Si votre entreprise occupe moins de 1.000 salariés, vous devez proposer une convention de reclassement personnalisé (CRP) à chaque salarié dont vous envisagez le licenciement pour motif économique.</p>
+			<p id="p6">Le salarié dispose d’un délai de réflexion de 21 jours pour accepter la CRP. Son silence vaut refus de la convention de reclassement.</p>
+			<p id="p7">Accepter la CRP n’empêche pas le salarié de contester le motif économique de la rupture du contrat de travail. Il est donc important de bien rédiger la lettre de rupture.</p>
+			<p id="p8">Rupture d’un commun accord confirmé par écrit</p>
+			<p id="p9">En cas d’acceptation, le contrat de travail est rompu d’un commun accord ( Code du travail , art. L. 1233-67). Mais vos obligations ne s’arrêtent pas là.</p>
+			<p id="p10">Vous devez notifier, par écrit, au salarié ayant accepté la CRP, les motifs économiques de la rupture. En l’absence de ce courrier, la rupture sera jugée comme un licenciement sans cause réelle et sérieuse.</p>
+			<p id="p11">Indemnités de rupture</p>
+			<p id="p12">Cette rupture du contrat de travail ne comporte ni préavis, ni indemnité de préavis. Elle ouvre droit à l' indemnité de licenciement ainsi que, le cas échéant, au solde de l'indemnité de préavis pour sa partie supérieure à 2 mois.</p>
+			<p id="p13">Objectif de la CRP</p>
+			<p id="p14">La CRP permet de bénéficier d’actions de soutien psychologique, d’orientation, d’accompagnement, d’évaluation des compétences professionnelles et de formation destinées à favoriser le reclassement du salarié.</p>
+			<p id="p15">I. Vénuat</p>
+			<p id="p16">(Cour de cassation, chambre sociale, arrêt n° 08-43137 du 27 mai 2009 : une fois la CRP acceptée, les motifs économiques de la rupture du contrat de travail doivent être précisés)</p>
+			<p id="p17">Pour plus de précisions sur la rupture du contrat de travail suite à l’acceptation d’une CRP, les Editions Tissot vous proposent leur ouvrage « Gérer le personnel du BTP ».</p>
+			<p id="p18">Article publié le 9 juin 2009</p>
+			<p id="p19">Partagez cet article :</p>
+			<p id="p20">Articles sur le même thème : Licenciement BTP</p>
+			<p id="p21">Actualités de la semaine pour les BTP</p>
+			<p id="p22">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

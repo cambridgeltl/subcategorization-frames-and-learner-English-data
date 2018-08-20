@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>How much CO2 do our nation’s coal and gas plants actually produce? | Grist</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>How much CO2 do our nation’s coal and gas plants actually produce? | Grist</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:41:33.0</pubDate>
+							<eAddress>http://www.grist.org/article/2009-07-07-co2-coal-gas-plants-produce</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/11390.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">How much CO2 do our nation’s coal and gas plants actually produce? 7</p>
+			<p id="p2">Read More About</p>
+			<p id="p3">It was the best of half-centuries, it was the worst of half-centuries ...</p>
+			<p id="p4">Broadly speaking, there are only three things we can do to lower CO2 emissions: switch fuels, use energy more efficiently, or use less energy (conserve).</p>
+			<p id="p5">Our CO2 conversations too often focus on one of those three in isolation: Coal bad. Recycled waste heat good. Conservation isn't an energy policy . Each assertion is both narrowly true and broadly incorrect, to the extent that each simplifies three prongs into one.</p>
+			<p id="p6">To understand why, try to answer a simple question: if we shifted our power generation fleet to preferentially dispatch natural gas plants instead of coal plants, how much would CO2 emissions fall?</p>
+			<p id="p7">That would seem to be an easy bit of math: just measure the CO2/MWh of each plant, multiply the difference by the MWh switch, and we have our answer, right? Turns out it's a tad complicated, for the simple reason that the fuel switching strategy is also an efficiency strategy. Does a newly dispatched gas plant look like one of the old, 30% efficient, natural gas-fired Rankine "steamers," or does a newly dispatched gas plant look like one of the new, 50% efficient combined cycle gas turbines? What about the coal plant that gets turned off?</p>
+			<p id="p8">Better still, let's ask an easy question: how has the CO2 signature of our nation's coal and gas-fired power fleet changed with time?</p>
+			<p id="p9">DOE/EIA keeps voluminous records of fossil fuel consumption and power generation by fuel type. On the following charts, I've divided total fleet fuel use by total fleet MWh and then multiplied by a consistent 0.06 tons of CO2/mcf of natural gas / 2.7 tons CO2/ton of coal to yield the following:</p>
+			<p id="p10">Interesting. From 1960-1990, there was no statistically significant change in gas fleet CO2 emissions, which held steady at 0.63-0.65 tons/MWh. Then all of a sudden in the 1990s, the fleet transformed itself, reducing its CO2-intensivity by 25% in just 10 years. What happened?</p>
+			<p id="p11">In a word: competition. The introduction of competitive access in the 1992 Energy Policy Act (and subsequent FERC rulings) brought forth a flood of natural gas plants, many of which were nearly twice as fuel efficient as the old junk that the grid had previously relied on. Prior to that point, costs were simply something that you passed along to customers. After that point -- for much of the grid -- cost control was a route to greater profits. Not surprisingly, generator owners suddenly got religion on cost-control. And when your number one cost is fuel, that means they got religion on fuel control. That's good.</p>
+			<p id="p12">Now let's look at what happened to the coal fleet during the same period:</p>
+			<p id="p13">From 1960-1970, the coal fleet holds steady at 1.17 tons/MWh, but then starts an inexorable upward trend. While the gas fleet became more efficient with time (after 1990, at least), the coal fleet is steadily less efficient. Way less in fact -- to the point that the CO2 emissions associated with a MWh of coal-derived electricity are 18% higher today than they were in 1960.</p>
+			<p id="p14">What happened here? Two things:</p>
+			<p id="p15">1. Unintended consequences. 1970 saw the passage of the Clean Air Act , a deeply flawed bill. It was good in terms of what it did for regulated pollutants, but lousy in terms of what it did for unregulated ones (e.g., CO2). By effectively mandating pollution control approaches that impose parasitic loads on coal plants, the CAA is directly responsible for lowering coal plant energy efficiency, so that we now burn way more coal per MWh than we did before passage. We therefore emit way more CO2 per unit of useful electricity. That's not to ignore the beneficial elements of the CAA, from sulfur to particulate control, but simply to point out that an environmental regulation that encourages energy inefficiency leaves much to be desired.</p>
+			<p id="p16">2. Dispatch considerations. As noted here , the last 30 years have seen virtually no construction of new baseload power plants in the US, but have seen a steady increase in the annual load factor of currently existing baseload plants. In other words, plants that used to spend most of their life turned off now spend most of their life turned on. In the coal fleet, that means that the least efficient stuff runs more now than it used to. So in addition to the unintended consequences of the Clean Air Act, we also have the simple fact of steadily growing electricity demand that causes us to pull our power from ever-more-undesireable sources.</p>
+			<p id="p17">Why didn't the competitive forces unleashed by the 1992 EPACT also drive up the efficiency of our coal fleet, like they did for gas? Again, it's an easy answer: competition. Coal plants are lousy investments. No one builds them who has to put their own money at risk.</p>
+			<p id="p18">One last thing</p>
+			<p id="p19">Here's the tragedy: If we had run the gas fleet at a constant fuel efficiency from 1960-present, we would have emitted an additional 1.3 billion tons of CO2 into the atmosphere. That's 1.3 billion tons not in the atmosphere today thanks to energy efficiency.</p>
+			<p id="p20">On the other hand ... if we had run the coal fleet at a constant fuel efficiency from 1960-today, we would have emitted nearly 9 billion fewer tons of CO2 into the atmosphere over the last fifty years.</p>
+			<p id="p21">1,300,000,000 steps forward, 9,000,000,000 steps back.</p>
+			<p id="p22">97712</p>
+			<p id="p23">Sean Casten is President &amp; CEO of Recycled Energy Development , LLC, a company devoted to profitably reducing greenhouse emissions.</p>
+			<p id="p24">7 Jul 2009 2:01pm 1247000495 1247025695</p>
+			<p id="p25">That suggests that there's a lot of opportunity for effiency improvement in both the coal and gas plant fleets. Cap and trade ought to push along the most cost-effective improvements to our existing coal and gas plants, in addition to driving renewables. Is anyone working on figuring out what can be done and what it will cost? There must be something better than spending trillions of $$ on CO2 capture. Are there ways to retrofit gas plants for efficiency that make economic sense? Are there heat recovery, biomass or biofuel strategies that could be employed?</p>
+			<p id="p26">7 Jul 2009 2:46pm 1247003171 1247028371</p>
+			<p id="p27">There's not much on the coal side, as all that mandated pollution control drives efficiency down. So the only way to get it back up is to (a) allow coal plants to go back to 1960's level (non-CO2) pollution levels or (b) overhaul the Clean Air Act. The first option is environmentally distasteful and the second is - while highly desirable - a political non-starter, at least in the near term. (As I've noted before , CAA reform is absolutely necessary for legally-coherent GHG policy, and I think it will eventually get done - but I don't see anyone in EPA or elsewhere pushing to do so right away.)On the gas fleet, the story is a bit more nuanced. We've brought a lot of combined cycle gas turbines on line that have greatly increased fleet efficiency, and in theory, we ought to be able to continue to do so. However, there are operational challenges due to the fact that combined cycle gas turbines don't like to turn on and off as quickly as simple cycle gas turbines (e.g., the ones without a steam turbine on the back end capturing the waste heat from the gas turbine on the front end). In some parts of the country, those high efficiency units can get enough run hours to run anyway, but in many instances, fleet operators are operationally forced to keep their efficient stuff off so that they can run the quick-to-dispatch stuff on the margin. Note that as load grows (e.g., once the recession ends), we'll be able to run those combined cycle turbines a little more often. But my guess from looking at the data is that for the foreseeable future, we're unlikely to see much continuing enhancement in the gas fleet. Note also that the biggest opportunities for generation efficiency are building the generation closer to the load, where the heat can be re-used. That means stranding a lot of the assets that have driven the trends in the data above, which is a good thing in the long term, and could be done very quickly - but will require a regulatory reform comparable to what we saw after the 1992 EPACT to drive a similar step-function increase in fleet efficiency. ...read more</p>
+			<p id="p28">7 Jul 2009 7:40pm 1247020818 1247046018</p>
+			<p id="p29">CO2 is NOT a pollutant and it certainly has almost no impact on climate!!!! This has been proven beyond a reasonable doubt. The jig is almost up. Atmospheric CO2 could triple and we wouldn't even be able to measure its impact on climate. We have a lot of REAL environmental and energy challenges to deal with. All the money and time being wasted on trying to reduce CO2 could have been spent on other serious issues like hypoxia, invasive species, mercury, stormwater runoff etc. The only thing that trying to cap CO2 has done is hurt the environment by promoting horrible government-subsidized solutions such as ethanol... which is a lousy fuel, causes more real pollution to be emitted, wastes water and land, and drives food prices up. It would be great if windmills and solar panels were workable solutions, but they are not, at least on a large scale. If we want to be taken seriously on the real issues, we need to come up with real, economical solutions to actual environmental problems, otherwise, we risk loosing credibility to the point where we will be marginalized beyond repair. For example, it is not credible to decry CO2 on the one hand, and then denounce nuclear on the other. </p>
+			<p id="p30">8 Jul 2009 12:26am 1247038006 1247063206</p>
+			<p id="p31">8 Jul 2009 10:07am 1247072877 1247098077</p>
+			<p id="p32">Even if ya don't believe CO2 is responsible for global warming, it is a universal fact that CO2 is acidic (a simple pH test can confirm this).Increases in CO2 lead to increasingly acidic water and soil.Therefore, CO2 is a pollutant.</p>
+			<p id="p33">8 Jul 2009 10:08am 1247072904 1247098104</p>
+			<p id="p34">Ummmm....three things? Looks to me like maybe 2-1/2:1. Switch fuels.2. Use less energy by being efficient.3. Use less energy period.So let's shut off some of those inefficient coal plants that even investors don't like and solve both the CO2 problem AND the other pollution problems.This article is flawed mainly by its use of "intensivity." What solves any of these problems is a reduction of the total production of the named pollutants, not a calculation that stays the same if the trouble doubles. </p>
+			<p id="p35">8 Jul 2009 10:25am 1247073955 1247099155</p>
+			<p id="p36">Jestbill,Responding to each of your points separately:1. My framing of three solutions is meant to be maximally broad, stepping incrementally throught the fuel chain, from resource extraction to resource conversion to (converted) resource utilization. Make CO2-beneficial changes to the first bucket and you're fuel switching. Make CO2 beneficial changes to the second bucket and you're investing in efficiency. Make CO2-beneficial changes to the third bucket and you're conserving. But there are no solutions that lie outside of those three buckets (unless you're into CCS and geoengineering, that is...)2. Re the use of the word "intensivity", blame my editor. It's a charged word, and not in anyway intended in the Bush-speak way of suggesting that we can double GDP, cut CO2/GDP by 10% and claim victory for an increase. However, as used here - CO2/MWh - it is an implicit efficiency measure, per the framing in point 1 above. Economic growth scales roughly with MWh use, not CO2 release. Just as the comfort of your home is a function of air temperature, not fuel purchased to maintain that air temperature, the "comfort" of the economy is based to some degree on access to electricity (among other things), not the fossil fuel burned to generate that electricity. So just as a home-owner is well served to keep the refrigerator door closed and caulk their windows, our economy is well served by burning less fuel per MWh. What's striking is the degree to which the coal fleet has failed to do so.</p>
+			<p id="p37">1283935292</p>
+			<p id="p38">Connect to Comment</p>
+			<p id="p39">©2010. Grist Magazine, Inc. All rights reserved.</p>
+			<p id="p40">Sections</p>
+		</body>
+	</text>
+</cesDoc>

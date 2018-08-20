@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>España</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>España</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-17 03:23:32.0</pubDate>
+							<eAddress>http://survey07.ituc-csi.org/getcountry.php?IDCountry=ESP&amp;IDLang=ES</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/41055.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Convenios fundamentales de la OIT ratificados: 29 - 87 - 98 - 100 - 105 - 111 - 138 - 182</p>
+			<p id="p2">En el marco de un nuevo impulso para el dialogo social se han firmado más de 20 acuerdos entre el gobierno, empresarios y sindicatos. Cabe destacar el acuerdo tripartito para la reforma del mercado laboral que pretende favorecer la estabilidad en el empleo y la reducción de la temporalidad que perjudica los derechos sindicales. Los guardias civiles se movilizaron por sus derechos de asociación. Una cadena hotelera despidió a un dirigente sindical por haber denunciado prácticas inadecuadas de salud y seguridad, mientras que distribuidoras de una multinacional sustituyeron a los huelguistas. Volkswagen amenazó con trasladarse en caso de continuar una huelga.</p>
+			<p id="p3">Derechos sindicales según la ley</p>
+			<p id="p4">La ley reconoce la libertad sindical. Todos los trabajadores y trabajadoras pueden formar sindicatos o afiliarse a sindicatos de su elección sin embargo, colectivos de trabajadores no tienen derecho a sindicarse o lo tienen fuertemente restringido. Los miembros de las Fuerzas Armadas y de la Guardia Civil, del Cuerpo Nacional de Policía y de algunas Policías Autonómicas, así como los jueces, magistrados y fiscales, no pueden sindicalizarse o no pueden afiliarse libremente al sindicato de su elección.</p>
+			<p id="p5">Los sindicatos reclaman al gobierno que avance en el compromiso electoral de regular democráticamente los derechos de la Guardia Civil, especialmente el derecho a la asociación profesional.</p>
+			<p id="p6">La Constitución garantiza el derecho a la negociación colectiva y establece que los convenios colectivos son vinculantes. Protege igualmente el derecho de huelga.</p>
+			<p id="p7">Derechos sindicales en la práctica</p>
+			<p id="p8">Contratos temporales afectan a la negociación colectiva: Aunque España cuenta con un sistema de negociación colectiva bien establecido, en la práctica los derechos sindicales se ven afectados por el elevado número de contratos temporales. Diversas estadísticas confirman que España es el país, de entre los 25 miembros de la Unión Europea, que tiene un mayor porcentaje de contratos temporales (en el año 2004 el 32,5 por ciento), de entre los cuales el 63 por ciento corresponde a inmigrantes. Esta situación influye, de forma determinante, sobre las condiciones laborales de estos trabajadores. Aprovechando la inseguridad que sobre su futuro plantea a los trabajadores el hecho de tener un contrato temporal, y más en el caso de ser inmigrante, el empleador les obliga a aceptar condiciones laborales que no se ajustan al marco legislativo. Aunque en teoría los trabajadores temporales son contratados en el marco fijado por un Convenio Sectorial donde están fijadas sus condiciones laborales, en la práctica, la negociación colectiva es sustituida por acuerdos individuales entre el empresario y el trabajador en los que, naturalmente, el trabajador se ve prácticamente obligado a aceptar lo que se le ofrece.</p>
+			<p id="p9">Acuerdo tripartito para reformar el mercado laboral: El acuerdo tripartito de reforma laboral firmado en mayo de 2006 en principio debería contribuir a reducir el todavía elevado número de contratos temporales. La reforma pretende poner freno al encadenamiento de contratos temporales en la misma empresa, al estipular que cuando un trabajador o trabajadora haya superado 24 meses en la misma empresa y en el mismo puesto de trabajo con dos o más contratos temporales durante un periodo de 30 meses, su contrato pasa a ser indefinido. También se ofrecen ventajas económicas a las empresas que ofrezcan contratos permanentes de empleo, incluyendo un subsidio si se transforma un contrato temporal en indefinido. La regulación de las contratas y subcontratas contenida en el acuerdo recoge aspectos fundamentales para una mayor transparencia en la información sobre los procesos de subcontratación, y para aumentar las posibilidades de actuación de los representantes legales de los trabajadores de todas las empresas involucradas, facilitando instrumentos de control sobre estas fórmulas de descentralización productiva y garantizando una mayor protección de los trabajadores, que en caso de carecer de representantes, podrán ser representados por los de la empresa principal. El acuerdo busca igualmente reforzar la Inspección de Trabajo, al considerarse que una parte importante de la temporalidad se debe al incumplimiento de la ley por parte de la patronal.</p>
+			<p id="p10">Multinacionales: Algunas grandes multinacionales abusan de su posición para atentar contra los derechos sindicatos, por ejemplo amenazando con trasladarse si se ven afectadas por alguna acción sindical.</p>
+			<p id="p11">Violaciones en 2006</p>
+			<p id="p12">Trabajadores en huelga despedidos: En enero de 2006 y a instancias del Comité de Huelga, UGT-Transportes de Vizcaya denunció ante la Inspección de Trabajo a las empresas LIAN S.L. y PERSONAL DRIVER S.L., distribuidoras de muebles para la multinacional IKEA, por despedir a trabajadores en huelga y sustituirlos por nuevas contrataciones, práctica expresamente ilegal y que atenta contra el derecho de huelga.</p>
+			<p id="p13">Volkswagen amenaza a los huelguistas con quedarse sin empleo: El 30 de marzo, la dirección de la planta de Volkswagen amenazó con trasladar fuera de España la producción del nuevo Polo en caso de continuar la huelga iniciada hace varios meses en su fábrica de Pamplona. La huelga se declaró para protestar por el estancamiento desde hacía 15 meses de las negociaciones de un nuevo convenio colectivo. Los principales puntos conflictivos eran las medidas de reducción de costos y de flexibilidad propuestas por la dirección. La compañía amenazó inicialmente con trasladar la producción a Bratislava en Eslovaquia, tal como había ocurrido anteriormente con el SEAT Ibiza, aunque este plan sería rechazado poco después. Para finales de año todavía se corría el riesgo de que la producción se trasladase a otro lugar.</p>
+			<p id="p14">Dirigente sindical despedido por denunciar condiciones de trabajo inseguras: El 11 de diciembre, el dirigente sindical Antonio García Ramos de la Federación Estatal de Comercio Hostelería y Turismo (FECOHT-CC.OO.) en los hoteles Iberostar de las Islas Canarias, fue injustamente despedido de su puesto de trabajo en el conglomerado español de hoteles y turismo, Iberostar. La gerencia objetó sus declaraciones públicas denunciando las condiciones laborales inseguras del personal del hotel y la negativa de la compañía a poner en práctica las recomendaciones emitidas por las autoridades de salud y seguridad. Iberostar opera hoteles en 13 países.</p>
+		</body>
+	</text>
+</cesDoc>

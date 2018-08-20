@@ -1,0 +1,2845 @@
+<?xml version="1.0"?>
+<xml>
+    <section name="verbs">
+        <subcat n="1">
+            <lingoerg>v_subj_equi_prd_adj_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_AP, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT AP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Va1</xtag_treefam>
+            <comlex_class>ADJP</comlex_class>
+            <example>his_AT reputation_NN1 sank_VVD low_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj sink reputation _)</gr>
+                <gr n="2">(xcomp _ sink low)</gr>
+                <gr n="3">*(ncsubj low reputation _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="2">
+            <lingoerg>v_prd_ssr_any_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_AP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT AP) / (VSUBCAT VPPRT)</tsg>
+            <xtag_treefam>XTAG:Tnx0Ax1</xtag_treefam>
+            <comlex_class>ADJP-PRED-RS</comlex_class>
+            <example>he_NP1 appears_VVZ crazy_JJ / distressed_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj appear he rais)</gr>
+                <gr n="2">(xcomp _ appear crazy)</gr>
+                <gr n="3">*(ncsubj crazy he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="3">
+            <lingoerg>v_adv_le</lingoerg>
+            <anlt_subcat>(SUBCAT ADVP)</anlt_subcat>
+            <tsg>(VSUBCAT NONE, PRT +) well</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ADVP</comlex_class>
+            <example>he_NP1 meant_VVD well_RP</example>
+            <grs>
+                <gr n="1">(ncsubj mean he _)</gr>
+                <gr n="2">(ncmod prt mean well)</gr>
+            </grs>
+        </subcat>
+        <subcat n="4">
+            <lingoerg>v_prd_ssr_any_le</lingoerg>
+            <anlt_subcat>(SUBCAT ADVP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT NONE, PRT +) well</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ADVP-PRED-RS</comlex_class>
+            <example>He_NP1 seems_VVZ well_RP</example>
+            <grs>
+                <gr n="1">(ncsubj seem he *rais)</gr>
+                <gr n="2">(ncmod prt seem well)</gr>
+            </grs>
+        </subcat>
+        <subcat n="5">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP, SUBTYPE EQUI, PREP as)</anlt_subcat>
+            <tsg>(VSUBCAT PP) as</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>AS-NP</comlex_class>
+            <example>I_NP1 worked_VVZ as_CSA an_AT1 apprentice_NN1 cook_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj work I _)</gr>
+                <gr n="2">(iobj work as)</gr>
+                <gr n="3">(dobj as cook *equi)</gr>
+            </grs>
+        </subcat>
+        <subcat n="6">
+            <lingoerg>v_expl_it_subj_np_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>it (VSUBCAT NP_SCOMP) _ _VVZ/D/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-NP-S</comlex_class>
+            <example>it_PPH1 annoys_VVZ them_PPHO2 that_CST she_PPHS1 left_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj annoy it *extrap)</gr>
+                <gr n="2">(dobj annoy them _)</gr>
+                <gr n="3">(ccomp that annoy leave)</gr>
+            </grs>
+        </subcat>
+        <subcat n="7">
+            <lingoerg>v_np_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR S[FIN +])</anlt_subcat>
+            <tsg>_VVD/Z/G (VSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG:Ts0Vnx1</xtag_treefam>
+            <comlex_class>S-SUBJ-NP-OBJ</comlex_class>
+            <example>that_CST she_PPHS1 left_VVD annoys_VVZ them_PPHO2</example>
+            <grs>
+                <gr n="1">(csubj annoy leave _)</gr>
+                <gr n="2">(dobj annoy them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="8">
+            <lingoerg>v_np_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR VP[FIN -])</anlt_subcat>
+            <tsg>_VV0 (VSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>TO-INF-SUBJ-NP-OBJ</comlex_class>
+            <example>to_TO read_VV0 pleases_VVZ them_PPHO2</example>
+            <grs>
+                <gr n="1">(xsubj please read *extrap)</gr>
+                <gr n="2">(dobj please them _)</gr>
+                <gr n="3">*(ncsubj read them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="9">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT VPINF, SUBTYPE EXTRAP, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-TO-INF</comlex_class>
+            <example>it_PPH1 remains_VVZ to_TO find_VV0 a_AT1 cure_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj remain it *extrap)</gr>
+                <gr n="2">(xcomp to remain find)</gr>
+                <gr n="3">*(ncsubj find Pro)</gr>
+            </grs>
+        </subcat>
+        <subcat n="10">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT SINF, SUBTYPE EXTRAP, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT PP_VPINF) for (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-FOR-TO-INF</comlex_class>
+            <example>it_PPH1 remains_VVZ for_IF us_PPHO2 to_TO find_VV0 a_AT1 cure_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj remain it *extrap)</gr>
+                <gr n="2">(xcomp to remain find)</gr>
+                <gr n="3">(iobj remain for)</gr>
+                <gr n="4">*(ncsubj find Pro/us? _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="11">
+            <lingoerg>v_expl_it_subj_np_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-NP-TO-INF</comlex_class>
+            <example>it_PPH1 pleases_VVZ them_PPHO2 to_TO find_VV0 a_AT1 cure_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj please it *extrap)</gr>
+                <gr n="2">(dobj please them _)</gr>
+                <gr n="3">(xcomp to please find)</gr>
+                <gr n="4">*(ncsubj find them)</gr>
+            </grs>
+        </subcat>
+        <subcat n="12">
+            <lingoerg>v_expl_it_subj_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM to, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT PP_SCOMP) to (PSUBCAT NP) _VVZ/D/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-TO-NP-S</comlex_class>
+            <example>it_PPH1 matters_VVZ to_II them_PPHO2 that_CST she_PPHS1 left_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj matter it *extrap)</gr>
+                <gr n="2">(iobj matter to)</gr>
+                <gr n="3">(ccomp that matter leave)</gr>
+            </grs>
+        </subcat>
+        <subcat n="13">
+            <lingoerg>v_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_VPINF, SUBTYPE EXTRAP, PFORM to)</anlt_subcat>
+            <tsg>IT (VSUBCAT PP_VPINF) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>EXTRAP-TO-NP-TO-INF</comlex_class>
+            <example>it_PPH1 occurred_VVD to_II them_PPHO2 to_TO watch_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj occur it *extrap)</gr>
+                <gr n="2">(iobj occur to)</gr>
+                <gr n="3">(xcomp to occur watch)</gr>
+                <gr n="4">*(ncsubj watch them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="14">
+            <lingoerg>v_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SFIN, SUBTYPE EXTRAP, AGR S[FIN +])</anlt_subcat>
+            <tsg>_VVD/G/Z (VSUBCAT PP) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>S-SUBJ-TO-NP-OBJ</comlex_class>
+            <example>that_CST she_PPHS1 left_VVD matters_VVZ to_II them_PPHO2</example>
+            <grs>
+                <gr n="1">(csubj matter leave *extrap)</gr>
+                <gr n="2">(iobj matter to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="15">
+            <lingoerg>v_cp_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT SINF)</anlt_subcat>
+            <tsg>(VSUBCAT PP_VPINF) FOR (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>FOR-TO-INF</comlex_class>
+            <example>I_PPHS1 prefer_VV0 for_IF her_PPHO1 to_TO do_VV0 it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj prefer I _)</gr>
+                <gr n="2">(iobj prefer for)</gr>
+                <gr n="3">(xcomp to prefer do)</gr>
+                <gr n="4">*(ncsubj do her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="16">
+            <lingoerg>v_cp_ques_fin_inf_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP)  HOW/WHY/WHERE/WHEN</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>HOW-S</comlex_class>
+            <example>he_PPHS1 asked_VVD how_RGQ she_PPHS1 did_VDD it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(ccomp _ ask do)</gr>
+                <gr n="3">(arg_mod _ do how)</gr>
+            </grs>
+        </subcat>
+        <subcat n="17">
+            <lingoerg>v_cp_fin_inf_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) HOW/WHERE/WHEN (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>HOW-TO-INF</comlex_class>
+            <example>he_PPHS1 explained_VVD how_RGQ to_TO do_VV0 it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj explain he _)</gr>
+                <gr n="2">(iobj explained how)</gr>
+                <gr n="3">*(ncsubj do Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="18">
+            <lingoerg>v_subj_equi_bse_le</lingoerg>
+            <anlt_subcat>ANLT gap (SUBCAT VC_BSE)</anlt_subcat>
+            <tsg>(VSUBCAT VPBSE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>INF-AC</comlex_class>
+            <example>he_PPHS1 helped_VVD bake_VV0 the_AT cake_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj help he _)</gr>
+                <gr n="2">(xcomp _ help bake)</gr>
+                <gr n="3">*(ncsubj bake Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="19">
+            <lingoerg>v_subj_equi_prp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_ING, SUBTYPE EQUI) ; ?? wrong / need specific</anlt_subcat>
+            <tsg>(VSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ING-NP-OMIT</comlex_class>
+            <example>his_AT hair_NN1 needs_VVZ combing_VVG</example>
+            <grs>
+                <gr n="1">(nsubj need hair _)</gr>
+                <gr n="2">(xcomp _ need comb)</gr>
+                <gr n="3">*(ncsubj comb Pro _)</gr>
+                <gr n="4">*(dobj comb hair _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="20">
+            <lingoerg>v_subj_equi_prp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_ING, SUBTYPE RAIS) ; ?? wrong</anlt_subcat>
+            <tsg>(VSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ING-SC</comlex_class>
+            <example>she_PPHS1 stopped_VVD smoking_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj stop she _)</gr>
+                <gr n="2">(xcomp _ stop smoke)</gr>
+                <gr n="3">(ncsubj smoke she _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="21">
+            <lingoerg>v_np_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap (SUBCAT VC_ING)</anlt_subcat>
+            <tsg>(VSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ING-AC</comlex_class>
+            <example>she_PPHS1 discussed_VVD writing_VVG novels_NN2</example>
+            <grs>
+                <gr n="1">(ncsubj discuss she _)</gr>
+                <gr n="2">(xcomp _ discuss write)</gr>
+                <gr n="3">*(ncsubj write Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="22">
+            <lingoerg>v_unerg_le</lingoerg>
+            <anlt_subcat>(SUBCAT NULL)</anlt_subcat>
+            <tsg>(VSUBCAT NONE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>INTRANS</comlex_class>
+            <example>he_PPHS1 went_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj go I _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="23">
+            <lingoerg>v_unerg_le</lingoerg>
+            <anlt_subcat>(SUBCAT NULL)</anlt_subcat>
+            <tsg>_PP/NN*2 (VSUBCAT NONE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>INTRANS-RECIP(SUBJ-PL</comlex_class>
+            <example>They_PPHS2 met_VVD</example>
+            <grs>
+                <gr n="1">John_NP1 and_CC her_AT brother_NN1 met_VVD</gr>
+                <gr n="2">_CC (VSUBCAT NONE) ***</gr>
+                <gr n="3">(ncsubj meet they *recip)</gr>
+            </grs>
+        </subcat>
+        <subcat n="24">
+            <lingoerg>v_np_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP)</anlt_subcat>
+            <tsg>(VSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vnx1</xtag_treefam>
+            <comlex_class>NP</comlex_class>
+            <example>he_PPHS1 loved_VVD her_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj love he _)</gr>
+                <gr n="2">(dobj love her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="25">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT NP_AP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-ADJP</comlex_class>
+            <example>he_PPHS1 painted_VVD the_AT car_NN1 black_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj paint he _)</gr>
+                <gr n="2">(dobj paint car _)</gr>
+                <gr n="3">(xcomp _ paint black)</gr>
+                <gr n="4">(ncsubj black car _) ;</gr>
+            </grs>
+        </subcat>
+        <subcat n="26">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT NP_AP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>NP-ADJP-PRED</comlex_class>
+            <example>she_PPHS1 considered_VVD him_PPHO1 foolish_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj consider she _)</gr>
+                <gr n="2">(dobj consider him _)</gr>
+                <gr n="3">(xcomp _ consider foolish)</gr>
+                <gr n="4">(ncsubj foolish him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="27">
+            <lingoerg>v_np_prep_trans_dors_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_ADVP)</anlt_subcat>
+            <tsg>(VSUBCAT NP, PRT +) * there</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-ADVP</comlex_class>
+            <example>he_PPHS1 put_VVD it_PPH1 there_RL</example>
+            <grs>
+                <gr n="1">(ncsubj put he _)</gr>
+                <gr n="2">(dobj put it _)</gr>
+                <gr n="3">(ncmod prt put there)</gr>
+            </grs>
+        </subcat>
+        <subcat n="28">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_LOC)</anlt_subcat>
+            <tsg>(VSUBCAT NP, PRT +) here</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>NP-ADVP-PRED</comlex_class>
+            <example>they_PPHS2 mistakenly_RR thought_VVD him_PPHO1 here_RL</example>
+            <grs>
+                <gr n="1">(ncsubj think they _)</gr>
+                <gr n="2">(dobj think him _)</gr>
+                <gr n="3">(ncmod prt think here)</gr>
+            </grs>
+        </subcat>
+        <subcat n="29">
+            <lingoerg>v_np_comp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as) ; OC ??</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) (PFORM AS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-AS-NP</comlex_class>
+            <example>I_PPHS1 sent_VVD him_PPHO1 as_CSA a_AT1 messenger_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj send I _)</gr>
+                <gr n="2">(dobj send him *rais)</gr>
+                <gr n="3">(iobj send as)</gr>
+                <gr n="4">*(ncsubj messenger him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="30">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) (PFORM AS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-AS-NP-SC</comlex_class>
+            <example>she_PPHS1 served_VVD the_AT firm_NN1 as_CSA a_AT1 researcher_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj serve she *rais)</gr>
+                <gr n="2">(dobj serve firm _)</gr>
+                <gr n="3">(iobj serve as)</gr>
+                <gr n="4">*(ncsubj researcher she _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="31">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, SUBTYPE DMOVT, PFORM for)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) (PFORM FOR)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-FOR-NP</comlex_class>
+            <example>she_PPHS1 bought_VVD a_AT1 book_NN1 for_IF him_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj buy she _)</gr>
+                <gr n="2">(dobj buy book _)</gr>
+                <gr n="3">(iobj buy for)</gr>
+            </grs>
+        </subcat>
+        <subcat n="32">
+            <lingoerg>v_sorb_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_BSE, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP)  _VV0</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>NP-INF</comlex_class>
+            <example>he_PPHS1 made_VVD her_PPHO1 sing_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj make he _)</gr>
+                <gr n="2">(ccomp _ make sing)</gr>
+                <gr n="3">(ncsubj sing her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="33">
+            <lingoerg>v_obj_equi_bse_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_BSE, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) _VV0</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-INF-OC</comlex_class>
+            <example>he_PPHS1 helped_VVD her_PP$ bake_VV0 the_AT cake_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj help he _)</gr>
+                <gr n="2">(ccomp _ help bake)</gr>
+                <gr n="3">(ncsubj bake her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="34">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_ING, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>NP-ING</comlex_class>
+            <example>I_PPHS1 kept_VVD them_PPHO2 laughing_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj keep I _)</gr>
+                <gr n="2">(dobj keep them *rais)</gr>
+                <gr n="3">(xcomp _ keep laugh)</gr>
+                <gr n="4">(ncsubj laugh them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="35">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_ING, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-ING-OC</comlex_class>
+            <example>I_PPHS1 caught_VVD him_PPHO1 stealing_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj catch I _)</gr>
+                <gr n="2">(dobj catch him _)</gr>
+                <gr n="3">(xcomp _ catch steal)</gr>
+                <gr n="4">(ncsubj steal him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="36">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap: real complement?</anlt_subcat>
+            <tsg>(VSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-ING-SC</comlex_class>
+            <example>he_PPHS1 combed_VVD the_AT woods_NN2 looking_VVG for_IF her_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj comb he _)</gr>
+                <gr n="2">(dobj comb woods _)</gr>
+                <gr n="3">(xcomp _ comb look)</gr>
+                <gr n="4">(ncsubj look he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="37">
+            <lingoerg>v_ditrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_NP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vnx1nx2</xtag_treefam>
+            <comlex_class>NP-NP</comlex_class>
+            <example>she_PPHS1 asked_VVD him_PPHO1 his_AT name_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj ask she _)</gr>
+                <gr n="2">(dobj ask him _)</gr>
+                <gr n="3">(obj2 ask name)</gr>
+            </grs>
+        </subcat>
+        <subcat n="38">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_NP, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>NP-NP-PRED</comlex_class>
+            <example>they_PPHS2 appointed_VVD him_PPHO1 professor_NNS1</example>
+            <grs>
+                <gr n="1">(ncsubj appoint they _)</gr>
+                <gr n="2">(dobj appoint him _)</gr>
+                <gr n="3">(obj2 appoint professor)</gr>
+                <gr n="4">*(ncsubj professor him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="39">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_ING, PFORM from, SUBTYPE PVERB_OR, ORDER POSTNP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) from (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-ING</comlex_class>
+            <example>I_PPHS1 prevented_VVD her_PPHO1 from_II leaving_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj prevent I _)</gr>
+                <gr n="2">(dobj prevent her *rais)</gr>
+                <gr n="3">(xcomp _ prevent from)</gr>
+                <gr n="4">*(ncsubj leave her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="40">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_ING, PFORM, SUBTYPE PVERB_OE, ORDER POSTNP)</anlt_subcat>
+            <tsg>(VSUBCAT SING, PRT +) of</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-ING-OC</comlex_class>
+            <example>I_PPHS1 accused_VVD her_PPHO1 of_IO murdering_VVG her_AT husband_NN1</example>
+            <grs>
+                <gr n="1">(VSUBCAT NP_PP) * (PSUBCAT VPING)</gr>
+                <gr n="2">(ncsubj accuse I _)</gr>
+                <gr n="3">(dobj accuse her _)</gr>
+                <gr n="4">(xcomp _ accuse of)</gr>
+                <gr n="5">*(ncsubj murder her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="41">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>ANLT scheme gap ; shld be (SUBCAT SC_PP_ING, PRT, ORDER POSTNP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) on (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-ING-SC</comlex_class>
+            <example>he_PPHS1 wasted_VVD time_NNT1 on_II fussing_VVG with_IW his_AT hair_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj waste he _)</gr>
+                <gr n="2">(dobj waste time _)</gr>
+                <gr n="3">(xcomp _ waste on)</gr>
+                <gr n="4">*(ncsubj fuss he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="42">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT VC_PP_ING)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) about (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-ING-AC</comlex_class>
+            <example>he_PPHS1 told_VVD her_PPHO1 about_II climbing_VVG the_AT mountain_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj tell he _)</gr>
+                <gr n="2">(dobj tell her _)</gr>
+                <gr n="3">(xcomp _ tell about)</gr>
+                <gr n="4">*(ncsubj climb Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="43">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT SC_PP_ING)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) to (PSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-NP-ING</comlex_class>
+            <example>he_PPHS1 attributed_VVD his_AT failure_NN1 to_II noone_NP1 buying_VVG his_AT books_NN2</example>
+            <grs>
+                <gr n="1">(ncsubj attribute he _)</gr>
+                <gr n="2">(dobj attribute failure _)</gr>
+                <gr n="3">(ccomp _ attribute to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="44">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT NP_PP_SING)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) about (PSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-POSSING</comlex_class>
+            <example>They_PPHS2 asked_VVD him_PPHO1 about_II his_PPHO1 participating_VVG in_II the_AT conference_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj ask they _)</gr>
+                <gr n="2">(dobj ask him _)</gr>
+                <gr n="3">(ccomp _ ask about)</gr>
+            </grs>
+        </subcat>
+        <subcat n="45">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHS, PREP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) about (PSUBCAT PP) whether (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-WH-S</comlex_class>
+            <example>they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II whether_CSW they_PPHS2 should_VM participate_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj make they _)</gr>
+                <gr n="2">(dobj make fuss _)</gr>
+                <gr n="3">(ccomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="46">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHS, PREP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_WHPP) about (PSUBCAT WHS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-WHAT-S</comlex_class>
+            <example>they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II what_DDQ they_PPHS2 should_VM do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj make they _)</gr>
+                <gr n="2">(dobj make fuss _)</gr>
+                <gr n="3">(ccomp make about)</gr>
+            </grs>
+        </subcat>
+        <subcat n="47">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHVP, PREP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_WHPP) about (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-WHAT-TO-INF</comlex_class>
+            <example>they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj make they _)</gr>
+                <gr n="2">(dobj make fuss _)</gr>
+                <gr n="3">(iobj make about)</gr>
+            </grs>
+        </subcat>
+        <subcat n="48">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHS, PREP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) about (PSUBCAT PP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-P-WH-TO-INF</comlex_class>
+            <example>they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II whether_CSW to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj make they _)</gr>
+                <gr n="2">(dobj make fuss _)</gr>
+                <gr n="3">(pcomp make about)</gr>
+                <gr n="4">(xcomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="49">
+            <lingoerg>v_empty_prep_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, PFORM, SUBTYPE NONE/PVERB?)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) to</tsg>
+            <xtag_treefam>XTAG:Tnx0Vnx1pnx2</xtag_treefam>
+            <comlex_class>NP-PP</comlex_class>
+            <example>she_PPHS1 added_VVD the_AT flowers_NN2 to_II the_AT bouquet_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj add she _)</gr>
+                <gr n="2">(iobj add to)</gr>
+                <gr n="3">(dobj add flowers _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="50">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, PFORM of, SUBTYPE NONE, PRD +)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PPOF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-PP-PRED</comlex_class>
+            <example>I_PPHS1 considered_VVD that_AT problem_NN1 of_IO little_JJ concern_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj consider I _)</gr>
+                <gr n="2">(iobj consider of)</gr>
+                <gr n="3">(dobj consider problem _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="51">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-PRED-RS</comlex_class>
+            <example>he_PPHS1 seemed_VVD a_AT1 fool_NN</example>
+            <grs>
+                <gr n="1">(ncsubj seem he *rais)</gr>
+                <gr n="2">(dobj seem fool _)</gr>
+                <gr n="3">*(ncsubj fool he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="52">
+            <lingoerg>v_np_trans_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_SFIN, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT NP_SCOMP) * _VVZ/D/G</tsg>
+            <xtag_treefam>XTAG:Tnx0Vnx1s2</xtag_treefam>
+            <comlex_class>NP-S</comlex_class>
+            <example>he_PPHS1 told_VVD the_AT audience_NN1 that_CST he_PPHS1 was_VBZ leaving_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj tell he _)</gr>
+                <gr n="2">(ccomp that tell leaving)</gr>
+                <gr n="3">(dobj tell audience _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="53">
+            <lingoerg>v_obj_equi_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-TO-INF-OC</comlex_class>
+            <example>I_PPHS1 advised_VVD Mary_NP1 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj advise I _)</gr>
+                <gr n="2">(ncsubj go Mary _)</gr>
+                <gr n="3">(xcomp to advise go)</gr>
+                <gr n="4">(dobj advise Mary _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="54">
+            <lingoerg>v_anom_equi_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP_INF, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-TO-INF-SC</comlex_class>
+            <example>John_NP1 promised_VVD Mary_NP1 to_TO resign_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj promise John _)</gr>
+                <gr n="2">(xcomp to promise resign)</gr>
+                <gr n="3">(dobj promise Mary _)</gr>
+                <gr n="4">*(ncsubj resign John _) ; override `Mary'</gr>
+            </grs>
+        </subcat>
+        <subcat n="55">
+            <lingoerg>v_obj_equi_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-TO-INF-VC</comlex_class>
+            <example>they_PPHS2 badgered_VVD him_PPHO1 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj badger they _)</gr>
+                <gr n="2">(xcomp to badger go)</gr>
+                <gr n="3">(dobj badger him _)</gr>
+                <gr n="4">*(ncsubj go Pro _) ; override `him'</gr>
+            </grs>
+        </subcat>
+        <subcat n="56">
+            <lingoerg>v_empty_to_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, PFORM to, SUBTYPE DMOVT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) to</tsg>
+            <xtag_treefam>XTAG:Tnx0Vnx1Pnx2</xtag_treefam>
+            <comlex_class>NP-TO-NP</comlex_class>
+            <example>he_PPHS1 gave_VVD a_AT1 big_JJ kiss_NN1 to_II his_AT mother_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj give he _)</gr>
+                <gr n="2">(iobj give to)</gr>
+                <gr n="3">(dobj give kiss _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="57">
+            <lingoerg>v_sor_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT SINF) BE</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-TOBE</comlex_class>
+            <example>I_PPHS1 found_VVD him_PPHO1 to_TO be_VB0 a_AT1 good_JJ doctor_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj find I _)</gr>
+                <gr n="2">(ncsubj be him *rais)</gr>
+                <gr n="3">(xcomp to find be)</gr>
+                <gr n="4">(dobj find him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="58">
+            <lingoerg>v_obj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PASS, SUBTYPE EQUI/RAISING)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) _VVN</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-VEN-NP-OMIT</comlex_class>
+            <example>he_PPHS1 wanted_VVD the_AT children_NN2 found_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj want he _)</gr>
+                <gr n="2">(ccomp _ want found)</gr>
+                <gr n="3">(ncsubj found children _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="59">
+            <lingoerg>v_np_trans_cp_ques_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHS)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) WHETHER/IF (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-WH-S</comlex_class>
+            <example>they_PPHS2 asked_VVD him_PPHO1 whether_CSW he_PPHS1 was_VBZ going_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj ask they _)</gr>
+                <gr n="2">(ccomp _ ask whether)</gr>
+                <gr n="3">(dobj ask him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="60">
+            <lingoerg>v_np_trans_cp_ques_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHS)</anlt_subcat>
+            <tsg>(VSUBCAT NP_SCOMP) S(WH +)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-WHAT-S</comlex_class>
+            <example>they_PPHS2 asked_VVD him_PPHO1 what_DDQ he_PPHS1 was_VBZ doing_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj ask they _)</gr>
+                <gr n="2">(ccomp _ ask doing)</gr>
+                <gr n="3">(dobj ask him _)</gr>
+                <gr n="4">(obj doing what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="61">
+            <lingoerg>v_np_trans_cp_ques_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) WHETHER (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-WH-TO-INF</comlex_class>
+            <example>he_PPHS1 asked_VVD him_PPHO1 whether_CSW to_TO clean_VV0 the_AT house_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(xcomp _ ask whether)</gr>
+                <gr n="3">(dobj ask him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="62">
+            <lingoerg>v_np_trans_cp_ques_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP) * WHAT/WHO/WHICH</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>NP-WHAT-TO-INF</comlex_class>
+            <example>he_PPHS1 asked_VVD him_PPHO1 what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(obj2 ask what)</gr>
+                <gr n="3">(dobj ask him _)</gr>
+                <gr n="4">(xmod to what do)</gr>
+            </grs>
+        </subcat>
+        <subcat n="63">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_ING, SUBTYPE EQUI, PREP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) in (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-ING-SC</comlex_class>
+            <example>they_PPHS2 failed_VVD in_II attempting_VVG the_AT climb_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj fail they _)</gr>
+                <gr n="2">(xcomp _ fail in)</gr>
+                <gr n="3">*(ncsubj attempt they _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="64">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT VC_ING, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT PP) of (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-ING-AC</comlex_class>
+            <example>they_PPHS2 disapproved_VVD of_IO attempting_VVG the_AT climb_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj disapprove they _)</gr>
+                <gr n="2">(xcomp _ disapprove of)</gr>
+            </grs>
+        </subcat>
+        <subcat n="65">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_ING, PFORM @p, SUBTYPE PVERB_OR/OE, ORDER PRENP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) about (PSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-NP-ING</comlex_class>
+            <example>they_PPHS2 worried_VVD about_II him_PPHO1 drinking_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj worry they _)</gr>
+                <gr n="2">(ccomp _ worry about)</gr>
+                <gr n="3">(ncsubj drinking him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="66">
+            <lingoerg>v_oeq_pp_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_PP_INF, PFORM @p, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT PP_VPINF) with (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-NP-TO-INF(-SC)</comlex_class>
+            <example>he_PPHS1 conspired_VVD with_IW them_PPHO2 to_TO do_VV0 it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj conspire he _)</gr>
+                <gr n="2">(iobj conspire with)</gr>
+                <gr n="3">(xcomp to conspire do)</gr>
+                <gr n="4">*(ncsubj do them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="67">
+            <lingoerg>v_oeq_pp_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_INF, PFORM @p, SUBTYPE PVERB_OE/OR/EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT PP_VPINF) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-NP-TO-INF-OC</comlex_class>
+            <example>he_PPHS1 beckoned_VVD to_II him_PPHO1 to_TO come_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj beckon he _)</gr>
+                <gr n="2">(iobj beckon to)</gr>
+                <gr n="3">(xcomp to beckon come)</gr>
+                <gr n="4">*(ncsubj come him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="68">
+            <lingoerg>v_pp_inf_seq_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>she_PPHS1 appealed_VVD to_II him_PPHO1 to_TO be_VB0 freed_JJ</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-NP-TO-INF-VC</comlex_class>
+            <example>she_PPHS1 appealed_VVD to_II him_PPHO1 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(VSUBCAT PP_VPINF) to  (PSUBCAT NP)</gr>
+                <gr n="2">(ncsubj appeal she _)</gr>
+                <gr n="3">(iobj appeal to)</gr>
+                <gr n="4">(xcomp to appeal be)</gr>
+                <gr n="5">*(ncsubj be Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="69">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_ING, PFORM @p, SUBTYPE PVERB_OR, ORDER PRENP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) about (PSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-POSSING</comlex_class>
+            <example>they_PPHS2 argued_VVD about_II his_PP$ coming_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj argue they _)</gr>
+                <gr n="2">(ccomp _ argue about)</gr>
+                <gr n="3">(ncsubj come his _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="70">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS, PRT/PREP @p)</anlt_subcat>
+            <tsg>(VSUBCAT PP) about (PSUBCAT PP) WHETHER/IF (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-WH-S</comlex_class>
+            <example>he_PPHS1 thought_VVD about_II whether_CSW he_PPHS1 wanted_VVD to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj think he _)</gr>
+                <gr n="2">(pcomp think about)</gr>
+                <gr n="3">(ccomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="71">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS, PRT/PREP @p)</anlt_subcat>
+            <tsg>(VSUBCAT WHPP) about (PSUBCAT WHS) WHAT</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-WHAT-S</comlex_class>
+            <example>he_PPHS1 thought_VVD about_II what_DDQ he_PPHS1 wanted_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj think he _)</gr>
+                <gr n="2">(ccomp _ think about)</gr>
+                <gr n="3">(obj wanted what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="72">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP, PREP @p)</anlt_subcat>
+            <tsg>(VSUBCAT PP) about (PSUBCAT PP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-WH-TO-INF</comlex_class>
+            <example>he_PPHS1 thought_VVD about_II whether_CSW to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj think he _)</gr>
+                <gr n="2">(pcomp think about)</gr>
+                <gr n="3">(xcomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="73">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP, PREP @p)</anlt_subcat>
+            <tsg>(VSUBCAT WHPP) about (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>P-WHAT-TO-INF</comlex_class>
+            <example>he_PPHS1 thought_VVD about_II what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj think he _)</gr>
+                <gr n="2">(iobj think about)</gr>
+                <gr n="3">(dobj about what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="74">
+            <lingoerg>v_particle_le</lingoerg>
+            <anlt_subcat>(SUBCAT NULL, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NONE, PRT +) up</tsg>
+            <xtag_treefam>XTAG:Tnx0Vpl</xtag_treefam>
+            <comlex_class>PART</comlex_class>
+            <example>she_PPHS1 gave_VVD up_RL</example>
+            <grs>
+                <gr n="1">she_PPHS1 gave_VVD up_II</gr>
+                <gr n="2">(VSUBCAT PP) up (PSUBCAT NONE)</gr>
+                <gr n="3">(ncsubj give she _)</gr>
+                <gr n="4">(ncmod prt give up)</gr>
+            </grs>
+        </subcat>
+        <subcat n="75">
+            <lingoerg>v_particle_np_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_ING, SUBTYPE EQUI, PRT/PREP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) out (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-ING-SC</comlex_class>
+            <example>he_PPHS1 ruled_VVD out_II paying_VVG her_AT debts_NN2</example>
+            <grs>
+                <gr n="1">he_PPHS1 ruled_VVD out_RP paying_VVG her_AT debts_NN2</gr>
+                <gr n="2">(VSUBCAT VPING, PRT +) out</gr>
+                <gr n="3">(ncsubj rule he _)</gr>
+                <gr n="4">(xcomp _ rule out / pay)</gr>
+                <gr n="5">(xcomp _ out pay) / (ncmod prt ruled out)</gr>
+                <gr n="6">*(ncsubj pay he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="76">
+            <lingoerg>v_particle_np_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP, PRT) (ORDER FREE)</anlt_subcat>
+            <tsg>(VSUBCAT NP, PRT +) up *</tsg>
+            <xtag_treefam>XTAG:Tnx0Vplnx1</xtag_treefam>
+            <comlex_class>PART-NP</comlex_class>
+            <example>I_PPHS1 looked_VVD up_RL the_AT entry_NN1</example>
+            <grs>
+                <gr n="1">I_PPHS1 looked_VVD the_AT entry_NN1 up_RL</gr>
+                <gr n="2">(VSUBCAT NP, PRT +) * up</gr>
+                <gr n="3">(ncsubj look I _)</gr>
+                <gr n="4">(dobj look entry _)</gr>
+                <gr n="5">(ncmod prt look up)</gr>
+            </grs>
+        </subcat>
+        <subcat n="77">
+            <lingoerg>v_particle_np_pp_from_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, PFORM, PRT, SUBTYPE NONE/PVERB?)  (ORDER FREE)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) out (PSUBCAT NP) from (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-NP-PP</comlex_class>
+            <example>I_PPHS1 separated_VVD out_II the_AT three_JJ boys_NN2 from_II the_AT crowd_NN1</example>
+            <grs>
+                <gr n="1">I_PPHS1 separated_VVD out_RP the_AT three_JJ boys_NN2 from_II the_AT crowd_NN1</gr>
+                <gr n="2">(VSUBCAT NP_PP, PRT +) out  from (PSUBCAT NP)</gr>
+                <gr n="3">(ncsubj separate I _)</gr>
+                <gr n="4">(iobj separate from)</gr>
+                <gr n="5">(iobj separate out) / (ncmod prt separate out) + (dobj separate boys _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="78">
+            <lingoerg>v_particle_pp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP, PFORM, PRT, SUBTYPE PVERB)</anlt_subcat>
+            <tsg>(VSUBCAT PP) in (PSUBCAT PP) on (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-PP</comlex_class>
+            <example>she_PPHS1 looked_VVD in_II on_II her_AT friend_NN1</example>
+            <grs>
+                <gr n="1">she_PPHS1 looked_VVD in_RL on_II her_AT friend_NN1</gr>
+                <gr n="2">(VSUBCAT PP, PRT +) in on (PSUBCAT NP)</gr>
+                <gr n="3">(ncsubj look she _)</gr>
+                <gr n="4">(pcomp look in) / (ncmod prt look in)</gr>
+                <gr n="5">(iobj in on) / (iobj look on)</gr>
+            </grs>
+        </subcat>
+        <subcat n="79">
+            <lingoerg>v_particle_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT PP) out (PSUBCAT PP) WHETHER/IF (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-WH-S</comlex_class>
+            <example>they_PPHS2 figured_VVD out_II whether_CSW she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1</example>
+            <grs>
+                <gr n="1">they_PPHS2 figured_VVD out_RP whether_CSW she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1</gr>
+                <gr n="2">(VSUBCAT PP, PRT +) out WHETHER/IF (PSUBCAT SFIN)</gr>
+                <gr n="3">(ncsubj figured they _)</gr>
+                <gr n="4">(pcomp figured out) / (ncmod prt figured out)</gr>
+                <gr n="5">(ccomp _ out whether) / (ccomp _ figured whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="80">
+            <lingoerg>v_particle_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT WHPP) out (PSUBCAT WHS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-WHAT-S</comlex_class>
+            <example>they_PPHS2 figured_VVD out_II what_DDQ she_PPHS1 had_VHD n't_XX done_VVD</example>
+            <grs>
+                <gr n="1">they_PPHS2 figured_VVD out_RP what_DDQ she_PPHS1 had_VHD n't_XX done_VVD</gr>
+                <gr n="2">(VSUBCAT SCOMP, PRT +) out S(WH +)</gr>
+                <gr n="3">(ncsubj figure they _)</gr>
+                <gr n="4">(ccomp _ figure out / do)</gr>
+                <gr n="5">(ccomp _ out do) / (ncmod prt figure out)</gr>
+                <gr n="6">(obj do what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="81">
+            <lingoerg>v_particle_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT PP) out (PSUBCAT PP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-WH-TO-INF</comlex_class>
+            <example>they_PPHS2 figured_VVD out_II whether_CSW to_TO go_VV0</example>
+            <grs>
+                <gr n="1">they_PPHS2 figured_VVD out_RP whether_CSW to_TO go_VV0</gr>
+                <gr n="2">(VSUBCAT PP, PRT +) out whether (PSUBCAT VPINF)</gr>
+                <gr n="3">(ncsubj figure they _)</gr>
+                <gr n="4">(pcomp figure out)</gr>
+                <gr n="5">(xcomp _ out / figure whether)</gr>
+                <gr n="6">(xcomp to whether go)</gr>
+                <gr n="7">0 / (ncmod prt figure out)</gr>
+            </grs>
+        </subcat>
+        <subcat n="82">
+            <lingoerg>v_particle_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT WHPP) out (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-WHAT-TO-INF</comlex_class>
+            <example>they_PPHS2 figured_VVD out_II what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">they_PPHS2 figured_VVD out_RP what_DDQ to_TO do_VV0</gr>
+                <gr n="2">(VSUBCAT NP, PRT +) WHAT/WHICH/WHO</gr>
+                <gr n="3">(ncsubj figure they _)</gr>
+                <gr n="4">(iobj figure out) / (ncmod prt figure out)</gr>
+                <gr n="5">(dobj out what _) / (dobj figure what _)</gr>
+                <gr n="6">(xcomp to what do)</gr>
+            </grs>
+        </subcat>
+        <subcat n="83">
+            <lingoerg>v_particle_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT PP_SCOMP) out (PSUBCAT NONE) _VVG/Z/D</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PART-THAT-S</comlex_class>
+            <example>they_PPHS2 figured_VVD out_II that_CST she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1</example>
+            <grs>
+                <gr n="1">(VSUBCAT SCOMP, PRT +) out _VVG/Z/D</gr>
+                <gr n="2">(ncsubj figure they _)</gr>
+                <gr n="3">(ccomp _ figure out) / (ncmod prt figure out)</gr>
+                <gr n="4">(ccomp that out do)  / (ccomp that figure do)</gr>
+            </grs>
+        </subcat>
+        <subcat n="84">
+            <lingoerg>v_np_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_ING, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT SING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>POSSING</comlex_class>
+            <example>he_PPHS1 dismissed_VVD their_PP$ writing_VVG novels_NN2</example>
+            <grs>
+                <gr n="1">(ncsubj dismiss he _)</gr>
+                <gr n="2">(ncsubj write their _)</gr>
+                <gr n="3">(xcomp _ dismiss write)</gr>
+            </grs>
+        </subcat>
+        <subcat n="85">
+            <lingoerg>v_empty_to_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT OC_ING_PP)</anlt_subcat>
+            <tsg>(VSUBCAT SING_PP) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>POSSING-PP</comlex_class>
+            <example>she_PPHS1 attributed_VVD his_PP$ drinking_VVG too_RG much_DA1 to_II his_AT anxiety_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj attribute she _)</gr>
+                <gr n="2">(iobj attribute to)</gr>
+                <gr n="3">(xcomp _ attribute drink)</gr>
+                <gr n="4">(ncsubj drink his _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="86">
+            <lingoerg>v_empty_to_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT VPING_PP) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>ING-PP</comlex_class>
+            <example>they_PPHS2 limited_VVD smoking_VVG a_AT pipe_NN1 to_II the_AT lounge_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj limit they _)</gr>
+                <gr n="2">(iobj limit to)</gr>
+                <gr n="3">(xcomp _ limit smoking)</gr>
+            </grs>
+        </subcat>
+        <subcat n="87">
+            <lingoerg>v_empty_prep_intrans_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP/LOC, PFORM, SUBTYPE NONE/PVERB)</anlt_subcat>
+            <tsg>(VSUBCAT PP) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vpnx1</xtag_treefam>
+            <comlex_class>PP</comlex_class>
+            <example>they_PPHS2 apologized_VVD to_II him_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj apologized they _)</gr>
+                <gr n="2">(iobj apologized to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="88">
+            <lingoerg>v_double_pp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SINF, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) with (PSUBCAT NP) for (PSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-FOR-TO-INF</comlex_class>
+            <example>they_PPHS2 contracted_VVD with_IW him_PPHO1 for_IF the_AT man_NN1 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj contract they _)</gr>
+                <gr n="2">(ccomp _ contract for)</gr>
+                <gr n="3">(iobj contract with)</gr>
+            </grs>
+        </subcat>
+        <subcat n="89">
+            <lingoerg>v_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHS, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHS) to (PSUBCAT NP) HOW/WHY/WHERE/WHEN</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-HOW-S</comlex_class>
+            <example>he_PPHS1 explained_VVD to_II her_PPHO1 how_RGQ she_PPHS1 did_VDD it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj explain he _)</gr>
+                <gr n="2">(ccomp _ explain do)</gr>
+                <gr n="3">(iobj explain to)</gr>
+                <gr n="4">(arg_mod _ do how)</gr>
+            </grs>
+        </subcat>
+        <subcat n="90">
+            <lingoerg>v_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHVP, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHPP) to (PSUBCAT NP) HOW/WHERE/WHEN</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-HOW-TO-INF</comlex_class>
+            <example>he_PPHS1 explained_VVD to_II them_PPHO2 how_RGQ to_TO do_VV0 it_PPH1</example>
+            <grs>
+                <gr n="1">(ncsubj explain he _)</gr>
+                <gr n="2">(iobj explain how)</gr>
+                <gr n="3">(iobj explain to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="91">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT PP_WHS, PFORM, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) with (PSUBCAT NP) about (PSUBCAT PP) WHETHER (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-P-WH-S</comlex_class>
+            <example>I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II whether_CSW he_PPHS1 should_VM kill_VV0 the_AT peasants_NN2</example>
+            <grs>
+                <gr n="1">(ncsubj agree I _)</gr>
+                <gr n="2">(pcomp agree about)</gr>
+                <gr n="3">(iobj agree with)</gr>
+                <gr n="4">(ccomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="92">
+            <lingoerg>v_double_pp_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHPP) with (PSUBCAT NP) about (PSUBCAT WHS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-P-WHAT-S</comlex_class>
+            <example>I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II what_DDQ he_PPHS1 should_VM do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj agree I _)</gr>
+                <gr n="2">(ccomp _ agree about)</gr>
+                <gr n="3">(iobj agree with)</gr>
+                <gr n="4">(obj do what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="93">
+            <lingoerg>v_double_pp_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHPP) with (PSUBCAT NP) about (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-P-WHAT-TO-INF</comlex_class>
+            <example>I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj agree I _)</gr>
+                <gr n="2">(dobj about what _)</gr>
+                <gr n="3">(iobj agree about)</gr>
+                <gr n="4">(iobj agree with)</gr>
+            </grs>
+        </subcat>
+        <subcat n="94">
+            <lingoerg>v_double_pp_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) with (PSUBCAT NP) about (PSUBCAT PP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-P-WH-TO-INF</comlex_class>
+            <example>I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II whether_CSW to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj agree I _)</gr>
+                <gr n="2">(pcomp agree about)</gr>
+                <gr n="3">(iobj agree with)</gr>
+                <gr n="4">(xcomp _ about whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="95">
+            <lingoerg>v_double_pp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_PP)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) from (PSUBCAT NP) to (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-PP</comlex_class>
+            <example>they_PPHS2 flew_VVD from_II London_NP1 to_II Rome_NP1</example>
+            <grs>
+                <gr n="1">(ncsubj flew they _)</gr>
+                <gr n="2">(iobj flew to)</gr>
+                <gr n="3">(iobj flew from)</gr>
+            </grs>
+        </subcat>
+        <subcat n="96">
+            <lingoerg>v_prdp_pp_ssr_a_or_p_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT PP) in (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-PRED-RS</comlex_class>
+            <example>the_AT matter_NN1 seems_VVZ in_II dispute_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj seem matter *rais)</gr>
+                <gr n="2">(iobj seem in)</gr>
+            </grs>
+        </subcat>
+        <subcat n="97">
+            <lingoerg>v_pp_cp_fin_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SFIN, SUBTYPE NONE, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_SCOMP) to (PSUBCAT NP)  _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-THAT-S</comlex_class>
+            <example>they_PPHS2 admitted_VVD to_II the_AT authorities_NN2 that_CST they_PPHS2 had_VHD entered_VVD illegally_RR</example>
+            <grs>
+                <gr n="1">(ncsubj admit they _)</gr>
+                <gr n="2">(ccomp that admit enter)</gr>
+                <gr n="3">(iobj admit to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="98">
+            <lingoerg>v_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SBSE, PFORM, S[BSE, that])</anlt_subcat>
+            <tsg>(VSUBCAT PP_SCOMP) to (PSUBCAT NP)  _VV0</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-THAT-S-SUBJUNCT</comlex_class>
+            <example>they_PPHS2 suggested_VVD to_II him_PPHO1 that_CST he_PPHS1 go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj suggest they _)</gr>
+                <gr n="2">(ccomp that suggest go)</gr>
+                <gr n="3">(iobj suggest to)</gr>
+            </grs>
+        </subcat>
+        <subcat n="99">
+            <lingoerg>v_pp_inf_ssr_le or v_prdp_pp_ssr_adj_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_PP_INF, SUBTYPE RAIS, PFORM, VP[to])</anlt_subcat>
+            <tsg>(VSUBCAT PP_VPINF) to (PSUBCAT NP) BE</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-TO-INF-RS</comlex_class>
+            <example>he_PPHS1 appeared_VVD to_II her_PPHO1 to_TO be_VB0 ill_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj appear he *rais)</gr>
+                <gr n="2">(iobj appear to)</gr>
+                <gr n="3">(xcomp to appear be)</gr>
+                <gr n="4">*(ncsubj be he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="100">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHS, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) about (PSUBCAT NP) WHETHER/IF (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-WH-S</comlex_class>
+            <example>they_PPHS2 asked_VVD about_II everybody_NP1 whether_CSW they_PPHS2 had_VHD enrolled_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj ask they _)</gr>
+                <gr n="2">(ccomp _ ask whether)</gr>
+                <gr n="3">(iobj ask about)</gr>
+            </grs>
+        </subcat>
+        <subcat n="101">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHS, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHS) about (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-WHAT-S</comlex_class>
+            <example>they_PPHS2 asked_VVD about_II everybody_NP1 what_DDQ they_PPHS2 had_VHD done_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj ask they _)</gr>
+                <gr n="2">(ccomp _ ask done)</gr>
+                <gr n="3">(iobj ask about)</gr>
+                <gr n="4">(obj done what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="102">
+            <lingoerg>v_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP) from (PSUBCAT NP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-WH-TO_INF</comlex_class>
+            <example>they_PPHS2 deduced_VVD from_II kim_NP1 whether_CSW to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj deduce they _)</gr>
+                <gr n="2">(xcomp _ deduce whether)</gr>
+                <gr n="3">(iobj deduce from)</gr>
+            </grs>
+        </subcat>
+        <subcat n="103">
+            <lingoerg>v_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT PP_WHVP) from (PSUBCAT NP) WHAT/WHO/WHICH</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>PP-WHAT-TO-INF</comlex_class>
+            <example>they_PPHS2 deduced_VVD from_II kim_NP1 what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj deduce they _)</gr>
+                <gr n="2">(iobj deduce from)</gr>
+                <gr n="3">(dobj deduce what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="104">
+            <lingoerg>v_cp_prop_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>S</comlex_class>
+            <example>they_PPHS2 thought_VVD that_CST he_PPHS1 was_VBZ always_RR late_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj think they _)</gr>
+                <gr n="2">(ccomp that think be)</gr>
+            </grs>
+        </subcat>
+        <subcat n="105">
+            <lingoerg>v_cp_prop_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, SUBTYPE EXTRAP, AGR S[FIN -])</anlt_subcat>
+            <tsg>_VV0 (VSUBCAT SCOMP)  _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>S-SUBJ-S-OBJ</comlex_class>
+            <example>to_TO report_VV0 the_AT theft_NN1 indicates_VVD that_CST he_PPHS1 was_VBZ n't_XX guilty_JJ</example>
+            <grs>
+                <gr n="1">(xsubj indicate report _)</gr>
+                <gr n="2">(ccomp that indicate be)</gr>
+            </grs>
+        </subcat>
+        <subcat n="106">
+            <lingoerg>v_cp_subj_le</lingoerg>
+            <anlt_subcat>(SUBCAT SBSE)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) _VV0</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>S-SUBJUNCT</comlex_class>
+            <example>She_PPHS1 demanded_VVD that_CST he_PPHS1 leave_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj demand She _)</gr>
+                <gr n="2">(ccomp that demand leave)</gr>
+            </grs>
+        </subcat>
+        <subcat n="107">
+            <lingoerg>v_expl_it_subj_pp_cp_le or v_expl_it_subj_like_le ; like_CST</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT SCOMP) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>SEEM-S</comlex_class>
+            <example>it_PPH1 seems_VVZ that_CST they_PPHS2 left_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj seem it _)</gr>
+                <gr n="2">(ccomp that seem left)</gr>
+            </grs>
+        </subcat>
+        <subcat n="108">
+            <lingoerg>v_expl_it_subj_pp_cp_le or v_expl_it_subj_like_le  ; like_CST</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT PP_SCOMP) to (PSUBCAT NP) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>SEEM-TO-NP-S</comlex_class>
+            <example>it_PPH1 seems_VVZ to_II her_PPHO1 that_CST they_PPHS2 were_VBDR wrong_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj seem it _)</gr>
+                <gr n="2">(ccomp that seem be)</gr>
+                <gr n="3">(iobj seem to))</gr>
+            </grs>
+        </subcat>
+        <subcat n="109">
+            <lingoerg>v_expl_it_subj_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>THAT-S</comlex_class>
+            <example>he_PPHS1 complained_VVD that_CST they_PPHS2 were_VBDR coming_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj complain he _)</gr>
+                <gr n="2">(ccomp that complain come)</gr>
+            </grs>
+        </subcat>
+        <subcat n="110">
+            <lingoerg>v_subj_equi_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT VC_INF)</anlt_subcat>
+            <tsg>(VSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>TO-INF-AC</comlex_class>
+            <example>He_PPHS1 helped_VVD to_TO save_VV0 the_AT child_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj help He _)</gr>
+                <gr n="2">(xcomp to help save)</gr>
+                <gr n="3">*(ncsubj save Pro _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="111">
+            <lingoerg>v_ssr_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_INF, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT VPINF) be</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>TO-INF-RS</comlex_class>
+            <example>he_PPHS1 seemed_VVD to_TO come_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj seem he _)</gr>
+                <gr n="2">(xcomp to seem come)</gr>
+                <gr n="3">*(ncsubj come he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="112">
+            <lingoerg>v_subj_equi_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_INF, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>TO-INF-SC</comlex_class>
+            <example>I_PPHS1 wanted_VVD to_TO come_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj want I _)</gr>
+                <gr n="2">(xcomp to want come)</gr>
+            </grs>
+        </subcat>
+        <subcat n="114">
+            <lingoerg>v_cp_ques_fin_inf_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHS)</anlt_subcat>
+            <tsg>(VSUBCAT SCOMP) S(WH +)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>WHAT-S</comlex_class>
+            <example>he_PPHS1 asked_VVD what_DDQ he_PPHS1 should_VM do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(ccomp _ ask do)</gr>
+                <gr n="3">(obj do what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="115">
+            <lingoerg>v_cp_ques_fin_inf_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT PP) whether (PSUBCAT VPINF)</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>WH-TO-INF</comlex_class>
+            <example>he_PPHS1 asked_VVD whether_CSW to_TO clean_VV0 the_AT house_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(xcomp _ ask whether)</gr>
+            </grs>
+        </subcat>
+        <subcat n="116">
+            <lingoerg>v_cp_ques_fin_inf_non_trans_le</lingoerg>
+            <anlt_subcat>(SUBCAT WHVP)</anlt_subcat>
+            <tsg>(VSUBCAT NP) WHAT/WHO/WHICH</tsg>
+            <xtag_treefam>XTAG:Tnx0Vs1</xtag_treefam>
+            <comlex_class>WHAT-TO-INF</comlex_class>
+            <example>he_PPHS1 asked_VVD what_DDQ to_TO do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj asked he _)</gr>
+                <gr n="2">(dobj asked what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="117">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT NP_NP, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP, PRT +) up</tsg>
+            <xtag_treefam>XTAG:Tnx0Vplnx1nx2</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>I_PPHS1 opened_VVD him_PPHO1 up_RP a_AT new_JJ bank_NN1 account_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj open I _)</gr>
+                <gr n="2">(ncmod prt open up)</gr>
+                <gr n="3">(obj2 open account)</gr>
+                <gr n="4">(dobj open him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="118">
+            <lingoerg>v_np_prep_trans_le</lingoerg>
+            <anlt_subcat>ANLT gap ; (not a genuine class as subclasses of 49/50)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) (make comment) on (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG:Light-verbs</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 made_VVD comments_NN2 on_II the_AT paper_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj make he _)</gr>
+                <gr n="2">(iobj make on)</gr>
+                <gr n="3">(dobj make comment _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="119">
+            <lingoerg>v_particle_pp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP/LOC, PFORM, PRT, SUBTYPE NONE)</anlt_subcat>
+            <tsg>(VSUBCAT PP, PRT +) away from (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 breaks_VVZ away_RP from_II the_AT abbey_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj break he _)</gr>
+                <gr n="2">(iobj break from)</gr>
+                <gr n="3">(ncmod prt break away))</gr>
+            </grs>
+        </subcat>
+        <subcat n="120">
+            <lingoerg>v_np_particle_pp_for_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP, PFORM, PRT, SUBTYPE DMOVT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP, PRT +) back for (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 brought_VVD a_AT book_NN1 back_RP for_IF me_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj bring he _)</gr>
+                <gr n="2">(iobj bring for)</gr>
+                <gr n="3">(ncmod prt bring back))</gr>
+            </grs>
+        </subcat>
+        <subcat n="121">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT PP_PP, PFORM, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT PP_PP, PRT +) down on (PSUBCAT NP) for (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 came_VVD down_RP on_II him_PPHO1 for_IF his_AT bad_JJ behaviour_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj come he _)</gr>
+                <gr n="2">(iobj come for)</gr>
+                <gr n="3">(iobj come on)</gr>
+                <gr n="4">(ncmod prt come down)</gr>
+            </grs>
+        </subcat>
+        <subcat n="122">
+            <lingoerg>v_np_trans_double_pp*_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_PP_PP, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP_PP) from (PSUBCAT NP) into (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 turned_VVD it_PPHO1 from_II a_AT disaster_NN1 into_II a_AT victory_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj turn he _)</gr>
+                <gr n="2">(iobj turn into)</gr>
+                <gr n="3">(iobj turn from)</gr>
+                <gr n="4">(dobj turn it _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="123">
+            <lingoerg>v_np_non_trans_le  (but cf v_expl_it_subj_np_np_cp_inf_le)</lingoerg>
+            <anlt_subcat>(SUBCAT MP)</anlt_subcat>
+            <tsg>(VSUBCAT NP) _NNU</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 cost_VVD ten_MC pounds_NNU2</example>
+            <grs>
+                <gr n="1">(ncsubj cost it _)</gr>
+                <gr n="2">(dobj cost pounds _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="124">
+            <lingoerg>v_ditrans_only_le (but cf v_expl_it_subj_np_np_cp_inf_le)</lingoerg>
+            <anlt_subcat>(SUBCAT NP_MP)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP) * _NNU</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 cost_VVD him_PPHO1 ten_MC pounds_NNU2</example>
+            <grs>
+                <gr n="1">(ncsubj cost it _)</gr>
+                <gr n="2">(obj2 cost pounds)</gr>
+                <gr n="3">(dobj cost him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="125">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT NP_MP, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP, PRT +) back _NNU/(NTYPE MEAS)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 set_VVD him_PPHO1 back_RP ten_MC pounds_NNU2</example>
+            <grs>
+                <gr n="1">(ncsubj set it _)</gr>
+                <gr n="2">(ncmod prt set back)</gr>
+                <gr n="3">(obj2 set pounds)</gr>
+                <gr n="4">(dobj set him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="126">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT ADL, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NONE, PRT +) off (...PRT +) badly</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 came_VVD off_RP badly_RP</example>
+            <grs>
+                <gr n="1">(ncsubj come he _)</gr>
+                <gr n="2">(ncmod prt come badly)</gr>
+                <gr n="3">(ncmod prt come off)</gr>
+            </grs>
+        </subcat>
+        <subcat n="127">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT ADV_PP, PFORM)</anlt_subcat>
+            <tsg>(VSUBCAT PP, PRT +) well for (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>things_NN2 augur_VV0 well_RP for_IF him_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj augur things _)</gr>
+                <gr n="2">(iobj augur for)</gr>
+                <gr n="3">(ncmod prt augur well))</gr>
+            </grs>
+        </subcat>
+        <subcat n="128">
+            <lingoerg>v_expl_it_subj_prtcl_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, AGR N2[NFORM IT], PRT)</anlt_subcat>
+            <tsg>IT (VSUBCAT SCOMP, PRT +) out _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 turns_VVZ out_RP that_CST he_PPHS1 did_VVD it_PPHO1</example>
+            <grs>
+                <gr n="1">(ncsubj turns it _)</gr>
+                <gr n="2">(ccomp that turns did)</gr>
+                <gr n="3">(ncmod prt turns out)</gr>
+            </grs>
+        </subcat>
+        <subcat n="129">
+            <lingoerg>v_unerg_le</lingoerg>
+            <anlt_subcat>(SUBCAT SFIN, AGR S[FIN +], SUBTYPE EXTRAP)</anlt_subcat>
+            <tsg>_VVD/G/Z (VSUBCAT NONE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>that_CST he_PPHS1 came_VVD matters_VVZ</example>
+            <grs>
+                <gr n="1">(csubj matters came _)</gr>
+                <gr n="2">(ncsubj came he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="130">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT NP_SFIN, SUBTYPE NONE, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_SCOMP, PRT +) on _VVD/Z/G ; doesn't work with VHD</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 had_VVD her_PPHO1 on_RP that_CST he_PPHO1 attended_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj had he _)</gr>
+                <gr n="2">(ccomp that had attended)</gr>
+                <gr n="3">(ncmod prt had on)</gr>
+            </grs>
+        </subcat>
+        <subcat n="131">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT PP_SFIN, SUBTYPE NONE, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT PP_SCOMP, PRT +) through to (PSUBCAT NP) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>she_PPHS1 gets_VVZ through_RP to_II him_PPHO1 that_CST he_PPHS1 came_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj get she _)</gr>
+                <gr n="2">(ccomp that get came)</gr>
+                <gr n="3">(iobj get to)</gr>
+                <gr n="4">(ncmod prt get through)</gr>
+            </grs>
+        </subcat>
+        <subcat n="132">
+            <lingoerg>v_np_np_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT NP_NP_SFIN)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP_SCOMP) _NNU*/(NTYPE MEAS) _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 bet_VVD her_PPHO1 ten_MC pounds_NNU2 that_CST he_PPHS1 came_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj bet he _)</gr>
+                <gr n="2">(ccomp that bet came)</gr>
+                <gr n="3">(obj2 bet pounds)</gr>
+                <gr n="4">(dobj bet her _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="133">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT NP_SBSE)</anlt_subcat>
+            <tsg>(VSUBCAT NP_SCOMP) * _VB0/VV0</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 petitioned_VVD them_PPHO2 that_CST he_PPHS1 be_VB0 freed_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj petition he _)</gr>
+                <gr n="2">(ccomp that petition freed)</gr>
+                <gr n="3">(dobj petition them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="134">
+            <lingoerg>v_expl_obj_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT IT_WHS, SUBTYPE IF, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) if (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>I_PPHS1 would_VM appreciate_VV0 it_PPHO1 if_CF he_PPHS1 came_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj appreciate I _)</gr>
+                <gr n="2">(ccomp _ appreciate if)</gr>
+                <gr n="3">(dobj appreciate it _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="135">
+            <lingoerg>v_expl_it_subj_pp_cp_le</lingoerg>
+            <anlt_subcat>(SUBCAT PP_WHS, PFORM, AGR N2[NFORM IT])</anlt_subcat>
+            <tsg>IT (VSUBCAT PP_WHS) on (PSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 dawned_VVD on_II him_PPHO1 what_DDQ he_PPHS1 should_VM do_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj dawn it _)</gr>
+                <gr n="2">(ccomp _ dawn do)</gr>
+                <gr n="3">(iobj dawn on)</gr>
+                <gr n="4">(obj do what _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="136">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP, PRT, SUBTYPE RAIS/EQUI, PRD +)</anlt_subcat>
+            <tsg>(VSUBCAT NP, PRT +) out</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 turned_VVD out_RP a_AT fool_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj turn he *rais)</gr>
+                <gr n="2">(dobj turn fool _) ; xcomp really</gr>
+                <gr n="3">(ncmod prt turn out)</gr>
+            </grs>
+        </subcat>
+        <subcat n="137">
+            <lingoerg>v_particle_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_AP, PRT, SUBTYPE EQUI/RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT AP, PRT +) out</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 started_VVD out_RP poor_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj start he _)</gr>
+                <gr n="2">(xcomp _ start poor)</gr>
+                <gr n="3">(ncmod prt start out)</gr>
+                <gr n="4">*(ncsubj poor he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="138">
+            <lingoerg>v_particle_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_INF, PRT, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT VPINF, PRT +) out BE</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 turned_VVD out_RP to_TO be_VB0 a_AT crook_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj turned he *rais)</gr>
+                <gr n="2">(xcomp to turned be)</gr>
+                <gr n="3">(ncmod prt turned out)</gr>
+                <gr n="4">*(ncsubj be he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="139">
+            <lingoerg>v_particle_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_INF, PRT, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT VPINF, PRT +) out</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 set_VVD out_RP to_TO win_VV0</example>
+            <grs>
+                <gr n="1">he_PPHS1 set_VVD out_II to_TO win_VV0</gr>
+                <gr n="2">(VSUBCAT PP_VPINF) out (PSUBCAT NONE)</gr>
+                <gr n="3">(ncsubj set he _)</gr>
+                <gr n="4">(xcomp to set win)</gr>
+                <gr n="5">(ncmod prt set out)</gr>
+                <gr n="6">*(ncsubj win he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="140">
+            <lingoerg>v_particle_inf_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_ING, PREP, PRT, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT PP, PRT +) around to (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 got_VVD around_RP to_II leaving_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj got he _)</gr>
+                <gr n="2">(xcomp _ got to)</gr>
+                <gr n="3">(ncmod prt got around)</gr>
+                <gr n="4">*(ncsubj leave he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="141">
+            <lingoerg>v_subj_equi_prd_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_PASS, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT VPPRT)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 got_VVD given_VVN a_AT book_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj get he *rais)</gr>
+                <gr n="2">(xcomp _ get give)</gr>
+                <gr n="3">*(ncsubj give he _))</gr>
+            </grs>
+        </subcat>
+        <subcat n="142">
+            <lingoerg>va_modal_pos_le or v_subj_equi_bse_go_le (I will go read)</lingoerg>
+            <anlt_subcat>(SUBCAT SC_BSE, SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT VPBSE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 dared_VVD dance_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj dare he _)</gr>
+                <gr n="2">(xcomp _ dare dance)</gr>
+                <gr n="3">*(ncsubj dance he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="143">
+            <lingoerg>v_np_obj_comp_le</lingoerg>
+            <anlt_subcat>(SUBCAT SC_NP_AP, SUBTYPE RAIS, PREP as)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) AS (PSUBCAT AP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 strikes_VVZ me_PPHO1 as_CSA foolish_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj strike he *rais)</gr>
+                <gr n="2">(iobj strike as)</gr>
+                <gr n="3">(dobj strike me _)</gr>
+                <gr n="4">*(ncsubj foolish he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="144">
+            <lingoerg>v_ditrans_only_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_NP, SUBTYPE RAIS)</anlt_subcat>
+            <tsg>(VSUBCAT NP_NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 considers_VVZ Fido_NP1 a_AT fool_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj considers he _)</gr>
+                <gr n="2">(obj2 considers fool)</gr>
+                <gr n="3">(dobj considers Fido *rais)</gr>
+                <gr n="4">*(ncsubj fool Fido _))</gr>
+            </grs>
+        </subcat>
+        <subcat n="145">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE RAIS, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_AP, PRT +) out</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 makes_VVD him_PPHO1 out_RP crazy_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj make he _)</gr>
+                <gr n="2">(ncmod prt make out)</gr>
+                <gr n="3">(ncsubj crazy him _)</gr>
+                <gr n="4">(dobj make him *rais)</gr>
+            </grs>
+        </subcat>
+        <subcat n="146">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE EQUI, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_AP, PRT +) down</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 sands_VVZ it_PPHO1 down_RP smooth_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj sand he _)</gr>
+                <gr n="2">(ncmod prt sand down)</gr>
+                <gr n="3">(ncsubj smooth it _)</gr>
+                <gr n="4">(dobj sand it _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="147">
+            <lingoerg>v_np_obj_comp_le</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE EQUI, PREP as)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) AS (PSUBCAT AP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 condemned_VVD him_PPHO1 as_CSA stupid_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj condemn he _)</gr>
+                <gr n="2">(iobj condemn as)</gr>
+                <gr n="3">(dobj condemn him _)</gr>
+                <gr n="4">*(ncsubj stupid him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="148">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_AP, SUBTYPE EQUI, PREP as, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP, PRT +) down AS (PSUBCAT AP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 put_VVD him_PPHO1 down_RP as_CSA stupid_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj put he _)</gr>
+                <gr n="2">(iobj put as)</gr>
+                <gr n="3">(ncmod prt put down)</gr>
+                <gr n="4">(dobj put him _)</gr>
+                <gr n="5">*(ncsubj stupid him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="149">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE RAIS, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT SINF, PRT +) out BE</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 made_VVD him_PPHO1 out_RP to_TO be_VV0 crazy_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj make he _)</gr>
+                <gr n="2">(ncmod prt make out)</gr>
+                <gr n="3">(xcomp to make be)</gr>
+                <gr n="4">(dobj make him *rais)</gr>
+                <gr n="5">(ncsubj be him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="150">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_INF, SUBTYPE EQUI, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT SINF, PRT +) on</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 spurred_VVD him_PPHO1 on_RP to_TO try_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj spur he _)</gr>
+                <gr n="2">(ncmod prt spur on)</gr>
+                <gr n="3">(xcomp to spur try)</gr>
+                <gr n="4">(dobj spur him _)</gr>
+                <gr n="5">(ncsubj try him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="152">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_ING, SUBTYPE PVERB_OE, PFORM, PRT)</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP, PRT +) around into (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 talked_VVD him_PPHO1 around_RP into_II leaving_VVG</example>
+            <grs>
+                <gr n="1">(ncsubj talk he _)</gr>
+                <gr n="2">(xcomp _ talk into)</gr>
+                <gr n="3">(ncmod prt talk around)</gr>
+                <gr n="4">(dobj talk him _)</gr>
+                <gr n="5">*(ncsubj leave him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="153">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>(SUBCAT OC_PP_BSE, PFORM, SUBTYPE PVERB_OE)</anlt_subcat>
+            <tsg>(VSUBCAT PP) at (PSUBCAT SFIN) _VV0</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 looked_VVD at_II him_PPHO1 leave_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj look he _)</gr>
+                <gr n="2">(ccomp _ look at)</gr>
+                <gr n="3">(ccomp _ at leave)</gr>
+                <gr n="4">(ncsubj leave him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="154">
+            <lingoerg>v_unerg_le</lingoerg>
+            <anlt_subcat>(SUBCAT VPINF, SUBTYPE EXTRAP, AGR VP[FIN-])</anlt_subcat>
+            <tsg>_VV0 (VSUBCAT NONE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>to_TO see_VV0 them_PPHO2 hurts_VVZ</example>
+            <grs>
+                <gr n="1">(xsubj hurt see _)</gr>
+                <gr n="2">(dobj see them _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="155">
+            <lingoerg>A/P</lingoerg>
+            <anlt_subcat>XTAG gap / ERG gap</anlt_subcat>
+            <tsg>(dobj stand it _)</tsg>
+            <xtag_treefam>he_PPHS1 stood_VVD it_PPHO1 alone_RL
+            (VSUBCAT NP, PRT +) * _RL</xtag_treefam>
+            <comlex_class>(SUBCAT NP_ADL)</comlex_class>
+            <example>(ncsubj stand he _)</example>
+            <grs>
+                <gr n="1">(ncmod prt stand alone)</gr>
+            </grs>
+        </subcat>
+        <subcat n="156">
+            <lingoerg>v_np_trans_cp_ques_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) HOW/WHY/WHERE/WHEN (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be NP-HOW-S</comlex_class>
+            <example>he_PPHS1 asked_VVD him_PPHO1 how_RGQ he_PPHS1 came_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj ask he _)</gr>
+                <gr n="2">(ccomp _ ask came)</gr>
+                <gr n="3">(dobj ask him _)</gr>
+                <gr n="4">(arg_mod _ come how)</gr>
+            </grs>
+        </subcat>
+        <subcat n="157">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap   ; in order for ... adjunct??</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP FOR (PSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be NP-FOR-TO-INF</comlex_class>
+            <example>he_PPHS1 gave_VVD money_NN2 for_IF him_PPHO1 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj gave he _)</gr>
+                <gr n="2">(ccomp _ gave for)</gr>
+                <gr n="3">(dobj gave money _)</gr>
+                <gr n="4">(ncsubj go him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="158">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap ; reg passive??</anlt_subcat>
+            <tsg>IT PASS (VSUBCAT SCOMP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be IT-PASS-SFIN</comlex_class>
+            <example>it_PPHS1 is_VBZ believed_VVN that_CST he_PPHS1 came_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj believe it _)</gr>
+                <gr n="2">(passive believe)</gr>
+                <gr n="3">(ccomp that believe came)</gr>
+            </grs>
+        </subcat>
+        <subcat n="159">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT PP) AS (PSUBCAT PP) IF (PSUBCAT SFIN)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be AS-IF-SFIN</comlex_class>
+            <example>he_PPHS1 seems_VVZ as_CSA if_CS he_PPHS1 is_VBZ clever_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj seem he _)</gr>
+                <gr n="2">(pcomp seem as)</gr>
+                <gr n="3">(ccomp _ as if)</gr>
+            </grs>
+        </subcat>
+        <subcat n="160">
+            <lingoerg>v_adv_le</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT ADL)</anlt_subcat>
+            <tsg>(VSUBCAT NONE) _RP/A</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPHS1 carves_VVZ easily_RP</example>
+            <grs>
+                <gr n="1">(ncsubj carves it _)</gr>
+                <gr n="2">(ncmod prt carves easily) / (ncmod _ carves easily)</gr>
+            </grs>
+        </subcat>
+        <subcat n="161">
+            <lingoerg>ERG gap</lingoerg>
+            <anlt_subcat>ANLT gap ; shld be (SUBCAT SC_NP SUBTYPE EQUI)</anlt_subcat>
+            <tsg>(VSUBCAT NP)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>he_PPHS1 felt_VVD a_AT fool_NN1</example>
+            <grs>
+                <gr n="1">(ncsubj feel he _)</gr>
+                <gr n="2">(dobj feel fool _) ; xcomp?</gr>
+                <gr n="3">*(ncsubj fool he _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="162">
+            <lingoerg>v_np_comp_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) AS  (PSUBCAT VPPRT)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be AS-VPPRT</comlex_class>
+            <example>he_PPHS1 accepted_VVD him_PPHO1 as_II/CSA associated_VVN</example>
+            <grs>
+                <gr n="1">(ncsubj accepted he _)</gr>
+                <gr n="2">(xcomp _ accept as)</gr>
+                <gr n="3">(dobj accept him _)</gr>
+                <gr n="4">(xcomp _ as associate)</gr>
+                <gr n="5">*(ncsubj associate him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="163">
+            <lingoerg>v_np_comp_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) AS  (PSUBCAT VPING)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap ; shld be AS-VPING</comlex_class>
+            <example>he_PPHS1 accepted_VVD him_PPHO1 as_CSA being_VBG normal_JJ</example>
+            <grs>
+                <gr n="1">(ncsubj accepted he _)</gr>
+                <gr n="2">(xcomp _ accept as)</gr>
+                <gr n="3">(dobj accept him _)</gr>
+                <gr n="4">(xcomp _ as be)</gr>
+                <gr n="5">*(ncsubj be him _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="164">
+            <lingoerg>v_atrans_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>IT (VSUBCAT NONE)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>it_PPH1 rains_VVZ</example>
+            <grs>
+                <gr n="1">(ncsubj rains it _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="165">
+            <lingoerg>v_expl_pp_inf_seq_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT NP_PP) IT with/for (PSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>I_PPHS1 arranged_VVD it_PPH1 with_IW Kim_NP1 to_TO meet_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj arranged I _)</gr>
+                <gr n="2">(ccomp _ arranged with)</gr>
+                <gr n="3">(dobj arranged it _)</gr>
+                <gr n="4">(ncsubj meet Kim _) ; wrong -- joint control?</gr>
+            </grs>
+        </subcat>
+        <subcat n="166">
+            <lingoerg>v_expl_obj_cp_prop_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>(VSUBCAT NP_SCOMP) IT _VVD/Z/G</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>I_PPHS1 take_VV0 it_PPH1 that_CST Kim_NP1 left_VVD</example>
+            <grs>
+                <gr n="1">(ncsubj take I _)</gr>
+                <gr n="2">(ccomp that take leave)</gr>
+                <gr n="3">(dobj take it *expl)</gr>
+            </grs>
+        </subcat>
+        <subcat n="167">
+            <lingoerg>v_expl_it_subj_np_np_cp_inf_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>IT (VSUBCAT NP_NP_PP) _NNU/NNT for (PSUBCAT SINF)</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>It_PPH1 cost_VVD Kim_NP1 a_AT1 pound_NNU1 for_IF us_PPIO2 to_TO go_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj cost It _)</gr>
+                <gr n="2">(ccomp _ cost for)</gr>
+                <gr n="3">(obj2 cost pound)</gr>
+                <gr n="4">(dobj cost Kim _)</gr>
+            </grs>
+        </subcat>
+        <subcat n="168">
+            <lingoerg>v_expl_it_subj_np_np_vp_inf_le</lingoerg>
+            <anlt_subcat>ANLT gap</anlt_subcat>
+            <tsg>IT (VSUBCAT NP_NP_VPINF) _NNT/NNU</tsg>
+            <xtag_treefam>XTAG gap</xtag_treefam>
+            <comlex_class>Comlex gap</comlex_class>
+            <example>It_PPH1 took_VVD us_PPIO2 an_AT1 hour_NNT1 to_TO find_VV0</example>
+            <grs>
+                <gr n="1">(ncsubj take It _)</gr>
+                <gr n="2">(ncsubj find us _)</gr>
+                <gr n="3">(xcomp to take find)</gr>
+                <gr n="4">(obj2 take hour)</gr>
+                <gr n="5">(dobj take us _)</gr>
+            </grs>
+        </subcat>
+    </section>
+    <section name="adjectives">
+        <subcat n="1">PRED / 
+            Kim_ NP1 is_VBZ silly_JJ     
+            (ASUBCAT NONE)
+        (xcomp _ is silly)</subcat>
+        <subcat n="2">ATTRIB /
+            The_AT silly_JJ man_NN1 smoked_VVD
+            (ASUBCAT NONE)
+        (ncmod _ man:n+m silly:n)</subcat>
+        <subcat n="3">POST /
+            The_AT man_NN1 silly_JJ (with_IW drink_NN) smoked_VVD
+            (ASUBCAT X)
+        (ncmod _ man:n silly:n+m) </subcat>
+        <subcat n="4">INF-SC /
+            (SUBCAT SC_INF) (SUBTYPE EQUI)
+            Kim_NP1 is_VBZ likely_JJ to_TO go_VV0
+            (ASUBCAT VPINF)
+        (xcomp to likely go)</subcat>
+        <subcat n="5">INF-OC /
+            (SUBCAT SC_INF) (SUBTYPE TOUGH/SILLY/READY)
+            Kim_NP1 is_VBZ easy_JJ to_TO please_VV0
+        (ASUBCAT VPINF)</subcat>
+        <subcat n="6">INF-SR /
+            (SUBCAT SC_INF) (SUBTYPE RAISING)
+            Kim_NP1 is_VBZ kind_JJ to_TO invite_VV0 Sandy_NP1
+        (ASUBCAT VPINF)</subcat>
+        <subcat n="7">FOR-TO-INF /
+            (SUBCAT PP_VPINF)
+            Kim_NP1 is_VBZ anxious_JJ for_IF Sandy_NP1 to_TO go_VV0
+            (ASUBCAT PP) (PSUBCAT SINF)
+            (ccomp _ anxious_JJ for_IF)
+            (ccomp _ for_IF Sandy_NP1)
+        (ncsubj go_VV0 Sandy_NP1 _)</subcat>
+        <subcat n="8">FOR-TO-INF-OC /
+            Kim_NP1 is_VBZ easy_JJ for_IF Sandy_NP1 to_TO please_VV0
+            (ASUBCAT PP) (PSUBCAT SINF)
+            (ccomp _ easy_JJ for_IF)
+            (ccomp _ for_IF Sandy_NP1)
+            (ncsubj please_VV0 Sandy_NP1 _)
+        *(dobj please Kim)</subcat>
+        <subcat n="9">S /
+            Kim_NP1 is_VBZ certain_JJ Sandy_NP1 came_VVD
+            (ASUBCAT SFIN)
+        (ccomp _ certain came)</subcat>
+        <subcat n="10">S-THAT /
+            Kim_NP1 is_VBZ certain_JJ that_CST Sandy_NP1 came_VVD
+            (ASUBCAT SFIN)
+        (ccomp that certain came)</subcat>
+        <subcat n="11">S-SUBJ /
+            Kim_NP1 is_VBZ insistent_JJ that_CST Sandy_NP1 leave_VV0
+            (ASUBCAT SFIN) VV0
+            (ccomp that_CST insistent_JJ leave_VV0)
+        (ncsubj leave_VV0 Sandy_NP1 _)</subcat>
+        <subcat n="12">PP /
+            Kim_NP1 is_VBZ certain_JJ about_II Sandy_NP1
+            (ASUBCAT PP)
+            (iobj certain_JJ about_II)
+        (dobj about_II Sandy_NP1)</subcat>
+        <subcat n="13">WHINF /
+            Kim_NP1 is_VBZ uncertain_JJ whether_CSW to_TO go_VV0 
+            / what to do / how to go
+            (ASUBCAT PP / WHPP) (PSUBCAT VPINF)
+            (xmod _ uncertain_JJ whether_CSW)
+            (xcomp to whether_CSW go_VV0)
+            or
+            (xmod _ uncertain_JJ how_RGQ)
+            (xcomp to how_RGQ go_VV0)
+            or
+            what/who -- no correct parse:
+            (T/txt-sc1/--
+            (S/np_vp (NP/n1-name (N1/n-name Kim_NP1))
+            (V1/be_np/---- is_VBZ
+            (NP/np-whpro_inf
+            (NP/ap_np-pro-r (AP/a1 (A1/a uncertain_JJ)) what_DDQ)
+        (V1/to_bse/- to_TO (V1/v leave_VV0))))))</subcat>
+        <subcat n="14">WHS /
+            Kim_NP1 is_VBZ uncertain_JJ whether_CSW Sandy_NP1 smokes_VVZ 
+            / what / how
+            (ASUBCAT PP) (PSUBCAT SFIN)
+            (cmod _ uncertain_JJ whether_CSW)
+            (ccomp _ whether_CSW smokes_VVZ)
+            (ncsubj smokes_VVZ Sandy_NP1 _)
+            Also matches class 1 cos no argrel
+            or
+            (ccomp _ uncertain_JJ smokes_VVZ)
+            (arg_mod _ smokes_VVZ how_RGQ)
+            (ncsubj smokes_VVZ Sandy_NP1 _)
+            or
+            (ccomp _ uncertain_JJ smokes_VVZ)
+            (obj smokes_VVZ what_DDQ)
+        (ncsubj smokes_VVZ Sandy_NP1 _)</subcat>
+        <subcat n="15">IT-S /
+            It_PPH1 is_VBZ probable_JJ Kim_NP1 left_VVD
+            (ASUBCAT SFIN)
+            (ccomp _ probable_JJ left_VVD)
+            (ncsubj left_VVD Kim_NP1 _)
+            (ncsubj is_VBZ it_PPH1 _)
+            (xcomp _ is_VBZ probable_JJ)
+            or
+        (ncsubj probable_JJ it_PPH1 _)  </subcat>
+        <subcat n="16">IT-S-THAT /
+            It_PPH1 is_VBZ probable_JJ that_CST Kim_NP1 left_VVD
+            (ASUBCAT SFIN)
+            (ccomp that_CST probable_JJ left_VVD)
+            (ncsubj left_VVD Kim_NP1 _)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ probable_JJ)</subcat>
+        <subcat n="17">IT-S-SUBJ /
+            It_PPH1 is_VBZ imperative_JJ that_CST Sandy_NP1 leave_VV0
+            (ASUBCAT SFIN) VV0
+            (ccomp that_CST imperative_JJ leave_VV0)
+            (ncsubj leave_VV0 Sandy_NP1 _)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ imperative_JJ)</subcat>
+        <subcat n="18">IT-WHINF /
+            It_PPH1 is_VBZ unclear_JJ whether_CSW to_TO go_VV0 
+            / what to do / how to go
+            (ASUBCAT PP / WHPP) (PSUBCAT VPINF)
+            (xmod _ unclear_JJ whether_CSW)
+            (xcomp to whether_CSW go_VV0)
+            (ncsubj is_VBZ it_PPH1 _)
+            (xcomp _ is_VBZ unclear_JJ)
+            or
+            (ncsubj is_VBZ It_PPH1 _)
+            (xcomp _ is_VBZ unclear_JJ)
+            (xmod _ unclear_JJ how_RGQ)
+            (xcomp to how_RGQ go_VV0)
+            or
+        what -- no correct parse</subcat>
+        <subcat n="19">IT-WHS /
+            It_PPH1 is_VBZ unclear_JJ whether_CSW Sandy_NP1 smokes_VVZ 
+            / what / how
+            (ASUBCAT PP / WHPP) (PSUBCAT SFIN)
+            (cmod _ unclear_JJ whether_CSW)
+            (ccomp _ whether_CSW smokes_VVZ)
+            (ncsubj smokes_VVZ Sandy_NP1 _)
+            (ncsubj is_VBZ it_PPH1 _)
+            (xcomp _ is_VBZ unclear_JJ)
+            or
+            (ncsubj is_VBZ It_PPH1 _)
+            (xcomp _ is_VBZ unclear_JJ)
+            (ccomp _ unclear_JJ smokes_VVZ)
+            (arg_mod _ smokes_VVZ how_RGQ)
+        (ncsubj smokes_VVZ Sandy_NP1 _)</subcat>
+        <subcat n="20">IT-INF /
+            It_PPH1 is_VBZ practical_JJ to_TO go_VV0
+            (ASUBCAT VPINF)
+            (xcomp to practical go)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ practical_JJ)</subcat>
+        <subcat n="21">IT-FOR-TO-INF /  
+            It_PPH1 is_VBZ practical_JJ for_IF Sandy_NP1 to_TO go_VV0
+            (SUBCAT PP_VPINF) (SUBTYPE EXTRAP)
+            (ASUBCAT PP) (PSUBCAT SINF)
+            (ccomp _ practical for)
+            (ccomp _ for Sandy)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ practical_JJ)</subcat>
+        <subcat n="22">SUBJ-S /
+            that_CST Sandy_NP1 came_VVD is_VBZ certain_JJ 
+            (ASUBCAT NONE)
+            (csubj is_VBZ came_VVD that)
+            (xcomp _ is_VBZ certain_JJ)
+        (ncsubj came_VVD Sandy_NP1 _)</subcat>
+        <subcat n="23">SUBJ-S-SUBJ /
+            that_CST Sandy_NP1 leave_VV0 is_VBZ imperative_JJ 
+            (ASUBCAT NONE)
+            (csubj is_VBZ leave_VV0 that)
+            (xcomp _ is_VBZ imperative_JJ)
+        (ncsubj leave_VV0 Sandy_NP1 _)</subcat>
+        <subcat n="24">SUBJ-WHS /
+            whether_CSW Sandy_NP1 came_VVD is_VBZ uncertain_JJ 
+            / what S wanted / how S came
+            (ASUBCAT NONE)
+            (csubj is_VBZ whether_CSW inv)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (ccomp _ whether_CSW came_VVD)
+            (ncsubj came_VVD Sandy_NP1 _)
+            or
+            (csubj is_VBZ wanted_VVD _)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (obj wanted_VVD what_DDQ)
+            (ncsubj wanted_VVD Sandy_NP1 _)
+            or
+            (csubj is_VBZ came_VVD _)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (arg_mod _ came_VVD how_RGQ)
+        (ncsubj came_VVD Sandy_NP1 _)</subcat>
+        <subcat n="25">SUBJ-WHINF /
+            whether_CSW to_TO go_VV0 is_VBZ uncertain_JJ 
+            / what to do / how to go
+            (ASUBCAT NONE)
+            (xsubj is_VBZ whether_CSW inv)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (xcomp to whether_CSW go_VV0)
+            or
+            (xsubj is_VBZ how_RGQ inv)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (xcomp to how_RGQ go_VV0)
+            or
+            (ncsubj is_VBZ what_DDQ _)
+            (xcomp _ is_VBZ uncertain_JJ)
+            (obj do_VV0 what_DDQ)
+        (xmod to what_DDQ do_VV0)</subcat>
+        <subcat n="26">Comlex gap / 
+            (SUBCAT PP_SBE) (SUBTYPE EXTRAP)
+            It_PPH1 is_VBZ imperative_JJ to_II Kim_NP1 that_CST Sandy_NP1 leave_VV0
+            (ASUBCAT SFIN) (PSUBCAT NP) VV0
+            (ccomp that_CST imperative_JJ leave_VV0)
+            (ncsubj leave_VV0 Sandy_NP1 _)
+            (pcomp imperative_JJ to_II)
+            (dobj to_II Kim_NP1)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ imperative_JJ)</subcat>
+        <subcat n="27">Comlex gap /
+            (SUBCAT PP_SFIN) (SUBTYPE EXTRAP)
+            It_PPH1 is_VBZ clear_JJ to_II Kim_NP1 that_CST Sandy_NP1 left_VVD
+            (ASUBCAT SFIN) (PSUBCAT NP) VV0
+            (ccomp that_CST clear_JJ left_VVD)
+            (ncsubj left_VVD Sandy_NP1 _)
+            (pcomp clear_JJ to_II)
+            (dobj to_II Kim_NP1)
+            (ncsubj is_VBZ it_PPH1 _)
+        (xcomp _ is_VBZ clear_JJ)</subcat>
+        <subcat n="28">Comlex gap / 
+            (SUBCAT SC_ING)
+            Kim_NP1 is_VBZ busy_JJ helping_VVG Sandy_NP1
+            (ASUBCAT VPING)
+        (xcomp _ busy helping)</subcat>
+        <subcat n="29">Comlex gap /
+            (SUBCAT SC_AP)
+            Kim_NP1 is_VBZ scared_JJ silly_JJ
+        No parse</subcat>
+        <subcat n="30">Comlex gap /
+            (SUBCAT PP_VPINF) (SUBTYPE EXTRAP) not `for'
+            It_PPH1 is_VBZ kind_JJ of_IO Kim_NP1 to_TO invite_VV0 Sandy_NP1
+        No correct parse</subcat>
+        <subcat n="31">Comlex gap /
+            (SUBCAT PPING) 
+            Kim_NP1 is_VBZ confident_JJ about_II winning_VVG 
+            (ASUBCAT PP) (PSUBCAT VPING) / PPOF
+            (ncsubj is_VBZ Kim_NP1 _)
+            (xcomp _ is_VBZ confident_JJ)
+            (xcomp _ confident_JJ about_II)
+        (xcomp _ about_IO winning_VVG)</subcat>
+        <subcat n="32">Comlex gap /
+            (SUBCAT PPSING) 
+            Kim_NP1 is_VBZ confident_JJ about_II Sandy_NP1 winning_VVG 
+            (ASUBCAT PPOF) (PSUBCAT SING) / PPOF
+            (ncsubj is_VBZ Kim_NP1 _)
+            (xcomp _ is_VBZ confident_JJ)
+            (ccomp _ confident_JJ about_II)
+            (ccomp _ about_IO Sandy_NP1)
+        (ncsubj winning_VVG Sandy_NP1 _)</subcat>
+        <subcat n="33">Comlex gap /
+            (SUBCAT PP_PP)
+            Kim_NP1 is_VBZ accountable_JJ to_II Sandy_NP1 for_IF Fido_NP1
+            (ASUBCAT PP_PP)
+            (ncsubj is_VBZ Kim_NP1 _)
+            (xcomp _ is_VBZ accountable_JJ)
+            (iobj accountable_JJ for_IF)
+            (iobj accountable_JJ to_II)
+            (dobj for_IF Fido_NP1)
+        (dobj to_II Sandy_NP1)</subcat>
+        <subcat n="34">Comlex gap /
+            (SUBCAT SINF) (SUBTYPE EXTRAP)
+            For_IF Kim_NP1 to_TO go_VV0 is_VVZ unnecessary_JJ
+            (ASUBCAT NONE)
+            (csubj is_VVZ For_IF inv)
+            (xcomp _ is_VVZ unnecessary_JJ)
+            (ccomp _ For_IF Kim_NP1)
+        (ncsubj go_VV0 Kim_NP1 _)</subcat>
+        <subcat n="35">Comlex gap /
+            (SUBCAT VPINF) (SUBTYPE EXTRAP)
+            to_TO go_VV0 is_VVZ unnecessary_JJ
+            (ASUBCAT NONE)
+            (xsubj is_VVZ go_VV0 inv)
+        (xcomp _ is_VVZ unnecessary_JJ)</subcat>
+        <subcat n="36">Comlex gap /
+            (SUBCAT PP_VPINF) (SUBTYPE EXTRAP)
+            to_TO go_VV0 is_VVZ unnecessary_JJ of_IO Kim_NP1
+            (ASUBCAT PP) / PPOF
+            (xsubj is_VVZ go_VV0 inv)
+            (xcomp _ is_VVZ unnecessary_JJ)
+            (iobj unnecessary_JJ of_IO)
+        (dobj of_IO Kim_NP1)</subcat>
+        <subcat n="37">Comlex gap /
+            (SUBCAT PP_WHS) (SUBTYPE EXTRAP)
+            It_PPH1 is_VBZ unclear_JJ to_II Kim_NP1 whether_CSW Sandy_NP1 smokes_VVZ 
+            / what / how
+            (ASUBCAT PP_PP / PP_WHPP) (PSUBCAT NP) (PSUBCAT SFIN)
+            (ncsubj is_VBZ It_PPH1 _)
+            (xcomp _ is_VBZ unclear_JJ)
+            (ccomp _ whether_CSW smokes_VVZ)
+            (ncsubj smokes_VVZ Sandy_NP1 _)
+        (dobj to_II Kim_NP1)</subcat>
+    </section>
+    <section name="nouns">
+        <subcat n="0">NONE / 
+            (SUBCAT NONE)
+            The_AT car_NN1 broke_VVD
+            (NSUBCAT X)
+            None -- all nouns have this class by default (`fondness' only
+        known exception??; unless model (non)count??)</subcat>
+        <subcat n="1">NP / 
+            (SUBCAT PP, PFORM OF)
+            A_AT1 part_NN1 of_IO the_AT car_NN1 broke_VVD
+            (NSUBCAT PPOF, PSUBCAT NP)
+            (iobj part_NN1 of_IO)
+        (dobj of_IO car_NN1)</subcat>
+        <subcat n="2">PP /
+            (SUBCAT PP, PFORM Prep, PSUBCAT NP)
+            An_AT1 idea_NN1 about_II Kim_NP1 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP)
+            (ncmod _ idea_NN1 about_II)
+        (dobj about_II Kim_NP1)</subcat>
+        <subcat n="3">PP-ING-SC|AC /
+            ANLT gap
+            Kim_NP1 's_$ admission_NN1 to_II accepting_VVG bribes_NN2 surfaced_VVD
+            The_AT1 idea_NN1 of_II kissing_VVG Kim_NP1 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT VPING)
+            (ncsubj surfaced_VVD admission_NN1 _)
+            (ncmod poss admission_NN1 Kim_NP1)
+            (xmod _ admission_NN1 to_II)
+            (xcomp _ to_II accepting_VVG)
+        (dobj accepting_VVG bribes_NN2)</subcat>
+        <subcat n="4">PP-POSSING /
+            ANLT gap
+            The_AT1 idea_NN1 of_II Sandy_NP1 's_$ kissing_VVG Kim_NP1 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT SING)
+            (ncsubj surfaced_VVD idea_NN1 _)
+            (det idea_NN1 The_AT1)
+            (cmod _ idea_NN1 of_II)
+            (ccomp _ of_II Sandy_NP1)
+            (ncsubj kissing_VVG Sandy_NP1 _)
+        (dobj kissing_VVG Kim_NP1)</subcat>
+        <subcat n="5">PP-SING /
+            ANLT gap
+            Jo_NP1 's_$ idea_NN1 of_II Sandy_NP1 kissing_VVG Kim_NP1 worked_VVD
+            (NSUBCAT X) (PSUBCAT SING)
+            (ncsubj surfaced_VVD idea_NN1 _)
+            (ncmod poss idea_NN1 Jo_NP1)
+            (cmod _ idea_NN1 of_II)
+            (ccomp _ of_II Sandy_NP1)
+            (ncsubj kissing_VVG Sandy_NP1 _)
+        (dobj kissing_VVG Kim_NP1)</subcat>
+        <subcat n="6">INF-SC|AC /
+            (SUBCAT SCINF)
+            Jo_NP1 's_$ need_NN1 to_TO go_VV0 surfaced_VVD
+            (NSUBCAT X)
+            (ncsubj surfaced_VVD need_NN1 _)
+            (ncmod poss need_NN1 Jo_NP1)
+        (xmod to need_NN1 go_VV0)</subcat>
+        <subcat n="7">PP-INF-OC /
+            (SUBCAT NP_OCINF)
+            Jo_NP1 's_$ reliance_NN1 on_II Kim_NP1 to_TO go_VV0 surfaced_VVD
+            Jo_NP1 's_$ eagerness_NN1 for_IF Kim_NP1 to_TO go_VV0 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT SINF)
+            (ncsubj surfaced_VVD reliance_NN1 _)
+            (ncmod poss reliance_NN1 Jo_NP1)
+            (cmod _ reliance_NN1 on_II)
+            (ccomp _ on_II Kim_NP1)
+        (ncsubj go_VV0 Kim_NP1 _)</subcat>
+        <subcat n="8">PP-INF-SC /
+            (SUBCAT NP_SCINF)
+            Jo_NP1 's_$ promise_NN1 to_II Kim_NP1 to_TO go_VV0 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT SINF)
+            (ncsubj surfaced_VVD promise_NN1 _)
+            (ncmod poss promise_NN1 Jo_NP1)
+            (cmod _ promise_NN1 to_II)
+            (ccomp _ to_II Kim_NP1)
+        (ncsubj go_VV0 Kim_NP1 _)</subcat>
+        <subcat n="9">S /
+            (SUBCAT SFIN)
+            The_AT claim_NN1 Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+            (NSUBCAT SFIN)
+            (ncsubj surfaced_VVD claim_NN1 _)
+            (det claim_NN1 The_AT)
+            (ccomp _ claim_NN1 is_VBZ)
+            (ncsubj is_VBZ Kim_NP1 _)
+        (xcomp _ is_VBZ silly_JJ)</subcat>
+        <subcat n="10">S-THAT /
+            (SUBCAT SFIN)
+            The_AT claim_NN1 that_CST Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+            (NSUBCAT SFIN)
+            (ncsubj surfaced_VVD claim_NN1 _)
+            (det claim_NN1 The_AT)
+            (ccomp that_CST claim_NN1 is_VBZ)
+            (ncsubj is_VBZ Kim_NP1 _)
+        (xcomp _ is_VBZ silly_JJ)</subcat>
+        <subcat n="11">S_SUBJ /
+            (SUBCAT SBSE)
+            Jo_NP1 's_$ preference_NN1 that_CST Kim_NP1 be_VB0 sacked_VVN surfaced_VVD  
+            (NSUBCAT SFIN)
+            (ncsubj surfaced_VVD preference_NN1 _)
+            (ncmod poss preference_NN1 Jo_NP1)
+            (ccomp that_CST preference_NN1 sacked_VVN)
+            (ncsubj sacked_VVN Kim_NP1 _)
+            (aux sacked_VVN be_VB0)
+        (passive sacked_VVN)</subcat>
+        <subcat n="12">P-WHS /
+            ANLT gap
+            Jo_NP1 's_$ knowledge_NN1 of_IO / about_II whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+            (NSUBCAT PPOF|X) (PSUBCAT PP+SFIN)
+            (ncsubj surfaced_VVD knowledge_NN1 _)
+            (ncmod poss knowledge_NN1 Jo_NP1)
+            (pcomp knowledge_NN1 of_IO) / (pmod knowledge_NN1 about_II)
+            (ccomp _ of_IO whether_CSW)
+            (ccomp _ whether_CSW smiled_VVD)
+            (ncsubj smiled_VVD Kim_NP1 _)
+            or
+            (ncsubj surfaced_VVD knowledge_NN1 _)
+            (ncmod poss knowledge_NN1 Jo_NP1)
+            (cmod _ knowledge_NN1 about_II)
+            (ccomp _ about_II said_VVD)
+            (obj said_VVD what_DDQ) / (arg_mod _ smiled_VVD how_RGQ)
+            (ncsubj said_VVD Kim_NP1 _)
+            or
+            (ncsubj surfaced_VVD knowledge_NN1 _)
+            (ncmod poss knowledge_NN1 Jo_NP1)
+            (cmod _ knowledge_NN1 said_VVD)
+            (arg_mod _ said_VVD of_IO) / (arg_mod _ smiled_VVD how_RGQ)
+            (ncsubj said_VVD Kim_NP1 _)
+        (dobj of_IO what_DDQ)</subcat>
+        <subcat n="13">P-WHINF /
+            ANLT gap
+            Jo_NP1 's_$ knowledge_NN1 of_IO / about_II whether_CSW to_TO go_VV0 surfaced_VVD     
+            (NSUBCAT PPOF|X) (PSUBCAT PP+VPINF)
+            (ncsubj surfaced_VVD knowledge_NN1 _)
+            (ncmod poss knowledge_NN1 Jo_NP1)
+            (pcomp knowledge_NN1 of_IO) / (pmod knowledge_NN1 about_II)
+            (xcomp _ of_IO whether_CSW)
+            (xcomp to whether_CSW go_VV0)
+            or
+            (ncsubj surfaced_VVD knowledge_NN1 _)
+            (ncmod poss knowledge_NN1 Jo_NP1)
+            (ncmod _ knowledge_NN1 about_II) / (iobj knowledge_NN1 of_IO)
+            (dobj about_II what_DDQ)
+            (obj do_VV0 what_DDQ)
+        (xmod to what_DDQ do_VV0)</subcat>
+        <subcat n="14">NP-PP-PP /
+            ANLT gap
+            Jo_NP1 's_$ gift_NN1 of_IO a_AT1 pen_NN1 to_II Kim_NP1 surfaced_VVD
+            Jo_NP1 's_$ argument_NN1 with_IW Kim_NP1 about_II Fido_NP1 surfaced_VVD
+            (NSUBCAT PPOF|X)
+            (ncsubj surfaced_VVD gift_NN1 _)
+            (ncmod poss gift_NN1 Jo_NP1)
+            (ncmod _ gift_NN1 to_II)
+            (dobj to_II Kim_NP1)
+            (iobj gift_NN1 of_IO) / (ncmod _ argument_NN1 with_IW)
+            (dobj of_IO pen_NN1)
+            (det pen_NN1 a_AT1)
+            or (low attchmt pref)?
+            (ncsubj surfaced_VVD gift_NN1 _)
+            (ncmod poss gift_NN1 Jo_NP1)
+            (iobj gift_NN1 of_IO)
+            (dobj of_IO pen_NN1)
+            (det pen_NN1 a_AT1)
+            (ncmod _ pen_NN1 to_II)
+        (dobj to_II Kim_NP1)</subcat>
+        <subcat n="15">PP-PP /
+            ANLT gap
+            The_AT appearance_NN1 of_IO Kim_NP1 with_IW Jo_NP1 surfaced_VVD
+            The_AT inquiry_NN1 about_II Kim_NP1 by_II Jo_NP1 surfaced_VVD
+            (NSUBCAT PPOF|X)
+            (ncsubj surfaced_VVD inquiry_NN1 _)
+            (det inquiry_NN1 The_AT)
+            (ncmod _ inquiry_NN1 by_II) / (iobj appearance_NN1 of_IO)
+            (dobj by_II Jo_NP1)
+            (ncmod _ inquiry_NN1 about_II)
+            (dobj about_II Kim_NP1)
+            or (low attchmt pref)?
+            (ncsubj surfaced_VVD appearance_NN1 _)
+            (det appearance_NN1 The_AT)
+            (iobj appearance_NN1 of_IO)
+            (dobj of_IO Kim_NP1)
+            (ncmod _ Kim_NP1 with_IW)
+        (dobj with_IW Jo_NP1)</subcat>
+        <subcat n="16">PPOF-PP-PP /
+            ANLT gap
+            The_AT gift_NN1 of_IO a_AT1 pen_NN1 to_II Kim_NP1 by_II Jo_NP1 surfaced_VVD
+            The_AT argument_NN1 of_IO Jo_NP1 with_IW Kim_NP1 about_II Fido_NP1 surfaced_VVD
+            (NSUBCAT PPOF) (PSUBCAT NP+NP)
+            (ncsubj surfaced_VVD gift_NN1 _)
+            (det gift_NN1 The_AT)
+            (ncmod _ gift_NN1 by_II)
+            (dobj by_II Jo_NP1)
+            (ncmod _ gift_NN1 to_II)
+            (dobj to_II Kim_NP1)
+            (iobj gift_NN1 of_IO)
+            (dobj of_IO pen_NN1)
+        (det pen_NN1 a_AT1)</subcat>
+        <subcat n="17">PP-PP-INF-OC /
+            ANLT gap
+            The_AT argument_NN1 with_IW Kim_NP1 for_IF Fido_NP1 to_TO go_VV0 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+SINF)
+            (ncsubj surfaced_VVD argument_NN1 _)
+            (det argument_NN1 The_AT)
+            (cmod _ argument_NN1 for_IF)
+            (ccomp _ for_IF Fido_NP1)
+            (ncsubj go_VV0 Fido_NP1 _)
+            (ncmod _ argument_NN1 with_IW)
+        (dobj with_IW Kim_NP1)</subcat>
+        <subcat n="18">PP-PP-POSSING /
+            ANLT gap
+            The_AT argument_NN1 with_IW Jo_NP1 about_II Sandy_NP1 's_$ kissing_VVG Kim_NP1 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+SING)
+            (ncsubj surfaced_VVD argument_NN1 _)
+            (det argument_NN1 The_AT)
+            (cmod _ argument_NN1 about_II)
+            (ccomp _ about_II Sandy_NP1)
+            (ncsubj kissing_VVG Sandy_NP1 _)
+            (dobj kissing_VVG Kim_NP1)
+            (ncmod _ argument_NN1 with_IW)
+        (dobj with_IW Jo_NP1)</subcat>
+        <subcat n="19">PP-PP-SING /
+            ANLT gap
+            The_AT argument_NN1 with_IW Jo_NP1 about_II Sandy_NP1 kissing_VVG Kim_NP1 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+SING)
+            (ncsubj surfaced_VVD argument_NN1 _)
+            (det argument_NN1 The_AT)
+            (cmod _ argument_NN1 about_II)
+            (ccomp _ about_II Sandy_NP1)
+            (ncsubj kissing_VVG Sandy_NP1 _)
+            (dobj kissing_VVG Kim_NP1)
+            (ncmod _ argument_NN1 with_IW)
+        (dobj with_IW Jo_NP1)</subcat>
+        <subcat n="20">PP-P-WHS /
+            ANLT gap
+            Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 about_II whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+SFIN) 
+            (ncsubj surfaced_VVD explanation_NN1 _)
+            (ncmod poss explanation_NN1 Jo_NP1)
+            (pmod explanation_NN1 about_II)
+            (ccomp _ about_II whether_CSW)
+            (ccomp _ whether_CSW smiled_VVD)
+            (ncsubj smiled_VVD Kim_NP1 _)
+            (ncmod _ explanation_NN1 to_II)
+            (dobj to_II Sandy_NP1)
+        or variants as WHS above</subcat>
+        <subcat n="21">PP-P-WHINF /
+            ANLT gap
+            Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 about_II whether_CSW to_TO go_VV0 surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+VPINF) 
+            (ncsubj surfaced_VVD explanation_NN1 _)
+            (ncmod poss explanation_NN1 Jo_NP1)
+            (pmod explanation_NN1 about_II)
+            (xcomp _ about_II whether_CSW)
+            (xcomp to whether_CSW go_VV0)
+            (ncmod _ explanation_NN1 to_II)
+            (dobj to_II Sandy_NP1)
+        or variants as WHINF above</subcat>
+        <subcat n="22">PP-WHS /
+            ANLT gap
+            Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+        No parses</subcat>
+        <subcat n="23">PP-WHINF /
+            ANLT gap
+            Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 whether_CSW to_TO smile_VV0 surfaced_VVD
+        No parses</subcat>
+        <subcat n="24">PP-S-THAT /
+            ANLT gap
+            Jo_NP1 's_$ reminder_NN1 to_II Sandy_NP1 that_CST Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+        No parses</subcat>
+        <subcat n="25">PP-S /
+            ANLT gap
+            Jo_NP1 's_$ reminder_NN1 to_II Sandy_NP1 Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+        No correct parse</subcat>
+        <subcat n="26">PP-AS
+            ANLT gap     
+            Jo_NP1 's_$ mention_NN1 of_IO Fido_NP1 as_CSA dying_VVG surfaced_VVD 
+            (NSUBCAT X|PPOF) (PFORM AS) (PSUBCAT VPING|VPPRT|NP|AP)
+            (ncsubj surfaced_VVD mention_NN1 _)
+            (ncmod poss mention_NN1 Jo_NP1)
+            (xmod _ mention_NN1 as_CSA)
+            (xcomp _ as_CSA dying_VVG)
+            (iobj mention_NN1 of_IO)
+        (dobj of_IO Fido_NP1)</subcat>
+        <subcat n="27">PP-PP-AS
+            ANLT gap
+            Jo_NP1 's_$ mention_NN1 to_II Sandy_NP1 of_IO Fido_NP1 as_CSA problematic_JJ surfaced_VVD 
+        No correct parse</subcat>
+        <subcat n="28">AdvP
+            ANLT gap
+            Jo_NP1 's_$ arrival_NN1 there_RL surfaced_VVD
+            (NSUBCAT X)
+            (ncsubj surfaced_VVD arrival_NN1 _)
+            (ncmod _ arrival_NN1 there_RL)
+        (ncmod poss arrival_NN1 Jo_NP1)</subcat>
+        <subcat n="29">PP-AdvP
+            ANLT gap
+            The_AT movement_NN1 of_IO the_AT statue_NN1 here_RL surfaced_VVD
+            (NSUBCAT PPOF)
+            (ncsubj surfaced_VVD movement_NN1 _)
+            (ncmod _ movement_NN1 here_RL)
+            (det movement_NN1 The_AT)
+            (iobj movement_NN1 of_IO)
+            (dobj of_IO statue_NN1)
+        (det statue_NN1 the_AT)</subcat>
+        <subcat n="30">PP-PP-ING
+            ANLT gap
+            Jo_NP1 's_$ argument_NN1 with_IW Kim_NP1 about_II going_VVG surfaced_VVD
+            (NSUBCAT X) (PSUBCAT NP+VPING)
+            (ncsubj surfaced_VVD argument_NN1 _)
+            (ncmod poss argument_NN1 Jo_NP1)
+            (xmod _ argument_NN1 about_II)
+            (xcomp _ about_II going_VVG)
+            (ncmod _ argument_NN1 with_IW)
+        (dobj with_IW Kim_NP1)</subcat>
+    </section>
+</xml>

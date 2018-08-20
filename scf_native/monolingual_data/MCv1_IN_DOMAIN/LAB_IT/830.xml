@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>SECO - Diritto del lavoro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>SECO - Diritto del lavoro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 15:00:56.0</pubDate>
+							<eAddress>http://www.seco.admin.ch/themen/00385/00420/index.html?lang=it</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Trasporto viaggiatori</keyTerm>
+					<keyTerm>Diritto del lavoro</keyTerm>
+					<keyTerm>Lavoro nero</keyTerm>
+					<keyTerm>Contratto collettivo di lavoro</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/830.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Segreteria di Stato dell'economia SECO</p>
+			<p id="p2">La presente edizione è adatta per browser con un supporto CSS insufficiente e destinata soprattutto alle persone ipovedenti. Tutti i contenuti sono visualizzabili anche con browser più vecchi. Per una migliore visualizzazione grafica si raccomanda tuttavia l'uso di un bro</p>
+			<p id="p3">Diritto del lavoro</p>
+			<p id="p4">Il diritto del lavoro contiene i diritti e gli obblighi dei lavoratori e dei datori di lavoro. Esso è disciplinato in varie leggi. Le principali sono il Codice delle obbligazioni (contratto individuale di lavoro, contratto collettivo di lavoro, contratto normale di lavoro), la legge sul lavoro (protezione generale dei lavoratori, durata del lavoro e del riposo, giovani lavoratori, donne incinte e madri che allattano) e la legge sull'assicurazione contro gli infortuni (sicurezza del lavoro).</p>
+			<p id="p5">Le pagine seguenti contengono informazioni e link inerenti ai diversi settori del diritto del lavoro in senso stretto e in senso ampio.</p>
+			<p id="p6">Sono qui illustrate le norme legali che disciplinano i conflitti del lavoro e la composizione dei conflitti collettivi del lavoro. Viene inoltre brevemente presentato il diritto di sciopero sancito nella Costituzione federale.</p>
+			<p id="p7">Su domanda delle associazioni contraenti, le autorità competenti a livello federale e a livello cantonale possono conferire il carattere obbligatorio generale ai contratti collettivi di lavoro (CCL) se le condizioni legali in tal senso sono adempiute. Conferendo a un CCL l'obbligatorietà generale, il suo campo d'applicazione viene esteso a tutti i lavoratori e ai datori di lavoro del ramo economico in questione. I decreti che conferiscono il carattere obbligatorio generale a un CCL contengono l'indicazione del campo d'applicazione territoriale, del rispettivo ramo economico e dei lavoratori per i quali valgono le disposizioni del CCL.</p>
+			<p id="p8">Il lavoro nero è un fenomeno grave e dannoso. Esso è infatti all'origine di numerosi problemi: minaccia per la protezione dei lavoratori, distorsioni della concorrenza in seno alle branche economiche, perdite di entrate per l'amministrazione fiscale e le assicurazioni sociali, ecc.</p>
+			<p id="p9">Il 01.06.2002 sono entrati in vigore i sette Accordi bilaterali I tra la Svizzera e l'Unione europea. Uno di essi introduce gradualmente la libera circolazione delle persone su tutto il territorio dell'UE e della Svizzera per i cittadini degli Stati membri dell'UE e i cittadini svizzeri.</p>
+		</body>
+	</text>
+</cesDoc>

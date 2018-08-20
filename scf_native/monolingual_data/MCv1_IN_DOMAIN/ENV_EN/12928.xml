@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Vectors, Lepidoptera and Invasives | Climate Change</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Vectors, Lepidoptera and Invasives | Climate Change</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-08-01 21:32:16.0</pubDate>
+							<eAddress>http://climatechange.foreignpolicyblogs.com/2009/02/01/vectors-lepidoptera-and-invasives/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/12928.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">My dictionary defines vector as “an organism (as an insect) that transmits a pathogen.”</p>
+			<p id="p2">Researchers from Australia and the University of Wisconsin-Madison (my alma mater) have been looking at the species of mosquito that carries dengue fever. Their studies indicate that climate change, on its present track, will increase mosquito habitat across much of Australia, thus endangering many more millions of people than are now threatened. This, obviously, has implications for the whole world, not just Australia. See this map from the CDC.</p>
+			<p id="p3">The World Health Organization is acutely aware of the mounting dangers involved. Their webpage devoted to climate change reflects a lot of research and fieldwork that’s being done to minimize the health impacts, including using climate to predict infectious disease epidemics .</p>
+			<p id="p4">We’ve been reading Betsy Kolbert’s magisterial Field Notes from a Catastrophe in my class and I am reminded of the chapter, “The Butterfly and the Toad” about the changes in range and timing of many species, the potential for extinctions and the massive attenuation of ecosystem services .</p>
+			<p id="p5">One of Kolbert’s subjects is a biologist at the University of York, Chris Thomas. He is involved in important new research that’s just been released on the global impact of climate change on biodiversity . Moths in Borneo, first studied in 1965, have been since shown to have “moved uphill by about 67 metres over the intervening years to cope with changes in climate.” As Thomas explains: “As these species get pushed uphill towards cooler conditions, the amount of land that is available to them gets smaller and smaller. And because most of the top of the mountain is bare rock, they may not be able to find suitable habitats, even if the temperature is right. Some of the species are likely to die out.”</p>
+			<p id="p6">Climate change might also have some benefits in this context. One new study details the potential for the retreat of some invasive plant species in the western United States. One of the researchers is Michael Oppenheimer, the co-curator of the climate change exhibit at the American Museum of Natural History and a leading scientist and activist on climate change for many years. This article from Seedquest, who provide “global information services for seed professionals,” quote the authors: “Just as native species are expected to shift in range and relative competitiveness with climate change, the same should be expected of invasive species.” This provides an opportunity for the restoration of native species that have been crowded out over time by the invasives.</p>
+			<p id="p7">It’s a consolation, certainly, but the threats from business as usual, as these authors well know, far outweigh the opportunities.</p>
+			<p id="p8">Leave Comments Below»</p>
+			<p id="p9">*</p>
+			<p id="p10">To prove you're a person (not a spam script), type the security word shown in the picture.</p>
+		</body>
+	</text>
+</cesDoc>

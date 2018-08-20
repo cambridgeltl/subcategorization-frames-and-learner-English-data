@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Obligation d'emploi de travailleurs handicapés pour 2009 : nouvelles règles de calcul - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Obligation d'emploi de travailleurs handicapés pour 2009 : nouvelles règles de calcul - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:39:35.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=BTP&amp;id_art=1459&amp;titre=Obligation+d'emploi+de+travailleurs+handicap%C3%A9s+pour+2009+%3A+nouvelles+r%C3%A8gles+de+calcul</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7681.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Obligation d'emploi de travailleurs handicapés pour 2009 : nouvelles règles de calcul</p>
+			<p id="p2">Si vous avez plus de 20 salariés, vous êtes soumis à l'obligation d'employer des travailleurs handicapés, à hauteur de 6 % de votre effectif. Pour calculer précisément cette obligation, quelques changements sont intervenus en matière d'accueil de stagiaires handicapés d'une part, de décompte de votre effectif d'handicapés d'autre part.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Accueil de stagiaires</p>
+			<p id="p5">L’obligation d’emploi peut être partiellement remplie en accueillant des stagiaires handicapés, dans la limite de 2 % de l’ effectif total de l’entreprise.</p>
+			<p id="p6">La liste des stages admis à ce titre a été élargie.</p>
+			<p id="p7">Pour pouvoir être décomptés au titre de leur OETH, les stagiaires handicapés doivent effectuer l’un des stages suivants (liste limitative) :</p>
+			<p id="p8">stage de formation professionnelle rémunéré par l’État ou la région ;</p>
+			<p id="p9">stage organisé par l’AGEFIPH dans le cadre du service « appui projet » ;</p>
+			<p id="p10">stage prescrit par Pôle emploi concourant à l’insertion professionnelle ;</p>
+			<p id="p11">stage de formation initiale en alternance à visée professionnelle ;</p>
+			<p id="p12">stage effectué par un étudiant.</p>
+			<p id="p13">La durée du stage doit être supérieure ou égale à 40 heures (cette durée ne peut pas être atteinte par l’addition de plusieurs stages de moins de 40 heures chacun).</p>
+			<p id="p14">Le stage est décompté au titre de l’année où il se termine. Pour déterminer son équivalence en termes de bénéficiaires, il faut rapporter la durée du stage à la durée annuelle de travail applicable à l’entreprise.</p>
+			<p id="p15">Exemple :</p>
+			<p id="p16">Équivalent bénéficiaire : 196 / 1.607 = 0,12.</p>
+			<p id="p17">Calcul de l’effectif des bénéficiaires</p>
+			<p id="p18">Quelle que soit la nature ou la durée du contrat de travail (CDI, CDD, intérim, etc.) :</p>
+			<p id="p19">un travailleur handicapé dont la durée de travail est égale ou supérieure à la moitié de la durée légale ou conventionnelle compte pour une unité, multipliée par le nombre de jours de présence effective dans l’entreprise rapporté à l’année (364 jours, ou 52 semaines, ou 12 mois) ;</p>
+			<p id="p20">un travailleur handicapé dont la durée de travail est inférieure à la moitié de la durée légale ou conventionnelle compte pour une demi-unité, multipliée par le nombre de jours de présence effective dans l’entreprise rapporté à l’année.</p>
+			<p id="p21">Exemple :</p>
+			<p id="p22">Un travailleur handicapé présent du 1er janvier au 31 octobre à temps plein compte pour : 1 unité x 10 mois de présence / 12 = 0,83.</p>
+			<p id="p23">Un travailleur handicapé présent du 1er mars au 30 juin à mi-temps compte pour : 1 unité x 4 mois de présence / 12 = 0,33.</p>
+			<p id="p24">Un travailleur handicapé présent du 1er juin au 31 octobre à temps partiel (40 %) compte pour : 0,5 unité x 5 mois de présence / 12 = 0,21.</p>
+			<p id="p25">Auparavant, chaque bénéficiaire était comptabilisé pour une unité dès lors qu'il avait été présent au moins 6 mois au cours de l’année, quelle que soit la nature du contrat de travail ou sa durée. Cette règle a donc été très assouplie, puisque la condition de présence minimum de 6 mois a été supprimée.</p>
+			<p id="p26">A. Ninucci</p>
+			<p id="p27">(Circulaire DGEFP n° 2009-41 du 21 octobre 2009 relative au calcul de l’obligation d’emploi des travailleurs handicapés, mutilés de guerre et assimilés ; décret n° 2009-641 du 9 juin 2009 relatif à l'obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés dans l'effectif des entreprises)</p>
+			<p id="p28">Pour plus de précisions sur l’emploi des travailleurs handicapés et les aides dont vous pouvez bénéficier, les Editions Tissot vous proposent leur ouvrage « Gérer le personnel du BTP ».</p>
+			<p id="p29">Article publié le 3 novembre 2009</p>
+			<p id="p30">Partagez cet article :</p>
+			<p id="p31">Articles sur le même thème : Embauche BTP</p>
+			<p id="p32">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 66 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 66 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:25:28.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=66</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11755.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">16/03/2009</p>
+			<p id="p2">Vous recrutez un nouveau salarié. Dans son contrat de travail, vous prévoyez une période d’essai avec possibilité de la renouveler. Mais êtes-vous sûr que votre convention collective autorise ce renouvellement ? Pensez à vérifier !</p>
+			<p id="p3">16/03/2009</p>
+			<p id="p4">Avant d’engager une procédure de licenciement économique, vous devez chercher à reclasser les salariés concernés. Attention, ne questionnez pas vos salariés sur leurs souhaits avant d’avoir effectué vos recherches et proposé des possibilités de reclassement.</p>
+			<p id="p5">13/03/2009</p>
+			<p id="p6">Votre convention collective peut vous imposer de recueillir l’avis d’un conseil de discipline avant de licencier un salarié pour un motif disciplinaire. Que se passe-t-il si vous avez oublié de recueillir cet avis avant l’entretien préalable de licenciement ? Est-il possible de le recueillir après ?</p>
+			<p id="p7">12/03/2009</p>
+			<p id="p8">Les employeurs peuvent imposer à leurs salariés le port de vêtements de protection individuelle ou de tenues de travail, soit pour des raisons d’hygiène et de sécurité, soit pour des raisons d’ordre commercial. Se pose alors la question de la prise en charge des frais d’entretien de ces tenues. Nos explications.</p>
+			<p id="p9">11/03/2009</p>
+			<p id="p10">Il devrait bientôt être possible d’utiliser les titres restaurant pour l’achat de fruits et légumes. Cette mesure, destinée à encourager une alimentation plus saine, est déjà source de polémiques.</p>
+			<p id="p11">10/03/2009</p>
+			<p id="p12">Depuis quelques jours, un de vos salariés ne se présente pas à son poste de travail. Il n’a donné aucune nouvelle concernant cette absence et ses collègues ne sont au courant de rien. Que pouvez-vous faire ?</p>
+			<p id="p13">09/03/2009</p>
+			<p id="p14">Tout salarié lié par un contrat de travail à durée indéterminée (CDI) qui est licencié pour un motif autre qu’une faute grave ou lourde, a droit à une indemnité de licenciement. Les conditions d’attribution de cette indemnité ont été modifiées au cours de l’été 2008. Rappel des nouvelles règles applicables.</p>
+			<p id="p15">09/03/2009</p>
+			<p id="p16">Chaque année, l’Administration précise dans quelles limites les salariés peuvent avoir droit à des chèques-vacances et le montant au-delà duquel la contribution de l’employeur est soumise à l’impôt sur le revenu. Le point pour 2009.</p>
+			<p id="p17">09/03/2009</p>
+			<p id="p18">Pour un salarié, quitter son entreprise en rejetant les torts sur son employeur est une décision à double tranchant... Et quand le tranchant tombe du mauvais côté, la note peut être salée !</p>
+			<p id="p19">Toute l'actualité en droit du travail PME</p>
+			<p id="p20">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

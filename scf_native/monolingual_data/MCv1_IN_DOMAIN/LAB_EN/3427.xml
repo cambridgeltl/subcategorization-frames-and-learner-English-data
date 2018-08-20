@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Termination pay</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Termination pay</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:21:21.0</pubDate>
+							<eAddress>http://www.worksmartontario.gov.on.ca/scripts/default.asp?contentID=1-3-6</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Ontario</keyTerm>
+					<keyTerm>Ontario Ministry of Labour</keyTerm>
+					<keyTerm>Ministry of Labour</keyTerm>
+					<keyTerm>Department of Labour</keyTerm>
+					<keyTerm>Ontario Ministry of Labor</keyTerm>
+					<keyTerm>Ministry of Labor</keyTerm>
+					<keyTerm>Department of Labor</keyTerm>
+					<keyTerm>labour rights</keyTerm>
+					<keyTerm>labor</keyTerm>
+					<keyTerm>Employment Standards Act</keyTerm>
+					<keyTerm>ESA</keyTerm>
+					<keyTerm>employment standards</keyTerm>
+					<keyTerm>employment rights</keyTerm>
+					<keyTerm>hours of work</keyTerm>
+					<keyTerm>overtime</keyTerm>
+					<keyTerm>vacation</keyTerm>
+					<keyTerm>vacation time</keyTerm>
+					<keyTerm>vacation pay</keyTerm>
+					<keyTerm>public holidays</keyTerm>
+					<keyTerm>time off</keyTerm>
+					<keyTerm>breaks</keyTerm>
+					<keyTerm>coffee breaks</keyTerm>
+					<keyTerm>pay</keyTerm>
+					<keyTerm>minimum wage</keyTerm>
+					<keyTerm>wages</keyTerm>
+					<keyTerm>raises</keyTerm>
+					<keyTerm>termination</keyTerm>
+					<keyTerm>quitting</keyTerm>
+					<keyTerm>Termination Pay</keyTerm>
+					<keyTerm>Discharged</keyTerm>
+					<keyTerm>Dismissed</keyTerm>
+					<keyTerm>Fired</keyTerm>
+					<keyTerm>Permanently Laid Off</keyTerm>
+					<keyTerm>Temporary Layoff</keyTerm>
+					<keyTerm>Notice of Termination</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/3427.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">If your employment has been terminated, it means you've been "let go", "discharged", "dismissed", "fired" or "permanently laid off".</p>
+			<p id="p2">In most cases, if an employer wants to terminate someone's employment, the employer must provide that employee with written, working notice of the termination or termination pay instead of the notice.</p>
+			<p id="p3">However, under the ESA an employee can't be terminated (or otherwise penalized) for such things as:</p>
+			<p id="p4">asking his or her employer to comply with the ESA</p>
+			<p id="p5">filing a complaint under the ESA</p>
+			<p id="p6">exercising or trying to exercise a right under the ESA</p>
+			<p id="p7">providing information to an employment standards officer or participating in proceedings under the ESA</p>
+			<p id="p8">For more information refer to Reprisals .</p>
+			<p id="p9">Table of Contents</p>
+			<p id="p10">Under the Employment Standards Act, 2000 (ESA), employment is terminated if the employer:</p>
+			<p id="p11">dismisses the employee</p>
+			<p id="p12">refuses to continue or is unable to continue employing someone (even when it's due to the employer's bankruptcy or insolvency)</p>
+			<p id="p13">constructively dismisses an employee and the employee resigns in response within a reasonable period of time</p>
+			<p id="p14">lays an employee off for a period longer than a temporary layoff.</p>
+			<p id="p15">There are a number or exemptions to the termination of employment provisions in the ESA. Be sure to check Is my job covered? to make sure you're entitled to written notice of termination or termination pay in lieu of notice under the ESA.</p>
+			<p id="p16">What is constructive dismissal?</p>
+			<p id="p17">You may have been "constructively dismissed" if:</p>
+			<p id="p18">your employer significantly reduces your salary, or significantly changes such things as your work location, hours of work, authority or position without your actual or implied consent</p>
+			<p id="p19">AND</p>
+			<p id="p20">you resign within a reasonable period of time in response.</p>
+			<p id="p21">It may also include situations when an employer harasses or abuses an employee, or when an employer gives an employee an ultimatum to "quit or be fired," and the employee resigns in response, within a reasonable period of time.</p>
+			<p id="p22">It's a complex and difficult subject. If you think you may have been constructively dismissed, you should contact the Ministry of Labour for further information.</p>
+			<p id="p23">How is a temporary layoff different from termination?</p>
+			<p id="p24">Generally speaking, an employer who has no intention to end your employment relationship can suspend, cut back or stop your work for a limited period of time (for example, when there is not enough work to be done) without immediately triggering a termination of your employment under the ESA.</p>
+			<p id="p25">This is called a temporary layoff and the ESA does not require the employer to give you a notice of such a layoff.</p>
+			<p id="p26">Usually, a temporary layoff lasts no more than 13 weeks in any period of 20 consecutive weeks. But it could last:</p>
+			<p id="p27">(a) more than 13 weeks in any period of 20 consecutive weeks, provided that it lasts less than 35 weeks in any period of 52 consecutive weeks and that certain conditions exist (e.g., where the employee continues to receive substantial payments from the employer, or the employee receives supplementary unemployment benefits)</p>
+			<p id="p28">or</p>
+			<p id="p29">(b) a longer period than described in (a) above, where an employer recalls an employee who is represented by a trade union within the time frames set out in an agreement between the union and the employer.</p>
+			<p id="p30">If a layoff exceeds these limits in the ESA, the employment will be considered terminated. You may then be entitled to termination pay if notice of termination was not given.</p>
+			<p id="p31">When can my job be terminated?</p>
+			<p id="p32">In most cases, your employer can terminate your job at any time, but they must provide proper written notice, or termination pay instead of notice.</p>
+			<p id="p33">Are there times when my job can't be terminated?</p>
+			<p id="p34">There are some situations where an employer can't terminate an employee's employment.</p>
+			<p id="p35">For example, your employer can't end your employment if any part of the reason for the termination of employment is based on you asking questions about the ESA or exercising a right under the ESA or because you take, or plan to take, a pregnancy, parental, family medical or emergency leave, or because you refused to work in excess of the daily and weekly limits on hours of work. For more details see Reprisals .</p>
+			<p id="p36">How much notice of termination should I get?</p>
+			<p id="p37">If you have been continuously employed for three months or more, and your employer "lets you go", your employer usually has to provide either written notice of termination or termination pay. If you are given written notice you will be expected to work through the notice period and will be entitled to no less than your regular wages for a regular work week for each week of notice.</p>
+			<p id="p38">How much written notice is required depends on how long you have been working for an employer:</p>
+			<p id="p39">Length of Employment</p>
+			<p id="p40">1 week</p>
+			<p id="p41">2 weeks</p>
+			<p id="p42">3 weeks</p>
+			<p id="p43">4 weeks</p>
+			<p id="p44">5 weeks</p>
+			<p id="p45">6 weeks</p>
+			<p id="p46">7 weeks</p>
+			<p id="p47">8 weeks</p>
+			<p id="p48">Note: Special rules apply in the case of "mass terminations", where 50 or more employees are terminated at an employer's establishment within a four-week period. If these circumstances apply to you, look for more information under Resources (below).</p>
+			<p id="p49">How much termination pay should I get?</p>
+			<p id="p50">If you are entitled to notice of termination and don't get the required written working notice (see chart above), you must get termination pay instead. If you do get the required notice, you are not entitled to termination pay.</p>
+			<p id="p51">Termination pay is a lump sum payment at least equal to the regular wages for a regular work week that you would otherwise have earned during the notice period to which you were entitled. Special rules for calculating termination pay apply for employees who don't have a regular work week or are paid on a basis other than time worked (e.g., piece-work rate or commission).</p>
+			<p id="p52">Written notice and termination pay can be combined as long as the number of weeks of notice and the number of weeks of termination pay together equal the length of notice you are entitled to receive.</p>
+			<p id="p53">I've been given notice of termination. What happens to my employment benefits?</p>
+			<p id="p54">Employers must continue to make the benefit plan contributions required to maintain an employee's benefit plans during the notice period. This applies even if the employee has received termination pay instead of working part or all of the notice period.</p>
+			<p id="p55">Who isn't entitled to notice of termination or termination pay?</p>
+			<p id="p56">Not everyone in every circumstance is entitled to notice of termination or termination pay, For instance, you are not entitled if:</p>
+			<p id="p57">you have been employed less than three months</p>
+			<p id="p58">you are a construction employee</p>
+			<p id="p59">you were employed for a definite term or to complete a specific task and the term expires or the task is completed within 12 months after employment commenced</p>
+			<p id="p60">you are guilty of wilful misconduct, disobedience or wilful neglect of duty that isn't trivial and hasn't been condoned by the employer</p>
+			<p id="p61">you are on a temporary layoff</p>
+			<p id="p62">you refuse an offer of reasonable alternative employment.</p>
+			<p id="p63">What is the difference between termination pay and severance pay?</p>
+			<p id="p64">Termination pay is given in place of the required notice of termination of employment. Severance pay is paid to a qualified employee who has his or her employment "severed". It compensates for loss of seniority and job-related benefits and recognizes an employee's years of service.</p>
+			<p id="p65">The definition of when employment is severed is in some respects different from when employment is terminated. A person's employment is severed when the employer:</p>
+			<p id="p66">dismisses the employee</p>
+			<p id="p67">refuses to continue or is unable to continue employing someone (even when it's due to the employer's bankruptcy or insolvency)</p>
+			<p id="p68">constructively dismisses the employee and the employee resigns in response within a reasonable period of time</p>
+			<p id="p69">lays the employee off for 35 weeks or more in any period of 52 consecutive weeks</p>
+			<p id="p70">lays the employee off because all the business at an establishment is permanently discontinued</p>
+			<p id="p71">gives the employee written notice of termination and the employee resigns after giving at least two weeks' written notice, and the resignation takes effect during the employer's notice of termination period. (If the employer gives more notice than the ESA requires, this period is considered to be a period equal to the ESA period, ending on the termination date specified in the employer's notice.)</p>
+			<p id="p72">You only qualify for severance pay when your employment is severed and you:</p>
+			<p id="p73">were employed by your employer for five or more years (including all time in employment, whether continuous or not, or active or not.</p>
+			<p id="p74">AND</p>
+			<p id="p75">has a payroll in Ontario of at least $2.5 million, or</p>
+			<p id="p76">severed the employment of 50 or more employees in a six-month period because all or part of the business was permanently discontinued.</p>
+			<p id="p77">If you think you may qualify for severance pay, look for more information under Resources (below).</p>
+			<p id="p78">What if I think my employer is not following the ESA?</p>
+			<p id="p79">This information is provided as a public service by the Government of Ontario. Every reasonable effort has been made to ensure the currency and accuracy of the information presented on the site, but readers should verify information before acting on it.</p>
+		</body>
+	</text>
+</cesDoc>

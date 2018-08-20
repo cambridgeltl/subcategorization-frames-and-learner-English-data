@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Licenciement économique : communiquer les critères de l'ordre des licenciements pour ne pas être sanctionné - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Licenciement économique : communiquer les critères de l'ordre des licenciements pour ne pas être sanctionné - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:39:24.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=355&amp;titre=Licenciement+%C3%A9conomique+%3A+communiquer+les+crit%C3%A8res+de+l'ordre+des+licenciements+pour+ne+pas+%C3%AAtre+sanctionn%C3%A9</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/12474.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Licenciement économique : communiquer les critères de l'ordre des licenciements pour ne pas être sanctionné</p>
+			<p id="p2">Dans le cadre d’une procédure de licenciement pour motif économique, vous devez fixer un ordre des licenciements. C'est-à-dire définir les salariés concernés. Les salariés licenciés peuvent demander la communication des critères retenus pour fixer cet ordre des licenciements. Si vous ne les informez pas, vous serez condamné à payer des dommages et intérêts.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Le licenciement pour motif économique n’étant pas lié à la personne du salarié, il vous faut définir l’ordre des licenciements, c’est-à-dire déterminer le salarié susceptible d’être licencié, suivant des critères définis par votre convention collective ou le Code du travail (art. L. 1233-5)</p>
+			<p id="p5">Ces critères prennent notamment en compte :</p>
+			<p id="p6">les charges de famille, en particulier celles des parents isolés ;</p>
+			<p id="p7">l'ancienneté de service dans l'établissement ou l'entreprise ;</p>
+			<p id="p8">la situation des salariés qui présentent des caractéristiques sociales rendant leur réinsertion professionnelle particulièrement difficile (personnes handicapées et salariés âgés) ;</p>
+			<p id="p9">les qualités professionnelles appréciées par catégorie.</p>
+			<p id="p10">Demande des critères retenus par le salarié licencié</p>
+			<p id="p11">Le salarié licencié dispose d’un délai de 10 jours à compter de la date de son départ de l’entreprise, pour vous demander les critères retenus pour fixer l’ordre des licenciements économiques (demande par lettre recommandée avec AR ou par lettre remise en mains propres contre décharge).</p>
+			<p id="p12">L'inobservation des règles liées aux critères d'ordre des licenciements ne prive pas le licenciement de cause réelle et sérieuse, mais ouvre droit pour le salarié à des dommages et intérêts.</p>
+			<p id="p13">Délai de réponse</p>
+			<p id="p14">Vous devez lui répondre , par LRAR ou par lettre remise en mains propres contre décharge, dans les 10 jours suivant la présentation de sa lettre.</p>
+			<p id="p15">Sanction</p>
+			<p id="p16">En l'absence de réponse, vous lui devrez réparation du préjudice causé : indemnité pour inobservation des dispositions relatives à l’ordre des licenciements.</p>
+			<p id="p17">Licenciement sans cause réelle et sérieuse : cumul des indemnités</p>
+			<p id="p18">Si son licenciement est sans cause réelle et sérieuse et que vous n’avez pas communiqué les critères retenus pour fixer l’ordre des licenciements économiques, le juge vous condamnera à verser 2 indemnités :</p>
+			<p id="p19">une indemnité pour licenciement sans cause réelle et sérieuse ;</p>
+			<p id="p20">et une indemnité pour défaut de communication des critères de l’ordre des licenciements.</p>
+			<p id="p21">Cour de cassation, chambre sociale, 8 juillet 2009, n°07-44591 (ordre des licenciements : cumul des indemnités de licenciement sans cause réelle et sérieuse et pour inobservation des dispositions relatives à l’ordre des licenciements)</p>
+			<p id="p22">Pour plus de précisions sur la procédure du licenciement économique, les Editions Tissot vous proposent leur ouvrage « La fin du contrat de travail ».</p>
+			<p id="p23">Article publié le 30 juillet 2009</p>
+			<p id="p24">Partagez cet article :</p>
+			<p id="p25">Articles sur le même thème : Licenciement</p>
+			<p id="p26">Actualités de la semaine pour les PME</p>
+			<p id="p27">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

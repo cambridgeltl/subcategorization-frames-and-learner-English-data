@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Institute Programs - Black Carbon Reduction Program</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Institute Programs - Black Carbon Reduction Program</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-05-21 22:18:03.0</pubDate>
+							<eAddress>http://www.climate.org/programs/black-carbon-reduction.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/11572.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Black Carbon Reduction Program</p>
+			<p id="p2">The Climate Institute is working to increase global awareness of the warming influence of gases and aerosols with short atmospheric lifetimes, including black carbon, methane, and tropospheric ozone. Specifically, the Climate Institute seeks to highlight the opportunity to limit near-term climate change by aggressively targeting short-lived gases and aerosols. As part of this effort, the Climate Institute is analyzing various technologies and policies that can effectively reduce short-lived warming agents in different parts of the world. Information is disseminated through stakeholder meetings, publications, editorials, briefings, and the Tickell Interactive Network. Through these efforts, the Climate Institute hopes to make individuals at all levels more knowledgeable about the important contribution to global warming due to short-lived gases and aerosols, and about the methods available to reduce emissions of these species in order to reduce the increasing pace of near-term climate change.</p>
+			<p id="p3">Comparing Atmospheric Pollutants</p>
+			<p id="p4">To most effectively limit near- and long-term climate change, national and international climate mitigation strategies must target the full range of greenhouse gases and warming particles. Carbon dioxide (CO2) emissions during the 21st century are projected to be responsible for roughly half of the warming influence from greenhouse gas emissions during the 21st century. Therefore, mitigation efforts solely focused on CO2 will be inadequate to reverse or even substantially slow the global warming trend within this century. Because unabated warming over this century will likely send the Earth’s climate past several impact thresholds, it is thus vital to also be controlling emissions of the non-CO2 greenhouse gases, and particularly those with short lifetimes. Because of the multi-century lifetime of CO2, however, its mitigation also remains absolutely critical to slowing climate change and averting worst case climate scenarios.</p>
+			<p id="p5">To complement the CO2 effort that will limit long-term warming, emissions of species with shorter atmospheric lifetimes than CO2 must be reduced to suppress near-term warming. Short-lived warming agents are responsible for most of the warming caused by non-CO2 emissions. Substantially reducing these emissions will lower their atmospheric concentrations over periods of months to decades and will relatively rapidly limit the warming influences that are causing the ongoing rising of the global average temperature. The rate of relief that can be achieved varies between species. The methane perturbation caused by emissions lasts on average for roughly a decade. Black carbon (often referred to as soot) and tropospheric ozone (formed in the atmosphere from carbon monoxide, nitrous oxides and volatile organic compounds) persist in the atmosphere for only a few weeks. Black carbon reductions will also curb the soot deposits on snow and ice that greatly increase rates of melting. Targeting black carbon is also a public health measure; breathing in the particulate matter is known to cause several million deaths each year from indoor and outdoor exposure.</p>
+			<p id="p6">© 2007 - 2010</p>
+			<p id="p7">Phone: +1-202-552-4723</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,44 @@
+News, Opinion, Analysis
+Recent Comments
+Member since 05/2005
+Climate change and outdoor recreation: Part 2
+In Part 1 I reviewed the scant U.S. literature (another two papers have been sent to me since then, thanks!) and in Part 2 I'm looking at the effects of temperature and precipitation on recreation participation in three sectors: boating, freshwater fishing and hunting.
+The data is from the 2000 National Survey on Recreation and the Environment (which doesn't include days participation (intensity) for boating, freshwater fishing and hunting (as far as I can tell ... I could get days participation from the National Survey of Fishing, Hunting and Wildlife-Associated Recreation but that's a lot of work and this stupid blog is not a peer-reviewed journal)). I'm using complete case analysis so I lose about 32% of the cases that don't report income.  Cleaning the rest of the data for item nonresponse leaves me  with 21,813 cases. Participation rates are:
+Boating (any type) = 44%
+Hunting (any type) = 14%
+I'm analyzing the factors that affect participation in each of these activities including family income (income), race (white=1), sex (male=1), age (age), education (educ), household size (hhnum), children under 6 (under6), urban resident (metro), average state temperature in January (jantemp) and July (jultemp), January precipitation (janpcp) and July precipitation (julpcp). Temperature and precipitation data is obtained from NOAA*.
+The idea, not mine (see part 1 ), is to obtain an estimate of the effect of climate on participation across the U.S. and use this relationship to forecast changes in behavior as climate changes.
+The estimate of the effect of climate on participation across the U.S. is obtained using the linear probability model (logistic regression obtains the same results but the simulations are more difficult with a nonlinear model; hey, this is a stupid blog ... give me a break) plus " business intelligence software " and a desktop computer. At first glance, regression results ( Download Table ) indicate that climate has uncertain effects on recreation participation in boating, freshwater fishing and hunting:
+For boating, increases in July temperature will decrease participation. January temperature has no effect. Increases in precipitation will increase participation.
+For freshwater fishing, temperature has no effect on participation. Increases in January precipitation will decrease participation while increases in July precipitation will increase participation.
+For hunting, increases in temperature will have no effect on participation. Increases in January precipitation will decrease participation while increases in July precipitation will increase participation.
+Since climate change is expected to increase temperature and precipitation in the U.S. the net effect of climate change on recreation participation is not clear. To determine the overall impacts I simulated the effects of the change in temperature and precipitation on the overall recreation participation levels with U.S. average temperature [ pdf ] and precipitation [ pdf ] forecasts (developed by Ben Poulter of the Potsdam Institute for Climate Change Research ... Thanks Ben!).
+Participation rates in 2098 with climate change (holding income constant) are:
+Boating (any type) = 43%
+Hunting (any type) = 5%
+Boating (any type) = -1%
+Hunting (any type) = -9%
+In contrast to previous studies, I'm finding that climate change decreases boating and hunting participation with no effect on freshwater fishing. If I was really serious about this I'd need to dig further but it does bring into question the aggregate data national estimates from a few years ago ( Part 1 ).
+Just for fun, how about if we simulate income increases on top of climate change? Suppose that incomes double from 2000 to 2098 (a 0.72% real growth rate [this is conservative]). Participation rates in 2098 with climate change and a doubling of income are:
+Boating (any type) = 54%
+Hunting (any type) = 6%
+The change in participation rates from 2000 to 2098 with climate change and a doubling of income are:
+Boating (any type) = 8%
+Hunting (any type) = -8%
+A doubling of income doesn't lead to crazy results. The biggest effect is that people will buy more boats and crowd those navigable waters. Watch out.
+I'd appreciate any comments on this analysis. Looking ahead, part 3 will consider the effects of temperature and precipitation on the intensity of participation (days, not just yes or no) for skiing, camping, saltwater fishing, beach going, and wildlife watching.
+*Note: State average climate data can be found at: http://www1.ncdc.noaa.gov/pub/data/cirs/ . 
+The data is in text format. Documentation is in readme file: state.README. The temperature and precipitation data are drd964x.tmpst.txt and drd964x.pcpst.txt.
+Posted by John Whitehead on March 25, 2008 at 08:07 AM in Climate Change |  Permalink
+... because Blogads are good for you.
+Search
+-- Economic Way of Thinking
+-- UKNEE
+-- The Olive Ridley Crawl
+-- Mark C R UK
+-- American Institute of Biological Sciences
+-- Fritz
+... the Environmental Economics blog ... is now the default homepage on my browser (but then again, I guess I am a wonk -- a word I learned on the E.E. blog). That is a very nice service to the profession.
+-- Anonymous
+"... I try and read the blog everyday and have pointed it out to other faculty who have their students read it for class. It is truly one of the best things in the blogosphere."
+-- Anonymous

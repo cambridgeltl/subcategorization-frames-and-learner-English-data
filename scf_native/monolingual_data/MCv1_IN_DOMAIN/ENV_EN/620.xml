@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>
+ Kyoto Protocol
+ </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>
+ Kyoto Protocol
+ </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 09:20:34.0</pubDate>
+							<eAddress>http://unfccc.int/kyoto_protocol/items/2830.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Annex I Parties</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>commitments</keyTerm>
+					<keyTerm>developing countries</keyTerm>
+					<keyTerm>emission reduction</keyTerm>
+					<keyTerm>emissions</keyTerm>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>greenhouse gases</keyTerm>
+					<keyTerm>implementation</keyTerm>
+					<keyTerm>Kyoto Protocol</keyTerm>
+					<keyTerm>negotiation</keyTerm>
+					<keyTerm>principles</keyTerm>
+					<keyTerm>sustainable development</keyTerm>
+					<keyTerm>technology</keyTerm>
+					<keyTerm>UNFCCC</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/620.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Kyoto Protocol</p>
+			<p id="p2">Delegates celebrated adoption of the Protocol in 1997.</p>
+			<p id="p3">The Kyoto Protocol is an international agreement linked to the United Nations Framework Convention on Climate Change. The major feature of the Kyoto Protocol is that it sets binding targets for 37 industrialized countries and the European community for reducing greenhouse gas (GHG) emissions .These amount to an average of five per cent against 1990 levels over the five-year period 2008-2012.</p>
+			<p id="p4">The major distinction between the Protocol and the Convention is that while the Convention encouraged industrialised countries to stabilize GHG emissions, the Protocol commits them to do so.</p>
+			<p id="p5">Recognizing that developed countries are principally responsible for the current high levels of GHG emissions in the atmosphere as a result of more than 150 years of industrial activity, the Protocol places a heavier burden on developed nations under the principle of “common but differentiated responsibilities.”</p>
+			<p id="p6">The Kyoto Protocol was adopted in Kyoto, Japan, on 11 December 1997 and entered into force on 16 February 2005. The detailed rules for the implementation of the Protocol were adopted at COP 7 in Marrakesh in 2001, and are called the “Marrakesh Accords.”</p>
+			<p id="p7">The Kyoto mechanisms</p>
+			<p id="p8">Under the Treaty, countries must meet their targets primarily through national measures. However, the Kyoto Protocol offers them an additional means of meeting their targets by way of three market-based mechanisms .</p>
+			<p id="p9">The Kyoto mechanisms are:</p>
+			<p id="p10">Monitoring emission targets</p>
+			<p id="p11">Under the Protocol, countries’actual emissions have to be monitored and precise records have to be kept of the trades carried out.</p>
+			<p id="p12">Registry systems track and record transactions by Parties under the mechanisms. The UN Climate Change Secretariat, based in Bonn, Germany, keeps an international transaction log to verify that transactions are consistent with the rules of the Protocol.</p>
+			<p id="p13">Reporting is done by Parties by way of submitting annual emission inventories and national reports under the Protocol at regular intervals.</p>
+			<p id="p14">A compliance system ensures that Parties are meeting their commitments and helps them to meet their commitments if they have problems doing so.</p>
+			<p id="p15">The Kyoto Protocol, like the Convention, is also designed to assist countries in adapting to the adverse effects of climate change. It facilitates the development and deployment of techniques that can help increase resilience to the impacts of climate change.</p>
+			<p id="p16">The Adaptation Fund was established to finance adaptation projects and programmes in developing countries that are Parties to the Kyoto Protocol. The Fund is financed mainly with a share of proceeds from CDM project activities.</p>
+			<p id="p17">The road ahead</p>
+			<p id="p18">The Kyoto Protocol is generally seen as an important first step towards a truly global emission reduction regime that will stabilize GHG emissions, and provides the essential architecture for any future international agreement on climate change.</p>
+			<p id="p19">By the end of the first commitment period of the Kyoto Protocol in 2012, a new international framework needs to have been negotiated and ratified that can deliver the stringent emission reductions the Intergovernmental Panel on Climate Change (IPCC) has clearly indicated are needed.</p>
+			<p id="p20">Status of Ratification</p>
+			<p id="p21">States and regional economic integration organizations which have ratified the Kyoto Protocol to the United Nations Framework Convention on Climate Change</p>
+		</body>
+	</text>
+</cesDoc>

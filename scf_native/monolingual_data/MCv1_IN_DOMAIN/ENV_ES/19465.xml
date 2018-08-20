@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Preguntas Frecuentes Vulnerabilidad</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Preguntas Frecuentes Vulnerabilidad</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 16:08:59.0</pubDate>
+							<eAddress>http://cambio_climatico.ine.gob.mx/preguntasfrecuentes/vulnerabilidad.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/19465.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">1.</p>
+			<p id="p2">7.</p>
+			<p id="p3">12.</p>
+			<p id="p4">1. ¿Qué es la vulnerabilidad climática?</p>
+			<p id="p5">La vulnerabilidad climática se deriva de las condiciones extremas en el clima que afectan la vida del planeta y los impactos que tienen en la sociedad o en un ecosistema.</p>
+			<p id="p6">Estos impactos, que pueden ser desde imperceptibles hasta catastróficos, dependen de la intensidad y duración de una anomalía en la lluvia o la temperatura, así como del grado de vulnerabilidad de la sociedad o ecosistema.</p>
+			<p id="p7">Para entender el origen de muchos de los grandes desastres naturales se debe tener en cuenta el factor riesgo, como una combinación de la amenaza y de la vulnerabilidad.</p>
+			<p id="p8">En el caso del cambio climático global, la amenaza pueden ser las condiciones extremas asociadas al fenómeno, mientras que la vulnerabilidad climática estará asociada al desarrollo (o subdesarrollo) del país.</p>
+			<p id="p9">En México, la vulnerabilidad de la población a extremos del clima es grande. Por ejemplo y dado que una vasta parte de nuestro territorio es semiárido (poca precipitación la mayor parte del año), los cambios en la temporada de lluvias resultan en amenaza de sequía y, con frecuencia, en desastres para sectores dependientes del agua.</p>
+			<p id="p10">2. ¿Cuáles son los países más vulnerables a un cambio en el clima?</p>
+			<p id="p11">Todos los países están expuestos a los efectos de un cambio en el clima, no obstante, existen diferentes grados de vulnerabilidad ante el fenómeno.</p>
+			<p id="p12">La Convención Marco de las Naciones Unidas sobre Cambio Climático reconoce en su preámbulo que "los países de baja altitud y otros países insulares pequeños, los países con zonas costeras bajas, zonas áridas y semiáridas, o zonas expuestas a inundaciones, sequía, y desertificación, y los países en desarrollo con ecosistemas montañosos frágiles, son particularmente vulnerables a los efectos adversos del cambio climático".</p>
+			<p id="p13">El Grupo de Trabajo II del Panel intergubernamental sobre Cambio Climático -dedicado a evaluar los impactos y adaptación al cambio climático- concluyó que este fenómeno "tendrá los mayores impactos en aquellos pueblos con menos capacidad de protegerse contra el aumento del nivel mar, el incremento de enfermedades y la disminución de producción agrícola, caso de los países en vías de desarrollo".</p>
+			<p id="p14">3. ¿Cuáles son las posibles repercusiones de un cambio climático para México?</p>
+			<p id="p15">La vulnerabilidad de un país ante condiciones extremas en el clima, está en relación con:</p>
+			<p id="p16">1. la difusión y comprensión de la información climática,</p>
+			<p id="p17">2. la capacidad técnica para aplicar medidas preventivas, y</p>
+			<p id="p18">3. la disponibilidad de recursos financieros para aplicar esas medidas.</p>
+			<p id="p19">México es un país particularmente vulnerable a extremos del clima. Los eventos El Niño o La Niña, así como condiciones hidrometeorológicas extremas han causado graves daños y desastres en diversos sectores socioeconómicos del país. El trabajo reciente para caracterizar la vulnerabilidad a la variabilidad y el cambio climático, generando capacidad para entender el fenómeno, discutirlo interdisciplinariamente y con actores clave, así como llegar a propuestas de adaptación, representa un avance notable de México en el contexto nacional e internacional.</p>
+			<p id="p20">Las proyecciones de temperatura y precipitación para los climas 2020, 2050 y 2080 indican que de México será más cálido (2-4°C) alrededor del 2050. Los resultados indican que la parte más continental del norte de México será la que experimente mayores incrementos de temperatura.</p>
+			<p id="p21">Los cambios para las lluvias de invierno indican una disminución en la precipitación que fluctúa entre 0 y 0.6 mm/día. Ese valor indica reducciones de hasta 15% en regiones del centro de México, y de menos del 5% en la zona de la costa del Golfo de México.</p>
+			<p id="p22">Los eventos extremos, como huracanes y frentes fríos (nortes), requieren consideración especial en el caso de las proyecciones de precipitación para México. Es posible que los nortes se vuelvan menos frecuentes. Es incierto en qué medida dicha disminución podría afectar las precipitaciones, pero de acuerdo con ciertos escenarios, éstas tenderán a disminuir principalmente en la vertiente del Golfo de México.</p>
+			<p id="p23">En el caso de ciclones tropicales se considera que en promedio aumenten en intensidad, al ocurrir una disminución en la presión central media del sistema, en alrededor de 14%, con aumentos de 6% en la intensidad de los vientos y un aumento en las precipitaciones, en alrededor de 18%, en un radio de 100 km con respecto al centro del huracán.</p>
+			<p id="p24">Las teorías sugieren que debido a que el ciclo hidrológico se volverá más intenso, es de esperar que aumente el número de tormentas severas, pero que también se puedan producir periodos de sequía más extremos y prolongados.</p>
+			<p id="p25">FUENTE: México, Tercerca comunicación nacional ante la Convención Marco de las Naciones Unidas sobre el Cambio Climático</p>
+			<p id="p26">4. ¿Qué sectores económicos de México son los más vulnerables?</p>
+			<p id="p27">• Energía</p>
+			<p id="p28">• Industrias de la transformación con gran demanda de agua.</p>
+			<p id="p29">Aunque en México no está catalogada como un sector económico, la actividad de abastecimiento de agua es vulnerable y puede verse afectada por un cambio en la disponibilidad de agua en el país.</p>
+			<p id="p30">Si, la salud humana puede ser afectada por los efectos del cambio climático. Los impactos negativos a la salud humana pueden darse por vía directa, como en el caso de olas de calor, aumento de la contaminación (exacerbada por el aumento en la temperatura) o los daños físicos causados por eventos extremos, o por vía indirecta, como resultado de sequías, inundaciones y cambios climáticos que causan condiciones favorables para los agentes infecciosos, virus, bacterias o parásitos y sus agentes transmisores llamados “vectores”.</p>
+			<p id="p31">Los eventos climáticos relacionados con afectaciones a la salud de la población mexicana están relacionados con temperaturas y condiciones de humedad extremas, que llevan a condiciones para la aparición de brotes de enfermedades como golpes de calor, enfermedades transmitidas por vector y transmitidas por agua y alimentos. (Tercera comunicación nacional)</p>
+			<p id="p32">Se predice que un calentamiento global causará la transmisión de enfermedades (como la malaria y dengue) a mayores altitudes y latitudes. Por ejemplo, algunas de estas enfermedades ya se pueden encontrar actualmente en las tierras altas de África central, en donde anteriormente no se presentaban (Epstein 1997 [13]).</p>
+			<p id="p33">Las personas mayores con problemas cardiacos o respiratorios son particularmente vulnerables porque el calor extremo puede exacerbar estas condiciones preexistentes. Como ejemplo se puede citar la ola de calor que causó la muerte de más de 500 personas en julio de 1995 en la ciudad de Chicago, EE.UU. (WHO 2001).</p>
+			<p id="p34">En Europa, los registros por la ola de calor que azotó en el 2003 estimaron en 35 mil muertes. Tan sólo en Francia, 14,80 personas murieron debido a las altas temperaturas que alcanzaron los 40ºC. En alemania ocurrieron 7 mil decesos, mientras que en España e Italia fueron cerca de 4,200. El mes de agosto de ese año fue el más cálido registrado en el hemisferio norte, aunque de acuerdo a las proyecciones del IPCC, los eventos climáticos extremos seguirán. (Tomado de RECORD HEAT WAVE IN EUROPE TAKES 35,000 LIVES, Janet Larsen, EARTH POLICY INSTITUTE)</p>
+			<p id="p35">Los cambios en la variabilidad del clima y en la presencia de eventos extremos pueden generar los siguientes impactos potenciales a la salud:</p>
+			<p id="p36">Adaptado de: Organización Mundial de la Salud [14]</p>
+			<p id="p37">WHO Information. Climate and Health. Fact Sheet No 266. December 2001.WHO Geneva.</p>
+			<p id="p38">[13] Epstein, Paul R., 1997. Climate, Ecology and Human Health. Consequences 3: 1-24. WHO/WMO/UNEP, Geneva.</p>
+			<p id="p39">[14]Adaptado de: www.euro.who.int</p>
+			<p id="p40">No existen evidencias que permitan afirmar que existe alguna relación directa o indirecta entre el fenómeno del cambio climático y un tsunami.</p>
+			<p id="p41">Un tsunami es resultado de un maremoto que no responde a cambios en el clima terrestre, sino al reacomodo de las placas tectónicas submarinas. Sin embargo, los efectos que ocasiona un tsunami pueden servir como un ejemplo claro de lo que en el futuro puede suceder en zonas costeras vulnerables, ya que el cambio climático sí influye directamente sobre el aumento del nivel de los océanos, y puede, por ejemplo, afectar a los humedales y a las barreras físicas naturales.</p>
+			<p id="p42">7. ¿Existe relación entre el aumento en la frecuencia de huracanes, fuertes lluvias y sequías con el cambio climático?</p>
+			<p id="p43">Si, ante cambio climático numerosos cambios a largo plazo se han observado, lo que incluye cambios en las temperaturas árticas y hielo, en la cantidad de precipitación, en la salinidad del mar, en los patrones y aspectos de clima extremo como sequías, fuertes precipitaciones, olas de calor y la intensidad de ciclones tropicales.</p>
+			<p id="p44">Basándose en los modelos es probable que los ciclones tropicales futuros (tifones y huracanes) serán más intensos, con mayor velocidad en los vientos y precipitaciones más fuertes asociadas a incrementos de la temperatura de la superficie del mar. Existe menos confianza en proyecciones sobre disminución de ciclones tropicales a escala global.</p>
+			<p id="p45">Sequías más intensas y prolongadas se han observado en áreas más extensas desde 1970, particularmente en los trópicos y subtrópicos. El incremento de la aridez vinculada a temperaturas más altas y la disminución de la precipitación ha contribuido a cambios en la sequía. Los cambios en la temperatura en la superficie del mar, los patrones del viento y la disminución de la capa de hielo también están ligadas a la sequía.</p>
+			<p id="p46">FUENTE: Cuarto Informe de Evaluación, IPCC, 2007</p>
+			<p id="p47">8.¿Existe relación entre el incremento de incendios forestales y el cambio climático?</p>
+			<p id="p48">Sí, existe una relación directa entre el aumento de incendios forestales y el cambio climático.</p>
+			<p id="p49">Por un lado, el aumento en las temperaturas globales favorece en ciertas regiones las condiciones ambientales bajo las cuales se suscitan los incendios forestales, tales como sequía y mayor calor.</p>
+			<p id="p50">Por el otro, los incendios forestales liberan hacia la atmósfera el carbono contenido en la vegetación y en los suelos que se queman. Debido a que en muchas ocasiones los incendios forestales consumen vastas extensiones de vegetación, se emiten a la atmósfera grandes volúmenes de bióxido de carbono (CO</p>
+			<p id="p51">2</p>
+			<p id="p52">9. ¿Se agudizará la variabilidad climática (el fenómeno del Niño y la Niña)?</p>
+			<p id="p53">Aún no se cuenta con la capacidad para decir que estos fenómenos se agudizarán como consecuencia del cambio climático. Los fenómenos de El Niño y La Niña son de origen natural y tienen variaciones temporales grandes (de decenas de años). Aún no se cuenta con la capacidad para decir que estos fenómenos se agudizarán como consecuencia del cambio climático. Una forma en que el cambio climático podría afectar a El Niño es a través de la convección tropical profunda (tormentas organizadas que tienen fuertes movimientos de aire hacia arriba sobre grandes regiones) debido al aumento de la temperatura del océano (Pacific Marine Environmental Laboratory, 2003) [15].</p>
+			<p id="p54">[15]Tomado de: www.pmel.noaa.gov</p>
+			<p id="p55">Significa que se tiene que reducir la vulnerabilidad ante el cambio climático promoviendo el desarrollo sustentable. La adaptación al cambio climático consiste en una serie de medidas que permitan a los sistemas naturales y a las comunidades humanas incrementar su resistencia frente a los efectos adversos del cambio climático. La adaptación al cambio climático debe considerar no solamente cómo reducir la vulnerabilidad frente a los impactos negativos, sino también como beneficiarse de los positivos.</p>
+			<p id="p56">Existen varios tipos de adaptación: anticipada y reactiva; privada y pública; y autónoma y planeada.</p>
+			<p id="p57">11. ¿Qué acciones han tomado los países desarrollados para adaptarse al cambio climático?</p>
+			<p id="p58">En el sector hídrico: construcción de nueva infraestructura de suministro y distribución de agua, administrar las existentes en forma más eficiente; incrementar la eficiencia de los sistemas de irrigación; reducir la demanda por medio de varias medidas, por ejemplo incluyendo diferencias en costos o a través de campañas de concientización pública.</p>
+			<p id="p59">En el sector agrícola: cambios en las fechas de siembras; uso de sistemas de alerta temprana; prácticas para conservar la humedad, por ejemplo dejar residuos de la cosecha anterior en la superficie puede proteger al suelo de la degradación por viento o lluvia y mantener la humedad al reducir la evaporación e incrementar la infiltración de agua de lluvia en el suelo.</p>
+			<p id="p60">En regiones costeras: protección mediante barreras físicas contra inundaciones, y reubicación de comunidades localizadas en zonas vulnerables.</p>
+			<p id="p61">En el sector urbano: Mejorar las prácticas de planeación y edificación de nuevas construcciones para obtener un ahorro de energía y de agua.</p>
+			<p id="p62">En salud: vigilancia y prevención de las enfermedades infecciosas y respiratorias, aplicación de programas sanitarios, monitorear y mejorar la calidad del agua.</p>
+			<p id="p63">12. ¿Qué acciones ha tomado el gobierno de México para hacer frente al cambio climático?</p>
+			<p id="p64">El 24 de abril de 2005, el Presidente de la República decretó la creación de la Comisión Intersecretarial sobre Cambio Climático (CICC), como la entidad nacional responsable de definir las políticas y programas nacionales en materia de cambio climático y su objetivo es poner al alcance del público interesado en informarse y participar en los esfuerzos nacionales por combatir el cambio climático, toda la información que la Comisión debe hacer pública.</p>
+			<p id="p65">Esta comisión está encabezada por la Secretaría de Medio Ambiente y Recursos Naturales y está integrada por representantes de las secretarías de Energía, Economía, Agricultura, Ganadería y Desarrollo Rural, Comunicaciones y Transportes, Desarrollo Social y Relaciones Exteriores.</p>
+			<p id="p66">La CICC elaboró la Estrategia Nacional de Cambio Climático (ENACC) que en mayo 2007, el Presidente de la República presentó públicamente y dio instrucciones para que, con base en ella, la Comisión elabore un Programa Especial de Cambio Climático 2008 – 2012, en el marco del Plan Nacional de Desarrollo 2007 – 2012. El tema de Cambio Climático ha sido incluido por primera vez en dicho Plan en su Eje Rector 4 dedicado a la Sustentabilidad Ambiental, con lo cual queda constancia de que el Gobierno de México reconoce que el impacto de las emisiones de GEI es cada vez más evidente.</p>
+			<p id="p67">El trabajo reciente para caracterizar la vulnerabilidad a la variabilidad y el cambio climático, generando capacidad para entender el fenómeno, discutirlo interdisciplinariamente y con actores clave, así como llegar a propuestas de adaptación, representa un avance notable de México en el contexto nacional e internacional.</p>
+			<p id="p68">Más información:</p>
+			<p id="p69">Última Actualización: 08/06/2010</p>
+		</body>
+	</text>
+</cesDoc>

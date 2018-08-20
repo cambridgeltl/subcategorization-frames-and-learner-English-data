@@ -1,0 +1,780 @@
+SPECIALE FLESSIBILITA : APPROFONDIMENTO del  Prof. Valerio Speziale - Facoltà di Economia  Università di Chieti-Pescara
+PRIMA PARTE
+contratti atipici e possibili riforme
+Facoltà di Economia  Università di Chieti-Pescara
+ISSN  1594-817X
+Via Crociferi, 81  95124 Catania (Italy)
+Tel: + + 39 095 230464  Fax: + +39 095 313145
+centrostudidantona@lex.unict.it
+contratti atipici e possibili riforme  *
+Valerio Speziale
+1. Introduzione ..................................................................... 3
+contratto tipico, contratto atipico, sottotipo contrattuale ............. 4
+3. Il problema dei contratti di lavoro c.d. speciali nellimpostazione
+tradizionale .......................................................................... 8
+distingue tra tipo e sottotipi................................................. 9
+3.2. Le critiche alla teoria tradizionale: il dibattito
+sullindividuazione di un prototipo normativo ......................10
+3.3. Il dibattito sulla possibilità di individuare una fattispecie
+minima unitaria di lavoro subordinato ..................................13
+4. Contratti di lavoro c.d. atipici e flessibili...............................16
+5. Levoluzione più recente della disciplina legislativa ................17
+6. Il superamento del dibattito teorico e le tecniche di
+coordinamento tra discipline diverse del lavoro subordinato .......21
+7. I contratti atipici come modelli negoziali flessibili alternativi al
+rapporto di lavoro standard ...................................................34
+* Questo saggio, con qualche variazione, sarà pubblicato nel volume Il rapporto di lavoro
+subordinato. Costituzione e svolgimento (a cura di Adalberto Perulli) nel Trattato di Diritto
+Privato diretto da Mario Bessone.
+Ringrazio il dott. Antonio Aurilio per la collaborazione prestata nella ricerca bibliografica e
+per lo scambio di opinioni e riflessioni di cui ho tenuto conto nella stesura del testo. La
+responsabilità di quanto scritto è, ovviamente, ascrivibile solo allautore.
+2 VALERIO SPEZIALE
+8. Lincremento delle tipologie contrattuali, gli effetti sul sistema
+del diritto del lavoro e la necessità di una diversa regolazione in
+materia ..............................................................................44
+10. Dal lavoro ai lavori: il dibattito sulla riforma della fattispecie e
+lo statuto dei lavori ..............................................................62
+11. Riferimenti bibliografici ....................................................68
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+1. Introduzione
+tipologie contrattuali che si sono aggiunte alle numerose già esistenti. Il
+quadro complessivo è piuttosto articolato anche in considerazione delle
+forti differenze nelle discipline ed a volte nelle strutture dei diversi
+"modelli" di subordinazione. La nuova proliferazione di contratti di lavoro
+pone problemi interpretativi assai delicati.
+Questo saggio si propone in primo luogo di descrivere il dibattito
+sulla qualificazione di questi contratti nell ambito di categorie in parte
+mutuate dal diritto civile ("tipo", "sottotipo", ecc.) e di analizzare se e in
+che misura queste varie interpretazioni hanno un influenza sul piano
+pratico. L analisi é poi diretta a verificare le caratteristiche delle tecniche
+di coordinamento tra la disciplina generale del rapporto di lavoro, prevista
+dal codice civile e dalle leggi speciali, e le varie normative che regolano i
+contratti diversi da quello nell impresa. L articolazione tipologica, inoltre,
+viene valutata nell ambito del problema dei contratti "flessibili" e delle
+esigenze derivanti dai profondi mutamenti economici ed organizzativi che
+hanno interessato il mercato del lavoro, senza dimenticare, peraltro,
+l influenza che sul tema ha esercitato il dibattito sulla "rigidità" del fattore
+lavoro e sulla sua correlazione con l incremento dei livelli occupazionali.
+L idea di garantire alle imprese una varietà assai ampia di contratti -
+alcuni dei quali, tra l altro, poco (o per nulla) utilizzati  per
+"flessibilizzare" un sistema ritenuto eccessivamente rigido ha determinato
+una situazione di vera e propria alterazione funzionale dei modelli
+contrattuali che, oltre ad essere in numero eccessivo, vengono usati per
+ragioni molto diverse da quelle che sono le loro finalità originarie. In tale
+contesto, vengono quindi avanzate delle proposte che, oltre a
+semplificare il sistema, sono dirette a restituire le varie tipologie ad una
+funzione che sia coerente con la loro struttura e con le stesse esigenze
+del sistema economico, in base anche ai dati ricavabili dalle numerose
+indagini empiriche sul mercato del lavoro italiano. Inoltre si analizza il
+problema di come garantire tutele generalizzate e di base per tutti i
+contratti, allo scopo di non negare la funzione di specializzazione
+normativa propria di ciascuno di essi, ma per evitare una possibile
+competizione interna basata sulla "debolezza" degli statuti protettivi.
+Infine si esamina l influenza che questi nuovi rapporti esercitano
+sulla nozione di subordinazione prevista dall articolo 2094 del codice
+civile. In questo caso si tratta di comprendere se le nuove tipologie, che
+introducono caratteri spesso dissonanti con il modello di rapporto di
+lavoro delineato dalla norma del codice civile, siano tali da imporre
+4 VALERIO SPEZIALE
+diverse nozioni di subordinazione o se l articolo 2094 sia ancora in grado
+di svolgere una funzione di identificazione del "tipo" lavoro subordinato.
+L ultimo paragrafo è diretto ad analizzare il dibattito sulle proposte
+di riforma che in vario modo tendono a superare l attuale situazione, per
+introdurre nuove definizioni del contratto di lavoro subordinato (capaci,
+nelle intenzioni dei loro autori, di cogliere le nuove forme in cui si esprime
+l attività lavorativa) o per prevedere una vera e propria "graduazione
+delle tutele", che si muovono dal lavoro autonomo, a quello coordinato
+(od in "dipendenza economica"), sino alla subordinazione vera e propria.
+In tale ambito esprimo la mia preferenza per un ipotesi di riforma meno
+ambiziosa e che, pur partendo dallabrogazione del lavoro a progetto,
+introduca una specifica disciplina delle forme di lavoro che si collocano
+nella "zona grigia" tra subordinazione ed autonomia, senza necessità di
+modifiche più radicali dellintero sistema del diritto del lavoro.
+La complessità delle questioni affrontate che, oltre ai profili giuridici,
+coinvolge anche temi economici, non mi ha forse consentito di
+approfondire tutte le problematiche coinvolte. L obiettivo, peraltro, è
+quello di fornire spunti di discussione, cercando di spostare l attenzione
+su alcuni aspetti che non sempre sono stati sufficientemente analizzati.
+2. Larticolazione della fattispecie contrattuale nel
+diritto civile: contratto tipico, contratto atipico,
+sottotipo contrattuale
+una gamma di contratti di lavoro subordinato molto ampia, forse - come
+si dirà nel prosieguo - addirittura sovrabbondante rispetto alle effettive
+esigenze del mercato del lavoro. Locuzioni quali contratti (o rapporti) di
+lavoro speciali, atipici o flessibili sono ormai di utilizzo comune sia
+nel linguaggio tecnico giuridico, sia, in qualche misura, nel linguaggio
+extragiuridico. Per esaminare più approfonditamente queste categorie di
+contratti e rapporti di lavoro e tentare di condurre una loro analisi in
+termini unitari, occorre anzitutto, nel rispetto dellispirazione complessiva
+del presente lavoro, effettuare una sintetica ricognizione dellelaborazione
+in tema di articolazione della fattispecie contrattuale nel diritto civile.
+Il codice civile del 1942 distingue infatti una disciplina dei contratti
+in generale (titolo II del libro IV) dalla disciplina dei singoli contratti
+(titolo III del libro IV). Nel classificare i contratti in funzione di
+definizione della disciplina applicabile, il legislatore del codice, come
+conferma anche la relativa Relazione del Re al Guardasigilli, si serve della
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 5
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+nozione di tipo contrattuale1. Si tratta di una definizione problematica,
+che presenta molteplici profili ancora oggetto di discussione: ai nostri fini
+è sufficiente ricordare brevemente che è patrimonio ormai condiviso
+laffermazione secondo cui, in via ordinaria, le fattispecie contrattuali
+originano dalla prassi del diritto degli affari e dei commerci e, dopo una
+successiva elaborazione ed affinamento, anche ad opera della
+giurisprudenza (c.d. tipicità giurisprudenziale), il tipo, ormai radicato nel
+tessuto economico (c.d. tipicità sociale), viene individuato sul piano del
+tessuto normativo
+contratto tipico o nominato, che altro non è se non un astratto schema
+regolamentare che racchiude in sé la rappresentazione di una operazione
+economica ricorrente nella pratica commerciale3.
+Viene in rilievo, a questo punto, la libertà che il codice civile,
+precisamente lart. 1322, riconosce alle parti di determinare il contenuto
+del contratto nei limiti imposti dalla legge e di concludere contratti che
+non appartengano ai tipi aventi una disciplina particolare, purché siano
+diretti a realizzare interessi meritevoli di tutela secondo lordinamento
+giuridico.
+concludere contratti atipici e quella tra contratti tipici e atipici
+costituisce in effetti la partizione fondamentale dei contratti4. Qui il
+problema attiene ai limiti entro cui le parti possono porre in essere
+contratti atipici e, quindi, al relativo controllo operato dal giudice. Al
+riguardo, per alcune categorie di contratti, il legislatore proibisce ai privati
+di porre in essere contratti atipici, per ragioni varie. In questo senso il
+tipo (inteso come schema legale) [] assume un ruolo ben preciso, in
+quanto è collegato con il controllo giudiziale degli interessi meritevoli di
+tutela: controllo che sarà più penetrante di fronte ad un contratto atipico,
+e meno rilevante di fronte ad un contratto rientrante nel tipo legale, come
+tale già approvato dallordinamento nel momento in cui esso ha fatto
+ingresso nel codice civile o nella legislazione speciale5.
+Ma la giurisprudenza non si limita a controllare la meritevolezza
+dellinteresse che il contratto atipico sia rivolto a soddisfare. Essa infatti
+1 Gabrielli 1999, 1, evidenzia come si tratti di una nozione che, unitamente a quella di
+tipicità, è menzionata nella Relazione del Guardasigilli al Re sul codice civile ed è utilizzata
+con frequenza nel tessuto normativo del codice [] sia quando ne opera un impiego
+diretto, mediante lesplicazione del termine; sia quando si riferisce a nozioni (quali quella di
+«natura del contratto», art. 1369 c.c.) che ne rappresentano sinonimi; sia quando si serve
+della classificazione dei contratti in funzione di definizione della disciplina applicabile.
+2 Ibidem .
+5 Alpa 1999, 519.
+finisce con il ricondurre sempre e comunque i contratti che sorgono nella
+prassi degli affari a tipi legali, e ciò ad un duplice fine: controllare
+loperazione economica, ossia la meritevolezza dellinteresse che le parti
+vogliono perseguire, e completare la disciplina del contratto che le parti
+abbiano lasciato lacunoso6.
+diritto civile si intendono quelli che non hanno una disciplina legislativa
+specifica (o, secondo una concezione più ampia, non sono neppure
+oggetto di tipicità sociale)7.
+sintesi, nellimpostazione tradizionale la distinzione dei contratti per tipi
+viene fondata sullelemento della causa, intesa, secondo linsegnamento
+di Betti, come funzione economico-sociale8. A questa prospettiva, che
+fonda su un unico parametro lindividuazione dei differenti tipi
+contrattuali, si è contrapposto in tempi più recenti il richiamo da parte di
+una certa dottrina al metodo c.d. tipologico, che fonda la distinzione tra i
+tipi sulla base di una molteplicità di criteri, quali, esemplificativamente, il
+modo di perfezionarsi del contratto, la natura del bene che ne è oggetto,
+il fattore tempo, il suo contenuto, la qualità delle parti9.
+Una ulteriore variante del metodo tipologico classico è quella
+cosiddetta funzionale, in base alla quale il tipo non viene identificato
+soltanto in correlazione alla presenza o assenza di alcuni elementi
+qualificanti o al grado più o meno accentuato di identità tra essi esistente,
+ma in rapporto al fatto che essi, anche se diversi, risultino non coordinati
+tra loro in modo da svolgere la medesima funzione e si pongano, dunque,
+in relazione di "equivalenza"10.
+sullarticolazione allinterno del tipo contrattuale e, quindi, sulla
+definizione di sottotipo. Sennonché la nozione di sottotipo pur rivestendo
+6 Alpa 1999, 520. Come messo in luce nella nota elaborazione di Sacco 1966, la
+giurisprudenza italiana tende, attraverso una molteplicità di tecniche, a ricondurre qualsiasi
+contratto nellambito delle discipline previste per i contratti tipici.
+7 Ferri 1966, 241.
+8 È la tradizionale teoria di Betti: su di essa, e sul dibattito ricco di posizioni diverse intorno
+alla nozione di causa, cfr. Alpa 1999, 491-492. Peraltro, da tempo si oppone a quella
+posizione tradizionale una diversa opinione che rileva come proprio lart. 1322 non instauri
+una necessaria simmetria tra interesse realizzabile mediante il contratto e contratti tipici,
+giacché la norma consente alle parti di introdurre nello schema tipico la realizzazione di
+interessi nuovi e diversi, così attribuendogli una funzione innovativa, oppure di creare tipi
+radicalmente nuovi. Secondo questa impostazione, la causa sarebbe quindi la funzione
+economico-individuale del contratto in quanto riguarda una operazione che esprime
+esigenze ed interessi di uno o più individui (Ferri 1966, 256).
+9 De Nova 1974, 111.
+10 Beduschi 1986, 358 ss. (in particolare 359).
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 7
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+un ruolo di primario rilievo nella teoria generale del contratto, risulta
+tuttavia scarsamente elaborata in dottrina11. Anzi, a ben vedere, i
+(pochi) studi più approfonditi su questo tema sono stati compiuti proprio
+in relazione al contratto di lavoro subordinato.
+Il tentativo di individuare il sottotipo è stato effettuato prendendo
+spunto da unautorevole interpretazione, secondo la quale i singoli tipi
+giuridici corrispondono a fattispecie e situazioni generiche, secondo una
+classificazione degli atti quale risulta dallesperienza; i singoli tipi si
+prestano poi ad una progressiva specificazione mediante laggiunta ai
+requisiti ed agli effetti tipici di requisiti ed effetti extratipici [e]
+aggiungendo ai requisiti e agli effetti tipici requisiti ed effetti extratipici si
+formano sottotipi di situazioni o di fatti12. Il riferimento ai requisiti
+extratipici è stato ritenuto idoneo in considerazione della necessità di
+ricomprendere tutte le ipotesi prospettabili. Esso, quindi, vale a rendere
+adeguatamente il concetto che si ha sottotipo solo quando vi sia una
+caratterizzazione determinata dallintroduzione di un elemento non
+contemplato come essenziale nello schema del contratto13.
+Così impostato il discorso, si richiede ovviamente che il tipo
+contrattuale abbia un grado di elasticità maggiore di quello del
+sottotipo14, di modo che il primo debba essere in grado di contenere il
+secondo15. In altri termini, nel sottotipo permangono aspetti essenziali
+del tipo, integrati da altri elementi che la legge considera e disciplina
+nella configurazione di un siffatto negozio. Che corrisponde allora, ad
+essere più precisi, pur sempre ad un tipo, ma come dire di rango
+subordinato (e dunque, per la parte non contemplata, sottoposto alla
+stessa disciplina del tipo principale)16. Lo schema del sottotipo, quindi,
+deve presentare tutti gli elementi indispensabili per configurare il tipo con
+laggiunta di qualche elemento caratterizzante ulteriore.
+Quando si tratti di qualificare una fattispecie concreta, occorre
+distinguere le mere variazioni dello schema legale dalle vere e proprie
+alterazioni: quando le modificazioni dello schema tipico, infatti, non
+assumano unentità tale da produrre una vera e propria alterazione
+causale dellatto di autonomia, esse saranno compatibili con loriginario
+schema tipico e non determineranno, di conseguenza, una deroga alla
+11 Gabrielli 1999, 10.
+14 Gabrielli 1999, 10.
+secondo.
+sua disciplina17. Daltro canto, vi è anche un limite superiore, oltre il
+quale lalterazione dello schema tipico conduce ad un suo superamento:
+questo limite si evince con riferimento al significato delloperazione
+economica espressa dal contratto tipico18. Le alterazioni saranno
+compatibili col tipo fintanto che gli interessi ulteriori perseguiti dalle parti
+abbiano carattere di complementarietà rispetto allinteresse principale.
+3. Il problema dei contratti di lavoro c.d. speciali
+nellimpostazione tradizionale
+speciali, flessibili e atipici assumono significati peculiari nel diritto del
+lavoro.
+nellimpresa, nel titolo III il lavoro autonomo e nel titolo IV il lavoro
+subordinato in particolari rapporti. Il titolo IV si compone di due capi: il
+capo II contiene la disciplina del lavoro domestico; il capo I è composto
+da una sola disposizione, lart. 2239, secondo la quale i rapporti di lavoro
+subordinato che non sono inerenti allesercizio di unimpresa sono
+regolati dalle disposizioni del titolo I relativo al lavoro subordinato
+nellimpresa, in quanto compatibili con la specialità del rapporto. Con
+tecnica analoga altre norme sanciscono lapplicabilità della disciplina del
+lavoro subordinato nellimpresa rispettivamente al tirocinio (art. 2134) e
+al lavoro a domicilio (art. 2128), facendo sempre salvo il limite della
+compatibilità con la specialità del rapporto.
+Il codice civile, quindi, stigmatizza lesistenza di un modello
+generale, il rapporto di lavoro subordinato nellimpresa: per espressa
+disposizione del codice civile, a tale modello occorre fare riferimento per
+la disciplina dei rapporti di lavoro speciali, nel rispetto del limite della
+compatibilità.
+2239, la categoria dei contratti di lavoro speciali, includendovi tutti quei
+rapporti che, per vari motivi, si caratterizzino per avere degli elementi
+strutturali ritenuti idonei per differenziarli dal «normale» rapporto di
+lavoro, e si è aggiunto che essi avrebbero caratteristiche sufficienti a
+considerarli speciali ma tuttavia non tali da alterare radicalmente gli
+elementi essenziali riconoscibili di ogni rapporto di lavoro subordinato19.
+In base a questa impostazione, quella dottrina individuava tre gruppi di
+contratti speciali: nel primo gruppo di contratti, ritenuti speciali in
+17 Gabrielli 1999, 11.
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 9
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+relazione alloggetto della prestazione, venivano compresi il rapporto di
+apprendistato, il rapporto di formazione e lavoro e il rapporto di lavoro in
+prova. Al secondo gruppo di contratti, nei quali la specialità veniva
+individuata nella particolare posizione del lavoratore, erano ricondotti il
+lavoro domestico, il rapporto di portierato, il rapporto di lavoro artistico e
+il rapporto di lavoro sportivo. Infine, al terzo gruppo di rapporti di lavoro
+speciali, a causa della disciplina almeno in parte di fonte pubblicistica,
+appartenevano il rapporto di arruolamento marittimo ed aeronautico, il
+rapporto di lavoro portuale, il rapporto di lavoro degli autoferrotranviari e
+internavigatori e quello degli esattoriali.
+Secondo una ulteriore impostazione20, occorrerebbe distinguere i
+rapporti di lavoro in base alla natura del soggetto che utilizza la
+prestazione lavorativa. In questo senso si individuano tre tipologie di
+contratti di lavoro: quelli propri dellimpresa, ossia a ben vedere la
+maggior parte dei rapporti di lavoro qualificati come speciali dalla dottrina
+più risalente. Quelli che prescindono dalla ricorrenza di unimpresa, quali
+il rapporto di lavoro nautico e aeronautico, il rapporto degli esattoriali e
+quello degli sportivi, poiché in tutte queste ipotesi il datore di lavoro non
+deve necessariamente essere titolare di unimpresa. Infine i rapporti di
+lavoro domestico e il portierato andrebbero a costituire la categoria dei
+rapporti di lavoro che non sono inerenti allesercizio di unimpresa.
+3.1. Le critiche alla teoria tradizionale: limpostazione che
+distingue tra tipo e sottotipi
+Il primo tentativo di analisi che ha fortemente messo in dubbio la
+classificazione tradizionale, ritenuta fonte di incertezze21, è stato quello
+operato da Cataudella. Secondo questo autore, individuare i contratti
+speciali in base all esistenza di una disciplina particolare rende incerti i
+confini della categoria22. Partendo dalla intuizione di Carnelutti (si veda il
+§ 2), si tenta di dare alla materia una sistemazione più adeguata, in
+termini di rapporti tra tipo e sottotipo contrattuale. In questo senso, si
+avrà sottotipo ogni qual volta ci si troverà di fronte ad una qualificazione
+o specificazione di qualcuno dei requisiti propri del tipo, ovvero anche
+allintroduzione di requisiti diversi.
+20 Scognamiglio 1988.
+del lavoro giornalistico: cfr. Cataudella 1998, 140 nota 3.
+22 Infatti, tenere conto della specialità della disciplina, in un campo come il diritto del lavoro,
+particolarmente vasto e articolato a causa della necessità di considerare differenti situazioni,
+costringe a far capo a criteri quantitativi la cui attendibilità è inficiata dallelevato grado di
+arbitrarietà che ne caratterizza la adozione (Cataudella 1998, 141).
+10 VALERIO SPEZIALE
+Cataudella si muove nell ottica tradizionale, secondo la quale è la
+causa - intesa come funzione economico sociale - che identifica il tipo Nel
+contratto previsto dall art. 2094 c.c. è la subordinazione l elemento
+tipizzante, anche se questo concetto non va inteso in maniera univoca,
+ma va considerato con "graduazioni intermedie". Ad ogni modo, per poter
+configurare un sottotipo, si dovrà accertare lesistenza dellelemento
+della subordinazione nonché di note ulteriori che valgano a caratterizzarlo
+rispetto allo schema generale, con una avvertenza importante poiché nel
+caso del contratto di lavoro subordinato non vi è corrispondenza tra
+fattispecie contemplata ai fini dellapplicazione della c.d. disciplina
+generale e schema del tipo23. La sistematica del codice, ed in particolare
+l esame degli articoli 2128 e 2239, dimostra che il tipo lavoro subordinato
+ha una portata più ampia di quello realizzato nell impresa24. In altri
+termini, il lavoro subordinato di cui allart. 2094 c.c. costituirebbe un
+sottotipo caratterizzato dallinserimento del lavoratore nellorganizzazione
+interna dellimprenditore. Esso, però, rappresenta il tipo sociologicamente
+più importante cui si è ispirato il legislatore nel disciplinare il rapporto di
+lavoro e perciò si colloca, come tipo sociale normativo, in posizione di
+maggior rilievo che non gli altri sottotipi rispetto al tipo formale o
+legale25.
+lapprendistato ed il contratto di formazione e lavoro potrebbero essere
+qualificati come sottotipi del contratto di lavoro subordinato, e dunque
+speciali, in quanto connotati da un ulteriore elemento caratterizzante
+(laddestramento)26. Gli altri contratti definiti speciali dalla dottrina
+tradizionale, invece, non presenterebbero modificazioni della causa tipica.
+3.2. Le critiche alla teoria tradizionale: il dibattito
+sullindividuazione di un prototipo normativo
+23 Cataudella 1998, 145.
+subordinata di attività lavorativa contro corrispettivo ed è, pertanto, più ampio di quello che
+sarebbe dato dedurre dalla formulazione dellart. 2094 []. La dichiarata applicabilità delle
+norme dettate per il lavoro allinterno dellimpresa anche al lavoro non prestato allinterno
+dellimpresa (art. 2128) ed a quello non inerente allimpresa (art. 2239) conferma che la
+prestazione dellattività lavorativa per limpresa e nellimpresa non caratterizza il tipo
+(Cataudella 1998, 146). Aderiscono sostanzialmente a questa impostazione anche Loy 1989
+(sul quale vedi infra nel testo) e Grandi 1989, 80.
+25 Cataudella 1998, 147.
+fattispecie nello schema del contratto di lavoro subordinato. La presenza dellobbligo di
+addestramento adduce, peraltro, un elemento caratterizzante rispetto allo schema generale
+e rende il tirocinio normativamente qualificato come rapporto speciale, come sottotipo
+(Cataudella 1998, 148).
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+La seconda critica alla impostazione tradizionale rileva che essa,
+elevando a rapporti speciali di lavoro tutti quelli la cui disciplina si
+discosta o diverge da quella del prototipo in ragione di qualche peculiarità
+del rispettivo referente empirico, finisce con il fornire una nozione di
+specialità che soffre di uneccedenza di significati ed è destinata a
+restare più descrittiva che definitoria e non utilizzabile né come
+categoria concettuale né come strumento operativo27.
+Peraltro, se non è sufficiente una peculiarità di disciplina, neppure
+sembra soddisfacente il riferimento a quelle sole particolarità di
+regolazione che alterino lo schema causale, come sostenuto da
+Cataudella. Piuttosto, può dirsi che un rapporto di lavoro è speciale
+allorché la sua disciplina risulti difforme dal prototipo rispetto a quelli che,
+in base allesperienza giuridica, sono gli elementi essenziali del
+medesimo28. Ne deriverebbe che il predicato della specialità inerisce ai
+soli rapporti di lavoro che presentano un tasso di disapplicazione delle
+norme corrispondenti agli elementi essenziali del prototipo tanto elevato
+da dare vita ad una distinta e relativamente autonoma disciplina, rispetto
+alla quale la disciplina del prototipo ha carattere residuale in quanto si
+applica purché compatibile e/o non derogata
+29. In
+comprenderebbe anche il lavoro dirigenziale e quello a termine30.
+A questultima impostazione è stato rimproverato di allargare la
+categoria dei rapporti di lavoro speciali fino a farle perdere unità
+concettuale31. Tra laltro, vi sarebbero errori anche in relazione al
+rapporto tra disciplina generale e speciale in determinati contratti32.
+27 Tutte le citazioni da Ghezzi, Romagnoli 1987, 36.
+28 Ghezzi, Romagnoli 1987, 38. Tali elementi sono i seguenti: lavoratore adulto, retribuito
+per eseguire la prestazione a cui è contrattualmente obbligato, in condizioni che lo rendono
+un produttore deresponsabilizzato, alle dipendenze del medesimo datore di lavoro, almeno
+potenzialmente, per tutta la vita, allinterno di una impresa terrestre di dimensioni mediograndi,
+legittimata ad operare economicamente solo in base allart. 41, c. 1, Cost., senza
+ulteriori additivi legali.
+di figure esponenziali di maggior spicco, tra cui, oltre ai rapporti già individuati dalla teoria
+tradizionale e quelli indicati nel testo, anche il lavoro nelle organizzazioni di tendenza e
+quello nellimpresa minore.
+tutela in varia misura inferiore allo standard (Mengoni 1986, 12).
+32 Al lavoro dirigenziale e al lavoro nellimpresa minore, la disciplina-standard è applicabile
+non nei limiti della compatibilità (valutata del giudice) con la specialità del rapporto, bensì
+nei limiti tassativamente indicati dalla legge mediante disposizione formale di inapplicabilità
+di certe norme []. La fattispecie del rapporto a tempo determinato è speciale non per
+difetto di un elemento del prototipo normativo, caratterizzato dalla legge n. 230 come
+12 VALERIO SPEZIALE
+Lerrore di fondo, peraltro, consisterebbe nel tentativo, destinato al
+fallimento, di ridefinire lo standard di trattamento della subordinazione in
+corrispondenza ai più elevati livelli di tutela introdotti dalla legislazione
+speciale, operando una sorta di sostituzione del contenuto
+nellintenzione del legislatore del 194233. Infatti, sarebbe solo la
+normativa collegata allart. 2094 c.c., come integrata o modificata da
+leggi successive aventi il medesimo campo di applicazione, a
+rappresentare lo standard di trattamento della subordinazione, che, dopo
+la legislazione prodotta successivamente al codice, non rappresenta più il
+livello massimo di intervento protettivo ma solo un livello intermedio. Poi
+vi sono i rapporti speciali (dove la disciplina generale è applicabile solo
+nei limiti della compatibilità), mentre vi sono altri contratti, dotati di
+tutela più intensa, che non possono dirsi speciali nel senso del codice
+civile, ma sono riconducibili allart. 2094 e il plus di protezione di cui
+godono dipende da variabili (natura delle mansioni o dimensione
+dellorganizzazione di lavoro in cui il prestatore è inserito) sfornite di
+rilevanza tipizzante34.
+discipline applicabili non può assurgere a schema classificatorio con
+solide basi [] soprattutto perché non è facilmente definibile la rilevanza
+o la quantità della deviazione del tipo
+35. In
+individuare un prototipo normativo pecca laddove va riconosciuto che il
+suo identikit è opinabile. Offrirebbe invece maggiori garanzie la teoria dei
+sottotipi. Ladesione a questa impostazione comporta che sia individuato
+un tipo capace di contenere la disciplina generale che si applica a tutti i
+sottotipi, senza eccezione, e che costituirebbe una fattispecie minima
+unitaria del lavoro subordinato36. Inoltre, lesistenza di corpi di disciplina
+speciale non comporta necessariamente lesistenza di rapporti speciali o
+sottotipi, ma si colloca su un piano diverso. Non di rapporti speciali deve
+parlarsi bensì di discipline speciali 37. La differenza sarebbe notevole: le
+discipline dei rapporti speciali, in quanto determinano una deviazione
+funzionale, non possono essere applicate al di fuori del sottotipo; le
+discipline speciali, invece, in quanto non sono determinate da
+rapporto a tempo indeterminato, ma per aggiunzione dellelemento del termine. In breve, il
+contratto a termine è speciale nel senso che è un sottotipo (Mengoni 1986, 13).
+33 Ibidem .
+disciplina comune applicabile a tutti i sottotipi, per altro verso è anche il «contenitore»
+massimo possibile di tutta lampia gamma di disciplina prevista per i diversi sottotipi (Loy
+1989, 61).
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 13
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+unalterazione funzionale, ma solo dalla sussistenza di una mera
+particolarità della fattispecie (letà, la durata, il luogo, ecc.), sono
+tendenzialmente destinate ad operare dovunque e quando si verifica la
+particolarità, anche travalicando le barriere dei sottotipi38.
+3.3. Il dibattito sulla possibilità di individuare una fattispecie
+minima unitaria di lavoro subordinato
+Una ulteriore critica accomuna la teoria tradizionale, che distingue
+tra rapporto di lavoro normale e rapporti di lavoro speciali, a quella che
+utilizza le categorie generali del tipo e del sottotipo, ritenendo che
+entrambe si basino su presupposti fortemente discutibili e pertanto con
+forti dosi di arbitrarietà39. Piuttosto, per evitare di introdurre dati
+aprioristici, occorrerebbe riconoscere che si è in presenza di
+unarticolazione tipologica soltanto quando esiste nellordinamento un
+nucleo di disciplina specifica richiamabile in via esclusiva per un
+determinato rapporto di lavoro40.
+In questo senso si sostiene che la tipologia può essere determinata
+sul piano degli effetti, ossia della regolamentazione giuridica applicabile, e
+su questa base si possono individuare due grandi raggruppamenti. Il
+primo è basato sulla natura del datore di lavoro talvolta in combinazione
+con la natura della prestazione lavorativa. Caratteristica fondamentale di
+questo gruppo sarebbe lesclusività della regolamentazione, giustificata
+dalla peculiarità dellelemento preso in considerazione dallordinamento
+per dettare quella specifica disciplina. Il secondo gruppo si basa su
+modelli non esclusivi ma alternativi di regolazione del rapporto,
+differenziati tra loro non per la peculiarità del datore di lavoro ma per
+soddisfare bisogni di flessibilità nelluso del fattore lavoro o venire
+incontro a specifiche esigenze di questo41.
+Lesame del primo gruppo di contratti condurrebbe alla conclusione
+per cui nellordinamento sussiste una pluralità di modelli di regolazione
+del rapporto di lavoro, che non possono essere considerati "speciali" in
+base alla categoria concettuale del codice civile, in quanto non sono
+soggetti ad un giudizio di compatibilità. In queste ipotesi la disciplina
+particolare non è preclusiva della normativa dettata a prescindere dalla
+38 Loy 1989, 61.
+questi casi linterprete. è autorizzato dallordinamento stesso a prendere atto
+dellesistenza di una pluralità di rapporti di lavoro tutte le volte in cui lordinamento
+differenzia in misura più o meno accentuata un determinato rapporto di lavoro rispetto agli
+altri (Napoli 1996, 5).
+configurazione del datore di lavoro42. Quindi, linterprete dovrebbe
+convincersi che il rapporto di lavoro ha una caratteristica che non è
+possibile rinvenire in altri contratti, poiché esso può generare rapporti
+retti da discipline differenziate che non mettono in discussione lunitarietà
+del tipo, mentre negli altri rapporti di scambio contratto nominato e
+disciplina tipica (cioè legalmente posta) sono due profili di uno stesso
+fenomeno43.
+contratti: tutti i rapporti di lavoro regolati su determinati punti di
+disciplina esclusiva rinviano necessariamente, proprio perché non tutti gli
+aspetti sono regolati, ad una regolamentazione dettata a prescindere
+dalle singole specificazioni44. La frammentazione regolativa, in ultima
+istanza, più che mettere capo alla configurazione di più tipi legali,
+sarebbe una condizione strutturale del diritto del lavoro, non rinvenibile
+in altri contratti e non in grado di scalfire lunitarietà della fattispecie
+costitutiva dei singoli rapporti, ossia il contratto di lavoro subordinato.
+In definitiva, la proposta di Mario Napoli è di leggere lart. 2094 c.c.
+in chiave unitaria. Dalla disciplina vigente è desumibile uno schema
+elementare di contratto di lavoro subordinato45. Questo schema
+prescinde da un contenuto di regolazione unitaria (salvi gli effetti
+necessari sul piano previdenziale, fiscale, processuale, e del
+riconoscimento dei diritti collettivi elementari, libertà sindacale e diritto di
+sciopero), poiché esso si incarna necessariamente in modelli di
+regolazione variabili in funzione di elementi ulteriori che di volta in volta
+vengono in considerazione46.
+una nozione unitaria del lavoro subordinato.
+Questi tentativi incontrano la critica di chi ritiene che pur non
+essendo possibile elaborare una nozione del lavoro subordinato unitaria,
+suscettibile di assurgere al ruolo di tipo legale onnicomprensivo, è però
+possibile configurare quella nozione come un insieme articolato di tipi
+legali distinti e individuare i diversi criteri di qualificazione di volta in volta
+applicabili
+42 In nessun caso esaminato, nemmeno nel contratto di arruolamento o nel lavoro sportivo,
+è applicabile soltanto la disciplina esclusiva (Napoli 1996, 16).
+43 Ibidem .
+e continuativamente (durevolmente) unattività professionale (a esplicare la propria attività
+professionale in relazione alle mansioni convenute) nellorganizzazione predisposta e diretta
+dal datore di lavoro (Napoli 1996, 62).
+46 Ibidem .
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+contrattuali  come il lavoro a domicilio, il lavoro sportivo e il lavoro
+domestico  in grado di assurgere a tipi contrattuali, e ciò in quanto essi
+non potrebbero essere ricondotti né alla grande area del lavoro autonomo
+né a quella del lavoro subordinato48. Le prospettive unitarie
+sconterebbero un prezzo inaccettabile, quello di obliterare
+lassoggettamento pieno al potere direttivo del creditore. Pertanto,
+venuto meno lelemento essenziale della eterodirezione, la figura
+generale del lavoro subordinato dovrebbe reggersi su due soli elementi,
+la dipendenza e linserimento, che però sono compatibili anche con il
+carattere autonomo della prestazione lavorativa. Non sfuggirebbe a
+questo esito inaccettabile neppure la tesi di Mario Napoli: la lettura data
+da questo autore, infatti, richiederebbe per la configurazione del lavoro
+subordinato non lassoggettamento al potere direttivo della prestazione
+lavorativa, ma lassoggettamento al potere dellorganizzazione aziendale
+e si espone, pertanto, alle considerazioni critiche già espresse49.
+Se dunque non è possibile individuare una nozione unitaria e
+generale rispetto alla quale il lavoro subordinato nellimpresa di cui allart.
+2094 c.c. si atteggerebbe come sottotipo, sorge il dubbio se sia ancora
+opportuno ricomprendere in una categoria generale intitolata al «lavoro
+subordinato» i rapporti di lavoro nei quali viene meno lelemento
+essenziale dellassoggettamento della prestazione al potere direttivo del
+creditore oppure se non sia più logico disattendere il nomen attribuito a
+questi rapporti dal legislatore [] per ricomprenderli nella vasta e
+accogliente categoria del lavoro parasubordinato  o meglio nella ancor
+più vasta categoria del lavoro a carattere personale e continuativo  salvo
+applicare a ciascuno di essi la disciplina speciale che la legge per esso
+detta50.
+subordinazione ed evitare l applicazione indiscriminata di tutti trattamenti
+economici normativi a qualsiasi modello di lavoro subordinato, individua
+una "fattispecie generale", distinta da quelle "discrete" costituite dalle
+singole ipotesi previste dal codice e dalle leggi speciali (lavoro
+nell impresa, tirocinio, lavoro a domicilio ecc.) e che, basate su diverse
+48 () in nessuno dei tratti distintivi delluna o dellaltra fattispecie astratta può individuarsi
+un elemento o insieme di elementi universalmente necessari e sufficienti per la
+qualificazione della prestazione come autonoma o subordinata (Ichino 2000, 320).
+49 Così facendo, infatti, si torna sostanzialmente alla nozione di «dipendenza» o a quella di
+«inserimento», che sappiamo essere in realtà compatibili con il carattere autonomo della
+prestazione (Ichino 2000, 321, nota 120).
+50 Ichino 2000, 322-323.
+nozioni di subordinazione, devono essere prese in considerazione per
+l applicazione selettiva delle tutele51.
+4. Contratti di lavoro c.d. atipici e flessibili
+La nozione di atipicità diffusa nel diritto del lavoro non coincide
+con quella propria del diritto civile. È unanimemente riconosciuta la
+valenza del tutto descrittiva del termine atipico quando riferito a
+contratti di lavoro52: questi, infatti, sono previsti e disciplinati
+puntualmente dalla legge, quindi sono tipici nel senso che al termine si
+attribuisce nel diritto civile generale.
+Anzi, non è mancato chi ha fatto rilevare che luso di concetti come
+tipo e sottotipo (e metodo tipologico), o anche rapporto speciale o
+contratto a causa mista rischia di apparire così poco controllato, da
+risultare molto spesso fuorviante, poiché il fenomeno della tipizzazione
+del contratto di lavoro subordinato segue andamenti esattamente inversi
+rispetto a quelli che si registrano nel diritto dei contratti, dove il tipo
+contrattuale non è altro che un modello di disciplina [] che guida le parti
+al conseguimento delleffetto giuridico voluto e consente allinterprete di
+integrare il programma negoziale laddove è carente, richiamando gli
+effetti naturali dello schema regolato al quale il contratto venga
+ricondotto.
+passo con lo sviluppo storico del diritto del lavoro come ordinamento
+protettivo e non riflette la stabilizzazione di regolarità e prassi degli affari,
+ma i modelli dellintervento eteronomo sul contratto, ordinato alla tutela
+del lavoratore53. Si propone, quindi, di adottare la formula linguistica di
+tipo imposto per designare lintervento dirigistico sul contratto attuato
+attraverso limputazione di effetti inderogabili e la sostituzione legale
+delle clausole difformi
+utilizzata dal codice civile. Nel diritto del lavoro, il legislatore avrebbe
+adottato la variante forte dellintervento imperativo che comporta più
+radicalmente la preclusione di schemi negoziali alternativi per realizzare il
+medesimo risultato a condizioni diverse da quelle stabilite legalmente
+( tipo esclusivo )
+disciplina riferibili ai vari rapporti sono per definizione necessari  e inoltre
+normalmente esclusivi 56.
+52 Cfr. Ghera 2006a, 320.
+53 DAntona 1990, 533-534 (corsivo dellautore).
+54 DAntona 1990, 534.
+55 Ibidem.
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 17
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+Altri hanno meglio precisato che, a ragionare nei termini astratti di
+una ipotetica disponibilità del tipo contrattuale si dimentica la necessaria
+interferenza fra libertà di determinazione del tipo e libertà di
+determinazione del contenuto del contratto57. A questo punto il problema
+diventa però quello classico del rapporto fra autonomia privata ed effetti
+del contratto. In generale, si deve ricordare che gli effetti del contratto
+sono riconnessi alla fattispecie dallordinamento e che dunque lo sono a
+più convinta ragione nel contesto di un rapporto scandito dalla
+sostituzione automatica delle clausole al di sotto degli standards con la
+disciplina inderogabile
+tipo contrattuale nel senso che le parti incontrano limiti penetranti nella
+determinazione del contenuto del contratto, mentre la determinazione
+del tipo si colloca viceversa in un momento logico successivo ed è il
+risultato della combinazione o composizione non tanto fra ciò che le parti
+hanno voluto, quanto fra ciò che le parti hanno potuto volere 59.
+In definitiva, la locuzione contratti atipici di lavoro non può essere
+intesa alla luce dellelaborazione degli studiosi del diritto civile. In effetti,
+del resto, nel diritto del lavoro la locuzione in discorso è proveniente dal
+linguaggio internazionale, dove il suo utilizzo è legato al fenomeno del
+superamento del modello tipico del lavoro a favore della diffusione di
+forme di attività diverse da quella standard (per disciplina o variazioni del
+tipo)60. Quindi, con il termine si individuano non soltanto le variazioni
+interne allarea del lavoro subordinato, ma anche quelle che si collocano
+allesterno di essa, lungo il confine che la separa dallarea del lavoro
+autonomo, e addirittura anche le forme di lavoro irregolari e clandestine.
+Un significato diverso andrebbe riconosciuto alla locuzione rapporti
+flessibili, con la quale, in generale, si fa riferimento al fenomeno
+dellattenuazione delle rigidità (o supposte tali) del «codice protettivo»
+messo a garanzia del lavoro subordinato nella sua formula tipica (art.
+2094 c.c.)61. E si tratta di unarea molto ampia e suscettibile di variare i
+suoi confini in relazione alla sensibilità ed allorientamento dellinterprete.
+5. Levoluzione più recente della disciplina legislativa
+57 Labilitazione alla scelta del tipo presuppone una tendenziale libertà di determinazione
+del contenuto ovvero, ancor meglio, una sostanziale disponibilità degli effetti scaturenti da
+un dato assetto di interessi contenuti in un regolamento contrattuale (Mazzotta 1991, 495-
+496).
+È sufficiente scorrere la manualistica del diritto del lavoro per
+rendersi conto della mancanza, ancora oggi, di ununiformità di opinione
+sul tema dellarticolazione della fattispecie lavoro subordinato e, in
+particolare, sulla configurabilità e sulla determinazione di confini certi di
+alcune categorie di rapporti di lavoro, quali i rapporti c.d. speciali e i
+rapporti c.d. atipici o flessibili.
+Secondo unimpostazione - forse più vicina a quella tradizionale -
+accanto al modello normativo o tipo contrattuale fondamentale del
+rapporto di lavoro subordinato il legislatore ha previsto rapporti speciali,
+alcuni dei quali configurati come veri e propri sottotipi del contratto di
+lavoro62. La ragione ultima di questa articolazione sarebbe da rinvenire
+nel fatto che lobiettivo della protezione del lavoratore, quale contraente
+debole e quale appartenente ad una categoria sociale sottoprotetta,
+richiede modelli di tutela differenziati in coerenza con gli interessi
+soddisfatti nel contratto ed in considerazione di altri elementi63.
+Ladattamento del modello di tutela spinge il legislatore ad introdurre
+discipline speciali. La specialità, peraltro, oltre che da ragioni di
+protezione del lavoratore, può essere motivata da finalità diverse, come
+quella di favorire la formazione professionale del lavoratore,
+contemperare lesigenza di tutela con altri interessi pubblici o collettivi
+ritenuti di particolare rilievo o perseguire lobiettivo di promuovere nuova
+occupazione attraverso rapporti di lavoro c.d flessibili (o anche c.d.
+atipici), spesso caratterizzati da unattenuazione delle tutele64.
+In sostanza, in questa prospettiva lanalisi dellarticolazione della
+disciplina viene condotta distinguendo due grandi aggregati, quello dei
+rapporti speciali e quello dei rapporti di lavoro c.d. atipici o flessibili. Il
+primo grande aggregato è composto dai rapporti di lavoro speciali
+caratterizzati dalla tipicità degli interessi pubblici coinvolti65, dai rapporti
+la cui specialità dipende dalla tipicità della posizione del prestatore e del
+datore di lavoro66 e dai contratti con finalità formativa67. Il discorso
+relativo al secondo aggregato è significativamente condotto facendo
+attenzione a fattispecie che sono ai confini ed oltre il lavoro subordinato.
+62 Ghera 2006a, 255 (corsivo dellautore).
+63 La tutela non può essere realizzata secondo criteri di trattamento uniformi, ma richiede
+un adattamento [] in ragione degli interessi soddisfatti dal contratto e delle modalità
+concrete di scambio e di uso della prestazione di lavoro: la realtà del lavoro subordinato non
+si presenta, infatti, come un tutto omogeneo ma, piuttosto, come un universo differenziato
+per gruppi professionali e aggregati sociali (Ghera 2006a, 255).
+64 Ghera 2006a, 256.
+65 Come nel caso del rapporto di lavoro dei marittimi, della gente dellaria e del pubblico
+impiego.
+67 Come lapprendistato, il contratto di inserimento e il contratto di formazione e lavoro.
+IL LAVORO SUBORDINATO TRA RAPPORTI SPECIALI, CONTRATTI ATIPICI E POSSIBILI RIFORME 19
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+Esso verte infatti intorno al fenomeno della domanda di lavoro c.d.
+flessibile e la trattazione allinterno di questo ambito viene quindi
+condotta con ulteriori distinzioni68.
+tema e le conseguenti difficoltà di una sua trattazione in termini unitari e,
+soprattutto, aderenti alle categorie giuridiche utilizzate nel diritto civile69.
+Per lo più, si tende a riconoscere ormai che dietro la categoria della
+specialità, pure ispirata dalle norme del codice civile, vi sono motivi
+eminentemente classificatori70.
+di lavoro è funzionale allestensione ad essi della disciplina generale del
+lavoro subordinato. Le indicazioni legislative, infatti, non sono univoche
+poiché si riferiscono a rapporti tra loro eterogenei, e quindi non sembrano
+utili al fine di delineare una categoria unitaria di contratti speciali71. In
+effetti, la qualificazione dei rapporti di lavoro speciali appare solcata da
+incertezze per quanto attiene ai suoi confini ed alla sua stessa
+identificazione e rischia di apparire come una questione di ordine
+meramente classificatorio o nominalistico. Ben più pregnante è invece la
+diversa alternativa concernente lesaustività o meno della disciplina
+dettata per il rapporto speciale, cioè a dire il quesito circa lapplicabilità o
+meno [] della disciplina ordinaria e generale del lavoro subordinato. Per
+quanto il dibattito sia ancora una volta oscillante, prevale lopinione che la
+disciplina generale risulta applicabile per gli istituti non oggetto di
+specifica attenzione della legge speciale e che quindi non opera alcun
+meccanismo di implicita incompatibilità. E ciò per effetto di
+unapplicazione analogica dellart. 2239 c.c.72.
+Occorre chiedersi se e come sia intervenuta sul punto la più recente
+evoluzione legislativa, in particolare il d.lgs. n. 276/2003. In effetti, il
+legislatore sembra aver attuato una sorta di moltiplicazione dei modelli
+negoziali o, ancor più, unestensione dellambito di fruibilità dei modelli
+già esistenti: un fenomeno più intenso di quello verificatosi negli anni 90,
+specie relativamente alla flessibilità temporale del rapporto o della
+prestazione
+dellautonomia collettiva a scapito di quella individuale, lintroduzione di
+68 In
+unitamente alla disciplina degli appalti e del comando o distacco, le tipologie contrattuali ad
+orario flessibile ed i contratti di lavoro parasubordinati.
+69 Non a caso in trattazioni recenti specificamente dedicate alle tipologie di lavoro flessibile
+si privilegia lesame dei singoli istituti.
+70 Mazzotta 2002, 112.
+73 Zoli 2004, 370.
+nuovi rapporti avrebbe determinato la emersione di ulteriori contratti
+speciali, oltre che di altri sottotipi e ciò indurrebbe addirittura a mettere
+in discussione il contenuto del nucleo duro della subordinazione, a partire
+dallintensità della stessa: o, meglio, impone di valorizzare lintuizione di
+chi ha prospettato la configurabilità di una nozione di lavoro diversa da
+quelle espressamente disciplinate dallordinamento (ivi compresa la
+fattispecie di cui allart. 2094 c.c.), che di esse costituisce la sintesi74.
+In effetti, si pone il problema di verificare se il modello del lavoro
+subordinato abbia veramente perso quella centralità da sempre
+riconosciutagli, anche nel corso dei tormentati anni 80, da parte della
+dottrina più attenta. Già alcuni anni fa75, si ammoniva sulla lunga vita del
+modello del lavoro subordinato nellimpresa quale modello di riferimento.
+Quel modello, infatti, era già stato oggetto di una tendenza espansiva da
+parte del codice civile del 1942, sia interna che esterna allimpresa.
+Allinterno, essa è espressa dallart. 2095 c.c. che unifica sotto la nozione
+di lavoro subordinato tutte le specie di lavoro professionale considerate.
+Allesterno questa tendenza si realizza con la tecnica dellestensione del
+modello tipico ad altri rapporti di lavoro, caratterizzati da variazioni
+rispetto al tipo normativamente privilegiato, mediante le norme più volte
+evocate contenute negli artt. 2128, 2134 e 2239. Così facendo, il codice
+civile realizza il duplice obiettivo della generalizzazione e dell articolazione
+tipologica del modello assunto come struttura privilegiata del rapporto76,
+ovviamente nei limiti della ristretta esperienza sociologica e normativa dei
+rapporti di lavoro degli anni 30 e 40. Negli anni 50 e 60 quella linea di
+politica del diritto, di espansione del modello tipico, prosegue, assumendo
+evidenti motivazioni protettive: si pensi alle leggi sullapprendistato, sul
+lavoro a domicilio o sul contratto a termine (cfr. in particolare lart. 5
+della l. 230/1962 che espandeva le tutele del contratto a tempo
+indeterminato nel limite della non incompatibilità), ma anche, oltre larea
+della subordinazione, allart. 409, n. 3, c.p.c. Solo negli anni 80 quella
+tendenza allespansione è rovesciata77 nellottica della prevalenza della
+tutela dellinteresse alloccupazione78. A ben vedere però, una pluralità di
+indici normativi consentivano, alla fine degli anni 80, di affermare che il
+contratto di lavoro subordinato stabile a tempo pieno avesse una
+posizione dominante.
+75 Cfr. Grandi 1989.
+77 Grandi 1989, 86.
+occupazionali in un contesto di garantismo attenuato e tendenzialmente selettivo (Grandi
+1989, 86).
+WP C.S.D.L.E. "Massimo D Antona" .IT - 51/2007
+In verità sembra da condividere una lettura cauta delle novità
+legislative, secondo cui se è giunto il momento di smetterla di considerare
+il lavoro part-time , il lavoro a temine, e il lavoro interinale (ora
+somministrazione di lavoro) come forme atipiche, è anche vero che
+appare scontata la collocazione allinterno del contratto di lavoro
+subordinato di queste forme. Non si tratta di un vezzo classificatorio. Ora
+il legislatore con una disciplina positiva pone per tutte le forme il principio
+della parità di trattamento con il lavoratore comparabile e perciò afferma
+lunitarietà e la tipicità del lavoro subordinato, anche se esso si presenta
+con una forte articolazione []. Lunitarietà del contratto di lavoro
+subordinato coesiste con una articolazione dei modelli di regolazione,
+poiché questi non sono mai tali da mettere in discussione lunitarietà del
+tipo. La previsione dellart. 43 ( ndr: del d.lgs. 276/2003 ) è espressione di
+un principio generale sempre utilizzabile, anche se non espressamente
+richiamato, in base al quale è applicabile la normativa generale del
+lavoro subordinato in quanto compatibile con la particolare natura del
+rapporto di lavoro []. Ciò dovrà favorire il ritorno a letture trasversali,
+che tengano conto della pluralità dei modelli normativi, senza dimenticare
+lunitarietà del tipo, contrariamente alle tendenze dottrinali a costruire in
+modo isolato per ciascun modello lintera disciplina applicabile. Senza
+enfatizzare le formulazioni contenute nei testi normativi, occorre far
+prevalere la logica dellunitarietà e, contrastando alcune mode
+culturali, riconoscere che la subordinazione non è espressione di rigidità,
+ma al contrario è un paradigma capace di rispondere esaustivamente ai
+bisogni di flessibilità dellimpresa e senza che questo impedisca la tutela
+del lavoratore79.

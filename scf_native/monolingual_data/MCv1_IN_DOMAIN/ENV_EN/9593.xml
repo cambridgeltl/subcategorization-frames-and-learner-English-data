@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Geoengineering, Part 1: the research motivation.</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Geoengineering, Part 1: the research motivation.</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:18:54.0</pubDate>
+							<eAddress>http://climatesafety.org/geoengineering-holmes/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/9593.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Geoengineering, Part 1: the research motivation. 0</p>
+			<p id="p2">Imagine for a moment that all manmade greenhouse gas emissions ceased tomorrow (go with it). What would be the likely consequence?</p>
+			<p id="p3">Unfortunately, the answer may be: runaway climate change.</p>
+			<p id="p4">As the Climate Safety report points out, the melting of the Arctic summer sea-ice is accelerating beyond even the worst-case predictions of the IPCC, potentially disappearing in the next decade. As Walt Meier of the National Snow and Ice Data Centre ( NSIDC ) puts it, “for a number of reasons, we’re on a fast track”. Unfortunately, however, “what happens in the Arctic actually doesn’t stay in the Arctic”. The sea-ice is in essence a keystone in the global climate system: as this keystone crumbles and falls away, the other bricks start to fall inwards, ultimately collapsing the entire structure – or, in this case, causing climate change to spiral out of our control. As reflective white ice is replaced with absorbent open ocean, more heat is taken up by the surrounding region (and thus by the global climate system as a whole). This places greater pressure on the Greenland ice-sheet, leading to greater sea-level rise; and causes permafrost and sub-oceanic methane deposits in these northern latitudes to melt, potentially releasing a vast quantity of greenhouse gases as a result.</p>
+			<p id="p5">What happens in the Arctic actually doesn’t stay in the Arctic.</p>
+			<p id="p6">Walt Meier, NSIDC</p>
+			<p id="p7">Bringing all greenhouse gas emissions to a halt will of course be absolutely essential in retaining a safe climate – at present, indeed, it is the most significant step the global community can take. But because of the dynamic that has been set in motion in the Arctic, the melting of the sea-ice is set to continue whether or not these emissions are halted. The reason for this is fairly simple: the earth is warmed by atmospheric concentrations – the “blanket” of greenhouse gases currently in the atmosphere – not by emissions, which merely thicken that blanket over time. Atmospheric carbon is re-absorbed into the biosphere over time, of course, by trees, oceans, and other processes – but as a recent paper from the Proceedings of the National Academy of Sciences suggests, this process will be occurring at roughly the same rate as heat currently absorbed by the ocean is transferred into the atmosphere. For this reason, the heating caused by the gases emitted today is effectively irreversible for the next few thousand years.</p>
+			<p id="p8">More worryingly, greenhouse gas emissions are linked to the emissions of aerosols, tiny atmospheric particles that deflect incoming solar radiation, and which have thus provided a cooling effect, masking the heating we would otherwise have received. Unfortunately, it takes only a very short period of time for these particles to be washed out of the atmosphere – thus, as the “heat shield” masking the warming of the planet is removed, while the blanket of greenhouse gases remains, we can expect to experience a significant “pulse” of warming. Even more worryingly, major uncertainties remain as to just how effective this shield has been in dampening down the warming effect so far – if its effect has been strong enough, with decarbonisation (which will have the ancillary effect of removing the shield), we could cause a sudden temperature rise, at an unprecedented rate and intensity. We have been fortunate enough to enjoy two significant “lags” in the climate system’s response to human activity – the “thermal inertia” of the world’s oceans, and the masking effect of aerosols emitted alongside our greenhouse gases – which we might not be able to enjoy for much longer.</p>
+			<p id="p9">Along with the sheer political inertia that has stalled action globally, it is these troubling signs above all that are making scientists consider the possibility of geo-engineering – large-scale schemes to draw down carbon from the atmosphere, and to actively cool the earth. On the one hand, geo-engineering as an alternative to decarbonising human activities is unconscionable, not least as climate change is not the only carbon-related problem: the absorption of carbon by the ocean turns it to acid, destroying the species that form the base of the marine food chain. On the other, in light of the most recent climate science, it appears that in terms of the level of greenhouse gases in the atmosphere, we are already in the danger zone: climate change is set to spiral out of our control even with the complete cessation of all our greenhouse gas emissions.</p>
+			<p id="p10">This unpleasant reality has two significant implications. Firstly, reducing the risk of runaway climate change is likely to mean mopping up some of the excess greenhouse gases in the atmosphere. Secondly, we must prepare for the worst. If the most extreme predictions of scientists are realised, and the arctic experiences an extremely rapid decline – particularly as levels of atmospheric aerosols dissipate – the vicious spiral of extra heating and further release of greenhouse gases could quickly make a return to a safe climate impossible to achieve. If that is the case, we may well need a crash programme of research into ways of actively cooling the planet.</p>
+			<p id="p11">Most such schemes have rightly been written off as highly implausible, expensive, incredibly dangerous, or all of the above. Nevertheless, out of dire necessity we shall surely need to separate the wheat from the chaff.</p>
+			<p id="p12">Part II will contain a brief rundown of some of the proposals.</p>
+			<p id="p13">Title</p>
+			<p id="p14">Title</p>
+			<p id="p15">Title</p>
+			<p id="p16">Title</p>
+			<p id="p17">Title</p>
+		</body>
+	</text>
+</cesDoc>

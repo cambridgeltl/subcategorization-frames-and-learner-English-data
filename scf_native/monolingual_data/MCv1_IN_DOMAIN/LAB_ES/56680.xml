@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Horas Extraordinarias | Tipos de Horas Extraordinarias | Límites y Retribución de las horas extraordinarias. Formación y Orientación Laboral en Tiempos Modernos</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Horas Extraordinarias | Tipos de Horas Extraordinarias | Límites y Retribución de las horas extraordinarias. Formación y Orientación Laboral en Tiempos Modernos</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-17 07:08:07.0</pubDate>
+							<eAddress>http://www.tiemposmodernos.eu/fol-horas-extraordinarias/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>horas extraordinarias</keyTerm>
+					<keyTerm>hora extraordinaria</keyTerm>
+					<keyTerm>horas extra</keyTerm>
+					<keyTerm>hora extra</keyTerm>
+					<keyTerm>horas extraordinarias estructurales</keyTerm>
+					<keyTerm>horas extra estructurales</keyTerm>
+					<keyTerm>horas extraordinarias no estructurales</keyTerm>
+					<keyTerm>horas extra no estructurales</keyTerm>
+					<keyTerm>horas extraordinarias por fuerza mayor</keyTerm>
+					<keyTerm>horas extra por fuerza mayor</keyTerm>
+					<keyTerm>horas extraordinarias para menores de 18 años</keyTerm>
+					<keyTerm>horas extraordinarias para trabajadores nocturnos</keyTerm>
+					<keyTerm>número máximo de horas extraordinarias</keyTerm>
+					<keyTerm>formación y orientación laboral</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/56680.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">0</p>
+			<p id="p2">Las Horas Extraordinarias son aquellas horas de trabajo que se realizan sobre la duración máxima de la jornada ordinaria de trabajo. Se regulan en el art. 35 del Estatuto de Trabajadores .</p>
+			<p id="p3">Tipos de horas extraordinarias:</p>
+			<p id="p4">Horas extraordinarias estructurales: Son horas de carácter voluntario para el trabajador, salvo que éstas se hayan pactado en convenio colectivo o contrato individual. Son horas que con las que la empresa pretende hacer frente a un aumento de la actividad.</p>
+			<p id="p5">Horas extraordinarias no estructurales: No responden a necesidades excepcionales de la empresa sino que sirven para evitar contratar a más trabajadores. Son voluntarias para el trabajador.</p>
+			<p id="p6">Horas extraordinarias por fuerza mayor: son horas necesarias para prevenir o reparar un daño que pueda producirse sobre las personas o sobre el patrimonio de la empresa. Estas hora son obligatorias para el trabajador, pueden pagarse en dinero o compensarse con tiempo de descanso. No computan a efectos de las 80 horas extraordinarias máximas legales o permitidas al año.</p>
+			<p id="p7">Límites a la realización de horas extraordinarias:</p>
+			<p id="p8">El número de horas extraordinarias no podrá ser superior a 80 horas al año, salvo que sea por causas de fuerza mayor. No se computarán las horas extraordinarias que hayan sido compensadas mediante descanso.</p>
+			<p id="p9">Los trabajadores nocturnos no podrán realizar horas extraordinarias, excepto las debidas a fuerza mayor.</p>
+			<p id="p10">Los menores de 18 años tienen prohibida la realización de horas extraordinarias.</p>
+			<p id="p11">Retribución de las horas extraordinarias:</p>
+			<p id="p12">Mediante convenio colectivo o contrato individual, se optará entre abonar las horas extraordinarias como mínimo igual que la hora ordinaria de trabajo, o compensarla por tiempo de descanso retribuido dentro de los 4 meses siguientes a su realización.</p>
+			<p id="p13">Las horas extraordinarias hechas en exceso de las permitidas (sobrepasando las 80 anuales) deben ser pagadas como tales, sin perjuicio de la posible sanción al empresario.</p>
+			<p id="p14">Artículos relacionados ...</p>
+			<p id="p15">Sitio Web</p>
+			<p id="p16">Tabla resumen de las distintas causas de extinción del contrato de trabajo, y su indemnización correspondiente</p>
+			<p id="p17">Publicado el 2 noviembre 2010</p>
+			<p id="p18">El Marketing es una herramienta indispensable, no sólo para que el cliente nos elija sino para que nos sea fiel</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Estructura del Salario | Complementos Salariales | Complementos de puesto de trabajo | Complementos personales | Plus de nocturnidad. Formación y Orientación Laboral en Tiempos Modernos</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Estructura del Salario | Complementos Salariales | Complementos de puesto de trabajo | Complementos personales | Plus de nocturnidad. Formación y Orientación Laboral en Tiempos Modernos</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-17 07:08:21.0</pubDate>
+							<eAddress>http://www.tiemposmodernos.eu/fo-estructura-del-salario/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>salario</keyTerm>
+					<keyTerm>estructura del salario</keyTerm>
+					<keyTerm>estructura del sueldo</keyTerm>
+					<keyTerm>sueldo base</keyTerm>
+					<keyTerm>complementos salariales</keyTerm>
+					<keyTerm>complementos personales</keyTerm>
+					<keyTerm>complementos de puesto de trabajo</keyTerm>
+					<keyTerm>complementos de cantidad o calidad de trabajo</keyTerm>
+					<keyTerm>complementos de vencimiento periódico superior al mes</keyTerm>
+					<keyTerm>Complementos de residencia</keyTerm>
+					<keyTerm>complementos en especie</keyTerm>
+					<keyTerm>sueldo</keyTerm>
+					<keyTerm>jornal</keyTerm>
+					<keyTerm>paga</keyTerm>
+					<keyTerm>pagas</keyTerm>
+					<keyTerm>jornales</keyTerm>
+					<keyTerm>primas e incentivos</keyTerm>
+					<keyTerm>plus de asistencia y puntualidad</keyTerm>
+					<keyTerm>horas extras</keyTerm>
+					<keyTerm>horas extraordinarias</keyTerm>
+					<keyTerm>participación en beneficios</keyTerm>
+					<keyTerm>penosidad</keyTerm>
+					<keyTerm>toxicidad</keyTerm>
+					<keyTerm>peligrosidad</keyTerm>
+					<keyTerm>plus de turnicidad</keyTerm>
+					<keyTerm>turnicidad</keyTerm>
+					<keyTerm>plus de nocturnidad</keyTerm>
+					<keyTerm>nocturnidad</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/56698.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">0</p>
+			<p id="p2">Mediante la negociación colectiva o por acuerdo entre el empresario y el trabajador se determina la estructura del salario, que deberá comprender: el salario base y, en su caso, los complementos salariales (art. 26.3 del Estatuto de los Trabajadores ).</p>
+			<p id="p3">El salario base es la cantidad fija y garantizada que percibe el trabajador fijada por unidad de tiempo o de obra.</p>
+			<p id="p4">Los complementos salariales son aquellas cantidades de dinero que se adicionan al salario base, y se fijan en atención a circunstancias personales del trabajador, a las características propias del puesto de trabajo o por la situación o resultados de la empresa, dando lugar a distintos tipos de complementos salariales:</p>
+			<p id="p5">Complementos personales:</p>
+			<p id="p6">Remuneran cualidades o conocimientos del trabajador, cuando la empresa se sirve de ellos a la hora de desempeñar su trabajo y, siempre que no se hayan tenido en cuenta a la hora de fijar el salario base.</p>
+			<p id="p7">Ejemplo: Antigüedad, titulación, idiomas, conocimientos especiales, etc.</p>
+			<p id="p8">Complementos de puesto de trabajo:</p>
+			<p id="p9">Se trata de complementos de índole funcional y se reciben en función del ejercicio de la actividad profesional en el puesto de trabajo asignado, por lo que, si varía el puesto de trabajo o la forma de realizarlo, estos complementos se perderían, salvo que el empresario acuerde lo contrario. Por ejemplo:</p>
+			<p id="p10">Penosidad, toxicidad y peligrosidad:</p>
+			<p id="p11">Son complementos que recibe el trabajador cuando el trabajo que realice sea especialmente duro o penoso, peligroso o pueda dañar su salud, han de estar establecidos en el Convenio Colectivo o en el propio contrato de trabajo. Estos tres complementos no son acumulables.</p>
+			<p id="p12">Plus de turnicidad:</p>
+			<p id="p13">Es un complemento salarial que tiene por objeto compensar la mayor incomodidad del trabajo en turnos rotatorios, ya que el trabajador a turnos rompe su ritmo de vida cada vez que cambia de turno de trabajo.</p>
+			<p id="p14">Plus de nocturnidad:</p>
+			<p id="p15">Se trata de un complemento que se recibe cuando el trabajador realiza su trabajo en horario nocturno, es decir durante el período comprendido entre las 22:00h y la 06:00h, salvo que el salario se haya pactado atendiendo a que el trabajo sea nocturno por su propia naturaleza o se acuerde la compensación de este trabajo en descansos.</p>
+			<p id="p16">También se considerará horario nocturno el que comprenda al menos 3 horas dentro de la franja horaria anteriormente señalada o al menos 1/3 de la jornada anual se realice dentro de esta franja horaria.</p>
+			<p id="p17">Complementos de cantidad o calidad de trabajo:</p>
+			<p id="p18">Se perciben por una mayor o mejor realización del trabajo. Están relacionados con el volumen de la producción y su calidad.</p>
+			<p id="p19">Primas e incentivos:</p>
+			<p id="p20">Plus de asistencia y puntualidad:</p>
+			<p id="p21">Estos complementos remuneran la especial diligencia del trabajador en el cumplimiento de sus obligaciones básicas: asistir al trabajo puntualmente y faltar lo menos posible aún cuando exista justificación para ello.</p>
+			<p id="p22">Horas extraordinarias.</p>
+			<p id="p23">Comisiones:</p>
+			<p id="p24">Más que complementos, las comisiones tienen la consideración de salario por unidad de obra, cuanto mas se “venda, se haga”, mas se cobra.</p>
+			<p id="p25">Complementos de vencimiento periódico superior al mes:</p>
+			<p id="p26">Participación en beneficios:</p>
+			<p id="p27">Algunas empresas acuerdan, bien en Convenio Colectivo o en Contrato individual, la participación de los trabajadores en los beneficios de la empresa mediante una paga anual de cantidad fija o variable. Este complemento no es consolidable.</p>
+			<p id="p28">Pagas Extraordinarias (Art. 31 del E. T.):</p>
+			<p id="p29">Son como mínimo 2 al año, una que se percibe en Navidad y la otra cuando se determine en convenio o contrato de trabajo. Se podrá acordar en convenio colectivo el prorrateo de las pagas extraordinarias, de manera que se abonen mes a mes.</p>
+			<p id="p30">Complementos de residencia:</p>
+			<p id="p31">Complementos en especie:</p>
+			<p id="p32">Artículos relacionados ...</p>
+			<p id="p33">Sitio Web</p>
+			<p id="p34">Tabla resumen de las distintas causas de extinción del contrato de trabajo, y su indemnización correspondiente</p>
+			<p id="p35">Publicado el 2 noviembre 2010</p>
+			<p id="p36">El Marketing es una herramienta indispensable, no sólo para que el cliente nos elija sino para que nos sea fiel</p>
+		</body>
+	</text>
+</cesDoc>

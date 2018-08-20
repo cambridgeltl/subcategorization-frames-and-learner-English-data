@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>L'Inspecteur du Travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>L'Inspecteur du Travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:08:24.0</pubDate>
+							<eAddress>http://www.fnasfo.fr/article.php3?id_article=77</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/10.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">FICHE TECHNIQUE FNAS-FO :</p>
+			<p id="p2">Contrôler, informer, conseiller, concilier, décider : les missions de l’inspecteur du travail sont étendues tout comme ses moyens d’actions (droit d’entrée dans l’entreprise, de constater les infractions...). L’inspecteur du travail est soumis à un certain nombre d’obligations (discrétion, impartialité,...) et de droits, en tête desquels la protection contre les obstacles à l’exercice de ses missions.</p>
+			<p id="p3">A savoir : L’adresse de l’inspection du travail compétente et le nom de l’inspecteur doivent être affichés dans l’entreprise. L’inspecteur du travail peut être sollicité sur des questions dont la réponse nécessite une connaissance de l’entreprise concernée.</p>
+			<p id="p4">La Fiche détaillée :</p>
+			<p id="p5">L’inspecteur du travail :</p>
+			<p id="p6">L’inspecteur du travail n’est pas habilité à régler les litiges relatifs au contrat de travail : seul le conseil de prud’hommes est compétent dans ce domaine. Tel est le cas même s’il a servi de conciliateur ou d’arbitre à la demande de l’employeur et du salarié dès lors que le différend persiste. L’inspecteur du travail possède également un pouvoir de décision : l’employeur doit, dans certaines situations prévues par le code du travail, obtenir son autorisation avant d’agir.</p>
+			<p id="p7">Tel est le cas, par exemple, en ce qui concerne :</p>
+			<p id="p8">Les décisions de l’inspecteur du travail peuvent faire l’objet d’un recours administratif (recours gracieux - devant l’inspecteur lui-même - ou recours hiérarchique - généralement auprès du ministre chargé du travail) ou d’un recours contentieux (auprès du tribunal administratif).</p>
+			<p id="p9">- Moyens d’action de l’inspecteur du travail :</p>
+			<p id="p10">L’inspecteur du travail dispose d’un pouvoir d’investigation qui l’autorise à :</p>
+			<p id="p11">Les constats de l’inspecteur du travail peuvent donner lieu à :</p>
+			<p id="p12">- la cessation du travail dominical,</p>
+			<p id="p13">Les observations et mises en demeure notifiées par l’inspection du travail et relatives à des questions d’hygiène, de sécurité, de médecine du travail et de prévention des risques doivent être conservées par l’employeur pendant 5 ans. L’inspecteur du travail peut en prendre connaissance à l’occasion de ses visites. Elles doivent de plus être communiquées par l’employeur aux membres des CHS-CT, aux délégués du personnel, au médecin du travail et, le cas échéant, aux représentants des organismes professionnels spécialisés (notamment l’OPPBTP, Organisme Professionnel de Prévention du Bâtiment et des Travaux Publics).</p>
+			<p id="p14">- Droits et obligations de l’inspecteur du travail :</p>
+			<p id="p15">L’inspecteur du travail bénéficie du droit à :</p>
+			<p id="p16">Il est tenu à diverses obligations :</p>
+			<p id="p17">Prud’hommes et Cassation :</p>
+		</body>
+	</text>
+</cesDoc>

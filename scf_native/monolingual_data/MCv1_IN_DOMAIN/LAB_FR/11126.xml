@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Recrutement : un essai professionnel doit-il être rémunéré ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Recrutement : un essai professionnel doit-il être rémunéré ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:17:06.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=286&amp;titre=Recrutement+%3A+un+essai+professionnel+doit-il+%C3%AAtre+r%C3%A9mun%C3%A9r%C3%A9+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11126.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Recrutement : un essai professionnel doit-il être rémunéré ?</p>
+			<p id="p2">Vous êtes en plein recrutement d’une secrétaire et avez retenu une candidate dont le profil et l’expérience vous semblent convenir. Mais vous souhaitez vérifier ses compétences informatiques et son orthographe. L’idéal serait donc de lui faire passer un test. En avez-vous le droit ? Faut-il rémunérer ce temps de travail ?</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Qu’est-ce qu’un essai professionnel ?</p>
+			<p id="p5">L’essai professionnel (ou « test professionnel ») peut se définir comme une épreuve ou un examen de courte durée proposé à un candidat à l’ embauche et permettant à l’employeur d’apprécier ses compétences professionnelles et son aptitude à tenir le poste proposé.</p>
+			<p id="p6">Il permet en outre au candidat d'appréhender le poste de manière plus concrète.</p>
+			<p id="p7">Distinction essai professionnel / période d’essai</p>
+			<p id="p8">L’essai professionnel intervient avant la signature éventuelle du contrat de travail, alors que la période d’essai est postérieure à l’embauche et fait partie du contrat de travail.</p>
+			<p id="p9">Pendant le test, le candidat pourra effectuer une tâche identique à ce qu'il sera amené à faire s'il est recruté (utilisation de logiciel, de machine, analyse de dossiers ou de documents, etc.), mais il faudra veiller à ce qu’il n’exécute pas une véritable prestation de travail.</p>
+			<p id="p10">En effet, en cas de litige, les juges pourraient être amenés à requalifier le test en période d’essai.</p>
+			<p id="p11">Exemple</p>
+			<p id="p12">Une candidate à un poste de chauffeur a conduit pendant quelques heures un car vide de passagers, en présence du chauffeur habituel. Les juges ont estimé qu’il s’agissait bien d'un test professionnel, et non d'une période d'essai (Cass. soc., 4 janvier 2000, n° 97-41154).</p>
+			<p id="p13">Reportez-vous à votre convention collective : elle peut en effet prévoir les modalités pratiques d’un tel essai et, en particulier, un dédommagement financier.</p>
+			<p id="p14">L’essai professionnel doit-il être rémunéré ?</p>
+			<p id="p15">Vous devrez payer le candidat si le test dure plusieurs heures ou plusieurs journées et si le candidat est placé dans des conditions normales d’emploi.</p>
+			<p id="p16">Exemple</p>
+			<p id="p17">Une candidate à un poste de secrétaire dactylographe effectue un test professionnel, au cours duquel elle réalise deux brouillons de lettres. Elle réclame par la suite le paiement de cette prestation, ainsi que des dommages et intérêts pour travail dissimulé ... Les juges ont refusé ses demandes, car :</p>
+			<p id="p18">l’essai n’a duré que quelques heures ;</p>
+			<p id="p19">et la candidate n’avait pas été placée dans des conditions normales d’emploi, elle n’avait pas exécuté une véritable prestation de travail.</p>
+			<p id="p20">A. Ninucci</p>
+			<p id="p21">(Cour de cassation, chambre sociale, arrêt n° 07-45485 du 13 septembre 2009 : un test professionnel d’une courte durée n’a pas à être rémunéré)</p>
+			<p id="p22">Pour plus de précisions sur vos obligations au moment de l’embauche, les Editions Tissot vous proposent leur ouvrage « Gérer le personnel ».</p>
+			<p id="p23">Article publié le 27 octobre 2009</p>
+			<p id="p24">Partagez cet article :</p>
+			<p id="p25">Articles sur le même thème : Embauche</p>
+			<p id="p26">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

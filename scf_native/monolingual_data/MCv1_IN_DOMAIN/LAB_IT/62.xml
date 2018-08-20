@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>SECO - Visita medica e consulenza in caso di lavoro notturno</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>SECO - Visita medica e consulenza in caso di lavoro notturno</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 14:51:54.0</pubDate>
+							<eAddress>http://www.seco.admin.ch/themen/00385/01901/01907/index.html?lang=it</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Lavoro notturno</keyTerm>
+					<keyTerm>Lavoro a squadre</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/62.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Segreteria di Stato dell'economia SECO</p>
+			<p id="p2">La presente edizione è adatta per browser con un supporto CSS insufficiente e destinata soprattutto alle persone ipovedenti. Tutti i contenuti sono visualizzabili anche con browser più vecchi. Per una migliore visualizzazione grafica si raccomanda tuttavia l'uso di un bro</p>
+			<p id="p3">Visita medica e consulenza in caso di lavoro notturno</p>
+			<p id="p4">I lavoratori che lavorano 25 notti o più nel corso di un anno hanno diritto a una visita medica e alla consulenza</p>
+			<p id="p5">A) Diritto</p>
+			<p id="p6">I lavoratori che lavorano 25 notti o più nel corso di un anno hanno diritto a una visita medica e alla consulenza. I lavoratori possono far valere questo diritto ogni due anni e, a partire dai 45 anni compiuti, annualmente.</p>
+			<p id="p7">B) Visita medica obbligatoria</p>
+			<p id="p8">I lavoratori adulti che durante il lavoro notturno devono prestare attività particolarmente difficoltose o pericolose possono essere impiegati per tale lavoro soltanto se sono dichiarati idonei in base alla visita medica e alla consulenza.</p>
+			<p id="p9">Per i giovani (fino all'età di 18 anni) impiegati regolarmente o periodicamente durante la notte, le visite e la consulenza mediche sono obbligatorie (v. art. 12, cpv. 3, OLL 5).</p>
+			<p id="p10">A) Diritto alla visita medica e alla consulenza in caso di lavoro notturno</p>
+			<p id="p11">I lavoratori che lavorano 25 notti o più nel corso di un anno hanno diritto a una visita medica e alla consulenza. I lavoratori possono far valere questo diritto ogni due anni e, a partire dai 45 anni compiuti, annualmente.</p>
+			<p id="p12">Il diritto alla visita medica e alla consulenza implica, tra l'altro, che i lavoratori interessati sono autorizzati a scegliere liberamente il medico presso cui recarsi.</p>
+			<p id="p13">Essendo vincolato dal segreto professionale, il medico potrà comunicare al datore di lavoro la sua decisione in merito all'idoneità incondizionata / condizionata o alla inidoneità del lavoratore soltanto previo consenso di quest'ultimo.</p>
+			<p id="p14">Se, tuttavia, il medico ritiene che l'esercizio dell'attività lavorativa costituisca un pericolo per la vita o per la salute del lavoratore, può eccezionalmente informarne il datore di lavoro – senza però rivelare la sua diagnosi – anche senza il consenso formale del lavoratore.</p>
+			<p id="p15">Secondo l'articolo 17d della legge sul lavoro, nella misura del possibile, il datore di lavoro deve trasferire il lavoratore giudicato inidoneo al lavoro notturno per motivi di salute a un lavoro diurno analogo, per il quale è idoneo.</p>
+			<p id="p16">La visita medica prevede anche una consulenza individuale che dovrebbe, tra l'altro, tenere conto dei seguenti aspetti:</p>
+			<p id="p17">aumento dei rischi per la salute legati al lavoro notturno;</p>
+			<p id="p18">importanza del tempo dedicato al riposo e alla distensione;</p>
+			<p id="p19">accumulo di aggravi (esercizio di un'attività accessoria, impegni di carattere sociale, compiti di assistenza).</p>
+			<p id="p20">Il datore di lavoro assume le spese della visita medica nella misura in cui non ne risponde un assicuratore.</p>
+			<p id="p21">B) Visita medica obbligatoria e consulenza in caso di lavoro notturno</p>
+			<p id="p22">I lavoratori adulti che durante il lavoro notturno devono prestare attività particolarmente difficoltose o pericolose* possono essere impiegati per tale lavoro soltanto se sono dichiarati idonei in base alla visita medica e alla consulenza.</p>
+			<p id="p23">Per i giovani (fino all'età di 18 anni) impiegati regolarmente o periodicamente durante la notte, le visite e la consulenza mediche sono obbligatorie (v. art. 12, cpv. 3, OLL 5).</p>
+			<p id="p24">La prima visita medica obbligatoria e la consulenza devono aver luogo prima dell'assunzione dell'impiego (allo scopo di accertare l'idoneità del lavoratore) e sono successivamente ripetute ogni due anni. L'azienda è responsabile sia per la prima visita sia per quelle successive.</p>
+			<p id="p25">* Per situazioni difficoltose o pericolose si intendono:</p>
+			<p id="p26">influssi fisici come, per esempio, rumori nocivi per l’ udito, forti vibrazioni e temperature particolarmente elevate o basse;</p>
+			<p id="p27">esposizione a inquinanti atmosferici con valori > 50% MAC (= concentrazione massima ammissibile sul posto di lavoro per le sostanze nocive alla salute);</p>
+			<p id="p28">altre sollecitazioni eccessive di natura fisica, psichica e mentale;</p>
+			<p id="p29">posti di lavoro isolati;</p>
+			<p id="p30">durata prolungata del lavoro notturno e lavoro notturno senza alternanza con lavoro diurno.</p>
+			<p id="p31">Se le occupazioni previste per il lavoro notturno includono attività del suddetto tipo, è necessario notificarlo ai fini della valutazione dei pericoli e del rilevamento dei rischi secondo la direttiva CFSL n. 6508.</p>
+			<p id="p32">La visita medica deve essere effettuata da un medico che si è familiarizzato con il processo di lavoro, con le condizioni di lavoro e con i principi della medicina del lavoro. Il medico deve potersi fare un'idea della concreta situazione lavorativa dei lavoratori da visitare e per questo deve essergli garantito l'accesso all'azienda. Deve inoltre avere la possibilità di parlare con i responsabili della sicurezza e della salute all'interno dell'azienda.</p>
+			<p id="p33">La decisione circa l'«idoneità», la «inidoneità», la «momentanea inidoneità», l'«idoneità condizionata» deve essere comunicata al datore di lavoro, con copia al lavoratore interessato e alle autorità competenti (Seco – Direzione del lavoro, Condizioni di lavoro, Effingerstrasse 31-35, 3003 Berna) utilizzando l'apposito modulo.</p>
+			<p id="p34">Secondo l'articolo 17d della legge sul lavoro, il datore di lavoro deve, nella misura del possibile, trasferire il lavoratore giudicato inidoneo al lavoro notturno per motivi di salute a un lavoro diurno analogo, per il quale è idoneo.</p>
+			<p id="p35">Il medico può subordinare l'autorizzazione per l'esercizio del lavoro notturno all'adozione da parte dell'azienda delle misure intese a tutelare la salute del lavoratore. </p>
+			<p id="p36">Il datore di lavoro assume le spese della visita medica nella misura in cui non ne risponde un altro assicuratore del lavoratore.</p>
+			<p id="p37">Scaricare</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>LaMMA CRES - Centro Ricerche Erosione Suolo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>LaMMA CRES - Centro Ricerche Erosione Suolo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 21:48:21.0</pubDate>
+							<eAddress>http://www.lamma-cres.rete.toscana.it/prog.asp?id=1</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Erosione</keyTerm>
+					<keyTerm>Desertificazione</keyTerm>
+					<keyTerm>Clima</keyTerm>
+					<keyTerm>Degrado</keyTerm>
+					<keyTerm>Suolo</keyTerm>
+					<keyTerm>Meteo</keyTerm>
+					<keyTerm>Vegetazione</keyTerm>
+					<keyTerm>GIS</keyTerm>
+					<keyTerm>Cartografia</keyTerm>
+					<keyTerm>Geologia</keyTerm>
+					<keyTerm>Idrografia</keyTerm>
+					<keyTerm>Acqua</keyTerm>
+					<keyTerm>Pedologia</keyTerm>
+					<keyTerm>GPS</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/15816.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La Città del Tufo</p>
+			<p id="p2">Sono disponibili gli elaborati cartografici e i documenti relativi al Progetto per il   piano strutturale coordinato dei comuni di Castell'azzara, Pitigliano e Sorano. Visita il sito questo indirizzo.</p>
+			<p id="p3">Bollettino siccità</p>
+			<p id="p4">Carta dei Vincoli</p>
+			<p id="p5">Meteo e Clima</p>
+			<p id="p6">Indice di Vegetazione</p>
+			<p id="p7">Per approfondire le conoscenze di un fenomeno di degrado caratterizzato  anche da numerosi altri fattori influenzanti, noto con il nome "desertificazione".</p>
+			<p id="p8">Per desertificazione si intende "il degrado delle terre nelle zone aride,  semi-aride e subumide secche, provocato da diversi fattori, tra i quali le  variazioni climatiche e il rapporto con l’attuale modello delle attività umane" (UNCCD, Art. 1.a). Essa si manifesta con "la diminuzione o la scomparsa della  produttività e complessità biologica o economica delle terre coltivate, sia  irrigate che non, delle praterie, dei pascoli, delle foreste o delle superfici  boschive causate dai sistemi di utilizzo della terra, o da uno o più processi,  compresi quelli derivanti dall'attività dell'uomo e dalle sue modalità di  insediamento, tra i quali l'erosione idrica, eolica, ecc; il deterioramento  delle proprietà fisiche, chimiche e biologiche o economiche dei suoli; la  perdita protratta nel tempo di vegetazione naturale" (UNCCD, Art. 1.f).</p>
+			<p id="p9">La UNCCD riconosce l’urgenza di sviluppare strategie e di identificare strumenti  per minimizzare il degrado dei suoli, essendo questo intimamente legato ai  problemi di povertà e sviluppo sostenibile del territorio.</p>
+			<p id="p10">Le aree a rischio desertificazione nei Paesi dell’Annesso IV (Paesi europei)  sono concentrate nel settore nord del bacino del Mediterraneo con particolare  gravità in Grecia, Italia, Portogallo e Spagna.</p>
+			<p id="p11">La possibilità di disporre di strumenti adeguati per identificare le aree a  rischio e quindi programmare le priorità di intervento delle misure di  mitigazione e recupero rappresenta un punto fondamentale identificato sia a  livello internazionale, come enfatizzato dal Comitato Scienza e Tecnologia (CST)  della UNCCD, sia a livello Nazionale, come priorità dei Programmi di Azione  Nazionale (PAN) di lotta alla desertificazione e come previsto dall’articolo 20  del D.Lvo n. 152/1999 sulla tutela delle acque.</p>
+			<p id="p12">Il Progetto Desertnet Interreg IIIB</p>
+			<p id="p13">In questo contesto la Regione Toscana ha aderito al Progetto DESERTNET  “Monitoraggio ed azioni di lotta alla desertificazione nella regione  mediterranea europea” (INTERREG IIIB MEDOCC) coordinato dal Nucleo Ricerca  Desertificazione - NRD dell'Università di Sassari, con le finalità di:</p>
+			<p id="p14">• contribuire allo sviluppo di una cartografia basata su indicatori comuni tra le  varie regioni italiane coinvolte nel progetto.</p>
+			<p id="p15">• portare avanti uno studio specifico (Work Package) sul territorio regionale  sviluppando metodologie di analisi che possano divenire patrimonio comune per le  altre regioni.</p>
+			<p id="p16">Il suddetto progetto si integra e si coordina con il precedente "Rete  Sovrannazionale di Laboratori Ambientali Multifunzionali", finanziato dal  Programma InterregIIC-MEDOCC e sviluppato in collaborazione con il LaMMA,  costituendo, con il precedente, un insieme organico relativo allo studio, al  monitoraggio e alla gestione sostenibile delle aree a rischio di  desertificazione, che si affacciano sul bacino del Mediterraneo.</p>
+			<p id="p17">Si è ritenuto opportuno, nella identificazione del Work Package per la Regione  Toscana, di focalizzare l’attenzione da una parte sulla implementazione delle  procedure standard di analisi di vulnerabilità alla desertificazione, così come  previste dalla metodologia MEDALUS, attraverso la creazione di banche dati  pertinenti rispetto ai parametri richiesti, e dall’altra realizzare studi più  approfonditi con metodologie innovative su tematiche ritenute chiave per il  monitoraggio dei fenomeni di desertificazione in Toscana: il clima e la  vegetazione.</p>
+			<p id="p18">L’obiettivo generale del Work Package della Regione Toscana è stato identificato  ne “lo studio della vulnerabilità alla desertificazione del territorio grazie  all’integrazione dei dati socio-economici e climatici con l’analisi delle serie  storiche dei dati telerilevati”.</p>
+			<p id="p19">Questo obiettivo generale viene perseguito secondo tre assi di attività  principali o obiettivi specifici:</p>
+			<p id="p20">Asse 1: Studio e miglioramento delle metodologie di analisi satellitare per la  valutazione della serie storica dell’indice di vegetazione a partire dalle  immagini NOAA-AVHRR. Analisi multitemporale con immagini Landsat TM sulle aree  identificate come sensibili.</p>
+			<p id="p21">Asse 2: Analisi climatologica della regione Toscana sulla serie storica di  riferimento 1961-1990 e confronto con il successivo decennio 1991-2000.</p>
+			<p id="p22">Asse 3: Integrazione degli indicatori ottenuti dall’analisi NDVI e climatica con  dati socio-economici per l’identificazione delle zone vulnerabili alla  desertificazione.</p>
+			<p id="p23">In parallelo rispetto agli obiettivi specifici del work package vengono portate  avanti le attività funzionali alla realizzazione dei piani informativi comuni  alle altre regioni per l’ottenimento di una cartografia omogenea.</p>
+			<p id="p24">Le attività del progetto vengono realizzate in stretta collaborazione tra LaMMA e LaMMA-CRES ,  coordinate dal CNR-IBIMET .</p>
+			<p id="p25">Progetto:</p>
+			<p id="p26">Titolo:</p>
+			<p id="p27">Responsabile Regionale:</p>
+			<p id="p28">Simone Sorbi (Direzione Generale dello Sviluppo  Economico - Settore delle Politiche Regionali dell’Innovazione e del Trasferimento Tecnologico)</p>
+			<p id="p29">Con la conclusione del Progetto DESERTNET 1 si è giunti alla realizzazione di un valido strumento di pianificazione e gestione territoriale, per la valutazione della vulnerabilità ambientale a scala regionale.</p>
+			<p id="p30">Visto il positivo esito del progetto, è stata approvata la proposta relativa al Progetto INTERREG III B - DESERTNET 2 , che vede ancora come partner la Regione Toscana (Settore delle Politiche Regionali dell’Innovazione e del Trasferimento Tecnologico).</p>
+			<p id="p31">Sito web ufficiale: http://www.ibimet.cnr.it/Case/desertnet/</p>
+		</body>
+	</text>
+</cesDoc>

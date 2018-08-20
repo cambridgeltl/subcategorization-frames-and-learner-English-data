@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>UNHCR | Refworld | 2010 Annual Survey of violations of trade union rights - Ghana</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>UNHCR | Refworld | 2010 Annual Survey of violations of trade union rights - Ghana</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:00:50.0</pubDate>
+							<eAddress>http://www.unhcr.org/refworld/publisher,ITUC,,GHA,4c4fec793d4,0.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>UNHCR</keyTerm>
+					<keyTerm>Refworld</keyTerm>
+					<keyTerm>Refugee Status Determination</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/1506.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Publisher</p>
+			<p id="p2">Cite as</p>
+			<p id="p3">International Trade Union Confederation, 2010 Annual Survey of violations of trade union rights - Ghana, 9 June 2010, available at: http://www.unhcr.org/refworld/docid/4c4fec793d4.html [accessed 20 September 2010]</p>
+			<p id="p4">2010 Annual Survey of violations of trade union rights - Ghana</p>
+			<p id="p5">Population: 23,800,000</p>
+			<p id="p6">ILO Core Conventions Ratified: 29 – 87 – 98 – 100 – 105 – 111 – 182</p>
+			<p id="p7">Four workers were arrested and several wounded by rubber bullets when they were forcibly removed from their steel plant for starting a strike. The labour legislation does not sufficiently secure trade union rights, and the authorities retain some discretionary powers over unions.</p>
+			<p id="p8">Trade union rights in law</p>
+			<p id="p9">Although the Labour Act has been brought more into line with international labour standards, problematic areas remain. For starters, the Emergency Powers Act 1994 is still in force, and grants the authorities extensive powers to suspend any law and prohibit public meetings and processions. Many categories of workers are also excluded from the Labour Act, including managerial workers, the definition of whom is very broad. If there are multiple unions at a workplace, the "chief labour officer" has discretionary powers to decide which union will be awarded the collective bargaining "certificate" needed to negotiate with the employer. Albeit the right to strike is guaranteed in the Labour Act, it can be limited in private enterprises if the workers' services are deemed essential to the enterprise's survival, and in essential services, which includes many sectors that fall outside the ILO definition.</p>
+			<p id="p10">Trade union rights in practice and violations in 2009</p>
+			<p id="p11">Background: Strong gold and cocoa prices protected the country from the worst effects of the global economic crisis, but it was nonetheless affected by high food and fuel prices and an energy crisis. To help reduce its budget deficit, Ghana received a 600 million dollar three-year loan from the International Monetary Fund (IMF) in July 2009.</p>
+			<p id="p12">Employers use court decision to undermine trade union rights: Although freedom of association is protected in law, in practice this is undermined by a 2008 decision of the Accra High Court concerning Ghana Telecommunications Limited (GT) to the effect that employers could hire and fire without giving any reasons for the termination of employment. Mr Kofi Asamoah, secretary general of the GTUC, warned at the 2009 May Day rally that some employers were using the ruling to get rid of so-called troublesome workers and unionists.</p>
+			<p id="p13">Persistent violations in export processing zones (EPZ): Some employers in the free zones have persistently resisted the unionisation of their employees, despite the protection provided by the 2003 Labour Act. Blue Skies Products (Gh) Ltd (a subsidiary of Blue Skies Holdings UK), an EPZ fruit processing company that employs over one thousand workers, has consistently refused to recognise its workers' union the Food and Allied Workers Union (FAWU), an affiliate of the Ghana Federation of Labour (GFL). The union organised the workers and was issued with the Collective Bargaining Certificate in February 2004, but has not been able to negotiate with the company.</p>
+			<p id="p14">Strikers assaulted and arrested during lock out: Over 600 workers of the Western Steel and Forging Limited at Kpone, near Tema, were locked out as management shut down the company indefinitely, after the workers embarked on strike on 6 May. The workers had been negotiating grievances with management, but began the strike when there was no response to their demands. These included the dismissal of Mr Kyeremeh Kofi Awuah, the company's human resource manager, who had ignored health and safety issues, leading to accidents. Grievances also concerned payment disparities and overtime payments that were not calculated in accordance with the collective agreement. One of the workers' leaders, Mr Michael Koompon, claimed that the police forcefully removed the workers from the company premises and that four of the workers were arrested for no cause while several others were assaulted and wounded with rubber bullets.</p>
+			<p id="p15">Topics: Labour conflict, Freedom of association,</p>
+			<p id="p16">Copyright notice: © ITUC-CSI-IGB 2010</p>
+		</body>
+	</text>
+</cesDoc>

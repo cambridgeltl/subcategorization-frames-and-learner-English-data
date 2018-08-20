@@ -1,0 +1,240 @@
+QU’ENTEND-ON PAR MODIFICATION DANS LA SITUATION JURIDIQUE DE L’EMPLOYEUR ?
+L’article L 122-12 alinéa 2 du Code du travail dispose que : « S'il             survient une modification dans la situation juridique de l'employeur,             notamment par succession, vente, fusion, transformation du fonds, mise             en société, tous les contrats de travail en cours au jour de la             modification subsistent entre le nouvel employeur et le personnel de             l'entreprise . »
+Cela signifie que lorsque l’entreprise change de propriétaire, les contrats de travail sont maintenus.
+Plusieurs conditions doivent être réunies pour que ce texte s’applique, et profite aux salariés.
+L’article             L 122-12 al 2 énonce quelques cas dans lesquels il s’applique             (succession, vente…). Ici, le transfert s’opère de droit.
+Mais deux exploitants peuvent également convenir d’appliquer volontairement ce texte, en dehors de toute obligation légale.
+APPLICATION DE DROIT DE L’ARTICLE L 122-12 AL 2
+Les juges ont précisé la teneur de ce texte. Ils admettent             son application dès lors qu’il y a transfert d’une « entité économique             conservant son identité et dont l'activité est poursuivie ou reprise ».
+L’entité économique
+« Constitue une entité économique un ensemble organisé de             personnes et d'éléments corporels ou incorporels permettant l'exercice             d'une activité économique qui poursuit des intérêts propres  ».
+Plusieurs éléments doivent donc être réunis :
+des personnes
+une activité.
+Attention
+Il ne faut pas confondre cette entité économique               avec l’unité économique et sociale (UES), utilisée dans le cadre des               élections professionnelles.
+L’activité
+Elle est un élément indispensable de l’entité économique, mais             insuffisant. Il doit s’agir d’une activité économique : production,             commerce, services…
+Exemple : l’article L 122-12 ne               s’applique pas lorsqu’un particulier employeur décède, puisqu’il               n’exerce pas une activité économique. Le contrat de travail de son               salarié n’est pas transféré à ses héritiers.
+Toutes les activités transférées ne sont pas nécessairement             constitutives d'une entité économique autonome. Des activités isolées             ne peuvent être prises en considération car elles ne disposent pas             généralement d’une organisation spécifique. Il convient donc que             l’activité dispose d’une autonomie suffisante, ou poursuive un objectif             propre.
+Exemple : l’article L 122-12 al 2               ne s’applique pas au démembrement des services centraux de               l’entreprise. Ici, le service externalisé n’était pas suffisamment               autonome au niveau de son personnel, ni de son organisation. Il n’avait               de plus pas de moyens spécifiques, ni de finalité propre.
+L’activité transférée n’est pas nécessairement l’activité             principale de l’entreprise. Il peut s’agir d’une activité accessoire,             telle que le nettoyage.
+Exemple : cession du rayon boucherie d’un supermarché, qui était équipé pour la vente.
+La Cour de cassation opère une distinction entre cette activité             économique, et l’entité économique. L’entité économique ne se réduit pas à l’activité dont elle a la charge. D’autres éléments composent son             identité : le personnel, les moyens, l’organisation… L’importance             accordée à chacun de ces éléments variera en fonction de la nature de             l’activité.
+Exemple : la reprise d’un marché               de nettoyage ne constitue un transfert d’identité économique que si               elle s’accompagne de la cession des moyens corporels et/ou incorporels,               ou de la reprise des effectifs.
+Les personnes
+Les salariés affectés à l’activité transférée constituent un             élément de l’entité économique. Sans eux, cette entité ne peut pas             s’organiser.
+A noter
+Lorsque l’activité nécessite du personnel qualifié, les salariés transférés devront disposer d’une qualification spécifique.
+La main d’œuvre peut être essentielle ; elle peut même prendre le pas sur les éléments corporels et incorporels.
+Exemple : une société change de               prestataire de services, pour le nettoyage de ses locaux. Il y aura               transfert entre l’ancien et le nouveau prestataire, même en l’absence               de cession d’élément corporel ou incorporel.
+Les éléments corporels ou incorporels
+Le nouvel exploitant doit reprendre les éléments d'actif corporels             ou incorporels nécessaires à l'exploitation de l'entité économique.
+Ces             éléments sont par exemple : les machines, les locaux (éléments corporels), les brevets ou encore la clientèle (éléments incorporels)…
+L’organisation doit être maintenue dans son ensemble.
+Le transfert de l’entité économique
+La forme du transfert est indifférente. L’article L 122-12 al 2             mentionne notamment la succession, vente, fusion, transformation du             fonds, mise en société.
+Exemple : l’article L 122-12 al 2               s’applique en cas de reprise d’un fonds de commerce dans les mêmes               locaux, avec le même matériel, la même clientèle.
+A noter
+Auparavant, les juges exigeaient qu’il y ait un               lien de droit entre les employeurs successifs. Cette jurisprudence a               été abandonnée. Désormais, il importe peu qu’un lien de droit existe               entre les exploitants, dès lors qu’il y a transfert d’une entité               économique, et que l’activité s’est poursuivie.
+En cas de transfert partiel, seuls les salariés affectés à             l’activité transférée seront concernés par le changement d’employeur.             Il y aura désormais 2 collectivités de salariés, travaillant chacun             pour le compte d’un employeur différent.
+Exemple : cession d’un établissement d’une entreprise qui en comportait 3.
+Les juges de la Cour de cassation ont élargi le champ d’application de l’article L 122-12 al 2.
+Perte d’un marché
+L’article L 122-12 al 2 ne s’applique plus en cas de perte d’un             marché. Auparavant, les juges de la Cour de cassation admettaient que             la perte d’un marché constituait un transfert d’entreprise. La société             qui reprenait le marché perdu par une autre devenait le nouvel             employeur des salariés affectés à cette activité.
+Cette             jurisprudence a été abandonnée. Toutefois, la perte d’un marché pourra             entraîner l’application de l’article L 122-12 al 2 si elle peut être             assimilée au transfert d’une entité économique.
+Externalisation
+Le transfert de l’activité peut s’accompagner de la conclusion d’un             contrat de prestation de services : il s’agit alors d’une             externalisation. Ici, il y aura transfert au sens de l’article L 122-12             al 2 si l’activité est suffisamment autonome.
+Sous-traitance
+La conclusion d’un contrat de sous-traitance peut constituer un cas             d’application de l’article L 122-12 al 2 si l’activité concernée est             suffisamment autonome.
+Exemple : si une entreprise               décide de sous-traiter la maintenance de son matériel, il n’y aura pas               nécessairement transfert d’une entité économique. Les salariés affectés               à la maintenance pourront toutefois être transférés au sous-traitant,               s’il y a bien transfert d’une entité économique autonome.
+Location-gérance
+La location-gérance d’un fonds de commerce emporte transfert de             l'activité et des éléments corporels ou incorporels du fonds,             c'est-à-dire d'un ensemble organisé constitutif d'une entité économique             : dès lors, l'article L. 122-12 al 2 s'applique.
+Concession
+Un changement de concessionnaire peut entraîner l’application de             l’article L 122-12 al 2, dès lors qu’il y a transfert d’une entité             économique.
+Exemple : le changement de concessionnaire de vente de véhicules d’une marque entraîne le maintien des contrats de travail.
+En               revanche, si la concession est reprise par plusieurs entreprises,               l’entité économique ne conserve pas son identité. Ici, l’article L               122-12 al 2 ne s’appliquera donc pas automatiquement.
+Reprise en gestion directe
+Ici, la gestion de l’activité était confiée à un tiers. Elle est             reprise par l’entrepreneur lui-même. Il peut y avoir application de             l’article L 122-12 al 2 s’il y a transfert d’une entité économique.
+Exemple : un grand magasin reprend la gestion de la promotion de ses rayons, qu’il avait confié à un tiers.
+Modification du capital social
+En revanche, la cession d’actions, conduisant à un changement de             majorité dans le capital social, ne constitue pas un cas d’application             de l’article L 122-12 al 2.
+Il en va de même en cas de prise de participation, ou de cession de participation.
+La continuité de l’entreprise
+Maintien de l’activité
+Lorsque l’activité cesse, il n’y aura pas maintien des contrats de travail en application de l’article L 122-12 al 2.
+Toutefois, des atténuations sont à apporter à cette règle.
+Lorsque l’activité a fait l’objet d’une suspension momentanée, il y aura malgré tout application de l’article L 122-12 al 2.
+Exemple : une interruption de 5 mois ne fait pas échec à l’application de cet article.
+En revanche, si l’activité exercée par le nouvel exploitant est             différente, ce texte ne jouera pas. Et ce même si la modification             apportée à l’activité est minime.
+Reprise de l’activité par une personne morale de droit public
+Lorsqu’une activité privée est reprise par un service public, les             juges considèrent qu’il convient de faire application de l’article L             122-12 al 2.
+Exemple : une clinique privée est rachetée par un centre hospitalier. Les salariés de la clinique seront transférés à l’hôpital.
+A noter
+En revanche, l’article L 122-12 al 2 ne jouera pas               dans le cas de la disparition d’un service public. La reprise de son               activité par un organisme privé ne constitue pas le transfert d’une               entité économique.
+Maintien de l’identité de l’entité
+L’exploitation de l’activité par le repreneur ne s’accompagne pas             toujours d’un maintien de l’identité de l’entité économique. A défaut             de ce maintien, l’article L 122-12 al 2 ne s’applique pas.
+On             considère que l’entité conserve son identité lorsque son organisation             est transférée. Cela concerne donc le transfert de l’activité, ainsi             que des moyens qui permettent de la réaliser.
+Exemple : l’article L 122-12 al 2 ne s’applique pas à une société d’autocars reprenant l’exploitation des lignes avec ses propres cars.
+APPLICATION VOLONTAIRE DE L’ARTICLE L 122-12 AL 2
+Deux exploitants peuvent convenir du transfert volontaire des             contrats de travail dans des situations où l’article L 122-12 al 2             n’est pas applicable.
+Ici, il importe peu que les conditions énoncées ci-dessus soient remplies.
+Les deux entrepreneurs peuvent conclure une convention prévoyant ce transfert. Mais celui-ci peut également être implicite.
+Exemple : si le repreneur               convoque les salariés pour leur trouver une nouvelle affectation, il               reconnaît par là-même sa qualité d’employeur à leur égard. Les juges en               ont déduit une application volontaire de l’article L 122-12 al 2.
+Alors qu’il ne peut pas le faire dans le cadre d’une             application de droit de l’article L 122-12 al 2, le salarié peut             s’opposer au transfert conventionnel de son contrat de travail.
+Le             repreneur ne sera engagé que par les clauses contenues dans chaque             contrat de travail repris. En revanche, les usages en vigueur dans             l’entité économique ne lui seront pas opposables.
+APPLICATION CONVENTIONNELLE DE L’ARTICLE L 122-12 AL 2
+Plusieurs conventions collectives organisent le transfert des             contrats de travail d’un employeur à un autre en dehors du cadre de             l’article L 122-12 al 2. Cela concerne la succession de prestataires de             services sur un marché.
+Exemples : conventions collectives de la propreté, de la restauration collective…
+L’employeur ne peut pas s’opposer au transfert prévu par la             convention collective. A défaut, le juge pourra prescrire les mesures             conservatoires ou de remise en état qui s'imposent pour faire cesser un             trouble manifestement illicite.
+A noter
+En l'absence de disposition conventionnelle réglant               les conséquences de l'inobservation de cette obligation par le               repreneur, l'entreprise sortante est tenue de maintenir la rémunération               des salariés concernés par ce transfert tant que leur contrat de               travail n'a pas été repris par le nouveau prestataire. Elle pourra               toutefois agir en remboursement contre le repreneur.
+Le transfert conventionnel des contrats de travail ne             pourra pas être imposé aux salariés titulaires d’un mandat de             représentant du personnel. L’employeur devra demander une autorisation             de transfert à l’inspecteur du travail.
+EFFETS DE LA MODIFICATION DANS LA SITUATION JURIDIQUE DE L’EMPLOYEUR
+Sort des contrats de travail
+Maintien des contrats de travail
+Tous les contrats de travail en cours au jour de la modification             seront transférés au repreneur. Ce transfert est automatique. Aucune             formalité n’est à accomplir. Toutefois, il est recommandé d’informer             individuellement les salariés concernés.
+Tous les contrats de travail sont concernés, qu’ils soient à durée indéterminée ou à  durée déterminée.
+A noter
+Les contrats d’apprentissage se poursuivent               également avec le repreneur. Celui-ci devra toutefois prendre contact               avec la chambre du commerce et de l’industrie ou la chambre des métiers               dont il relève.
+Les salariés dont le contrat a été rompu (licenciement,             démission...) avant la modification ne peuvent prétendre au transfert             de leur contrat de travail au repreneur.
+A noter
+En cas de licenciement avant le transfert, les               contrats de travail ne se poursuivent avec le nouvel employeur que pour               l'exécution du préavis en cours.
+En revanche, la suspension du contrat ne fait pas obstacle à son transfert.
+Exemple : pendant un congé parental d’éducation, un arrêt de travail pour maladie
+Le contrat de travail du salarié détaché suit le sort de             l’entreprise qui l’a détaché : si celle-ci est transférée, le             travailleur détaché devient salarié de l’acquéreur.
+Le             nouvel employeur ne pourra pas s’opposer à la reprise des contrats de             travail. S’il refuse, la rupture du contrat lui sera imputable.
+A noter
+Le transfert du contrat de travail peut être               partiel, si le salarié continue de travailler à la fois pour son               premier employeur, et pour le repreneur.
+Le salarié ne peut pas s’opposer au transfert de son contrat de travail, sauf à démissionner.
+Exception
+Le salarié peut s’opposer au transfert de son               contrat si celui-ci résulte d’une convention conclue volontairement               entre l’ancien et le nouvel exploitant.
+Les contrats de travail seront transférés au nouvel             employeur à la date du transfert de l’activité. Il est impossible de             reporter ce transfert des contrats à une date ultérieure.
+Cas particulier des représentants du personnel
+Lorsque l’intéressé est représentant du personnel d’une entreprise             transférée dans son intégralité, la situation ne pose aucune             difficulté.
+En revanche, une difficulté se présente en cas de transfert partiel de l’entreprise (d’un service, d’un établissement…).
+A noter
+Les juges considèrent que cette procédure               s’applique également en cas de pluralité de transferts partiels,               aboutissant à une cession totale de l’entreprise.
+Les représentants du personnel bénéficient d’une protection spécifique. Le transfert de leurs contrats de travail sera par             conséquent soumis à autorisation de l’inspecteur du travail.
+A noter
+Cette procédure est également valable lorsque le               transfert résulte d’une convention collective, ou d’une convention               volontaire entre vendeur et repreneur.
+La demande d’autorisation doit être adressée à l’inspecteur             du travail par lettre recommandée avec accusé de réception, au moins 15             jours avant la date du transfert.
+L’inspecteur mène une enquête,             afin de s’assurer que le transfert n’est pas discriminatoire, c’est à             dire qu’il n’a pas pour objet d’écarter le représentant. L’inspecteur             entend ce dernier, qui peut se faire assister par un membre de son             syndicat.
+A noter
+L’inspecteur ne pourra pas refuser l’autorisation pour un motif autre qu’une discrimination, comme l’intérêt général.
+La réponse motivée de l’inspecteur intervient dans un délai             de 15 jours suivant la demande. Elle est adressée à l’employeur et au             salarié par courrier recommandé avec accusé de réception.
+En cas             de refus, l’employeur devra proposer au salarié un emploi similaire             assorti d’une rémunération équivalente dans un autre service ou un             autre établissement de l’entreprise.
+Il est possible de contester la décision de l’inspecteur du travail.
+Le recours gracieux : l’employeur ou le salarié peuvent                 solliciter de l’inspecteur lui-même la modification de sa décision. Ce                 retrait ne peut intervenir que dans un délai de 2 mois à compter de la                 notification de la décision initiale.
+Le recours                 hiérarchique : l’employeur, le salarié ou le syndicat qui le représente                 peuvent saisir le ministre du travail de leur contestation. Ce recours                 doit être introduit dans un délai de 2 mois à compter de la                 notification de la décision de l’inspecteur du travail.
+Le                 recours contentieux : il peut être exercé devant le tribunal                 administratif, contre la décision de l’inspecteur du travail ou la                 décision du ministre du travail, dans un délai de 2 mois à compter de                 la notification de la décision.
+Ces différents recours ne sont pas suspensifs : la décision initiale reste applicable.
+Le retrait ou l’annulation de l’autorisation ouvre droit à réintégration du salarié.
+La             décision du tribunal administratif pourra faire objet d’un appel dans             un délai de 2 mois à compter de sa notification, devant la cour             administrative d’appel.
+L’arrêt de la cour administrative             d’appel pourra quant à lui faire l’objet d’un recours devant le Conseil             d’Etat, dans les 2 mois de sa notification.
+Attention
+Le non-respect de cette procédure constitue un               délit d’entrave au fonctionnement des institutions représentatives du               personnel. De plus, le transfert est nul et le salarié reste au service               de son employeur initial.
+Eléments transférés
+Ce sont en principe les mêmes contrats qui se poursuivent.
+Le salarié conserve donc l’ancienneté qu’il a acquise depuis son entrée au service du précédent employeur.
+Il conserve également sa qualification, sa rémunération (dans son montant, mais également sa structure).
+A noter
+La priorité de réembauchage des salariés licenciés               pour motif économique par l’ancien employeur est opposable au               repreneur, à condition que les salariés concernés aient été auparavant               affectés à l’entité économique qui a été transférée.
+Les éléments individuels du contrats de travail sont             également transférés. Ce sera le cas pour la clause de non concurrence             conclue au profit de l’ancien employeur.
+Les dates des congés payés fixées par l’ancien employeur sont opposables au repreneur, sauf circonstances exceptionnelles.
+Modification des contrats de travail
+Le nouvel employeur pourra proposer aux salariés repris des modifications de leurs contrats de travail.
+Sur cette notion, reportez-vous à notre synthèse « La modification du contrat de travail »
+Ces modifications devront nécessairement intervenir après que le transfert soit devenu définitif.
+Exemple : le jour même de son               transfert l'employeur avait fait signer au salarié un contrat               comportant diverses modifications dont celle de sa rémunération. Les               juges ont estimé que cette condition mise par l'employeur à la reprise du salarié tendait à éluder les dispositions d'ordre public de               l'article L. 122-12, alinéa 2, du Code du travail. L’employeur a été               condamné à verser au salarié des rappels de salaires.
+Le repreneur doit pour cela respecter la procédure             légale. Si la modification a une origine économique, le nouvel             employeur devra proposer la modification à chaque salarié, par courrier             recommandé avec accusé de réception, indiquant qu’il dispose d’un délai             de réflexion d’un mois. L’absence de réponse dans ce délai sera             assimilée à une acceptation de la modification.
+En cas de refus, le             nouvel employeur pourra renoncer à la modification, ou engager une             procédure de licenciement pour motif économique.
+Attention
+Ce licenciement devra être justifié (difficultés               économiques, introduction de nouvelles technologies, réorganisation de               l’entreprise afin de sauvegarder sa compétitivité…).
+A noter
+Le nouvel employeur peut également proposer la               novation du contrat de travail : ici, il s’agit d’un nouveau contrat               qui est signé et qui remplace le contrat initial. La novation suppose               l’accord du salarié. De plus, elle ne doit pas avoir pour objectif de               faire échec au transfert du contrat.
+Licenciements
+Licenciements avant le transfert
+Ils sont en principe autorisés, à condition toutefois de ne pas faire échec au transfert des contrats de travail.
+Exemple : l’intention du repreneur de poursuivre seul l’activité n’autorise pas le vendeur à licencier ses salariés.
+Un tel licenciement serait injustifié. Le salarié est fondé             à demander réparation de son préjudice, à l’ancien employeur qui l’a             licencié.
+Attention
+Lorsque les deux exploitants se sont entendus               pour licencier le personnel, ils peuvent être condamnés solidairement à               réparer le préjudice subi par les salariés.
+Le salarié injustement licencié peut également solliciter sa réintégration, auprès du repreneur.
+A noter
+En cas de licenciement licite avant le transfert,               les contrats de travail ne se poursuivent avec le nouvel employeur que               pour l'exécution du préavis en cours.
+Licenciements après le transfert
+Une fois le transfert devenu définitif, le repreneur devient             l’employeur des salariés. En vertu de son pouvoir de direction, il peut             procéder à des licenciements.
+Ces licenciements devront être motivés par une cause réelle et sérieuse : motif économique, faute du salarié…
+S’il             s’avère que le nouvel employeur souhaitait faire échec au transfert des             contrats de travail, le licenciement sera injustifié.
+A noter
+Le nouvel employeur est en mesure de sanctionner               des manquements commis sous l’autorité du précédent employeur, dès lors               qu’il respecte le délai de prescription de deux mois pour engager la               procédure disciplinaire.
+Sort des créances salariales
+L’article L 122-12-1 du Code du travail dispose que le nouvel             employeur est tenu, à l'égard des salariés dont les contrats de travail             subsistent, des obligations qui incombaient à l'ancien employeur à la             date de cette modification.
+Sont concernées toutes les sommes             dues aux salariés, en raison de leur contrat de travail : salaires,             heures supplémentaires, primes, indemnités de congés payés…
+Les juges ont étendu le champ d’application de ce texte aux dommages et intérêts dont peut être redevable l’ancien employeur.
+Par             conséquent, le salarié concerné peut agir contre son nouvel employeur,             ou bien l’ancien. Lorsqu’il agit contre son nouvel employeur, celui-ci             est fondé à se retourner contre l’ancien exploitant en remboursement             des sommes versées.
+Attention
+Il existe 2 exceptions à ce transfert de dettes :
+lorsque le transfert intervient dans le cadre d'une                 procédure de redressement ou liquidation judiciaires, le nouvel                 employeur n’est pas tenu des dettes antérieures au transfert.
+Les salariés recevront ici leurs salaires de l’AGS (association pour la gestion du régime d'assurance des créances salariés).
+Pour connaître les sommes couvertes par cette assurance et les modalités de paiement, reportez-vous à notre synthèse « L’AGS ».
+lorsque le transfert est intervenu entre deux employeurs,                 sans que ceux-ci aient conclu de convention, le repreneur ne sera pas                 tenu des dettes antérieures à la reprise.
+Exemple : lorsque deux prestataires de services se succèdent sur un marché
+A noter
+L’article L 122-12 al 2 ne concerne que les relations entre salarié et employeur. Par conséquent, l’URSSAF n’est pas concernée.
+Cela               signifie que l’ancien employeur reste redevable des cotisations               sociales afférentes aux rémunérations qu’il a versées. Le nouvel               employeur versera les charges sociales sur les rémunérations versées à               compter de la date de la reprise.
+Attention, le nouvel employeur aura toutefois la charge de la régularisation annuelle.
+Sort des mandats représentatifs
+Les délégués syndicaux
+En cas de modification dans la situation juridique de l'employeur             au sens de l'article L. 122-12 al 2, le mandat du délégué syndical ou             du délégué syndical central subsiste lorsque l'entreprise qui fait             l'objet de la modification conserve son autonomie juridique.
+Il en est de même lorsque la modification porte sur un établissement.
+A noter
+Les juges ne s’attachent plus à la notion d’«               autonomie juridique ». Dès lors que le transfert porte sur une entité               économique autonome conservant son identité, ils considèrent que, même               si l’entreprise perd son « autonomie juridique », elle conserve son               autonomie.
+Exemples :
+-le mandat du délégué syndical subsiste si l’entreprise change simplement de propriétaire.
+-l’entreprise devient un établissement distinct de la société l’ayant rachetée : le délégué syndical conserve son mandat.
+Les mandats maintenus le seront sans limitation de durée.
+Les délégués du personnel et le comité d’entreprise
+En cas de modification dans la situation juridique de l'employeur             au sens de l'article L 122-12 al 2, le mandat des délégués du             personnel, des représentants élus du comité d'entreprise et des             représentants syndicaux de l'entreprise qui a fait l'objet de la             modification, subsiste lorsque cette entreprise conserve son autonomie             juridique.
+Si cette entreprise devient un établissement ou si la             modification porte sur un ou plusieurs établissements distincts qui             conservent ce caractère, le mandat des représentants syndicaux subsiste             et le mandat des délégués du personnel et des membres élus du comité se             poursuit jusqu'à son terme.
+Toutefois, la durée du mandat des             membres élus peut être réduite ou prorogée, pour tenir compte de la             date habituelle des élections dans l'entreprise d'accueil, par voie             d'accord entre le nouvel employeur et les organisations syndicales             représentatives existant dans le ou les établissements absorbés ou, à             défaut, les membres du comité concernés.
+A noter
+L’établissement est défini comme le regroupement               d’au moins 11 salariés constituant une communauté de travail ayant des               intérêts propres, susceptible de générer des réclamations communes et               spécifiques et travaillant sous la direction d'un représentant de               l'employeur, peu important que celui-ci ait le pouvoir de se prononcer               sur ces réclamations.
+S’agissant du comité d’entreprise, on               vérifiera que l’établissement dispose d’une autonomie de gestion (en               matière comptable, financière, gestion du personnel).
+A noter
+En cas de transfert conventionnel ou volontaire des               contrats de travail, le maintien des mandats n’est pas obligatoire.               Tout dépendra de ce qui est prévu par la convention collective ou la               convention conclue entre vendeur et repreneur.
+A noter
+Si les effectifs augmentent de telle sorte que le               nombre de représentants du personnel est insuffisant au regard de la               loi, l’employeur n’est pas pour autant tenu d’organiser des élections               professionnelles complémentaires. Il pourra attendre le renouvellement               des institutions existantes.
+Rappel :
+L’élection de délégués du personnel est obligatoire dans toute entreprise atteignant 11 salariés.
+Le seuil est de 50 salariés pour la mise en place d’un comité d’entreprise.
+Les effectifs de l'entreprise sont calculés comme suit :
+Les salariés titulaires d'un contrat à durée indéterminée                 à temps plein et les travailleurs à domicile sont pris intégralement en                 compte dans l'effectif de l'entreprise.
+Les salariés                 titulaires d'un contrat à durée déterminée, d'un contrat de travail                 intermittent, mis à la disposition de l'entreprise par une entreprise                 extérieure, y compris les travailleurs temporaires, sont pris en compte                 dans l'effectif de l'entreprise au prorata de leur temps de présence au                 cours des douze mois précédents. Toutefois, les salariés titulaires                 d'un contrat à durée déterminée, d'un contrat de travail temporaire ou                 mis à disposition par une entreprise extérieure sont exclus du décompte                 des effectifs lorsqu'ils remplacent un salarié absent ou dont le                 contrat de travail est suspendu.
+Les salariés à temps                 partiel, quelle que soit la nature de leur contrat de travail, sont                 pris en compte en divisant la somme totale des horaires inscrits dans                 leurs contrats de travail par la durée légale ou la durée                 conventionnelle du travail.
+Sort du statut collectif
+Les conventions collectives
+Lors d’un transfert d’entreprise, le sort de la convention             collective dépend de celle qui est applicable dans l’entreprise ayant             repris l’autre.
+S’il s’agit de la même convention, cela ne pose aucune difficulté.
+En             revanche, s’il s’agit d’une convention différente, une règle             particulière s’applique. La convention collective n’est pas transférée,             mais mise en cause. Cette mise en cause de la convention collective             conduit au respect d’un préavis de 3 mois, pendant lequel elle continue             de s’appliquer.
+A l’expiration du préavis, la convention             collective continue de s’appliquer jusqu’à l’entrée en vigueur de la             nouvelle convention, et au maximum pendant un an.
+A noter
+Le délai de survie de la convention collective est donc au total de 15 mois.
+Pendant cette période, les salariés seront soumis à la fois             à leur ancienne convention, et à celle dont dépend le repreneur le cas             échéant. En cas de litige entre les 2 textes, il conviendra d’appliquer             le plus favorable pour eux.
+Une nouvelle négociation doit             s'engager dans l'entreprise en cause, soit pour l'adaptation aux             dispositions conventionnelles nouvellement applicables, soit pour             l'élaboration de nouvelles dispositions (on parle d’accord de             substitution).
+A l’issue de cette période de 15 mois, l’ancienne             convention cesse de s’appliquer en tout état de cause. A compter de             cette date, les salariés relèvent de la nouvelle convention, et perdent             donc les avantages dont ils bénéficiaient au titre de l’ancienne.
+Exception
+Même en l’absence d’accord de substitution,               l’ancienne convention collective cesse de s’appliquer. Mais ici, les               salariés conservent leurs avantages individuels acquis.
+Il s’agit               d’avantages dont ils ont déjà bénéficié, à titre personnel, du fait de               la convention collective disparue. Il ne doit donc pas s’agir de droits               éventuels.
+Les usages et engagements unilatéraux de l’employeur
+Ils sont transférés au nouvel employeur. Si celui-ci le souhaite,             il pourra toutefois les dénoncer afin de ne plus les appliquer. Il doit             pour cela :
+informer individuellement les salariés concernés,
+informer les institutions représentatives du personnel,
+respecter un délai de prévenance suffisant.
+A noter
+Le régime de prévoyance applicable dans               l’entreprise cédée peut être institué par accord collectif, usage ou               décision unilatérale de l’employeur, ou référendum.
+Il subira donc le sort applicable à chacune de ces normes.
+Si le régime de prévoyance a été institué suite à un référendum, il pourra être modifié par le repreneur.
+Mise à jour : décembre 2005
+Tous droits réservés © 1999-2007   Infotravail

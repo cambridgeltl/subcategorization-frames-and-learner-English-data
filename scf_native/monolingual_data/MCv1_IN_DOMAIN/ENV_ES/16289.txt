@@ -1,0 +1,84 @@
+Datos de entrada del emisario submarino:
+Se refiere a un foco contaminante, fijo en una  posición del espacio, y que es pequeño en relación al tamaño del área en el que  estamos realizando la simulación. Un ejemplo típico puede ser el de un emisario  submarino. Si consideramos, por ejemplo, un área de varios kilómetros cuadrados  en nuestros ejes X e Y, el tamaño de el agujero de salida de un emisario  submarino de medio metro de diámetro podrá considerarse como un punto material  en nuestra simulación. Por ello, lo trataremos como una fuente puntual. Al hacer click sobre la opción Emisario puntual del menú lo que aparece es una ventana de la  siguiente forma:
+donde se indican las  propiedades del emisario. Dichas propiedades las podremos cambiar según el  proceso de contaminación que deseemos simular. Las casillas se activarán según el modelo que tengamos activado: Modelo de  penacho con curvatura o Modelo estratificado (Ver Modelos del Cálculo). Las  propiedades son:
+Modelo de penacho con curvatura:
+Las magnitudes a introducir en las propiedades de la fuente puntual para el Modelo de penacho con curvatura son:
+Velocidad de salida del contaminante u
+a
+(m/s): Es la velocidad de salida del agua   por el orificio del emisario submarino. Se expresa en metros por segundo   (m/s). Las velocidades típicas en emisarios submarinos suelen ser de pocos   m/s, por ejemplo unos 3 m/s.
+Concentración de contaminante (g/m3): Es la concentración de contaminante que   deseamos estudiar y que hay en el líquido que se emite al medio por el   emisario submarino. Se expresa en gramos por metro cúbico (g/m3).   Las aguas fecales pueden tener una concentración de unos 350 g/m3 de DBO. El programa trabaja con g/m3 todo el rato ya que son las   unidades típicas. No obstante piense que el programa calcula la dilución del   contaminante en cada punto y obtiene la concentración de contaminante en cada   sitio dividiendo la concentración por dicha tasa de dilución que no tiene   unidades. Es decir, si introduce un valor de 120 en esta casilla, que   corresponden a 120ppm, el mapa que aparecerá en pantalla después del cálculo   como g/m3 lo podremos tomar como mapa en unidades ppm si queremos   hacerlo así. Otra opción sería pasar los ppm a g/m3, introducirlos   y, posteriormente, hacer el cálculo y obtener todo en g/m3 y evitar   así confusiones.
+Altura del emisor bajo el nivel de la superficie del agua (m): Es la altura desde la boca de salida del   emisario submarino hasta el nivel de la superficie del agua. Se expresa en   metros (m).
+Caudal de salida del contaminante: Es la cantidad de materia con   contaminante que sale en la unidad de tiempo por el orificio de salida del   emisario submarino. Dicha magnitud física se conoce como Caudal. Viene   expresado en metros cúbicos por segundo (m3/s). Los valores típicos   del caudal dependerán del emisario en estudio. Podemos darnos cuenta de que si   fijamos el caudal y la velocidad de salida del emisario, también determinamos   el tamaño del orificio de salida ya que el caudal es igual al área del   orificio por la velocidad de salida. Caudal=áreaxu
+a
+.   Por ejemplo, un emisario con un orificio de salida de 1m2 de área   que emita contaminante a 0,5 m/s de velocidad tendrá un caudal de 1m2x0.5m/s=0,5m3/s.
+Densidad del líquido emitido con contaminante (kg/m3): Es la densidad del líquido que emite el   emisario submarino y que contiene al contaminante que queremos estudiar. Se   expresa en kilos por metro cúbico (kg/m3). Suelen tener un valor   muy parecido a la del agua pura 1.000 kg/m3.
+Opción tipo de descarga: Hay tres opciones. La descarga   vertical en la que el contaminante sale hacia arriba y la descarga horizontal   A y B en la que el contaminante sale en paralelo a la superficie del agua.   Dichas opciones corresponden al diseño físico del emisario en estudio que   puede tener la boca apuntando hacia arriba o en paralelo a la superficie del   agua. El programa DESCAR considera que, en al caso de descarga en paralelo a   la superficie, la dirección de salida del contaminante es siempre   perpendicular a la dirección de la corriente. Esto se hace para simplificar el   problema matemático del cálculo y es una aproximación que recogen los   diferentes modelos que nos podemos encontrar en el mercado. Definiendo la   dirección de la corriente fijamos también la dirección (perpendicular a ésta   última) de la salida de contaminante del emisario. Las opciones A y B nos dan   la posibilidad de elegir los dos sentidos posibles de la descarga en paralelo   perpendicular a la corriente. Con la opción A y con una corriente que fluye   hacia el Este tenemos una descarga en dirección Sur. Con la opción B y con una   corriente que fluye hacia el Este tenemos una descarga en dirección Norte.   Esto se puede comprobar fácilmente observando las diferentes estelas de   contaminante que dejan los emisarios en el cálculo.
+Modelo estratificado:
+Las magnitudes a introducir en las propiedades de la fuente puntual para el Modelo estratificado son:
+Angulo del emisario(grados): Es el ángulo del emisario. Se expresa   grados (de 0 a 360) y está referido al Norte (0 grados). El Norte, en nuestro   caso, es la parte alta de la pantalla.
+Longitud del difusor (m): Es la longitud en metros del   difusor del emisario submarino. El difusor es la región del conducto dónde se   encuentran la boca o bocas de salida.
+1/T90 (1/horas), Coeficientes de autodepuración: Este coeficiente tiene en cuenta la vida   media del contaminante por si éste desaparece mediante reacciones químicas con   el medio. Se expresa en horas-1. Es el T90 de la E.Coli. Para   localidades de menos de 10.000 habitantes podremos tomar un T90=2 horas   (1/T90=0,5 horas-1) en el Mediterraneo y T90=3 horas (1/T90=0,33   horas-1) en el Atlántico. Para coliformes fecales en aguas con   salinidad superior a 30 g/L pueden servir de orientación los valores   determinados por la siguiente expresión:
+T90=[(α/60)(1-0,65C2)(1-SS/800)+0,02   10(Ta-20/35)]-1
+Siendo α el   ángulo del sol sobre el horizonte en grados sexagesimales (α>=0), C la   fracción del cielo cubierto de nubes, SS la concentración de sólidos en   suspensión en mg/L, con un valor máximo de SS=800, y Ta la temperatura del   agua en grados Celsius.
+Nota   importante para versiones de DESCAR 3.2 o inferiores:
+En el   modelo oficial, T90 se expresa en horas, tal y como asume el programa. Sin   embargo, la ecuación F
+0
+(t)=10-t/T90 del   modelo oficial(1) viene con el tiempo en segundos. Atendiendo a criterios de   consistencia matemática y de coherencia   de resultados tendría que venir T90 expresada en segundos (multiplicar por   3600 segundos que tiene una hora). Dejamos al usuario la posibilidad de usar   el modelo oficial tal y como está, o bien introducir la rectificación   correspondiente. Por ejemplo, para un T90=2 horas   el usuario debe introducir:
+(a)   Atendiendo al modelo oficial:
+1/T90=0,5   horas-1 como dato de entrada del programa. Es decir, introducir 0,5   en la casilla del programa para un T90=2 horas.
+(b)   Atendiendo a criterios   de consistencia matemática y de   coherencia de resultados:
+1/T90=1/(2   x 3600)=0,000278 como dato de entrada del programa. Es decir, introducir   0,000278 en la casilla del programa para un T90=2 horas.
+(1) Orden del 13 de Julio de   1993 del Ministerio de Obras Públicas y Transportes del Reino de ESPAÑA, B.O.E.   Martes 27 de Julio de 1993, página 22861.
+Opción tipo de boca de salida: Hay tres opciones: emisario con boca   única, emisario con bocas próximas y emisario con bocas separadas. Se deberá   elegir la opción que más se ajusta al emisario que se simula. Se consideran   bocas próximas cuando la separación entre las mismas es de menos del 3% de la   profundidad en el punto de vertido. Las bocas separadas son difusores cuyas   bocas están separadas más de un 20% de la profundidad en el punto del vertido.   Para difusores con bocas con separación entre el 3% y el 20% de la profundidad   en el punto de vertido no son aplicables los métodos anteriores y deberán   buscarse otros modelos.
+emisario submarino
+Aplicaciones  del software de Canarina para   simular los procesos de contaminación y de impacto   ambiental: El software de Canarina se  distribuye y vende en más de 50 países de todo el mundo y es  utilizado por miles de usuarios para aplicaciones en las  siguientes áreas de trabajo, temas de estudio y conceptos relacionados con la  contaminación e impacto ambiental: emisario submarino
+España: emisario submarino en Castilla y León - emisario submarino en Andalucía - emisario submarino en Castilla-La Mancha
+España: emisario submarino en Aragón - emisario submarino en Extremadura - emisario submarino en Cataluña
+España: emisario submarino en Galicia - emisario submarino en Comunidad Valenciana - emisario submarino en Región de Murcia
+España: emisario submarino en Principado de Asturias - emisario submarino en Comunidad Foral de Navarra - emisario submarino en Comunidad de Madrid
+España: emisario submarino en Canarias - emisario submarino en País Vasco - emisario submarino en Cantabria
+España: emisario submarino en La Rioja - emisario submarino en Islas Baleares - emisario submarino en Ceuta y Melilla
+España: emisario submarino en Badajoz - emisario submarino en Cáceres - emisario submarino en Ciudad Real
+España: emisario submarino en Zaragoza - emisario submarino en Cuenca - emisario submarino en Huesca
+España: emisario submarino en León - emisario submarino en Toledo - emisario submarino en Albacete
+España: emisario submarino en Teruel - emisario submarino en Sevilla - emisario submarino en Burgos - emisario submarino en Córdoba
+España: emisario submarino en Jaén - emisario submarino en Granada - emisario submarino en Salamanca
+España: emisario submarino en Guadalajara - emisario submarino en Lérida - emisario submarino en Murcia
+España: emisario submarino en Valencia - emisario submarino en Asturias - emisario submarino en Zamora
+España: emisario submarino en Soria - emisario submarino en Huelva - emisario submarino en Lugo
+España: emisario submarino en Navarra -  emisario submarino en Almería - emisario submarino en Valladolid
+España: emisario submarino en Palencia - emisario submarino en Ávila - emisario submarino en Madrid
+España: emisario submarino en La Coruña - emisario submarino en Barcelona - emisario submarino en Cádiz
+España: emisario submarino en Málaga - emisario submarino en Orense - emisario submarino en Segovia
+España: emisario submarino en Castellón - emisario submarino en Tarragona - emisario submarino en Gerona
+España: emisario submarino en Alicante - emisario submarino en Cantabria - emisario submarino en La Rioja
+España: emisario submarino en Islas Baleares - emisario submarino en Pontevedra - emisario submarino en Las Palmas
+España: emisario submarino en Santa Cruz de Tenerife - emisario submarino en Álava - emisario submarino en Vizcaya - emisario submarino en Guipúzcoa
+España: emisario submarino en Córdoba - emisario submarino en Valladolid - emisario submarino en Vigo
+España: emisario submarino en Gijón - emisario submarino en Hospitalet de Llobregat - emisario submarino en La Coruña
+España: emisario submarino en Vitoria - emisario submarino en Granada - emisario submarino en Elche
+España: emisario submarino en Castellón de la Plana - emisario submarino en Burgos - emisario submarino en Albacete
+España: emisario submarino en Alcorcón - emisario submarino en Getafe - emisario submarino en Salamanca
+España: emisario submarino en Logroño - emisario submarino en San Cristóbal de la Laguna - emisario submarino en Huelva
+España: emisario submarino en Badajoz - emisario submarino en Tarragona - emisario submarino en Lérida
+España: emisario submarino en Marbella - emisario submarino en León - emisario submarino en Cádiz
+España: emisario submarino en Dos Hermanas - emisario submarino en Mataró - emisario submarino en Santa Coloma de   Gramanet
+España: emisario submarino en Torrejón de Ardoz - emisario submarino en Jaén - emisario submarino en Algeciras
+España: emisario submarino en Parla - emisario submarino en Alcobendas - emisario submarino en Orense
+España: emisario submarino en Reus - emisario submarino en Torrevieja - emisario submarino en Telde
+España: emisario submarino en Baracaldo - emisario submarino en Lugo - emisario submarino en San Fernando
+España: emisario submarino en Gerona - emisario submarino en Santiago de Compostela - emisario submarino en Cáceres
+España: emisario submarino en Lorca - emisario submarino en Coslada - emisario submarino en Talavera de la Reina
+España: emisario submarino en El Puerto de Santa María - emisario submarino en Cornellá   de Llobregat - emisario submarino en Las Rozas
+España: emisario submarino en Orihuela - emisario submarino en Avilés
+México: emisario submarino en Distrito Federal - emisario submarino en Aguascalientes - emisario submarino en Baja California
+México: emisario submarino en Baja California Sur - emisario submarino en Campeche - emisario submarino en Chiapas
+México: emisario submarino en Chihuahua - emisario submarino en Coahuila de Zaragoza - emisario submarino en Colima
+México: emisario submarino en Durango - emisario submarino en Guanajuato - emisario submarino en Guerrero
+México: emisario submarino en Hidalgo - emisario submarino en Jalisco - emisario submarino en México
+México: emisario submarino en Michoacán de Ocampo - emisario submarino en Morelos - emisario submarino en Nayarit
+México: emisario submarino en Nuevo León - emisario submarino en Oaxaca - emisario submarino en Puebla
+México: emisario submarino en Querétaro - emisario submarino en Quintana - emisario submarino en Roo
+México: emisario submarino en San Luis - emisario submarino en Potosí - emisario submarino en Sinaloa
+México: emisario submarino en Sonora - emisario submarino en Tabasco - emisario submarino en Tamaulipas
+México: emisario submarino en Tlaxcala - emisario submarino en Veracruz - emisario submarino en Yucatán - emisario submarino en Zacatecas

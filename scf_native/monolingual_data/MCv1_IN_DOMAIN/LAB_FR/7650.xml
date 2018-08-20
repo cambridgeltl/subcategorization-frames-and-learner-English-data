@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Expert-comptable : il peut être reconnu responsable si un CDD n’a pas été rédigé par écrit - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Expert-comptable : il peut être reconnu responsable si un CDD n’a pas été rédigé par écrit - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:39:09.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=BTP&amp;id_art=1540&amp;titre=Expert-comptable+%3A+il+peut+%C3%AAtre+reconnu+responsable+si+un+CDD+n%E2%80%99a+pas+%C3%A9t%C3%A9+r%C3%A9dig%C3%A9+par+%C3%A9crit</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/7650.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Expert-comptable : il peut être reconnu responsable si un CDD n’a pas été rédigé par écrit</p>
+			<p id="p2">Tout contrat ayant la forme d’un contrat à durée déterminée (CDD) doit obligatoirement être rédigé par écrit. Sinon, il est « requalifié » en CDI. Dans ce cas, pouvez-vous vous retourner contre votre expert-comptable ?</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Le contrat de travail à durée déterminée (CDD) doit obligatoirement faire l’objet d’un contrat de travail écrit et comporter la définition précise de son motif. A défaut, il sera considéré comme étant un contrat à durée indéterminée (CDI) ( Code du travail , art. L. 1242-12).</p>
+			<p id="p5">La requalification du CDD en CDI entraîne également la condamnation de l’employeur au versement de dommages et intérêts pour licenciement sans cause réelle et sérieuse.</p>
+			<p id="p6">Le rôle social de l’expert-comptable</p>
+			<p id="p7">L’expert-comptable peut fournir différentes prestations en matière de droit du travail :</p>
+			<p id="p8">rédiger les contrats de travail ;</p>
+			<p id="p9">procéder aux déclarations sociales pour le compte de son client employeur.</p>
+			<p id="p10">Le CDD, quel que soit son motif, ne peut avoir ni pour objet ni pour effet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise.</p>
+			<p id="p11">L’expert-comptable a une obligation de conseil même s’il ne rédige pas le contrat de travail</p>
+			<p id="p12">L’expert-comptable qui ne rédige pas les contrats de travail mais qui a pour mission d’établir les bulletins de paie et les déclarations sociales peut-il voir sa responsabilité engagée en cas de requalification d’un CDD en CDI ?</p>
+			<p id="p13">Pour les juges, la réponse est oui. Pour établir les bulletins de paie et les déclarations sociales, l’expert-comptable doit recueillir des informations sur le contrat de travail : durée du travail, rémunération, type de contrat, etc.</p>
+			<p id="p14">S’il constate que le contrat n’est pas conforme au droit du travail, il doit alerter son client. Et ce, même s’il n’a pas été chargé de le rédiger…</p>
+			<p id="p15">Il a donc une obligation de conseil, qui va au-delà de la stricte mission qui lui a été confiée…</p>
+			<p id="p16">I. Vénuat</p>
+			<p id="p17">(Cour de cassation, chambre commerciale, 17 mars 2009, n° 07-20667 : obligation de conseil de l’expert-comptable)</p>
+			<p id="p18">Pour bien rédiger vos contrats de travail, les Editions Tissot vous proposent leur ouvrage « Gérer le personnel du BTP ».</p>
+			<p id="p19">Article publié le 12 mai 2009</p>
+			<p id="p20">Partagez cet article :</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

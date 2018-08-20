@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Embauche</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Embauche</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:13:18.0</pubDate>
+							<eAddress>http://fr.academic.ru/dic.nsf/frwiki/576916</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Embauche</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/205.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.</p>
+			<p id="p2">Relations individuelles</p>
+			<p id="p3">Portail Droit du travail</p>
+			<p id="p4">L'embauche est la première phase du contrat de travail . Des formalités obligatoires sont prévues par le Code du travail au cours de cette période.</p>
+			<p id="p5">Sommaire</p>
+			<p id="p6">Déclaration Préalable</p>
+			<p id="p7">Quelles que soient la durée et la nature du contrat de travail envisagé, une déclaration nominative préalable à l’embauche (DPAE) doit être adressée à l’ URSSAF [1] , avant toute embauche [2] .</p>
+			<p id="p8">Pour un employeur, méconnaitre cette disposition (par l'oubli ou la négligence) est passible d'une amende de 750 euros au plus [3] .</p>
+			<p id="p9">S'y soustraire intentionnellement est constitutif du délit de travail dissimulé passible de 3 ans d'emprisonnement et d'une amende de 45 000€.</p>
+			<p id="p10">Inscription sur le Registre Unique du Personnel</p>
+			<p id="p11">Dans tout établissement où sont employés des salariés, un registre unique du personnel, sur lequel les noms et prénoms de tous les salariés sont inscrits dans l'ordre des embauches, doit être tenu.</p>
+			<p id="p12">Ne pas y inscrire un nouveau salarié est passible d'une amende de 4ème classe [3] .</p>
+			<p id="p13">Déclaration unique d'embauche</p>
+			<p id="p14">La Déclaration Unique d'Embauche ou DUE permet d'effectuer l'ensemble des sept formalités obligatoires liées à l'embauche d'un salarié, en une seule fois auprès de l' URSSAF dont relève l'établissement concerné par l'embauche.</p>
+			<p id="p15">Obligations à l’égard du salarié</p>
+			<p id="p16">Rédaction d'un contrat</p>
+			<p id="p17">La loi française n'impose l'écrit que lorsque le contrat comporte des particularités (par exemple lorsqu'il est conclu pour une durée déterminée ou lorsqu'il est à temps partiel ).</p>
+			<p id="p18">La directive européenne sur le sujet [4] , qui aurait dû être transposée avant le 1er juillet 1993, prévoit pourtant que l' employeur doit informer par écrit (contrat de travail écrit, lettre d'engagement ou autres documents écrits) le salarié sur les éléments essentiels du contrat .</p>
+			<p id="p19">En 1994, selon le Ministre en charge du dossier , "la transposition de la directive européenne en droit interne ne s'avère [...] pas nécessaire compte tenu de l'état actuel de la législation française", celle-ci prévoyant "la délivrance au salarié du bulletin de paie et d'une copie de la déclaration préalable a l'embauche" permettant à l'employeur de respecter les obligations découlant de cette directive communautaire [5] .</p>
+			<p id="p20">La loi prévoit uniquement que si un écrit est rédigé, il doit l'être en français [6] .</p>
+			<p id="p21">Communication d'informations</p>
+			<p id="p22">(exécution des formalités déclaratives) (informations sur les textes conventionnels applicables)</p>
+			<p id="p23">Visite médicale</p>
+			<p id="p24">Le nouvel embauché doit bénéficier d'un examen médical par le médecin du travail avant l'embauche, ou au plus tard avant l'expiration de la période d'essai [7] .</p>
+			<p id="p25">Certains salariés, comme ceux affectés à des travaux particuliers, les travailleurs handicapés , femmes enceintes ou les travailleurs âgés de moins de dix-huit ans , sont soumis à une surveillance médicale renforcée [8] . Ils doivent impérativement être examinés avant leur embauche.</p>
+			<p id="p26">Selon la réglementation, 3 finalités sont poursuivies lors de cet examen médical d'embauche :</p>
+			<p id="p27">"S'assurer que le salarié est médicalement apte au poste de travail auquel l'employeur envisage de l'affecter" ;</p>
+			<p id="p28">"Proposer éventuellement les adaptations du poste ou l'affectation à d'autres postes" ;</p>
+			<p id="p29">"Rechercher si le salarié n'est pas atteint d'une affection dangereuse pour les autres travailleurs" [9] .</p>
+			<p id="p30">Notes et références</p>
+			<p id="p31">↑ art. L1221-10 du Code du travail</p>
+			<p id="p32">↑ a et b art. R1227-7 du code du travail et art. 131-13 du Code pénal</p>
+			<p id="p33">↑ Directive 91/533/CEE du 14/10/91 relative à l'obligation de l'employeur d'informer le travailleur des conditions applicables au contrat ou à la relation de travail</p>
+			<p id="p34">↑ art. L1221-3 du code du travail</p>
+			<p id="p35">↑ art. R4624-10 du code du travail</p>
+			<p id="p36">↑ art. R4624-19 du code du travail</p>
+			<p id="p37">↑ art. R4624-11 du Code du travail</p>
+			<p id="p38">Liens internes</p>
+			<p id="p39">Catégorie : Contrat de travail en France</p>
+			<p id="p40">Catégories cachées : Wikipédia:ébauche droit français | Portail:Droit français/Droit du travail/Articles liés | Portail:France/Articles liés | Portail:Droit français/Articles liés</p>
+			<p id="p41">Regardez d'autres dictionnaires:</p>
+			<p id="p42">Contrat nouvelle embauche — Cotrat ouvelle embauche (abbreviated to CNE, "New Employmet Cotract" aka "New Recruitmet Cotract" or sometimes "New-job cotract" i Eglish) is a ew Frech job cotract, proposed by prime miister Domiique de Villepi (UMP) ad that… (Wikipedia)</p>
+			<p id="p43">Contrat Premier Embauche — Der Cotrat Première Embauche (CPE) (fraz.: „Vertrag zur Ersteistellug“) war Teil eies eue Arbeitsgesetzes, mit welchem ei weiterer Typus vo Arbeitsverträge i Frakreich eigeführt werde sollte. Das Gesetz wurde am 10. Februar 2006… (Deutsch Wikipedia)</p>
+			<p id="p44">Contrat Premiere Embauche — Der Cotrat Première Embauche (CPE) (fraz.: „Vertrag zur Ersteistellug“) war Teil eies eue Arbeitsgesetzes, mit welchem ei weiterer Typus vo Arbeitsverträge i Frakreich eigeführt werde sollte. Das Gesetz wurde am 10. Februar 2006… (Deutsch Wikipedia)</p>
+			<p id="p45">Contrat Première Embauche — Der Cotrat Première Embauche (CPE) (fraz.: „Vertrag zur Ersteistellug“) war Teil eies eue Arbeitsgesetzes, mit welchem ei weiterer Typus vo Arbeitsverträge i Frakreich eigeführt werde sollte. Das Gesetz wurde am 10. Februar 2006… (Deutsch Wikipedia)</p>
+			<p id="p46">Contrat nouvelle embauche — Der Cotrat ouvelle embauche (CNE, Vertrag für eue Beschäftigug) wurde als arbeitsmarktpolitisches Istrumet vom koservative Premiermiister de Villepi im August 2005 per Verordug im Eilverfahre eigeführt, um i Kleiuterehme mit… (Deutsch Wikipedia)</p>
+			<p id="p47">Contrat premiere embauche — Der Cotrat Première Embauche (CPE) (fraz.: „Vertrag zur Ersteistellug“) war Teil eies eue Arbeitsgesetzes, mit welchem ei weiterer Typus vo Arbeitsverträge i Frakreich eigeführt werde sollte. Das Gesetz wurde am 10. Februar 2006… (Deutsch Wikipedia)</p>
+			<p id="p48">Contrat première embauche — Der Cotrat Première Embauche (CPE) (fraz.: „Vertrag zur Ersteistellug“) war Teil eies eue Arbeitsgesetzes, mit welchem ei weiterer Typus vo Arbeitsverträge i Frakreich eigeführt werde sollte. Das Gesetz wurde am 10. Februar 2006… (Deutsch Wikipedia)</p>
+			<p id="p49">Contrat Nouvelle Embauche — Cotrat ouvelles embauches Foctioemet du Cotrat ouvelles embauches Le CNE était u cotrat de travail à durée idétermiée particulier[2], réservé aux etreprises de 20 salariés au plus, soit 96% des etreprises fraçaises et 29% des… (Français Wikipedia)</p>
+			<p id="p50">Contrat Première Embauche — Cotrat première embauche Pour les articles homoymes, voir CPE. Pour cosulter u article plus gééral, voir : Cotrat de travail e Frace. E Frace, le cotrat première embauche (CPE) était u type de cotrat de travail à durée… (Français Wikipedia)</p>
+			<p id="p51">Contrat nouvelle embauche — Cotrat ouvelles embauches Foctioemet du Cotrat ouvelles embauches Le CNE était u cotrat de travail à durée idétermiée particulier[2], réservé aux etreprises de 20 salariés au plus, soit 96% des etreprises fraçaises et 29% des… (Français Wikipedia)</p>
+			<p id="p52">Contrat premiere embauche — Cotrat première embauche Pour les articles homoymes, voir CPE. Pour cosulter u article plus gééral, voir : Cotrat de travail e Frace. E Frace, le cotrat première embauche (CPE) était u type de cotrat de travail à durée… (Français Wikipedia)</p>
+		</body>
+	</text>
+</cesDoc>

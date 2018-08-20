@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Temps partiel - Le travail à temps partiel</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Temps partiel - Le travail à temps partiel</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:10:09.0</pubDate>
+							<eAddress>http://www.easydroit.fr/droit-du-travail-droit-social/Le-contrat-de-travail/Le-temps-de-travail/Le-travail-a-temps-partiel.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>temps partiel</keyTerm>
+					<keyTerm>le travail à temps partiel</keyTerm>
+					<keyTerm>travail temps partiel</keyTerm>
+					<keyTerm>emploi temps partiel</keyTerm>
+					<keyTerm>salaire temps partiel</keyTerm>
+					<keyTerm>définition</keyTerm>
+					<keyTerm>mise en place</keyTerm>
+					<keyTerm>contrat de travail obligatoirement écrit</keyTerm>
+					<keyTerm>organisation du temps partiel</keyTerm>
+					<keyTerm>travail a temps partiel</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/121.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Connexion Annuler</p>
+			<p id="p2">Recopiez le texte</p>
+			<p id="p3">Définition</p>
+			<p id="p4">Est considéré comme salarié à temps partiel, selon l'article L. 3123-1 du Code du travail, le salarié dont la durée du travail est inférieure :</p>
+			<p id="p5">1° A la durée légale du travail ou, lorsque cette durée est inférieure à la durée légale, à la durée du travail fixée conventionnellement pour la branche ou l'entreprise ou à la durée du travail applicable dans l'établissement,</p>
+			<p id="p6">2° A la durée mensuelle résultant de l'application, sur cette période, de la durée légale du travail ou, si elle est inférieure, de la durée du travail fixée conventionnellement pour la branche ou l'entreprise ou de la durée du travail applicable dans l'établissement,</p>
+			<p id="p7">3° A la durée de travail annuelle résultant de l'application sur cette période de la durée légale du travail, soit 1 607 heures, ou, si elle est inférieure, de la durée du travail fixée conventionnellement pour la branche ou l'entreprise ou de la durée du travail applicable dans l'établissement.</p>
+			<p id="p8">Le temps partiel peut résulter d’un accord collectif, d’une décision de l'employeur ou d’une demande du salarié.</p>
+			<p id="p9">Dans ce dernier cas, l’employeur est parfois tenu d'accepter si le passage à temps partiel est un droit pour le salarié (travail à temps partiel pour élever un enfant dans le cadre du congé parental ou en cas de maladie, accident ou handicap grave ou encore dans le cadre d'un congé de solidarité familiale).</p>
+			<p id="p10">Sinon, dans les autres cas, l'employeur peut refuser la demande du salarié de mise en place d'un horaire à temps partiel à condition de motiver sa réponse en invoquant des raisons objectives (incompatibilité avec les rythmes de production, absence d'emploi disponible par exemple).</p>
+			<p id="p11">Mise en place du travail à temps partiel</p>
+			<p id="p12">La mise en place d'horaire à temps partiel requiert toujours l'accord exprès du salarié.</p>
+			<p id="p13">Il s'agit en effet de modifier le contrat de travail du salarié, ce qui ne peut être fait sans son consentement. Le refus du salarié ne peut constituer, en soi, une faute.</p>
+			<p id="p14">De plus, le passage à temps partiel peut être soumis à des règles particulières :</p>
+			<p id="p15">En présence d’un accord collectif</p>
+			<p id="p16">Les horaires de travail à temps partiel peuvent être prévus par une convention collective, un accord de branche étendu ou un accord d'entreprise ou d'établissement.</p>
+			<p id="p17">L'accord collectif peut prévoir les règles de demande, de l'employeur ou du salarié, d'horaires à temps partiel.</p>
+			<p id="p18">En l’absence d’accord collectif</p>
+			<p id="p19">- Initiative de l'employeur</p>
+			<p id="p20">En l'absence d'accord applicable, les horaires de travail à temps partiel peuvent être pratiqués à condition d'être soumis préalablement à l'avis du comité d'entreprise ou, à défaut, des délégués du personnel.</p>
+			<p id="p21">L'avis des représentants du personnel est transmis, dans les quinze jours, à l'inspection du travail.</p>
+			<p id="p22">En l'absence d’institution de représentation du personnel, les horaires à temps partiels peuvent être pratiqués à l'initiative du chef d'entreprise ou à la demande des salariés après information de l'inspecteur du travail.</p>
+			<p id="p23">- Demande du salarié</p>
+			<p id="p24">Le salarié peut demander à son employeur de bénéficier d'un horaire à temps partiel.</p>
+			<p id="p25">Pour cela, il doit communiquer sa demande au chef d'entreprise par lettre recommandée avec accusé de réception au moins six mois avant la date envisagée pour l'application des nouveaux horaires. (article. D3123-3 du Code du travail).</p>
+			<p id="p26">La lettre doit préciser la durée de travail souhaitée ainsi que la date envisagée pour la mise en oeuvre du nouvel horaire.</p>
+			<p id="p27">Le chef d'entreprise est tenu de répondre au salarié par lettre recommandée avec accusé de réception dans un délai de trois mois à compter de la réception de la demande.</p>
+			<p id="p28">La demande du salarié ne peut être refusée que si le chef d'entreprise justifie de raisons objectives : l'absence d'emploi disponible ressortissant de la catégorie professionnelle du salarié ou de l'absence d'emploi équivalent ou s'il peut démontrer que le changement d'emploi demandé porte atteinte à la bonne marche de l'entreprise.</p>
+			<p id="p29">Un contrat de travail obligatoirement écrit</p>
+			<p id="p30">Le contrat de travail à temps partiel est obligatoirement écrit.</p>
+			<p id="p31">Le contrat doit mentionner :</p>
+			<p id="p32">- la qualification du salarié,</p>
+			<p id="p33">- la durée de travail hebdomadaire ou mensuelle prévue et sa répartition entre les jours de la semaine ou les semaines du mois.</p>
+			<p id="p34">Doivent également être précisés les cas dans lesquels une modification éventuelle de cette répartition peut intervenir,</p>
+			<p id="p35">- les modalités selon lesquelles les horaires de travail pour chaque journée travaillée sont communiqués par écrit au salarié,</p>
+			<p id="p36">- le régime des heures complémentaires au-delà de la durée du travail fixée par le contrat,</p>
+			<p id="p37">- les éléments de la rémunération du salarié.</p>
+			<p id="p38">Organisation du temps partiel</p>
+			<p id="p39">La durée du travail à temps partiel peut s'apprécier dans le cadre de la semaine (par exemple 20 heures par semaine), du mois (par exemple 80 heures par mois) ou de l'année</p>
+			<p id="p40">Cependant, les dispositifs du temps partiel modulé sur l'année qui était prévu par l'article L. 3123-25 du Code du travail, a été abrogé en 2008.</p>
+			<p id="p41">Vous n'avez pas trouvé votre réponse dans cette article ?</p>
+			<p id="p42">Posez votre question sur notre forum</p>
+			<p id="p43">Poser votre question !</p>
+			<p id="p44">Ne mettez aucune formule de politesse</p>
+			<p id="p45">Ne posez qu'une seule question à la fois</p>
+			<p id="p46">Vérifiez votre orthographe</p>
+			<p id="p47">Mettez un objet à votre question en rapport avec celle-ci qui soit précis.</p>
+			<p id="p48">Avant de poser votre question, utilisez notre moteur de recherche pour vous assurer que la réponse n'est pas déjà sur le site.</p>
+			<p id="p49">La question doit porter exclusivement sur: Le travail à temps partiel</p>
+			<p id="p50">Il s'agit d'information juridique pas de consultation juridique personalisé</p>
+			<p id="p51">Nous ne repondrons pas aux questions qui ne correspondent pas à ces critéres</p>
+			<p id="p52">Exemple de question : Mon voisin passe la tondeuse à gazon le dimanche matin à 10h, en à t-il le droit ? et que puis-je faire ?</p>
+			<p id="p53">Objet :</p>
+			<p id="p54">Dans les forums</p>
+		</body>
+	</text>
+</cesDoc>

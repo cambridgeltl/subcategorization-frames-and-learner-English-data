@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 100 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 100 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:20:07.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=100</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/6145.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">08/10/2007</p>
+			<p id="p2">L’exposition de vos salariés à des substances chimiques dangereuses, hors des limites fixées par la loi, peut amener l’inspecteur du travail à ordonner l’arrêt temporaire de votre activité si vous ne réagissez pas suffisamment vite à sa mise en demeure. Précisions sur les délais à respecter.</p>
+			<p id="p3">08/10/2007</p>
+			<p id="p4">La lettre de convocation à l’entretien préalable au licenciement doit mentionner l’adresse des lieux où la liste des conseillers du salarié est consultable. Sinon, c’est toute la procédure qui est irrégulière…</p>
+			<p id="p5">01/10/2007</p>
+			<p id="p6">La baisse des cotisations patronales et salariales sur les heures supplémentaires et complémentaires est effective à compter d’aujourd’hui. Les modalités de calcul des différentes réductions sont enfin précisées. A vos calculatrices…</p>
+			<p id="p7">01/10/2007</p>
+			<p id="p8">La formule de calcul de la réduction générale de cotisations patronales, dite réduction « Fillon », est modifiée à compter du 1er octobre 2007.</p>
+			<p id="p9">24/09/2007</p>
+			<p id="p10">Vous avez décidé de mettre en place un plan de formation dans votre entreprise. Vous avez l’obligation de consulter vos représentants du personnel au cours de deux réunions qui doivent se dérouler entre novembre et décembre. Rappel de la procédure.</p>
+			<p id="p11">24/09/2007</p>
+			<p id="p12">Pour être valable, une clause de mobilité doit définir précisément la zone géographique à laquelle elle s’applique. De plus, cette zone ne peut pas être modifiée sans l’accord du salarié.</p>
+			<p id="p13">24/09/2007</p>
+			<p id="p14">Vous souhaitez contrôler un salarié en arrêt de travail, sachez que le régime des sorties autorisées a été modifié.</p>
+			<p id="p15">17/09/2007</p>
+			<p id="p16">Quel que soit son motif (économique ou personnel), le licenciement d'un salarié protégé répond à une procédure stricte visant à empêcher toute discrimination. Savez-vous exactement qui est concerné ? Connaissez-vous la procédure à suivre ? Un dossier à connaître sur le bout des doigts pour éviter des sanctions lourdes...</p>
+			<p id="p17">17/09/2007</p>
+			<p id="p18">Les petites et moyennes entreprises qui, du fait de leur croissance importante, doivent faire face à un surplus de cotisations patronales peuvent différer d’une année le paiement de ces cotisations.</p>
+			<p id="p19">Toute l'actualité en droit du travail PME</p>
+			<p id="p20">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

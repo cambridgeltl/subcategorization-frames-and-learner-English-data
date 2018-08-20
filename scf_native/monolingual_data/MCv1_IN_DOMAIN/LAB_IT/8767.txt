@@ -1,0 +1,1023 @@
+di Sivana Sciarra -  Facoltà di Giurisprudenza  Università di Firenze
+Università degli Studi di Catania
+Facoltà di Giurisprudenza
+giurisprudenza della Corte di giustizia europea.
+Un tassello nella modernizzazione
+© Silvana Sciarra 2007
+silvana.sciarra@unifi.it
+Via Crociferi, 81  95124 Catania (Italy)
+Tel: + + 39 095 230464  Fax: + +39 095 313145
+centrostudidantona@lex.unict.it
+Il lavoro a tempo determinato nella giurisprudenza
+della Corte di giustizia europea. Un tassello nella
+modernizzazione del diritto del lavoro
+Silvana Sciarra
+dottrina ed al Libro verde della Commissione ............................ 2
+2. La Direttiva 1999/70/CE sul lavoro a tempo determinato. Una
+ricognizione delle principali questioni interpretative...................10
+3. La Corte di giustizia ed il lavoro a termine in alcune recenti
+decisioni .............................................................................14
+lavoro a tempo determinato...................................................23
+1. Teoria e prassi della modernizzazione. Uno sguardo
+alla dottrina ed al Libro verde della Commissione
+Questo saggio si propone di esaminare le ragioni per cui i
+contratti a tempo determinato hanno acquistato uninattesa visibilità nella
+giurisprudenza recente della Corte di Giustizia europea (CGE). Lanalisi di
+alcune decisioni consente di riflettere sulle riforme che la trasposizione
+della Direttiva 1999/701 ha indotto negli ordinamenti nazionali e sulle
+lacune delle norme di trasposizione. Tali considerazioni conducono
+linterprete al cuore delle motivazioni che ispirano un moderno diritto del
+lavoro, in modo da rileggerne la storia in termini di continuità, piuttosto
+che di fratture e di drastiche contrapposizioni.
+La Commissione propone nel suo recente Libro Verde 2 un quadro
+frastagliato e forse intenzionalmente generico di riforme necessarie per la
+modernizzazione del diritto del lavoro. Il lavoro a termine non riceve in
+questo documento lattenzione che merita, sia per gli aspetti problematici
+che la giurisprudenza della CGE ha fatto emergere, sia per le difficoltà
+verificate dalla stessa Commissione in sede di trasposizione della
+Direttiva 1999/70.3
+dibattito corrente un banco di prova dei difficili equilibri da stabilire fra le
+politiche di flessibilizzazione dei mercati del lavoro e ladeguamento delle
+tutele individuali e collettive.
+lo sguardo verso lorizzonte del dibattito teorico promosso dalla
+Commissione Europea negli anni Novanta dello scorso secolo, sfociato in
+analisi sofisticate e talvolta provocatorie.4
+Non è superfluo ricordare che il rapporto Supiot si sofferma sul
+concetto di diritti sociali (diritti sociali di prelievo nella traduzione italiana)
+* Questo scritto è destinato alla raccolta di Studi in memoria del Prof. Matteo DellOlio
+1 Direttiva 1999/70/CE del Consiglio del 28 giugno 1999 relativa all accordo quadro CES,
+UNICE e CEEP sul lavoro a tempo determinato
+2Commissione CE, Libro Verde, Modernizzare il diritto del lavoro per rispondere alle sfide
+del XXI secolo , Bruxelles 22.11.2006, COM (2006) 708 definitivo
+3 Commission Staff Working Document, Report by the Commission services on the
+Implementation of Council Directive 1999/70EC of 28 June 1999 concerning the
+Framework Agreement on Fixed-term Work Concluded by ETUC, UNICE and CEEP (EU-15) ,
+11.8.2006, SEC (2006) 1074
+Future of Labour Law , Luxembourg 1998) il rapporto Supiot è stato poi pubblicato come
+libro in molte lingue. Cfr. la versione in lingua inglese, A. Supiot, Beyond Employment,
+Changes in Work and the Future of Labour Law in Europe ,
+Oxford
+italiana a cura di P. Barbieri ed E. Mingione Il futuro del lavoro : trasformazioni
+delloccupazione e prospettive della regolazione del lavoro in Europa , Roma, Carocci, 2003
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+3
+legati ad una dimensione di libertà dellindividuo, in quanto tali
+potenzialmente sganciati da situazioni di rischio derivanti dalla condizione
+di subordinazione. La strategia adottata nel rapporto è quella di superare
+i dualismi favoriti dai nuovi regimi di flessibilità nella gestione dei rapporti
+di lavoro e tendere a re-instituzionalizzare tali rapporti, dotandoli di
+regole nuove e di nuove sicurezze.5 Il linguaggio del Rapporto Supiot si
+snoda, come si vede, lungo il binomio libertà-sicurezza e persegue una
+più ampia definizione dellappartenenza degli individui al lavoro in quanto
+tale. Non a caso sono frequenti in quelle pagine i richiami alla coesione
+sociale ed alla contrattazione collettiva come fonte regolativa da adattare
+alle nuove esigenze di tutela.
+Le posizioni assunte allora dalla dottrina svelano ora un panorama
+caratterizzato da un forte divario fra ipotesi ricostruttive molto meditate e
+prospettive di riforma possibili. Alla luce di quanto detto, si insinua
+fortemente il dubbio che i due vasi  quello della ricerca comparata ed
+interdisciplinare, riempito dalla dottrina, e quello della elaborazione delle
+politiche, riempito dalle elite burocratiche di volta in volta interessate 
+non comunichino. Se la dottrina lascia per strada i suoi sassolini per
+segnare un percorso, questo non necessariamente guida i policy-makers
+verso una destinazione nota. Lungo il cammino si frappongono veti
+incrociati e difficoltà operative, come si evince dal resoconto delle molte
+vicissitudini legate allemanazione del Libro Verde .6
+E utile evidenziare che parallelamente al dibattito europeo, di cui
+si dirà fra breve, si va svolgendo unanaloga riflessione allinterno
+dellOIL, sulla scorta di unapprofondita analisi comparata fra numerosi
+ordinamenti nazionali. Il linguaggio adoperato nei documenti dellOIL è
+indicativo di una sensibilità diffusa circa i cambiamenti intervenuti nei
+rapporti di lavoro.
+fonda sulla constatazione che proprio tali cambiamenti, se attentamente
+valutati alla luce delle diverse tradizioni instaurate dai legislatori
+nazionali, rivelano unampia carenza di protezione per i lavoratori
+subordinati.7 I documenti citati adottano lespressione lavoratori
+bisognosi di protezione, prendendo le mosse dai fattori o indicatori che
+5 Il futuro , cit., p.63 e p.65
+6 Lintero dibattito, completo di riferimenti alle posizioni assunte da gruppi di opinione,
+come pure dalle parti sociali e da altri stakeholders è efficacemente ricostruito da C.
+Massimiani (a cura di), Dossier Modernizzare il diritto del lavoro per rispondere alle sfide
+del XXI secolo , http://www.lex.unict.it/eurolabor/ricerca/dossier/dossier9.pdf
+Conference 91st Session, Ginevra 2003, p. 10-17 in particolare, si veda ora Report V (1)
+The Employment Relationship , International Labour Conference 95th Session, Ginevra
+2006, p. 5 ss.
+nei diversi ordinamenti consentono di risalire a rapporti di lavoro
+subordinato.
+specifica e se si vuole tradizionale funzione, ma anche nelle sfaccettature
+delle sue nuove tipologie. Il lavoro tramite agenzia ha già trovato una sua
+regolamentazione nella Convenzione n. 181 del 1997;8 altre fonti OIL
+introducono standard normativi per i lavoratori autonomi o indipendenti.
+Una recente Raccomandazione9 raccoglie il frutto della ricerca
+comparata e si sofferma su misure di protezione effettiva, che
+consentano di distinguere il lavoro subordinato da quello autonomo, di
+identificare il datore di lavoro in modo chiaro e di attribuire a questultimo
+poteri e responsabilità inerenti agli obblighi contrattuali. La
+raccomandazione dedica attenzione ai lavoratori svantaggiati ed anche ai
+lavoratori migranti; si preoccupa di indicare che i soggetti collettivi più
+rappresentativi si facciano carico di individuare le caratteristiche del
+lavoro subordinato in taluni settori di attività e che contribuiscano a
+monitorare il mercato del lavoro ed a raccogliere informazioni e dati
+statistici adeguati per comprendere le trasformazioni in atto.
+La lezione che ci viene dallOIL è illuminante in molti sensi.
+Lanalisi comparata è fondata in un contesto definito da indicatori
+giuridici. La nozione di protezione, svuotata di un contenuto ideologico e
+di giudizi di valore, appare funzionale ai cambiamenti che intervengono
+nella realtà produttiva e nel diritto. Essa si pone come chiave di lettura
+dei cambiamenti medesimi ed anche come elemento semantico che
+meglio accomuna tradizioni giuridiche diverse. Non è casuale che il
+principio di equità sia posto nei Rapporti dellOIL in connessione con le
+esigenze di adattabilità delle misure protettive. Si fa notare, ad esempio,
+che in alcuni paesi europei si è passati da una situazione in cui la
+flessibilità crea insicurezza ad una in cui la sicurezza promuove la
+flessibilità. 10
+della Convenzione parla di protezione adeguata per i lavoratori assunti da agenzie di
+lavoro temporaneo ed indica un elenco di diritti da garantire agli stessi attraverso misure
+legislative da adottare a livello nazionale. Oltre a diritti ad esercizio collettivo, come la
+contrattazione collettiva, lart. 11 menziona il salario minimo, lorario di lavoro l accesso a
+misure di sicurezza sociale, alla formazione, la salute e sicurezza e la tutela contro gli
+infortuni e le malattie professionali, la tutela in caso di insolvenza, tutele per la maternità.
+Lart. 12 riproduce la stessa lista di misure protettive dei lavoratori e rinvia agli stati
+lallocazione delle responsabilità fra agenzie e utilizzatori dei servizi
+9 R 198 Employment Relationship Recommendation , adottata il 15.6. 2006. Un riferimento
+adesivo a questa fonte si trova alla nota 32 del Libro Verde , cit. a n.2
+10 Report V (1) The Employment Relationship, cit. a n. 7, p. 16 dove il riferimento è ai
+risultati della ricerca di P. Auer Employment revival in Europe: Labour market success in
+Austria, Denmark, Ireland and the Netherlands , Ginevra, ILO 2000
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+5
+In un filone di ricerca coerente con le fonti appena citate si pone
+lindagine dellOIL sul Lavoro Decente, avviata nel 1999 in un Rapporto
+del Direttore Generale, allindomani della approvazione nel 1998 della
+Dichiarazione sui principi fondamentali,11 e poi proseguita in numerosi
+studi comparati, lultimo dei quali estremamente innovativo.12
+Può essere rassicurante ricordare che la Commissione non è
+ignara di questi sviluppi ed anzi manifesta la sua adesione ai programmi
+internazionali sul Lavoro Decente, sia per dare vigore ad accordi
+bilaterali e regionali dellUE, sia per meglio focalizzare limpegno dei paesi
+dellallargamento nel rispetto dell acquis comunitario, di cui lagenda sul
+Lavoro Decente è parte.13 Vi è una dimensione globale della
+modernizzazione da cui non si può prescindere nel dibattito europeo;
+essa richiede una più forte coerenza nelle posizioni della Commissione.
+Al di fuori dellUE si sta svolgendo un dibattito molto variegato,
+teso ad identificare prospettive teoriche e politiche del diritto in sintonia
+con i grandi cambiamenti intervenuti nel diritto del lavoro.
+In Australia, a completamento di un corposo progetto di ricerca,14
+un gruppo composito di studiosi valuta criticamente le riforme adottate
+dal legislatore nel 2005, orientate verso una forte individualizzazione
+delle misure che regolano i rapporti di lavoro.15 Ne risulta un ampio
+quadro di riferimento, che dà conto di una nuova piattaforma o di un
+11 ILO, Decent Work , Report of the Director General, International Labour Conference, 87th
+Session, Ginevra, Giugno 1999. Alcune osservazioni in S.Sciarra, Globale e locale: prove di
+razionalità per il diritto del lavoro , Soc. Dir 2004, p. 23 ss. e in B. Hepple, Labour Laws and
+Global Trade , Oxford 2005, p.56 ss e p. 63, dove si discute il programma sul Decent Work
+nellambito della nuova messa a fuoco delle iniziative dellOIL. Linteresse della dottrina
+per la Dichiarazione del 1998 emerge dalle osservazioni di G. Bronzini, La Dichiarazione del
+1998 sui Core Labour Rights e la rinascita dellOIL, DD 2006
+12 Cfr il numero speciale Social Protection and Decent Work: New Prospects for
+International Labour Standards , CLLPJ 2006, n. 2 . Cfr anche la traduzione in italiano del
+rapporto di sintesi curato da A. Supiot, Azione normativa e lavoro decente. Prospettive nel
+campo della sicurezza sociale , DLRI 2006, p. 625 ss.
+13 Communication from the Commission, Promoting Decent Work for All. The EU
+Contribution to the Implementation of the Decent Work Agenda in the World , Brussels 24
+May 2006, COM (2006) 249
+14 C. Arup et al. (a cura di), Labour Law and Labour Market Regulation , Sydney, The
+Federation Press 2006. Si veda in particolare lIntroduzione di R. Mitchell e C. Arup, p. 3 ss
+che fa riferimento frequentemente a R. Mitchell (a cura di), Redefining Labour Law,
+University of Melbourne 1995. Gli autori e soprattutto i curatori di questo volume
+intrecciano frequentemente le loro analisi con quelle svolte dalla dottrina europea, a
+conferma di una comune esigenza di ridisegnare il profilo della materia
+15 Si rinvia a tale riguardo a R. Mitchell e J. Fletter, La gestione delle risorse umane e
+lindividualizzazione nel diritto del lavoro australiano , DLRI 2004, p. 285- 322
+6 SILVANA SCIARRA
+paradigma del diritto del lavoro16, consistente nella continua espansione
+della materia verso la regolamentazione del mercato del lavoro.
+Si potrebbe sostenere che queste caratteristiche sono sempre
+state proprie del diritto del lavoro, sia nella sua dimensione individuale,
+sia in quella collettiva, poiché ogni misura attinente alla tutela dei
+lavoratori ha riflessi immediati sul mercato e per certi versi lo conforma e
+lo rende compatibile con i vincoli del sistema normativo. Ma le conferme
+in questa direzione non sono mai troppe e lanalisi comparata non può
+che beneficiarne.
+dimostrare la conversione delle tradizionali misure protettive in strumenti
+orientati al mercato e nel disegnare i nessi che storicamente si sono
+stabiliti fra i lavoratori  intesi come nozione onnicomprensiva, che
+prescinde dalle caratteristiche specifiche di ciascun contratto o rapporto di
+lavoro  ed il mercato.
+comparata incentrato sulla ricognizione dei confini e delle frontiere del
+diritto del lavoro.17 E utile constatare, anche in questo caso, la varietà di
+suggestioni che provengono dal dibattito globale. Ad esempio la nozione
+di economia informale e di lavoro sommerso si presta ad interpretazioni
+diverse nei paesi in via di sviluppo  si pensi allIndia ed alla significativa
+espansione che interessa quel sistema economico  ma anche le misure
+di sicurezza sociale si configurano in modo diverso, a seconda dei livelli di
+disoccupazione.18
+modifiche al Codice del Lavoro19 si segnala, oltre che per la completezza
+e la profondità dellanalisi, anche per un interessante impianto teorico
+delle proposte che ne scaturiscono.
+Nel suggerire una rilettura degli standard applicabili al lavoro,
+lautore distingue, per la loro diversa natura, tre categorie.
+16 Introduzione di Labour Law and Labour , cit. a nota 14, p. 4
+17 G. Davidov e B. Langille (a cura di), Boundaries and Frontiers of Labour Law , Oxford,
+Hart Publishing 2006
+18 Per lIndia si rinvia a K. Sankaran, Protecting the Worker in the Informal Economy: the
+Role of Labour Law ; per una prospettiva piu ampia cfr. A. Trebilcock, Using Development
+Approaches to Address the Challenge of the Informal Economy for Labour Law , entrambi in
+G. Davidov e B. Langille (a cura di), cit. a n. 17, rispettivamente a p.205 ss e p. 63 ss.
+19 Fairness at Work. Federal Labour Standards for the 21st Century , Publications Services
+2006, un Rapporto redatto da H. Arthurs in vista della riforma della Parte III del Codice del
+lavoro canadese, risalente al 1965. La Commissione presieduta da H. Arthurs ha consultato
+esperti indipendenti e rappresentanti delle parti sociali ed ha commissionato a studiosi
+anche stranieri studi specifici su singoli temi. La Commissione ha anche svolto numerose
+audizioni ed ha ricevuto contributo da singoli e da gruppi sparsi in tutto il paese
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+7
+Il principio fondamentale della decenza  evocativo del
+linguaggio adottato dallOIL  è inteso come criterio generale cui
+ricondurre condizioni minime di tutela, quali il salario sufficiente, il
+rispetto di un orario di lavoro che consente al lavoratore di esprimersi nei
+rapporti sociali e civili, il divieto di ogni discriminazione. Principi
+strategici sono considerati quelli che attengono al funzionamento
+delleconomia di mercato, alla combinazione di flessibilità e sicurezza, alla
+parità di trattamento per quanti si trovano a lavorare in condizioni
+analoghe, alla contrattazione sul luogo di lavoro, allinclusione ed
+allintegrazione, nonché al rispetto degli obblighi nascenti da fonti
+internazionali. Principi operativi sono quelli che attengono alluso
+efficiente di risorse pubbliche, ad un alto grado di osservanza degli
+standard applicabili, alla flessibilità regolata, alla chiarezza.
+Anche se immaginata per un sistema federale, la classificazione
+proposta è tale da indurre ad un ripensamento gli osservatori europei,
+intrappolati in una sorta di auto-punizione collettiva che li induce, come
+vedremo fra breve, ad immiserire un ricco linguaggio normativo
+sedimentato nelle costituzioni nazionali e nei migliori esempi di
+legislazione che a loro si ispirano.
+Questa digressione consente di valutare con maggiore obiettività
+il diverso dibattito, promosso dalla Commissione Europea ed indirizzato
+verso le istituzioni, i governi degli Stati membri, le parti sociali, gli altri
+stakeholders ed i singoli cittadini.20
+Il recente Libro Verde della Commissione propone fin dalle prime
+battute un inscindibile nesso di causalità fra modernizzazione del diritto
+del lavoro e creazione di nuova occupazione. Si tratta di unaffermazione
+non univocamente acclarata dalla ricerca empirica e comparata, nonché,
+come si è detto, dallattività dellOIL. Essa provoca, a voler tacere daltro,
+uneccessiva colpevolizzazione del diritto del lavoro, a fronte delle
+carenze mostrate dalle politiche macroeconomiche.21 Il rischio è pertanto
+di rendere sterile il confronto sulle riforme del mercato del lavoro.
+Sia nel dibattito teorico  di cui resta poca traccia nel Libro Verde
+- sia in quello che riguarda più da vicino i legislatori nazionali, il termine
+modernizzazione è usato in modo volutamente ambiguo e sfuggente.
+Questa scelta linguistica si riflette nella formulazione dei quesiti posti ai
+soggetti verso cui la consultazione è rivolta. Si fronteggiano in tal modo
+falsi dilemmi o domande retoriche.
+20 Commissione CE, Libro Verde, Modernizzare il diritto del lavoro per rispondere alle sfide
+del XXI secolo , Bruxelles 22.11.2006, COM (2006) 708 definitivo
+21 Così efficacemente A. Baylos e J. Pérez Rey, Presentacion al libro verde , Cuadernos de
+la Fundacion Sindacal de Estudios, n. 5/2006, in C. Massimiani (a cura di), Dossier.. , cit. a
+n. 6
+Ad esempio, è più che nota alla dottrina europea  ma anche ai
+giudici ed alle parti sociali  la capacità di adattamento mostrata dal
+diritto del lavoro e dalla contrattazione collettiva nellintrodurre elementi
+di flessibilità negli ordinamenti nazionali, in linea con quanto dettato dai
+cicli economici o più semplicemente dal mutato orientamento dei
+legislatori.22 Gli ordinamenti nazionali hanno risposto ad esigenze dettate,
+fra laltro, dallintegrazione del mercato europeo e dalla strategia di
+Lisbona, coerentemente con gli obblighi nascenti dalla comune
+appartenenza ad un sistema normativo sopranazionale.
+E dunque un falso dilemma proporre ladattamento delle
+discipline esistenti a fronte di una maggiore esigenza di flessibilità,
+perché questa è una realtà già accertata, per lo meno nellEuropa a 15,
+particolarmente per i contratti di lavoro part-time e per quelli a tempo
+determinato.23 Ed è unoccasione mancata non includere nella
+ricognizione del Libro Verde lapporto fornito dalla CGE nella sua
+giurisprudenza in materia di contratti a termine. Questultima conferma
+lacquisizione di alcuni punti fermi nellapplicazione della Direttiva che
+recepisce lAccordo quadro stipulato dalle parti sociali ed attribuisce
+rilievo a tale fonte di diritto secondario, come si avrà modo di vedere in
+seguito.
+Verde in cui si citano i dati relativi allincremento dei lavoratori a tempo
+determinato, senza illustrarne a fondo i motivi e la segmentazione
+sociale.24 A volere tacer daltro, lo stesso Rapporto della Commissione
+sulla trasposizione della Direttiva fa notare che, se un terzo dei lavoratori
+temporanei trova lavoro stabile dopo un anno, dopo sei anni - il periodo
+più lungo misurato nelle statistiche  il 16% dei lavoratori si trova
+sempre nella stessa situazione ed il 20% non è più occupato. Il Rapporto
+sottolinea anche che una eccessiva instabilità nella carriera delle persone
+giovani spinge a ridurre la propensione al consumo e ad abbassare il
+tasso di fertilità.25
+22 Si vedano i quesiti 1-4 del Libro Verde, cit. a n. 2, p.10. G. Bronzini, 12 Noterelle sul
+Green Paper , Newslatter CRS, Febbraio 2007 fa notare che mentre flexicurity si presenta
+come un termine evocativo di importanti tendenze legislative in atto in Europa,
+modernizzazione appare, al contrario, un termine adatto a favorire letture poco analitiche
+della legislazione e della sua evoluzione
+23 S. Sciarra, The evolution of labour law (1992-2003) , Vol 1, General Report, Luxembourg
+OOPEC 2005, p.37 ss.
+alle sfide del XXI secolo , Roma 2006, in Dossier .., cit a n.6, o. 737
+25 Commission Staff Working Document, cit. a n. 3, p. 2 che fa a sua volta riferimento
+all Employment in Europe Report 2004 , peraltro contraddittoriamente citato anche nel
+Libro Verde, p. 9. La terminologia utilizzata fa riflettere sui molti significati attribuiti al
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+9
+E una domanda retorica quella posta in termini di chiarimento
+degli statuti giuridici dei lavoratori autonomi e dei lavoratori dipendenti.26
+Può darsi che questa tecnica di comunicazione quasi maieutica miri a fare
+emergere dalla consultazione risposte aperte ed innovative. Forse per
+questo motivo non si citano i risultati di una articolata analisi comparata
+in materia di lavoro economicamente dipendente27 e si fa calare un
+imbarazzante silenzio sullinventività e sul rigore del Rapporto Supiot.28
+E infine una forma quasi inconscia di autoanalisi quella proposta
+nel quesito che attiene alla revisione della legislazione in materia di orario
+di lavoro.29 Essa rivela unincertezza terminologica che, ancora una volta,
+non valorizza, né tanto meno analizza limportante giurisprudenza della
+CGE sul tema.30
+connessione fra dibattiti nazionali e sviluppi globali del diritto del lavoro,
+ben rappresentati nella già citata produzione dellOIL, si deve subito
+affermare che il termine modernizzazione, così come proposto nel
+dibattito europeo contemporaneo, sempre più appare staccato da un
+preciso contesto storico e normativo e privo di valenze operative precise.
+Se preso ad emblema di questa fase dellintegrazione europea, esso
+rivela la profonda sofferenza del sistema regolativo sopranazionale nel
+campo delle politiche sociali e lincapacità dello stesso di stabilire nuovi
+equilibri normativi.
+al termine evoluzione si attribuisce un significato euristico e non
+valutativo  è dato cogliere la tendenza della materia a adattare i suoi
+strumenti regolativi come pure le sue finalità.
+E probabile che levoluzione più recente di questa disciplina abbia
+beneficiato della prima attuazione del Metodo aperto di coordinamento.31
+Di questo non si trova traccia nel Libro verde , se non nei riferimenti alle
+lavoro temporaneo. Il Report analizza nel capitolo IV il fattore tempo nel  temporary
+employment indipendentemente dal tipo di contratto. La vesrione inglese del Libro verde
+usa in questo caso lespressione non-standard .
+26 Quesito n. 7 del Libro Verde, cit. a n. 2, p. 13
+27 A. Perulli, Lavoro autonomo e dipendenza economica oggi , RGL 2003, p. 221 ss. ed
+anche Lavori atipici e parasubordinazione tra diritto europeo e situazione italiana , RGL
+2006, I, p. 731 ss.
+28 Cit. a n. 4
+29 Quesito n. 11 del Libro Verde, cit. a n. 2, p. 15
+30 Ho analizzato alcune decisioni della Corte di Giustizia in materia di tutela del diritto
+fondamentale alla salute e sicurezza in S. Sciarra, Norme imperative nazionali ed europee:
+le finalità del diritto del lavoro , DLRI, 2006, p. 39 ss.
+31 Cfr. S. Sciarra, The evolution , cit. a n. 23 , p. 15 ss.
+10 SILVANA SCIARRA
+linee guida del Consiglio.32 La Decisione del Consiglio adottata nel 2005 e
+proiettata fino al 2008 rappresenta lemblema delle politiche
+occupazionali europee rivisitate, se non ridimensionate nella loro nuova
+versione.33
+tempi del monitoraggio da parte del Consiglio ed ha assegnato agli Stati
+membri un ruolo più visibile  e sembrerebbe di capire più autonomo 
+nellelaborazione dei Programmi Nazionali di Riforme (PNR), in modo da
+tenere conto dei cicli economici e dei cambiamenti intervenuti nella
+situazione generale del paese. Il quesito cui è difficile trovare una
+risposta è come rileggere in termini propositivi la sterminata produzione
+teorica sulla governance, che tanto lasciava sperare per lavvio di
+benefiche sinergie fra hard e soft law . Si rafforza in questo nuovo
+contesto di riferimento delle politiche occupazionali lesigenza di
+approfondire lo studio delle riforme avviate dai legislatori nazionali.
+Sul piano della comparazione e del raffronto con altri
+ordinamenti ci sono ormai esempi significativi ed esaustivi che possono
+essere richiamati, a conferma della praticabilità di indagini teoriche e di
+politica del diritto che consentono di coniugare le tradizioni del diritto del
+lavoro con le trasformazioni dei sistemi produttivi e con le nuove
+domande del mercato.
+debba farsi da parte e constatare la sterilità delle sue esternazioni. Se
+non che, paradossalmente, proprio da quanti vogliono ricondurre a livello
+nazionale i necessari interventi modernizzatori34, proviene un invito ad
+analisi sistematiche circa la più recente produzione normativa. Se
+modernizzare vuol dire guardare criticamente a sé stessi ed ai propri
+vicini, non tutto è perduto per il diritto del lavoro.
+2. La Direttiva 1999/70/CE sul lavoro a tempo
+determinato. Una ricognizione delle principali questioni
+interpretative
+italiano cfr Programma Nazionale di Riforma 2006-2008. Primo Rapporto sullo stato di
+attuzione, Roma 18 ottobre 2006, in
+http://ec.europa.eu/growthandjobs/key/nrp2006_en.htm. Si veda ora il Draft Joint
+Employment Report 2006/2007 , licenziato dal comitato per loccupazione e discusso nel
+Consiglio UE del 7.2.2007
+33 Per un commento si rinvia a C. Kilpatrick, New EU Employment Governance and
+Constitutionalism , in G. de Búrca and J. Scott (a cura di), Law and New Governance in the
+EU and the US, Oxford, Hart Publishing 2006
+34 In tal senso sembrano orientati i commenti della organizzazione europea dei datori di
+lavoro. V. Dossier.. , cit. a n.6
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+11
+Molto è stato già scritto su questa fonte comunitaria, anche con
+riferimento alla sua complessa gestazione.35
+Basterà dunque valorizzare gli aspetti della Direttiva che si
+prestano da un lato a verificare un suo ruolo paradigmatico nel dibattito
+sulla modernizzazione del diritto del lavoro, dallaltro a mettere a fuoco
+una sua funzione regolativa per così dire interna alla gestione del
+rapporto di lavoro. Queste due anime convivono a ben vedere nella fonte
+di cui qui si discute. Esse confermano una tradizione di rinnovamento già
+in atto nel diritto del lavoro, che, nella grande maggioranza dei casi, si
+sviluppa in continuità con il passato, in una rivisitazione degli istituti tipici
+della materia.
+materia di lavoro a tempo parziale, le parti sociali stipularono un Accordo
+quadro per contribuire, come si dice in apertura del Preambolo, alla
+strategia di Lussemburgo in direzione di un migliore equilibrio fra la
+flessibilità dellorario di lavoro e la sicurezza dei lavoratori.
+La Direttiva richiama inoltre le conclusioni del Consiglio europeo
+di Essen36 da cui emergeva la necessità di incrementare lintensità
+occupazionale della crescita, in particolare mediante unorganizzazione
+più flessibile del lavoro, che risponda sia ai desideri dei lavoratori che alle
+esigenze della competitività. Questi riferimenti servono a porre la
+legislazione secondaria di cui qui ci occupiamo nel contesto di politiche
+sociali ancora influenzate dallo stile di Jacques Delors. La prima
+ispirazione per dotare lEuropa di politiche occupazionali va ricercata nel
+laboratorio di idee e di programmi che fu impiantato a Bruxelles nei primi
+anni Novanta dello scorso secolo. Linserimento del Titolo VIII nel TCE,
+avvenuto nel Consiglio di Amsterdam, ha alle spalle una stagione breve,
+ma intensa di buone pratiche intessute con sperimentazioni concrete delle
+politiche occupazionali, che fertilizzarono il terreno dellEuropa sociale.37
+35 K. Ahlberg et al.. Fixed-term work in Europe , National Institute for Working Life,
+Stockholm 1999
+10 Dicembre 1994, fu lultimo a cui Jacques Delors partecipò come Presidente della
+Commissione Europea
+The Employment Title in the Amsterdam Treaty, Columbia Journal of European
+Law 2000, p. 209. Si veda ora M.Barbera (a cura di), Nuove forme di regolazione: il
+Metodo Aperto di Coordinamento delle politiche sociali , Milano, Giuffré, 2006; F. Ravelli, Il
+coordinamento delle politiche comunitarie per loccupazione e i suoi strumenti ,
+http://www.lex.unict.it/eurolabor/ricerca/wp/int/ravelli_n43-2005int.pdf,; E.Ales, Dalla
+Considerazioni critiche sugli sviluppi del modello sociale europeo nella stagione del metodo
+aperto di coordinamento , ibid
+Il Preambolo dellAccordo si sofferma in modo non rituale sul
+principio delleccezionalità del lavoro a termine rispetto al lavoro a tempo
+indeterminato, considerato ancora la forma comune dei rapporti di
+lavoro. Questo richiamo non fa altro che prendere atto di una tradizione
+negli ordinamenti nazionali, per lo meno in quelli continentali, risalente
+nel tempo. Il lavoro a termine  recita ancora il Preambolo dellAccordo
+quadro  risponde in alcune circostanze, sia alle esigenze dei datori di
+lavoro sia a quelle dei lavoratori.
+Nei considerando dellAccordo si richiamano le questioni che
+fanno da sfondo alla disciplina concordata, in particolare loggettività delle
+ragioni per accedere a questa tipologia contrattuale, in modo da
+prevenire abusi, la maggiore rilevanza della stessa in alcuni settori
+occupazionali, lalta percentuale di donne assunte con contratto a termine
+e latteso impatto della disciplina nel miglioramento delle pari opportunità
+fra uomini e donne.38
+dellaccordo (clausola 1) e criterio ordinatore dellintera disciplina
+(clausola 4), poiché il confronto con i lavoratori comparabili a tempo
+indeterminato riguarda in modo ampio le condizioni di impiego. Perfino il
+principio del pro rata temporis è presentato come eventuale (se del
+caso).
+analoga nellAccordo sul lavoro a tempo parziale. Mentre questultimo si
+esprime in forma condizionale, la prima è categorica: gli Stati membri
+dovranno introdurre misure di prevenzione degli abusi derivanti
+dallutilizzo di una successione di contratti a termine. Questa differenza
+non sorprende se, ancora una volta, si guarda alle tradizioni del diritto del
+lavoro europeo. Leccezionalità del contratto a termine giustifica
+limposizione di limiti nellesercizio delle prerogative imprenditoriali,
+consistenti nellobbligo di fondare i rinnovi su ragioni obiettive e nel
+fissare una durata massima nella successione dei contratti.
+Quanto alla clausola di non regresso, inserita fra le disposizioni di
+attuazione (clausola 8.3), essa riprende lespressione già utilizzata per il
+lavoro part-time, secondo cui lapplicazione dellAccordo quadro non
+costituisce giustificazione valida per ridurre il livello generale di tutela dei
+lavoratori nellambito dellAccordo stesso. Può essere significativo
+sottolineare, tuttavia, che anche in questa disposizione la formulazione è
+più circostanziata di quella contenuta nellanaloga clausola riferita al
+lavoro a tempo parziale. Quasi a volere rimarcare una differenza
+strutturale fra le due tipologie di contratti di lavoro, si ammette che il
+38 Considerando 6-9
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+13
+legislatore nazionale possa essere più condizionato dallevoluzione della
+situazione nelladottare misure legislative sul lavoro a tempo parziale e
+dunque più libero nel ridimensionare i livelli di tutela.39
+La giustificazione di questa scelta deriva da una fin troppo ovvia
+constatazione. La riduzione dellorario che si opera nei regimi di lavoro a
+tempo parziale rispecchia esigenze di flessibilità più difficili da tipizzare e
+si ispira a scelte organizzative non sempre coincidenti con ragioni
+obiettive. NellAccordo sul lavoro a tempo parziale lenfasi è posta sulla
+creazione di occupazione, più di quanto non lo sia nellAccordo sul lavoro
+a termine, dove non è sorprendente rileggere lauspicio, già formulato dal
+Consiglio di Lussemburgo, che si proceda a modernizzare
+lorganizzazione del lavoro.
+99/70,40 la Commissione fa emergere i punti controversi ed in certi casi
+ancora rimasti irrisolti nellinterpretazione e nei successivi interventi dei
+legislatori nazionali.
+prevalentemente in ritardo nella trasposizione della Direttiva. Ciò ha dato
+luogo allavvio delle procedure di infrazione per la mancata
+comunicazione circa ladozione delle misure necessarie. Anche se tali
+procedure sono state evitate  si pensi al caso della Grecia  esiste la
+consapevolezza di problemi interpretativi ancora non risolti, da affidare
+alla discrezionalità dei giudici nazionali attraverso il rinvio pregiudiziale.
+Si discute inoltre di valutare  ed il tema è di grande interesse in
+termini comparati  i diversi regimi delle eccezioni. Si pensi, ad esempio,
+al particolare caso delle forze armate in Irlanda e nel Regno Unito ed al
+suggerimento della Commissione di ridurre leccezione alle sole forze
+combattenti. Altro esempio controverso è quello degli insegnanti di
+religione in Spagna, esposto ad una possibile procedura di infrazione nei
+confronti di quel paese.
+controverse. Si segnala in molti paesi la difficoltà di individuare nello
+stesso luogo di lavoro (clausola 3.2) i lavoratori a tempo indeterminato
+comparabili, così come indicato nella clausola 4.1. Si discute su cosa
+39 Cfr. clausola 6.2 della Direttiva 1997/81/CE del Consiglio del 15 dicembre 1997 relativa
+all accordo quadro sul lavoro a tempo parziale concluso dall UNICE, dal CEEP e dalla CES
+tenuto conto dellevoluzione della situazione, espressione che non si rinviene nella
+Direttiva 1999/70
+Implementation of Council Directive 1999/70EC of 28 June 1999 concerning the
+Framework Agreement on Fixed-term Work Concluded by ETUC, UNICE and CEEP (EU-15),
+11.8.2006, SEC (2006) 1074
+debba intendersi per trattamento meno favorevole nellapplicare il
+principio di non discriminazione, ovvero se le condizioni di lavoro vadano
+intese nella loro interezza. Sembra inevitabile lintervento dei giudici
+nazionali in questi casi particolari, meritevoli di una valutazione ad hoc .
+Di notevole rilievo, come si evince dalla giurisprudenza della CGE,
+è la prevenzione degli abusi nel settore pubblico ed ancor più la scelta
+della sanzione opportuna, se la conversione in contratti a tempo
+indeterminato non è proponibile.
+dei casi giurisprudenziali che saranno esaminati nel prossimo paragrafo, a
+conferma di un intreccio interessante fra due diverse, eppure
+complementari, attività di monitoraggio circa lo stato di attuazione del
+diritto comunitario. La trasposizione di una direttiva apparentemente così
+lineare non è indolore. Cerchiamo di capire perché.
+3. La Corte di giustizia ed il lavoro a termine in alcune
+recenti decisioni
+a termine non si può non prendere le mosse da Mangold 41, un caso che
+ha riscosso molta attenzione  ed anche taluni giudizi critici  per
+motivazioni che in parte esulano dalleconomia di questo scritto. Più che
+sulla Direttiva 1999/70, i commentatori del caso in questione si sono
+soffermati sulla violazione della Direttiva 2000/78 ed in particolare sul
+divieto di discriminazione in ragione delletà.
+La Corte invoca il principio generale del diritto comunitario a non
+essere discriminati al fine di aggirare un problema non secondario,
+relativo alla mancata trasposizione della Direttiva 2000/78
+nellordinamento tedesco. In forza di tale principio preesistente alla
+Direttiva, la Corte richiama il compito del giudice nazionale di disapplicare
+la normativa in contrasto con lo stesso ed applicare la norma
+sopranazionale, anche quando il termine per la trasposizione della
+direttiva non è ancora scaduto.42 Questa dirompente interpretazione ha
+indotto i commentatori a riflettere circa uneccessiva espansione del
+principio di non discriminazione, inclusivo di comportamenti discriminatori
+non ancora del tutto assimilati dagli ordinamenti nazionali. Anche la
+41 Causa C-144/04 Werner Mangold v Rüdiger Helm , 22.11.2005, Racc. 2005 I-9981.
+Oltre a S. Sciarra, Norme imperative, cit. a nota 30, rinvio, per un commento a questa
+sentenza, a V. Piccone e S. Sciarra, Principi fondamentali dellordinamento comunitario,
+obbligo di interpretazione conforme, politiche occupazionali , FI 2006, IV
+42 Mangold , cit., punti 74 - 77
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+15
+successiva giurisprudenza della Corte ha preso le distanze da una tale
+impostazione.43
+nel diritto comunitario, è utile ai nostri fini riflettere sulle modalità
+adottate dal legislatore tedesco per piegare lo strumento del contratto a
+termine a politiche occupazionali più flessibili ed in quanto tali rispondenti
+alle finalità richieste da una riforma del mercato del lavoro.
+Nel caso tedesco lobbligo per i datori di lavoro di giustificare
+lapposizione del termine si attenua fino a scomparire in ragione di una
+diversa tutela accordata ai lavoratori ultracinquantenni. La tutela  si
+potrebbe dire con ricorso ad un concetto tipico del gergo comunitario 
+della loro occupabilità, a fronte di una potenziale esclusione dal mercato
+del lavoro, diviene prevalente rispetto ad un più tradizionale antidoto
+utilizzato nel diritto del lavoro, quello dei limiti legali posti alla
+discrezionalità organizzativa del datore di lavoro.
+Nelle sue Conclusioni44 lAvvocato Generale sottolinea che le leggi
+in materia di contratti a termine, succedutesi nellordinamento tedesco fin
+dalla metà degli anni Ottanta e culminate in una disciplina che trae
+origine dalle proposte della Commissione Hartz 45, si caratterizzano infatti
+per avere assunto come obiettivo principale la promozione
+delloccupazione e per voler perseguire una propria scelta di politica
+economica e sociale indipendente dai vincoli comunitari46.
+Questo passaggio viene ripreso dalla Corte nel rilevare che i
+successivi abbassamenti delletà oltre la quale è consentita la stipula di
+contratti a tempo determinato senza restrizioni sono giustificati non già
+dalla necessità di applicare laccordo quadro, ma da quella di incentivare
+43 Causa C-13/05 Sonia Chacón Navas v Eurest Colectividades SA , 11.7.2006, Racc. 2006
+I-6467. In questo caso, relativo ad una presunta violazione del principio di non
+discriminazione nei confronti di soggetti disabili, la Corte non accoglie lassimilazione
+suggerita dal giudice del rinvio fra lavoratore malato e lavoratore disabile. Non si può,
+pertanto, estrapolare dallart 13 TCE un principio generale di non discriminazione,
+specialmente in presenza di concetti, come quello di handicap, non ben definiti
+dallordinamento. Cfr. a riguardo i punti 56-58 nelle Conclusioni dellAvvocato generale
+nella causa in oggetto, rese il 16.3.2006. Si vedano inoltre le Conclusioni dellAvvocato
+generale in Causa C-411/05 Felix Palacios de la Villa v Cortefiel Servicios SA , presentate il
+15 .2.2007, fortemente critiche nei confronti di Mangold , in un caso di presunta
+discriminazione in un regime di pensionamento obbligatorio
+44 Causa C- 144/04 Mangold , Conclusioni dellAvvocato Generale presentate il 30 giugno
+2005
+45 Per cui si rinvia a M. Fuchs, I contratti di lavoro flessibile in Germania , DLRI 2005, p.
+135 ss. Riferimenti anche in D. Schiek, The ECJ Decision in Mangold: A Further Twist on
+Effects of Directives and Constitutional Relevance of Community Equality Legislation , ILJ
+2006, p. 329 ss.
+16 SILVANA SCIARRA
+loccupazione delle persone anziane in Germania47. Pertanto non vi
+sarebbe violazione della clausola 8.3 dellAccordo quadro, la così detta
+clausola di non regresso, invocata dal ricorrente, poiché politiche
+occupazionali come quella su cui si innesta la controversia esulano dalle
+finalità della Direttiva. Si dimentica in questo passaggio della decisione il
+preambolo della Direttiva ed i richiami in essa presenti alle politiche
+occupazionali varate dal Consiglio di Lussemburgo.
+Anche se la Direttiva sul lavoro a termine non figura al centro
+delle argomentazioni della Corte, ad essa viene comunque fatto
+riferimento per affermare che la normativa nazionale controversa è
+misura di attuazione di tale legislazione comunitaria secondaria e
+dunque vincolo ineliminabile per lancoraggio al diritto comunitario ed ai
+principi generali su cui lo stesso si fonda48. Alla legge che regolamenta il
+lavoro a termine, fonte di trasposizione della Direttiva 1999/70/CE
+nellordinamento tedesco, si deve dunque guardare per poter invocare i
+principi di diritto comunitario preesistenti alla Direttiva medesima, fra cui
+il principio di non discriminazione, riconosciuto, come la Corte ricorda in
+apertura del suo ragionamento, in numerose fonti internazionali.49
+Nonostante questo richiamo, largomentazione della Corte non
+ruota intorno alla Direttiva sul lavoro a termine, né si addentra a fondo
+nella stessa. La clausola di non regresso, secondo cui la normativa di
+trasposizione della Direttiva non costituisce motivo valido per ridurre il
+livello generale di tutela dei lavoratori, mostra in questa operazione tutta
+la sua intrinseca debolezza. Se fosse intesa come obbligo di standstill ,
+essa costringerebbe il legislatore nazionale in uno stato innaturale di
+inattività, privandolo delle sue essenziali prerogative sia nelliniziativa, sia
+nella scelta delle soluzioni ritenute più adatte alla promozione
+delloccupazione. Se fosse interpretata come clausola di trasparenza 50,
+essa funzionerebbe solo come premessa per motivare e razionalizzare le
+scelte storicamente succedutesi nella trasposizione delle norme
+comunitarie.
+dal modo in cui la Corte Costituzionale ha recentemente affrontato
+unintricata questione interpretativa del Decreto legislativo n. 368/2001
+che traspone la Direttiva 1999/70/CE in materia di contratti a tempo
+47 Mangold , cit. a n. 41, punto 53
+48 Mangold , punto 74
+50 U. Carabelli e V. Leccese Libertà di concorrenza e protezione sociale a confronto. Le
+clausole di favor e di non regresso nelle direttive sociali , Contratto e impresa. Europa
+2005, p. 539 ss.
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+17
+determinato.51 Le norme di trasposizione sono ritenute dal giudice che
+solleva la questione di legittimità costituzionale doppiamente
+peggiorative, e pertanto in violazione della clausola di non regresso,
+poiché sottopongono a condizioni prima inesistenti il diritto di precedenza
+nelle assunzioni a termine di lavoratori agricoli stagionali.
+Nel citare la sentenza Mangold, richiamata come ius superveniens
+a distanza di circa un anno dallordinanza di rimessione, la Corte
+Costituzionale fa sue le parole della CGE ed afferma che una reformatio
+in peius della protezione offerta dalla legislazione nazionale ai lavoratori
+nel settore dei contratti a tempo determinato non è, in quanto tale,
+vietata dallAccordo quadro, quando non sia in alcun modo collegata con
+lapplicazione di questo punto. Il riferimento è al passaggio della
+sentenza Mangold in cui la CGE, avendo considerato che labbassamento
+delletà è controbilanciata da maggiori tutele legate alla disciplina dei
+contratti a tempo determinato, fa notare che altra cosa è valutare il
+regime delle tutele non connesse allapplicazione del medesimo Accordo
+quadro.52
+termini troppo schematici  e forse non condivisibili  la questione della
+comparazione fra regimi di tutela dei lavoratori, è pur vero che nella sua
+decisione la Corte Costituzionale decontestualizza il passaggio della
+sentenza Mangold , per estrapolare in modo repentino un precedente ed
+attribuire allo stesso una portata generale.
+Mangold viene in questo modo elevata dalla Corte al rango di
+fonte vincolante, senza peraltro valutare la funzione della clausola di non
+regresso posta in primo piano dal giudice che solleva la questione di
+costituzionalità. Quel che più colpisce è che la Corte Costituzionale non si
+soffermi a considerare la controversa interpretazione del principio di
+uguaglianza fornita dalla CGE.
+lo meno in Mangold , discontinuo. Nellesame che la CGE fa della Direttiva
+1999/70 colpisce la divaricazione fra le misure promozionali
+delloccupazione, cui si fa riferimento nel Preambolo dellAccordo quadro
+con il richiamo al vertice straordinario di Lussemburgo del 1997, e le
+51 Corte Cost. Ordinanza n.252/2006 28 giugno 2006, GU 05.07.2006 n. 27, prima serie
+speciale, p.79 ss. La questione di legittimità costituzionale (sollevata da Trib di Rossano
+17 maggio 2004, RGL 2005 II, p.85, con nota di A. Andreoni) degli artt. 10 c.9 e 10 e
+dellart. 11 c. 1 e 2 del d.lgs n. 368/2001, attuativo della Direttiva 1999/70 verte sulla
+violazione delart. 76 Cost., nella parte in cui tali norme abrogano la normativa previgente
+che conferiva il diritto di precedenza nellassunzione presso la stessa azienda, con la stessa
+qualifica, a favore di lavoratori stagionali assunti con contratto a termine
+52 Mangold , punto 52
+misure intrinsecamente collegate allo svolgimento del rapporto di lavoro.
+Queste ultime non dovrebbero essere dissociate dalle prime nellambito di
+uninterpretazione sistematica della fonte comunitaria. Invece lo
+diventano, quando locchio dellinterprete si sposta verso un altro
+obiettivo, quello onnicomprensivo della promozione delloccupazione,
+parte qualificante delle prerogative dei governi nazionali, nei limiti imposti
+agli stessi dalle condizioni economiche generali.
+Sulla scorta di queste considerazioni, che mettono concretamente
+alla prova il binomio flessibilità-sicurezza richiamato nel Preambolo
+dellAccordo quadro, sembra utile analizzare altre recenti decisioni della
+CGE.
+del contratto di lavoro a tempo determinato nel dialogo fra le corti
+nazionali e la Corte di Lussemburgo si aggancia in modo interessante a
+nuovi percorsi interpretativi, volti a garantire il rispetto dei diritti
+fondamentali.
+CGE, a seguito di ordinanze per rinvii pregiudiziali del Tribunale di
+Genova.53 Tali decisioni, affiancate in rapida successione ad una lunga
+sentenza di poco precedente,54 conferiscono visibilità ed autorevolezza
+alla legislazione comunitaria secondaria, da cui scaturiscono i diritti
+fondamentali dei lavoratori. Questo dato è rilevante anche perché si
+tratta  è bene ricordarlo  di una Direttiva che recepisce un accordo
+quadro siglato dalle parti sociali.
+In Marrosu e Sardino  55 ed in modo simile in Vassallo  56 , la mancata
+conversione in contratti a tempo indeterminato di contratti a termine più
+volte prorogati da parte di unazienda ospedaliera, induce i ricorrenti a
+ritenere che sia stata violata la normativa nazionale ed in particolare il
+decreto legislativo 368/2001, che traspone la Direttiva 1999/70/CE. Il
+datore di lavoro fa invece valere le disposizioni relative al lavoro alle
+dipendenze della pubblica amministrazione (d.lgvo 30 marzo 2001,
+n.165) che, in ragione della particolare forma di reclutamento vigente nel
+settore pubblico, non consentono tale automatica conversione. Lazienda
+ospedaliera invoca inoltre la giurisprudenza della Corte Costituzionale che
+53 Una delle due ordinanze, Tribunale di Genova, ordinanza 21 gennaio 2004, Lavoro nelle
+pubbliche amministrazioni 2004, p. 693 ss. è commentata da L. Zappalà
+54 Causa C- 212/04 Adeneler e altri , 04.07.2006, Racc. 2006 I-6057. In merito si rinvia ai
+commenti di C. Vigneau, Lé regime des contrats à durée déterminée en droit
+communautaire , DS 2007, p.94 ss.
+55 Causa C- 53/04, Marrosu e Sardino, 07.09.2006
+56 Causa C-180/04, Vassallo , 07.09.2006. Si veda, per una nota alle sentenze citate, A.
+Gabriele, Il meccanismo sanzionatorio per lillegittima successione di contratti a termine
+alle dipendenze della P.A. al vaglio della Corte di Giustizia , RGL 2006, II, p. 614 ss.
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+19
+ha dichiarato tali norme non lesive del principio di uguaglianza e di buon
+andamento ed imparzialità dellamministrazione. Questultimo principio ha
+guidato la Corte Costituzionale nel ritenere ragionevole il diverso
+trattamento riservato ai lavoratori pubblici, assunti attraverso il
+meccanismo del concorso.
+Corte non tiene conto nella sua decisione della compatibilità del decreto
+165/2001 con i principi comunitari, cui si rifà il decreto 368/2001, fonte
+di trasposizione della direttiva e dunque espressione delladempimento
+da parte dello stato italiano degli obblighi derivanti dalla sua
+appartenenza allUE.57 In entrambi i ricorsi si discute degli abusi compiuti
+da parte del datore di lavoro nel fare ricorso a contratti a termine. Ciò
+comporta una smisurata estensione dellinterpretazione circa le ragioni
+obiettive cui tali forme di lavoro flessibile dovrebbero conformarsi. La
+clausola 5 dellAccordo quadro indica che proprio tali pratiche abusive
+devono essere prevenute dagli Stati membri.
+Nelle sue Conclusioni lAvvocato Generale Poiares Maduro si
+sofferma su un punto delicato nel quadro di più ampi equilibri
+istituzionali.58 Anche se, per quanto riguarda la conversione dei contratti
+a termine, gli Stati possono discrezionalmente escludere alcuni settori
+dallapplicazione della Direttiva, essi devono farlo osservando il principio
+di uguaglianza, che è principio dellordinamento comunitario. Egli confuta
+con fermezza largomento presentato dal governo italiano nel caso
+Vassallo , secondo cui laccordo quadro incorporato nella Direttiva non
+poteva ritenersi vincolante nei confronti delle pubbliche amministrazioni,
+perché firmato solo da organizzazioni sindacali del settore privato. Senza
+bisogno di interrogarsi sullidentità delle organizzazioni che hanno
+stipulato laccordo,  si sostiene nelle Conclusioni - va precisato che il
+testo da interpretare possiede il carattere normativo di una Direttiva
+adottata dal Consiglio.59
+costituzionale italiana, che va in direzione opposta alle sue
+argomentazioni. Nel rendere un omaggio quasi retorico ai principi da essa
+sanciti, egli ricorda che le finalità perseguite dagli articoli 3 e 97 della
+Costituzione devono essere adeguate, secondo un criterio di
+57 Così nel ricorso che riguarda il caso Marrosu e Sardino , dove si ritiene prevalente una
+fonte di diritto interno sullaltra, in forza del primato del diritto comunitario ( cit. a n. 55, p.
+699). In Vassallo il Tribunale di Genova dubita che la Direttiva sul contratto a termine si
+applichi alle pubbliche amministrazioni e tuttavia ritiene di rinviare in via pregiudiziale alla
+CGE
+59 Ibidem , punto 26
+proporzionalità, al rispetto del principio di uguaglianza. Nel ritenere
+legittimo il diverso trattamento riservato ai pubblici dipendenti, reclutati
+attraverso pubblici concorsi, la Corte costituzionale si discosterebbe,
+secondo lAvvocato generale, da un principio di diritto comunitario.
+La CGE condivide queste conclusioni nella sua decisione e
+specifica con forza che le misure volte a prevenire gli abusi nel ricorso ad
+assunzioni a tempo determinato devono essere proporzionate, ma anche
+sufficientemente efficaci per raggiungere gli obiettivi indicati nella
+Direttiva.60
+Si può sostenere che la parità di trattamento fra lavoratori
+pubblici e privati si basi nei due casi di cui si discute su un criterio più
+accessibile di comparabilità di quanto non sia dato cogliere in Mangold .
+Lefficacia diretta della clausola 5 dellAccordo quadro, giustificata anche
+dalla natura pubblica del datore di lavoro, rende più consistente lintero
+impianto della Direttiva, ritenuta altrimenti troppo vaga nella indicazione
+fornita agli stati membri di prevenire gli abusi derivanti dallutilizzo di
+una successione di contratti o rapporti di lavoro a tempo determinato. La
+necessaria discrezionalità da riconoscere agli Stati, quanto alle misure da
+adottare, non esclude la natura vincolante delle prescrizioni contenute
+nella Direttiva.
+frequente riferimento a Adeneler,  61 un altro caso originato da un rinvio
+pregiudiziale, sempre in materia di successione abusiva di contratti a
+termine nel pubblico impiego, in violazione della già citata clausola 5
+dellAccordo quadro. Nel tentativo di sradicare una tale diffusa pratica di
+ricorso al lavoro a termine, il governo greco, pressato dalla Commissione,
+aveva optato per unestensione del termine finale entro cui trasporre la
+Direttiva, ma anche dopo la trasposizione aveva accumulato ulteriore
+ritardo nelladottare misure volte a limitare i comportamenti illegittimi
+della pubblica amministrazione.
+conforme cui sono tenuti i giudici nazionali, e si precisa che se lobiettivo
+indicato dalla Direttiva non può essere raggiunto per via interpretativa, la
+60 Cfr. punto 36 in Vassallo e punto 51 in Marrosu. In un caso recente, relativo alla tutela
+dei lavoratori in caso di insolvenza del datore di lavoro, la CGE si confronta nuovamente
+con una giurisprudenza costituzionale nazionale difforme ed afferma comunque il primato
+del diritto comunitario con il conseguente obbligo per il giudice nazionale di disapplicare il
+diritto interno, per affermare il principio generale di uguaglianza e di non discriminazione
+come principio generale del diritto comunitario. Cfr. Causa C-81/05 Anacleto Corsero
+Alonso v Fondo de Garantìa Salarial (Fogasa) , 7.9.2006
+61 Cit. a n. 54
+62 Causa C-397/01 Pfeiffer v Deutsches Rotes Kreuz, Kreisverband Waldshut e V ,
+05.10.2004, Racc. 2004 I-8835
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+21
+responsabilità degli stati per i danni causati ai singoli è quella risalente a
+Francovich e Faccini Dori .63 Ed inoltre, continuando a tessere una rete
+fitta di riferimenti, la Corte cita Mangold per affermare che la stabilità
+delloccupazione è elemento primario della protezione dei lavoratori, il che
+rende potenzialmente esposta ad abusi la pratica del rinnovo dei contratti
+a termine.64
+motivazioni che guidano la Corte nella sua sottile e perseverante
+costruzione di un coerente apparato di tutele per i lavoratori a tempo
+determinato. Tutto ruota, a ben vedere, intorno alla nozione di ragioni
+obiettive, quelle che, secondo la clausola 5 (1) (a) dellAccordo quadro,
+servono a giustificare il rinnovo dei contratti a termine. Non essendovi
+alcuna definizione delle ragioni obiettive nella fonte comunitaria, il
+significato va ricercato nelle finalità generali dellAccordo quadro. Pertanto
+le ragioni obiettive vanno ricondotte a precise e concrete circostanze
+che caratterizzano una certa attività in grado di giustificare la
+successione di più contratti in un determinato contesto. Una disposizione
+che consente una successione automatica e priva di giustificazioni dei
+contratti a termine priva i lavoratori di una tutela primaria.65
+Come si può notare, nelle decisioni analizzate la legislazione
+comunitaria secondaria disegna un cerchio inviolabile intorno ai diritti
+fondamentali. Si può sostenere che la Direttiva sul lavoro a tempo
+determinato emerga da questa giurisprudenza della Corte con una sua
+propria statura ed autorevolezza, quasi a voler smentire il disincanto di
+chi ha sostenuto che la Corte  e con essa gli Avvocati Generali - non
+abbiano ancora appreso un linguaggio dei diritti fondamentali nella
+materia del diritto sociale europeo.66 I casi di cui qui si discute aprono, al
+contrario, nuove prospettive per la giustiziabilità dei diritti fondamentali,
+solidamente incardinati anche in una Direttiva che recepisce un Accordo
+quadro.
+Corte, quanto più esso si insinua in aspetti apparentemente marginali del
+diritto comunitario.
+63 La giurisprudenza della CGE è richiamata in Adeneler , cit. a n. 54 , rispettivamente ai
+punti 108 e 112. C. Vigneau, Lé regime , cit a n. 54 fa notare che la CGE vuole in tal modo
+conferire valore vincolante a quelle norme della Direttiva che sembrerebbero avere,
+altrimenti, una funzione meramente dichiarativa(p.97). Resta peraltro difficile garantire la
+prevenzione degli abusi nel ricorso al lavoro a termine, specialmente alla luce del ruolo
+marginale giocato dalla clausola di non regresso.
+64 Adeneler, punto 62
+65 Adeneler , punti 69 e 73
+66 B. De Witte, The Trajectory of Fundamental Social Rights in the European Union , in G.
+De Búrca e B. de Witte (a cura di) Social Rights in Europe , Oxford, OUP 2005, p.156
+22 SILVANA SCIARRA
+Alcune considerazioni merita a tale riguardo un recente caso,
+inviato alla Corte in via pregiudiziale da un giudice spagnolo e non
+ancora deciso.67
+particolare indennità riservata ai soli lavoratori a tempo indeterminato
+induce il giudice nazionale a ritenere violata la clausola 4 dellAccordo
+quadro, che vieta ogni trattamento meno favorevole, se non giustificato
+da ragioni obiettive. Poiché si tratta di una lavoratrice dipendente da un
+ospedale pubblico, si pone nuovamente la questione dellefficacia della
+Direttiva anche nei confronti delle pubbliche amministrazioni.
+La prosa sicura dellAvvocato generale Poiares Maduro ci assiste
+ancora una volta nei labirinti di una giurisprudenza divenuta ormai ricca
+di sorprese. Un punto controverso attiene alla definizione di lavoratore
+nel diritto nazionale ed allimpossibilità, più volte ribadita dalla Corte, di
+assorbire in una nozione onnicomprensiva le diverse accezioni del
+termine.
+giustificazioni che sono addotte per introdurre un trattamento
+differenziato, a meno di non volere, come già affermato in Adeneler ,
+Marrosu e Vassallo , rendere irrilevante lAccordo quadro nelle parti in cui
+si prevede che siano adottate misure di prevenzione degli abusi nel
+ricorso ai contratti a termine. Su questo punto lAvvocato generale
+ribadisce limportanza di lasciare alle corti nazionali la valutazione degli
+elementi oggettivi che giustificano lesclusione di tali contratti dalla sfera
+di efficacia della Direttiva. Spetta anche alle corti nazionali valutare la
+conformità con il diritto comunitario delle posizioni assunte dal Tribunal
+Supremo quanto alla non comparabilità delle condizioni di lavoro
+applicate ai lavoratori pubblici, a causa del loro particolare status
+professionale. 68
+allesclusione esplicita della retribuzione dalla competenza del Trattato
+(art. 137(5)) e della possibilità di ricondurre le prestazioni retributive di
+cui si dibatte allampia nozione di condizioni lavorative non discriminatorie
+per il lavoratore a termine.
+La Commissione, intervenendo nella causa, fa riferimento alla
+giurisprudenza della Corte in materia di parità di trattamento fra uomo e
+donna per sostenere che lart. 137(5) non preclude lesame di effetti
+incidentali della retribuzione inerenti allapplicazione della legislazione
+secondaria. Lassenza di un preciso riferimento nella Direttiva 1999/70
+67 Causa C-307/05 Yolanda Del Cerro Alonso v Osakidetza (Servicio Vasco de Salud)
+68 Cfr. punto 15 delle Conclusioni rese il 10 gennaio 2006
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+23
+non esclude, secondo la Commissione, che la retribuzione sia da
+intendersi parte essenziale delle condizioni di lavoro.
+Il cambio di rotta dellAvvocato generale ci conduce verso altri
+lidi. Piuttosto che risalire alle Direttive 76/207 e 75/117 ed alla relativa
+giurisprudenza della Corte, appare più solido il riferimento alla Direttiva
+77/187 sul trasferimento dimpresa, adottata nellambito delle misure
+sullattuazione del mercato comune. In relazione a questa fonte la
+giurisprudenza ha osservato che la retribuzione è parte delle condizioni
+lavorative da salvaguardare, al fine di garantire unefficace tutela ai
+lavoratori interessati dai trasferimenti. Una riduzione della retribuzione
+comporta, nel contesto di quella fonte, un significativo cambiamento delle
+condizioni di lavoro, da preservare nella loro interezza, senza con questo
+danneggiare gli equilibri del mercato.69
+Al contrario, la Direttiva sul lavoro a termine poggia sulla base
+giuridica dellart. 139 (2) TCE, che prevede lincorporazione degli accordi
+quadro su richiesta delle parti collettive firmatarie degli stessi. Tali
+accordi si muovono nellambito delle competenze segnate dallart. 137
+TCE, ovvero di quella stessa norma che - nel comma 5 - esclude la
+retribuzione dalla competenza comunitaria. E da sottolineare la rilevanza
+di questo passaggio che consente allAvvocato generale di non lasciare
+che il suo ragionamento si areni nelle secche di pericolose contraddizioni.
+Il timone è tenuto ben fermo in uninterpretazione che tende a
+rafforzare la portata dellAccordo quadro. I contratti a termine emergono
+da questa lettura per quello che sono nella realtà degli ordinamenti
+nazionali: misure di una flessibilità regolata, strumenti di una gestione
+efficiente da parte dei datori di lavoro che sappiano combinare
+prerogative imprenditoriali e rispetto dei principi fondamentali. Il diritto
+comunitario preserva in tal modo la sua funzione equilibratrice: senza
+incursioni nelle dinamiche del mercato, che sarebbe turbato da
+uninterpretazione estensiva delle direttive sulle politiche sociali, esso può
+valorizzare il principio di non discriminazione quale bussola nella
+parificazione delle condizioni lavorative, inclusa la retribuzione.
+4. Conclusioni: elementi di modernizzazione nella
+disciplina del lavoro a tempo determinato
+Alcune considerazioni conclusive possono essere tratte da quanto
+detto fino ad ora.
+le politiche del diritto del lavoro possono  se così si sceglie di fare 
+69 Il riferimento dellAvvocato generale al punto 21 delle Conclusioni è a Causa C- 425/02
+Delahaye , 11.11.2004 Racc. 2004 I-10823
+24 SILVANA SCIARRA
+poggiare su un patrimonio significativo di idee e di interpretazioni,
+rispettoso del ruolo giocato dagli attori collettivi, come pure dalla
+giurisprudenza. Nella gran parte dei casi tali analisi segnalano elementi di
+continuità nella trasformazione della materia e propensione
+alladattamento dei principali istituti, in ragione di mutate condizioni
+economiche generali e di una diversa organizzazione del lavoro.
+E notevole la distanza che separa il dibattito teorico
+sullevoluzione del diritto del lavoro dalle esili proposte adombrate nel
+Libro verde. Sia nella gran parte dei paesi industrializzati, sia nei paesi in
+via di sviluppo, la ricerca sembra orientata verso lindividuazione di nuove
+sinergie fra politiche occupazionali e riforme del mercato del lavoro
+collegate alla rivisitazione dei principali istituti.
+In particolar modo la ricerca promossa dallOIL si muove su
+traiettorie ampie di comparazione e coglie dati innovativi nella analisi
+interdisciplinare, insinuata con grande maestria nel dibattito europeo con
+il Rapporto Supiot e poi adattata ad un contesto internazionale.
+Il Libro verde non si ispira alla terminologia adoperata in quel
+Rapporto e sembra non volersi appropriare di una progettualità orientata
+a costruire il futuro della materia. Nella scelta di limitarsi ad imbastire i
+confini di una modernizzazione contingente del diritto del lavoro,
+potrebbe nascondersi una strategia di attesa da parte della Commissione.
+Lampia consultazione avviata  e certo facilitata dal ricorso a strumenti
+informatici  potrebbe indurre la Commissione a trarre nuova energia e
+nuove fonti di ispirazione nellampliare le sue prospettive di ricerca e nel
+modulare le opzioni sulle politiche da adottare.
+Il contributo della giurisprudenza, come emerge dai pochi casi
+selezionati ed analizzati in precedenza, offre spunti problematici di
+riflessione e tuttavia si orienta verso la valorizzazione di tutti gli
+strumenti a disposizione del giurista europeo. Sembra quasi che la
+giurisprudenza pratichi  e non solo predichi  la modernizzazione nel
+perseguire uninterpretazione critica ed avanzata delle fonti comunitarie.
+In presenza di piani interpretativi e progettuali non perfettamente
+collimanti, si può suggerire che spetti ad unattenta e scrupolosa indagine
+comparata colmare il divario, in modo da mettere in evidenza le lacune
+degli ordinamenti nazionali, ma anche gli spazi aperti allinnovazione,
+attraverso una corretta trasposizione e interpretazione del diritto
+comunitario.
+termine non diversamente da altre fonti di diritto comunitario secondario.
+Il richiamo alla base giuridica su cui esso è fondato, presentato in modo
+sottile dallAvvocato generale in Del Cerro Alonso , serve a salvaguardare,
+non a ridurre, la funzione della Direttiva che lo recepisce. Due aspetti
+IL LAVORO A TEMPO DETERMINATO NELLA GIURISPRUDENZA DELLA CORTE DI GIUSTIZIA
+EUROPEA. UN TASSELLO NELLA MODERNIZZAZIONE DEL DIRITTO DEL LAVORO
+25
+interconnessi ne risultano valorizzati: la vincolatività nei confronti degli
+Stati membri della clausola 5 relativamente alla prevenzione degli abusi
+nel fare ricorso a contratti a termine e la necessità di sanzionare i
+comportamenti abusivi dei datori di lavoro.
+Ugualmente significativa appare la ricognizione attenta svolta
+dalla CGE in relazione alle ragioni obiettive che consentono il ricorso a
+contratti a termine successivi. Essa offre indicazioni circostanziate per
+ladeguamento, sia pure in via interpretativa, delle misure legislative
+nazionali che non individuano correttamente i limiti da apporre a
+comportamenti arbitrari del datore di lavoro.70
+Il rinvio alle corti nazionali per la ricerca della soluzione adatta a
+garantire la perfetta osservanza degli obblighi nascenti dallappartenenza
+allUE è inevitabile e nel contempo problematica. Particolarmente per il
+lavoro pubblico, essa pone il problema non secondario della reperibilità
+delle risorse finanziarie sia nellipotesi della conversione dei contratti a
+termine in contratti a tempo indeterminato, sia nel caso di altre misure
+compensative.
+comunitario può assistere la CGE nel preservare la sua funzione di
+guardiana dei Trattati, senza scivolare in uninaccettabile invadenza delle
+competenze degli Stati. La ricerca di un punto di equilibrio da parte dei
+giudici di Lussemburgo non sembra facilitata dal richiamo alle politiche
+occupazionali, come si è visto in Mangold . Al contrario, il comprensibile
+self-restraint che spinge la CGE a non oscurare le scelte dei governi e dei
+parlamenti nazionali, rende gli strumenti di soft law marginali nella
+costruzione delle sue argomentazioni.
+nazionale per correggere le distorsioni esistenti e per prevenire nuovi
+abusi nel ricorso al lavoro a termine.71 Allassenza di un metodo di
+70 Cfr. A tale riguardo C. App. Bari 20.7.2005, FI 2006, I, 1540, che circoscrive lambito
+delle ragioni obiettive giustificabili nel contesto del d lgvo 368/2001, anche alla luce del
+diritto comunitario (la legge delega era contenuta nella legge comunitaria) e della sentenza
+della Corte Cost. 2000/41 (FI 2000,I, 70) che dichiarò inammissibile il referendum
+abrogativo della disciplina in questione, poiché avrebbe esposto lo stato italiano a
+responsabilità per inadempimento nei confronti della CE
+71 Si rinvia, per un esempio significativo nel panorama comparato, a F. Valdés dal Re e J.
+Lahera Forteza, La nuova riforma del mercato del lavoro in Spagna , DLRI 2006 ed a Social
+partners agree on further labour market reform , EIRR 2006, p. 24 ss. , per ulteriori
+informazioni sulla riforma spagnola. Una riforma della disciplina del contratto a termine
+figura anche nei programmi del Ministro del lavoro italiano. Si veda il Comunicato stampa
+del 3 Novembre 2006, accolto tiepidamente da CISL e UIL e criticamente dalla
+Confindustria.
+coordinamento delle politiche legislative nazionali supplisce per ora con
+competenza la CGE.

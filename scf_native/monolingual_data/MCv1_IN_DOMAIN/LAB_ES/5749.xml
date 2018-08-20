@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> Incumplimiento de contrato laboral - La guía de Derecho</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> Incumplimiento de contrato laboral - La guía de Derecho</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 18:07:14.0</pubDate>
+							<eAddress>http://derecho.laguia2000.com/derecho-laboral/incumplimiento-de-contrato-laboral</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/5749.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Hilda el 30 de Noviembre de 2010</p>
+			<p id="p2">Los contratos , cualquiera sea su tipo, si son bilaterales o sinalagmáticos , engendran obligaciones para ambas partes, y esto sucede también en los contratos laborales , donde una o ambas partes pueden incurrir en su incumplimiento.</p>
+			<p id="p3">Para que exista incumplimiento de contrato debe existir relación laboral, aún si las partes no celebraron entre ellas más que un contrato tácito por el cual el trabajador puso su fuerza de trabajo a disposición del empleador. Por supuesto esta relación deberá ser probada, por cualquier medio probatorio aceptado por las normas procesales.</p>
+			<p id="p4">Si el trabajador incumple en forma grave sus deberes, por ejemplo faltas reiteradas y no justificadas, falta de respeto a su empleador, no cumplimiento de sus tareas, falta de lealtad, etcétera, podrán estos incumplimientos ser causales de despido causado, y por lo tanto el trabajador no será indemnizado; salvo que inicie juicio, y pruebe que las causales a él atribuidas, no son verdaderas.</p>
+			<p id="p5">Si el empleador no cumple el contrato, puede ser demandado para que lo haga (por ejemplo abonarle aguinaldo o vacaciones o hacer aportes a los organismos de seguridad social) o en ciertos casos, puede considerarse el trabajador despedido sin causa y reclamar indemnización.</p>
+			<p id="p6">Según el artículo 10 de la Ley de Contrato de Trabajo argentina Número 27.044 en caso de duda debe resolverse a favor de la continuidad del contrato de trabajo. El artículo 24 expresa que si hay incumplimiento de un contrato de trabajo, previamente a iniciarse la prestación efectiva de los servicios, los efectos de dicho incumplimiento serán juzgados por las normas del Derecho Civil, salvo lo que esta ley disponga en forma expresa.</p>
+			<p id="p7">La indemnización por ese incumplimiento, no podrá ser menor a un mes de la remuneración convenida, o la que resulte del convenio colectivo de trabajo correspondiente.</p>
+			<p id="p8">0 comentario/s hasta el momento</p>
+			<p id="p9">Para poder comentar, debes estar registrado. Este blog utiliza OpenID como sistema de identificación. Si no tienes usuario de OpenID, puedes registrarte siguiendo este enlace . Luego, podrás ingresar tu usuario en el campo que aperece debajo y loguearte.</p>
+			<p id="p10">OpenID URL</p>
+		</body>
+	</text>
+</cesDoc>

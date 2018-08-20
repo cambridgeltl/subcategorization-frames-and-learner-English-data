@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Formation professionnelle - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Formation professionnelle - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:56:18.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?actualite=Formation+professionnelle&amp;secteur=PME&amp;mode=theme&amp;idtheme=13</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/3958.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Formation professionnelle</p>
+			<p id="p2">Le terme de formation professionnelle recouvre des réalités extrêmement diverses, qui dépendent, d'une part, des objectifs et des moyens des employeurs et, d'autre part, de l'investissement personnel des salariés concernés. Lire la suite</p>
+			<p id="p3">La formation professionnelle constitue pour une entreprise un moyen privilégié d'acquisition de compétences.</p>
+			<p id="p4">Formation professionnelle continue </p>
+			<p id="p5">La formation professionnelle continue peut intervenir à tout moment de la vie professionnelle d'un salarié, avec des actions de nature et de portée très variées : la formation peut avoir pour objectif une simple remise à niveau sur un sujet donné, comme l'acquisition de savoirs nouveaux jusqu'à l'obtention d'un diplôme.</p>
+			<p id="p6">Formation en alternance </p>
+			<p id="p7">Ils mêlent généralement une formation initiale et l'acquisition d'une expérience professionnelle dans le cadre d'une alternance entre des périodes en entreprise et en centre de formation.</p>
+			<p id="p8">20/09/2010</p>
+			<p id="p9">23/08/2010</p>
+			<p id="p10">Avant le 1er octobre, les représentants du personnel doivent être consultés sur l’exécution du plan de formation de l’année en cours (2010) et de l’année passée (2009). Les documents doivent leur être transmis 3 semaines avant. Il est grand temps de se préparer.</p>
+			<p id="p11">22/06/2010</p>
+			<p id="p12">Vous venez de recruter un jeune de moins de 26 ans soit pour un stage, soit en contrat de travail déterminée (ou indéterminée). Savez-vous que certaines de vos dépenses peuvent être financées au titre de la participation au développement de la formation professionnelle continue ?</p>
+			<p id="p13">03/05/2010</p>
+			<p id="p14">Les Éditions Tissot vous proposent de lire ou de relire une sélection des articles qui ont le plus intéressé leurs lecteurs au cours du mois d’avril, classés par thèmes.</p>
+			<p id="p15">29/04/2010</p>
+			<p id="p16">Quel que soit le nombre de salariés, l’entreprise participe au financement de la formation professionnelle. Dans les prochains jours, certaines entreprises devront déposer leur déclaration et pour d’autres, verser leur contribution à la formation professionnelle.</p>
+			<p id="p17">30/03/2010</p>
+			<p id="p18">La loi du 24 novembre 2009 sur la réforme de la formation professionnelle a notamment mis en place un système de prise en charge du remplacement du salarié absent pour cause de formation. Il est également possible pour un salarié de s’absenter pour participer à un jury d’examen. Précisions suite à la publication des décrets d’application.</p>
+			<p id="p19">22/03/2010</p>
+			<p id="p20">Cette semaine, nous répondons à la question de Mme P., responsable des ressources humaines dans une entreprise de décolletage, qui s’interroge sur les droits à formation des membres du comité d’entreprise (CE).</p>
+			<p id="p21">16/03/2010</p>
+			<p id="p22">Les employeurs doivent prendre toutes les mesures nécessaires pour protéger la santé et la sécurité de leurs salariés. C’est une obligation. Cela passe notamment par des formations à la sécurité qui ne se résument pas simplement à une remise de documents.</p>
+			<p id="p23">Toute l'actualité concernant le thème formation professionnelle</p>
+			<p id="p24">L'analyse des dernières informations sur le thème de votre choix comme formation professionnelle. Plongez dans le cœur de l'actualité du droit du travail avec les Editions Tissot. Un accès complet à des fiches d'actualité en droit du travail PME et des dizaines de thèmes pertinents à appliquer directement dans votre entreprise. Les experts Tissot vous apportent les bonnes réponses en droit du travail PME pour faire face aux situations du quotidien.</p>
+			<p id="p25">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

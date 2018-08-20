@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ai-je le droit de licencier un délégué du personnel ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ai-je le droit de licencier un délégué du personnel ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:57:37.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=972&amp;titre=Ai-je+le+droit+de+licencier+un+d%C3%A9l%C3%A9gu%C3%A9+du+personnel+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/9352.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Ai-je le droit de licencier un délégué du personnel ?</p>
+			<p id="p2">Publicité</p>
+			<p id="p3">Les salariés investis de fonctions représentatives ont un statut protecteur particulier.</p>
+			<p id="p4">En raison de cette protection, ces salariés bénéficient d’une procédure particulière de licenciement , se caractérisant par plusieurs phases obligatoires qui doivent être scrupuleusement respectées par l’employeur.</p>
+			<p id="p5">Oui. Vous pouvez licencier un délégué du personnel. Mais attention, la procédure de licenciement est particulière.</p>
+			<p id="p6">Entretien préalable</p>
+			<p id="p7">La convocation et l’entretien préalable ont lieu dans les mêmes conditions qu’un salarié qui n’est pas représentant du personnel.</p>
+			<p id="p8">Attention : si, à l’issue de l’entretien préalable, vous prononcez une mise à pied à titre conservatoire du salarié protégé, celle-ci ne suspend que son contrat de travail : le délégué du personnel peut continuer à exercer son mandat de représentant du personnel. Vous devrez donc penser à le convoquer à toute réunion qui aurait lieu pendant la durée de la mise à pied.</p>
+			<p id="p9">Notez-le : la mise à pied à titre conservatoire n’est possible qu’en cas de faute grave ou lourde du salarié ; si la faute n’est ni grave, ni lourde, vous pourriez être condamné pour délit d’entrave.</p>
+			<p id="p10">La consultation du comité d’entreprise</p>
+			<p id="p11">Après l’entretien préalable, vous consultez le CE, s’il existe, sur le projet de licenciement d’un délégué du personnel .</p>
+			<p id="p12">Attention :</p>
+			<p id="p13">La procédure de consultation vaut pour les titulaires et les suppléants, ainsi que les candidats à ces mandats ou anciens titulaires de ceux-ci.</p>
+			<p id="p14">L’avis du CE doit être donné après l’audition de l’intéressé et faire l’objet d’un vote à bulletin secret (à moins qu’il n’y ait unanimité pour le licenciement) ; il est donné à la majorité des membres présents et doit être motivé. Vous ne prenez pas part au vote.</p>
+			<p id="p15">Un procès-verbal de la réunion est établi par le secrétaire du CE, qui vous le transmet, ainsi qu’aux membres du CE et à l’inspecteur du travail. L’avis du CE ne s’impose ni à vous, ni à l’inspecteur.</p>
+			<p id="p16">Demande d’une autorisation de licencier à l’inspecteur du travail</p>
+			<p id="p17">Une fois l’avis du CE obtenu, vous demandez, par lettre recommandée avec accusé de réception, l’autorisation de licencier le délégué du personnel à l’inspecteur du travail dans un délai de 15 jours suivant la délibération du CE (48 heures en cas de mise à pied conservatoire).</p>
+			<p id="p18">En l’absence de CE, la demande d’autorisation de licencier doit être présentée dans un délai de 8 jours à compter de la date de mise à pied conservatoire.</p>
+			<p id="p19">Notez-le : à défaut de comité d’entreprise (CE), l’ inspection du travail est directement saisie.</p>
+			<p id="p20">La lettre doit mentionner impérativement les motifs du licenciement envisagé, le procès-verbal de la réunion du CE et la nature du mandat représentatif du salarié concerné.</p>
+			<p id="p21">Si le salarié est investi de plusieurs mandats, mentionnez toutes les fonctions et mandats du salarié ; à défaut, l’autorisation de l’inspecteur du travail n’est pas valable.</p>
+			<p id="p22">Décision de l’inspecteur du travail</p>
+			<p id="p23">L’inspecteur du travail dispose de 15 jours, à compter de sa saisine, pour statuer (délai réduit à 8 jours en cas de mise à pied du salarié protégé). Si les nécessités de l’enquête le justifient, l’inspecteur peut toujours prolonger ce délai sans fixer de limites. Il doit alors vous en informer.</p>
+			<p id="p24">Sa décision doit être écrite (son silence ne valant pas autorisation), précise et motivée.</p>
+			<p id="p25">Rupture du contrat de travail</p>
+			<p id="p26">L’autorisation de licenciement permet de rompre le contrat de travail du salarié protégé. Tout licenciement prononcé avant l’autorisation est nul et passible d’un délit d’entrave pénalement sanctionné.</p>
+			<p id="p27">Article publié le 7 janvier 2010</p>
+			<p id="p28">Partagez cet article :</p>
+			<p id="p29">Articles sur le même thème : Licenciement</p>
+			<p id="p30">Actualités de la semaine pour les PME</p>
+			<p id="p31">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

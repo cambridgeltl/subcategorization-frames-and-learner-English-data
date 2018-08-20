@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Système national d’inventaires des émissions de polluants atmosphériques - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Système national d’inventaires des émissions de polluants atmosphériques - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 19:52:58.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/Systeme-national-d-inventaires-des,11973.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/8487.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">8 janvier 2010 (mis à jour le 18 mars 2010) - Énergie et climat</p>
+			<p id="p3">Le système national d’inventaires des émissions de polluants atmosphériques (SNIEPA), mis en place par le ministère du Développement durable permet à la France d’estimer les émissions des principaux polluants atmosphériques par les différents secteurs d’activité. Parmi les principaux : inventaire des émissions de polluants atmosphéroques, inventaire des émissions de gaz à effet de serre, inventaire des grandes installations de combustion.</p>
+			<p id="p4">Les inventaires produits dans le cadre du SNIEPA présentent ces émissions sous les différents formats requis par les conventions internationales et les décisions européennes pour lesquelles ils sont réalisés. Voir l’arrêté .</p>
+			<p id="p5">L’inventaire des émissions de polluants atmosphériques en France au titre de la Convention sur la pollution atmosphérique transfrontalière à longue distance ainsi que de la directive européenne relative aux plafonds d’émissions nationaux (NEC) - format CEE-NU / NFR &amp; NEC. Il porte sur les substances liées à l’acidification, l’eutrophisation et la pollution photochimique, les métaux lourds, les produits organiques persistants et les poussières (totales et fines), soit au total 24 polluants couverts par la Convention sur la pollution atmosphérique transfrontalière à longue distance, et notamment les polluants SO</p>
+			<p id="p6">2</p>
+			<p id="p7">, NOx, COVNM, CO, particules. De plus, la Directive européenne n°2001/81/CE du 23 octobre 2001 relative aux plafonds d’émissions nationaux (NEC) demande que chaque État membre communique un inventaire des émissions de SO</p>
+			<p id="p8">2</p>
+			<p id="p9">L’inventaire des émissions de polluants atmosphériques en France - Séries sectorielles et analyses étendues - Format SECTEN (sectorisation économique et énergétique) reprend l’ensemble des polluants étudiés et propose des analyses par secteurs et sous-secteurs conventionnels reflétant les différents acteurs économiques usuels.</p>
+			<p id="p10">L’inventaire des émissions de gaz à effet de serre en France au titre de la Convention cadre des Nations Unies sur les Changements Climatiques - format CCNUCC / CRF porte sur les gaz à effet de serre directs (CO</p>
+			<p id="p11">2</p>
+			<p id="p12">6</p>
+			<p id="p13">) retenus dans le protocole de Kyoto auxquels s’ajoutent le pouvoir de réchauffement global (PRG) et les quatre gaz à effet de serre indirect (SO</p>
+			<p id="p14">2</p>
+			<p id="p15">, NOx, COVNM, CO) qui doivent être rapportés dans le cadre de la Convention cadre sur les changements climatiques.</p>
+			<p id="p16">L’inventaire des grandes installations de combustion au titre de la directive 2001/81/CE du 23 octobre 2001 prévoit la communication tous les trois ans d’un inventaire des émissions des installations de combustion dont la puissance thermique nominale est égale ou supérieure à 50 MW quel que soit le combustible utilisé (solide, liquide ou gazeux).</p>
+			<p id="p17">Le dernier inventaire, paru en mars 2008, présente les résultats des exercices des années 2004, 2005 et 2006 ainsi que des résultats détaillés par régions, par secteur d’activité et par catégorie de combustibles.</p>
+			<p id="p18">D’autres aspects sont abordés tels que la relation avec le système communautaire d’échange de quotas d’émission de gaz à effet de serre, les évolutions méthodologiques …</p>
+			<p id="p19">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

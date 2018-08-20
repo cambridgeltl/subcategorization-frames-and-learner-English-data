@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Written agreements</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Written agreements</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:21:18.0</pubDate>
+							<eAddress>http://www.worksmartontario.gov.on.ca/scripts/default.asp?contentID=1-2-2</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Ontario</keyTerm>
+					<keyTerm>Ontario Ministry of Labour</keyTerm>
+					<keyTerm>Ministry of Labour</keyTerm>
+					<keyTerm>Department of Labour</keyTerm>
+					<keyTerm>Ontario Ministry of Labor</keyTerm>
+					<keyTerm>Ministry of Labor</keyTerm>
+					<keyTerm>Department of Labor</keyTerm>
+					<keyTerm>labour rights</keyTerm>
+					<keyTerm>labor</keyTerm>
+					<keyTerm>Employment Standards Act</keyTerm>
+					<keyTerm>ESA</keyTerm>
+					<keyTerm>employment standards</keyTerm>
+					<keyTerm>employment rights</keyTerm>
+					<keyTerm>hours of work</keyTerm>
+					<keyTerm>overtime</keyTerm>
+					<keyTerm>vacation</keyTerm>
+					<keyTerm>vacation time</keyTerm>
+					<keyTerm>vacation pay</keyTerm>
+					<keyTerm>public holidays</keyTerm>
+					<keyTerm>time off</keyTerm>
+					<keyTerm>breaks</keyTerm>
+					<keyTerm>coffee breaks</keyTerm>
+					<keyTerm>pay</keyTerm>
+					<keyTerm>minimum wage</keyTerm>
+					<keyTerm>wages</keyTerm>
+					<keyTerm>raises</keyTerm>
+					<keyTerm>termination</keyTerm>
+					<keyTerm>quitting</keyTerm>
+					<keyTerm>Agreement</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/3420.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">With certain restrictions, the law gives employers and employees some flexibility to agree to a "different" version of some of the minimum standards under the Employment Standards Act, 2000 (ESA). This can be done through written agreements between employees and employers. In some cases, such as where employers and employees enter into agreements for excess hours or overtime averaging, other conditions such as obtaining an approval from the Director of Employment Standards will also have to be met.</p>
+			<p id="p2">The ESA allows employers and employees to make, for example, agreements to:</p>
+			<p id="p3">exceed the daily hours of work limits (eight hours a day, or an established regular work day that is longer than eight hours) and weekly hours of work limits (48 in a work week)</p>
+			<p id="p4">average hours of work over a period of two weeks or more for the purpose of determining overtime entitlements</p>
+			<p id="p5">compensate an employee for overtime hours with paid time off rather than with overtime pay</p>
+			<p id="p6">take vacation time in periods of less than one week.</p>
+			<p id="p7">Throughout the ESA, where an agreement can be made between you and your employer, the agreement must be in writing unless otherwise stated.</p>
+			<p id="p8">Table of Contents</p>
+			<p id="p9">Generally speaking, the agreement is valid if:</p>
+			<p id="p10">the agreement covers only future events</p>
+			<p id="p11">the agreement is signed</p>
+			<p id="p12">the employee understood the consequences of making the agreement</p>
+			<p id="p13">the employee wasn't forced into making the agreement.</p>
+			<p id="p14">What does it mean if I sign the agreement?</p>
+			<p id="p15">Signatures usually mean that you and your employer intended to enter into the agreement. However, your employer's intent could also be established by the fact that he or she drafted the agreement, and your intent could be established through other documents that you signed or sent to your employer.</p>
+			<p id="p16">Does the agreement have to be specific?</p>
+			<p id="p17">Both parties to the agreement must understand it to mean the same thing. Ideally, an agreement should be specific and clear enough for an objective third party to understand what was being agreed to. Ambiguous agreements may be ineffective.</p>
+			<p id="p18">What are some things that an agreement should contain?</p>
+			<p id="p19">Some of the items that you should look for to be included in agreements:</p>
+			<p id="p20">the names of the parties</p>
+			<p id="p21">the date the agreement was entered into</p>
+			<p id="p22">the date the agreement will come into effect</p>
+			<p id="p23">the date the agreement will expire</p>
+			<p id="p24">the minimum standard that the parties are agreeing to replace with a "different" version and what that "different" version of the standard is.</p>
+			<p id="p25">the signature of all parties to the agreement.</p>
+			<p id="p26">If I don't understand the agreement, will the agreement be valid?</p>
+			<p id="p27">In order for an agreement to be valid, the employee must have given his or her informed consent. The best evidence of an employee's informed consent is that the agreement itself accurately describes the consequences of entering into it.</p>
+			<p id="p28">However, informed consent may also be demonstrated in other ways. For example, an employee may have been able to give informed consent because he or she was provided with an Employment Standards Act, 2000 Fact Sheet or contacted the Ministry of Labour for information about the standard that is the subject of the agreement.</p>
+			<p id="p29">Did I provide informed consent?</p>
+			<p id="p30">The following are some examples of situations in which an employee may not have provided informed consent:</p>
+			<p id="p31">the employee did not read the agreement and was told he or she had to sign the document as a requirement of the job</p>
+			<p id="p32">the employee cannot read, and the agreement was not read to the employee before he or she signed it</p>
+			<p id="p33">the employee does not understand the language the agreement was drafted in, and the document was not read to the employee in a language he or she understood before he or she agreed to it</p>
+			<p id="p34">where the employer simply stated that an employee was bound by the terms of employment in an employee handbook without ensuring that the employee had read and understood the provisions in the handbook</p>
+			<p id="p35">where an important term is not prominent or easily readable on the agreement.</p>
+			<p id="p36">What if I think I was pressured into signing?</p>
+			<p id="p37">The following are some examples of where an agreement may be invalid because the employee entered into it because an employee has been unduly pressured into making the agreement:</p>
+			<p id="p38">the employer threatened to fire him or her if he or she did not sign the agreement</p>
+			<p id="p39">the employer threatened to reduce his or her hours or pay</p>
+			<p id="p40">the employer penalized the employee's co-workers because they had refused to enter into the agreement, and the employee entered into the agreement to avoid being similarly penalized.</p>
+			<p id="p41">What if I think my employer is not following the ESA?</p>
+			<p id="p42">This information is provided as a public service by the Government of Ontario. Every reasonable effort has been made to ensure the currency and accuracy of the information presented on the site, but readers should verify information before acting on it.</p>
+		</body>
+	</text>
+</cesDoc>

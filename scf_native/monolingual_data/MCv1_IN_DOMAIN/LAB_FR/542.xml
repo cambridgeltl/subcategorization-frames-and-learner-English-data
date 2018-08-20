@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>CDI / CDD : définition du lexique juridique de Juritravail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>CDI / CDD : définition du lexique juridique de Juritravail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:17:10.0</pubDate>
+							<eAddress>http://www.juritravail.com/lexique/cdi-cdd.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>lexique</keyTerm>
+					<keyTerm>droit</keyTerm>
+					<keyTerm>social</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/542.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">CDI / CDD</p>
+			<p id="p2">Les problèmes liés à la situation économique des entreprises et à la nécessité d'assurer une protection des travailleurs ont amené les pouvoirs publics à créer des types de contrats de travail et à règlementer leur utilisation et leur fonctionnement. Le Chapitre III du Code civil : "Du louage d'ouvrage et d'industrie. " dont la Section 1 : Du louage des domestiques et ouvriers. "(art. 1780) n'a pas pour autant disparu. Il continue à contenir les principes directeurs du contrat de travail.</p>
+			<p id="p3">Compte tenu de l'importance du contentieux auquel donne lieu l'application des dispositions concernant la durée du contrat de travail, on a limité les développements qui suivent, à la présentation des différences opposant le contrat à durée indéterminée (CDI), au contrat à durée déterminée (CDD).</p>
+			<p id="p4">La réglementation du CDI constitue le droit commun des contrats de travail. Cette règle a été affirmée par la Loi n° 2008-596 du 25 juin 2008. Elle est directement issue des principes généraux du Chapitre III du Code civil. Le lien du travail peut être rompu sur décision unilatérale soit de l'une comme de l'autre des parties, c'est à dire, soit de l'employeur ( licenciement pour motif personnel ou pour motif économique, mise à la retraite), soit du salarié (démission, départ à la retraite). Selon l'article L. 1243-1 du code du travail, « Sauf accord des parties, le contrat de travail à durée déterminée ne peut être rompu avant l'échéance du terme qu'en cas de faute grave ou de force majeure ». Il convient d'en déduire que lorsqu'un salarié a été engagé par contrat de qualification à durée déterminée, le fait qu'il n'ait pas réussi à un examen pour l'obtention d'un certificat de formation professionnelle, ne saurait constituer un cas de force majeure, justifiant la rupture anticipée du contrat de travail par l'employeur (Soc. 29 octobre 2008, n°697 du 1er mars 2009). Rapprocher cet arrêt de celui prononcé par la même Chambre le 7 décembre 1995 (n° de pourvoi : 92-43113, Publié au Bulletin de la Cour de cassation et, également consultable sur Legifrance). Dans cette affaire il s'agissait du cas d'un licenciement justifié par l'arrêt d'un stage de formation.</p>
+			<p id="p5">Consulter la rubrique Droit du travail , les articles de ce dictionnaire auxquels elle renvoit et le site Ministère du travail .</p>
+			<p id="p6">Le CDD donne lieu à un important contentieux en raison des conditions limitatives de son usage, lesquelles ne sont pas toujours respectées par les entreprises. La conclusion d'un CDD est limitée à l'exécution d'une tâche précise et temporaire et seulement dans les cas énumérés par la loi. Le recours a un contrat de travail à durée déterminée dit "d'usage" ne dispense pas l'employeur d'établir un contrat écrit comportant la définition précise de son motif, conformément à l'article L. 122-3-1 du code du travail (Soc. 28 novembre 2006, BICC n°657 du 15 mars 2007). Il ne peut avoir ni pour objet, ni pour effet, d'attribuer durablement un emploi lié à l'activité normale et permanente de l'entreprise qui le propose. Il peut, dans l'attente de l'entrée en fonction d'un nouveau salarié, pourvoir au remplacement d'une personne momentannément absente (maladie, congés...) ou au remplacement provisoire d'un salarié ayant définitivement quitté l'entreprise. En fin de contrat le salarié peut, bénéficier d'indemnités et de mesures particulières pour compenser la précarité de son emploi, une indemnité de précarité est due lorsqu'aucun contrat à durée indéterminée pour occuper le même emploi ou un emploi similaire n'a été proposé au salarié à l'issue du contrat à durée déterminée (Soc. 3 octobre 2007., BICC n°675 du 1er février 2008). Cette indemnité reste acquise au salarié si au terme de son contrat de travail à durée déterminée, il est requalifiée en contrat de travail à durée indéterminée par la juridiction prud'homale. (Soc., 24 juin 2003, Bull. 2004, n° 203 et Soc., 30 mars 2005, Bull. 2005, n° 106, BICC n°675 du 1er février 2008).</p>
+			<p id="p7">Il résulte de la combinaison des articles L. 122-1, L. 122-1-1, L. 122-3-10 et D. 121-2 du code du travail que dans certains secteurs d'activité énumérés par décret ou par voie de convention ou par voie d'accord collectif étendu, certains emplois peuvent être pourvus par des contrats de travail à durée déterminée. La pratique les dénomme "Contrats à durée déterminée d'usage », il s'agit, par exemple, des emplois d'extras dans l'hôtellerie ou la restauration, de certaines emplois dans les exploitations forestières, la réparation navale, dans les spectacles, dans la production cinématographique, dans les activités d'enquête et de sondage, dans l'édition phonographique, dans le sport professionnel, et dans les activités de coopération, d'assistance technique, d'ingénierie et de recherche à l'étranger. Mais pour que l'activité saisonnière soit retenue pour justifier l'utilisatioin de contrats à durée déterminée, il est nécessaire que l'entreprise qui emploie le salarié demandeur appartienne aux secteurs correspondant à l'activité principale de l'entreprise (Soc. - 27 septembre 2006. BICC n°653 du 15 janvier 2007). Le caractère constant de l'usage s'apprécie par rapport au secteur d'activité défini par décret, convention ou accord collectif étendu. Le secteur d'activité mentionné à l'article D. 121-2 du code du travail est celui, plus large, du sport professionnel et non celui du sport amateur. Dans le secteur du sport professionnel, il n'est pas d'usage constant de ne pas recruter les médecins des centres de formation des clubs par contrat à durée indéterminée. Par conséquent, le contrat de travail du salarié, médecin d'un centre de formation, est réputé à durée indéterminée. (CA Lyon, ch. soc., 16 novembre 2007. - R. G. n° 07/02441, BICC n°685 du 1er juillet 2008).</p>
+			<p id="p8">l'Accord-cadre sur le travail à durée déterminée conclu le 19 mars 1999 et mis en oeuvre par la Directive n° 1999/70/CE du 28 juin 1999, qui a pour objet, en ses clauses 1 et 5, de prévenir les abus résultant de l'utilisation de contrats à durée déterminée successifs. Selon la Chambre sociale de la Cour de cassation, (Soc. - 23 janvier 2008. 2 arrêts, BICC n°680 du 15 avril 2008), les abus résultant de l'utilisation de contrats à durée déterminée successifs, impose au juge de vérifier que l'utilisation de ce type de contrats se trouve justifié par des raisons objectives qui s'entendent de l'existence d'éléments concrets établissant le caractère par nature temporaire de l'emploi(2 arrêts Soc. - 23 janvier 2008, BICC n°684 du 15 juin 2008). Ainsi, l'emploi dans une entreprise qui fabrique et commercialise des pizzas surgelées tout au long de l'année avec seulement des accroissements périodiques de production n'a pas d'activité saisonnière au sens de l'article L. 122-1-1 3° du code du travail (Soc. 5 décembre 2007. BICC n°679 du 1er avril 2008). Le contrat de travail conclu pour la durée d'un chantier est, en principe, un contrat à durée indéterminée à moins qu'il ne soit conclu dans l'un des cas énumérés par l'article L. 122-1-1 du code du travail où il peut être recouru à un contrat à durée déterminée (Soc. 7 mars 2007, BICC n°. 664 du 1er juillet 2007). En revanche la Cour (Soc., 23 janvier 2008 cité ci-dessus, 2eme espèce)a déclaré fondée la demande de requalification d'un professeur d'éducation artistique ayant occupé son poste pendant quatorze années scolaires successives.</p>
+			<p id="p9">La sanction civile de l'usage abusif du contrat de travail à durée déterminée, réside dans le droit à obtenir la requalification du contrat en contrat à durée indéterminée (C. A. Grenoble, ch. soc., 19 avril 2006., BICC n°661 du 15 mai 2007 et, C. A. Colmar ch. soc., sect. B, 14 novembre 2006, BICC n°661 du 15 mai 2007) et cette requalification que sauf fraude, le salarié est seul à pouvoir revendiquer (Soc. - 18 octobre 2007., BICC n°675 du 1er février 2008), prend effet au premier jour de la mission du salarié (Soc. 11 octobre 2006. BICC n°654 du 1er février 2007). En cas de litige sur le motif du recours au travail temporaire, c'est à l'entreprise utilisatrice de rapporter la preuve de la réalité du motif énoncé dans le contrat pour justifier de l'utilisation d'un contrat à durée déterminée. Ainsi, la Chambre sociale a cassé l'arrêt d'une Cour d'appel qui, pour rejeter la demande en requalification de la relation de travail en contrat de travail à durée indéterminée, avait rejeté la demande du salarié en retenant qu'il n'avait pas démontré qu'il exerçait, au sein de la société, des tâches participant à son activité normale et permanente. (Soc. 28 novembre 2007, BICC n°678 du 15 mars 2008). En vertu de l'article L. 122-3-13 du code du travail, la décision par laquelle le conseil de prud'hommes statue sur une demande de requalification est exécutoire de plein droit.</p>
+			<p id="p10">Sur les principes généraux relatifs à l'office du juge et à la requalification, consulter l'arrêt du 21 décembre 2007 rendu par l'Assemblée pleinière de la Cour de cassation sur le Rapport de M. Loriferne, Conseiller rapporteur et l'avis de M. de Gouttes Premier avocat général (BICC n°680 du 15 avril 2008).</p>
+			<p id="p11">A noter que si le maintient du salarié à son poste de travail après l'échéance de son engagement à durée fixe, transforme son contrat en contrat de travail à durée indéterminée, en revanche, sauf convention contraire des parties, cette modification ne concerne que la durée mais laisse inchangées les autres modalités de son exécution. Ainsi la circonstance que pour les motifs ci-dessus, le contrat d'une salariée est devenu un contrat à durée indéterminée ne saurait l'amener à prétendre que son engagement initial dans un emploi à temps partiel soit devenu un travail à temps complet (Soc. - 28 mai 2008, BICC n°689 du 15 octobre 2008).</p>
+			<p id="p12">Le Contrat nouvelle embauche (CNE), instauré par l'ordonnance n 2005-893 du 2 août 2005 et l'article L. 1223-4 du Code du travail, a été abrogé par l'article 9 de la loi n° 2008-596 du 25 juin 2008 (JCP S 2008, 1391) qui prévoit la requalification en contrats à durée indéterminée des CNE en cours à la date de publication de la loi, soit le 26 juin 2008 (Cass. soc., 1er juill. 2008, n° 07-44. 124, F-P+B+R+I. BICC n°) Voir l'arrêt et le communiqué de la Chambre sociale sur le site de la Cour de cassation .</p>
+			<p id="p13">Textes :</p>
+			<p id="p14">Code du travail (nouvelle numérotation), Art. L1111-2, L1234-1, L1111-3, L4532-8, L1522-8, L1225-38, L1221-2, L1242-1 et s., L1225-6, L2323-53,, L1225-62, L1226-18, L1226-19, L1226-20, L1226-21, L1233-78, L3142-94, L1237-3, L1237-6, L1237-10, L1242-5, L1243-1 et s., L1248-8 et s., L1251-35 et s., L1271-5, L1272-4 et s, L1273-5, L1274-4, L2144-2, L2222-4, L2241-2, L2242-9, L2261-10, L2261-11 et s.,, L2323-17, L620-10, L2412-1 et s., L2421-7 et s., L3122-15, L3132-5, L4142-2, L4143-1, L4153-5, L4154-1, L4154-2, L4154-3, L4311-4, L5122-2, L5132-5, L5132-9, L5133-7, L5134-9 et s., L5134-41 et s., L5213-9, L5423-8, L5425-5, L5522-11 et s., L6321-13, L6322-11, L6322-30, L6322-41-1, L6523-3, L7122-23, L7123-14</p>
+			<p id="p15">Code du travail (ancienne numérotation), Art. L1243-12, L1111-2, L1242-10, L1242-6, L4532-8 L1234-1, L4154-2, L1242-2, L1243-8, L212-8, L1225-62, L931-20-2, L1242-3, L1243-2, L1245-2, R4523-1, L122-3-2, L122-1, L122-28-9, L5122-2, L4154-1, L5132-5, L212-4, L5132-9, L5134-24, L5134-29, L5134-48, L5213-9, L5423-8, L3132-5, L6322-37, L6322-39, R4453-37, L223-14, L122-3-4, L122-3-8, D1221-23, D1221-29, L322-4-15-4, L122-1-1. L322-4-12, L122-3-1, L132-6, L132-8, R4612-8, L132-12, L132-27, R1234-11, R322-20, D4622-43, D1242-1, D1242-2, D1242-3, D1242-4, D1242-6, D1242-7, D1243-1, R1245-1, L412-18, D5134-124.</p>
+			<p id="p16">Ord. n° 2006-433 du 13 avril 2006 relative à l'expérimentation du contrat de transition professionnelle.</p>
+			<p id="p17">Décret n° 2006-1070 du 28 août 2006 (JO du 29) (CDD « senior »)</p>
+			<p id="p18">L. n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail.</p>
+			<p id="p19">Bibliographie :</p>
+			<p id="p20">Bousez (F.), note sous Cass. soc., 5 déc. 2007, Sem. juridique ed. Sociale du 4 mars 2008, (notion d'activité saisonnière).</p>
+			<p id="p21">Junod (B.), Le CDD : un tremplin vers le CDI, Document d'études du Ministère de l'emploi, de la cohésion sociale et du logement, N° 117, Juillet 2006, .</p>
+			<p id="p22">Lefranc-Hamoniaux (C.), Du nouveau sur les incidences financières de la requalification d'un CDD en CDI, Dalloz, 7 février 2008, n° 6, p. 391.</p>
+			<p id="p23">Lefranc-Hamoniaux (C.), observations sous Soc., 3 octobre 2007, Bull. 2007, V, no 148, Dalloz, 7 février 2008, no 6, p. 391-394. (Indemnité de fin de contrat, Paiement - Condition).</p>
+			<p id="p24">Roy-Loustaunau (Cl.), observations sous Soc., 28 novembre 2006, Bull. 2006, V, n° 352, p. 340, Droit social, avril 2007, n° 4, p. 487-488.</p>
+			<p id="p25">Roy-Loustaunau (Cl.), observations sous Soc., 11 octobre 2006, Bull. 2006, V, n° 299, p. 286, Droit social, mai 2007, n° 5, p. 642-643. (Emploi durable lié à l'activité normale et permanente).</p>
+			<p id="p26">Roy-Loustaunau Cl.), observations sous Soc., 27 septembre 2007, Bull. 2007, V, no 144, Droit social, juin 2008, no 6, p. 760-762. (Poursuite de la relation contractuelle - Effets - Transformation du contrat initial en contrat à durée indéterminée).</p>
+			<p id="p27">Bookmarker ce contenu :</p>
+			<p id="p28">© Serge Braudo , Conseiller honoraire à la Cour d'appel de Versailles</p>
+			<p id="p29">et Alexis Baumann , avocat au barreau de Paris</p>
+		</body>
+	</text>
+</cesDoc>

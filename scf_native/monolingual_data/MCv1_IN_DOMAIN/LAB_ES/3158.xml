@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Devengos</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Devengos</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:33:40.0</pubDate>
+							<eAddress>http://www.mailxmail.com/curso-manual-nominas/devengos</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>devengos</keyTerm>
+					<keyTerm>curso</keyTerm>
+					<keyTerm>curso gratis</keyTerm>
+					<keyTerm>cursos</keyTerm>
+					<keyTerm>cursos online</keyTerm>
+					<keyTerm>formación gratuita</keyTerm>
+					<keyTerm>cursos gratis online</keyTerm>
+					<keyTerm>cursos on line</keyTerm>
+					<keyTerm>capítulo</keyTerm>
+					<keyTerm>fascículo</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/3158.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Son todas las cantidades que percibe el trabajador por diferentes conceptos, independientemente de que tengan o no la consideración de salario y de que coticen o no a la Seguridad Social</p>
+			<p id="p2">Dentro de este apartado hemos de distinguir entre percepciones salariales (que cotizan a la Seguridad Social) y las percepciones no salariales (que no cotizan como regla general a Seguridad Social pero que sí lo hacen cuando exceden de unos límites)</p>
+			<p id="p3">1-PERCEPCIONES SALARIALES</p>
+			<p id="p4">Consideramos como salario la totalidad de las percepciones económicas de los trabajadores, en dinero o en especie, por la prestación profesional de los servicios laborales por cuenta ajena, ya retribuyan el trabajo efectivo o los períodos de descanso computables como de trabajo.</p>
+			<p id="p5">Los períodos de descanso que son computables como de trabajo son:</p>
+			<p id="p6">-El descanso semanal y en días festivos</p>
+			<p id="p7">-Las vacaciones anuales</p>
+			<p id="p8">-Las ausencias justificadas al trabajo con derecho a retribución</p>
+			<p id="p9">-Las interrupciones del trabajo que sean imputables al empresario (por ejemplo: falta de trabajo)</p>
+			<p id="p10">En la estructura del salario distinguiremos entre: SALARIO BASE y COMPLEMENTOS del mismo.</p>
+			<p id="p11">SALARIO BASE: Su cuantía viene establecida para todas y cada una de las categorías y grupos profesionales en los Convenios Colectivos. Es aquella parte de la retribución del trabajador fijada por unidad de tiempo sin atender a ninguna otra circunstancia.</p>
+			<p id="p12">COMPLEMENTOS SALARIALES: Son aquellas cantidades fijadas en función de circunstancias relativas a las condiciones personales del trabajador, a las condiciones del puesto de trabajo, a la cantidad y calidad de trabajo y, por último están los complementos salariales cuyo vencimiento periódico es superior al mes.</p>
+			<p id="p13">a)Complementos atendiendo a las condiciones personales del trabajador.</p>
+			<p id="p14">-ANTIGÜEDAD: Cuantía fijada en función del período de permanencia del trabajador en la empresa.</p>
+			<p id="p15">-CONOCIMIENTOS ESPECIALES, TITULOS, IDIOMAS, etc. : Es aquel complemento que percibe el trabajador cuando la empresa se sirve de sus conocimientos especiales o de la tenencia de un determinado título a la hora de desempeñar su trabajo, siempre que no se haya tenido en cuenta a la hora de fijar el salario base.</p>
+			<p id="p16">b)Complementos por razón del puesto de trabajo:</p>
+			<p id="p17">-PENOSIDAD, TOXICIDAD, PELIGROSIDAD: Para poder percibirlo es necesario que así lo establezca el Convenio Colectivo o contrato individual de aplicación. Cuando no exista acuerdo entre la empresa y el trabajador respecto a la calificación del trabajo, será la Jurisdicción Social la que determine que el puesto de trabajo reúne tales características.</p>
+			<p id="p18">-TURNOS: Su finalidad es compensar la mayor incomodidad del trabajo en turnos rotatorios y no se devenga el día que no se trabaja en tal sistema.</p>
+			<p id="p19">-NOCTURNIDAD: Las horas trabajadas durante el periodo comprendido entre las 10 de la noche y las 6 de la mañana, tienen una retribución específica que se determina en Convenio Colectivo, salvo que el salario se haya establecido atendiendo a que el trabajo sea nocturno o se haya acordado la compensación de este trabajo nocturno con descansos</p>
+			<p id="p20">C) Complementos por calidad o cantidad de trabajo.</p>
+			<p id="p21">-PRIMAS E INCENTIVOS: Constituyen un complemento salarial determinado por el rendimiento, mayor cantidad o mejor calidad de trabajo.</p>
+			<p id="p22">-ASISTENCIA, PUNTUALIDAD Y ASIDUIDAD: Remuneran la especial diligencia del trabajador en el cumplimiento de una de las obligaciones básicas del contrato de trabajo: la asistencia puntual al trabajo.</p>
+			<p id="p23">-COMISIONES: Son salarios en los que sólo se atiende a la cantidad o calidad de la obra o trabajos realizados, independientemente del tiempo invertido. Las comisiones deben ser computadas para determinar el salario que le corresponde al trabajador en vacaciones.</p>
+			<p id="p24">-HORAS EXTRAORDINARIAS: Entendemos por horas extraordinarias aquellas que se realicen sobre la duración máxima de la jornada de trabajo.</p>
+			<p id="p25">Las horas extraordinarias pueden clasificarse:</p>
+			<p id="p26">-Horas extraordinarias por fuerza mayor: Aquellas cuya realización está motivada por un acontecimiento extraordinario debido a causas ajenas al control de la empresa: incendio, inundación, explosión, etc.</p>
+			<p id="p27">-Horas extraordinarias estructurales: Las necesarias por pedidos imprevistos, períodos punta de producción, ausencias imprevistas, cambios de turno</p>
+			<p id="p28">-Horas extraordinarias voluntarias, normales u ordinarias: Aquellas que no están definidas y pactadas como estructurales ni están motivadas por un supuesto de fuerza mayor.</p>
+			<p id="p29">Mediante Convenio Colectivo o, en su defecto, contrato individual se puede optar entre abonar las Horas Extraordinarias en la cuantía que se fije, que no podrá ser inferior al valor de la hora ordinaria, o compensarlas por tiempos equivalentes de descanso retribuido.</p>
+			<p id="p30">La remuneración que se percibe por la realización de horas extraordinarias es salario y, por tanto, ha de reflejarse su cuantía en el apartado correspondiente de la nómina.</p>
+			<p id="p31">d)De vencimiento periódico superior al mes</p>
+			<p id="p32">Son las llamadas GRATIFICACIONES EXTRAORDINARIAS y las podemos clasificar:</p>
+			<p id="p33">-PAGAS EXTRAORDINARIAS: El trabajador tiene derecho a dos pagas extraordinarias al año, una de ellas con ocasión de las fiestas de Navidad y la otra en el mes que se fije por Convenio Colectivo o por acuerdo entre el empresario y los representantes legales de los trabajadores. En Convenio Colectivo puede acordarse que las pagas extraordinarias se prorrateen en doce mensualidades. El sistema de devengo de las pagas extraordinarias suele establecerse en Convenio Colectivo (semestral o anual), pero, a falta de norma expresa, se devenga en proporción al tiempo de servicio en el año anterior a su cobro.</p>
+			<p id="p34">-PARTICIPACION EN BENEFICIOS: Se establece por Convenio o contrato individual. Normalmente consiste en una paga anual de cantidad fija o variable.</p>
+			<p id="p35">-OTRAS GRATIFICACIONES EXTRAORDINARIAS: Por Convenio Colectivo se puede establecer un mayor número de gratificaciones extraordinarias.</p>
+			<p id="p36">e)SALARIO EN ESPECIE</p>
+			<p id="p37">Constituyen retribuciones en especie la utilización, consumo u obtención, para fines particulares, de bienes, derechos o servicios de forma gratuita o por precio inferior al normal de mercado. Es decir, los complementos en especie son aquellas remuneraciones percibidas por el trabajador en bienes distintos del dinero: alojamiento, uso del vehículo de la empresa, manutención, etc.</p>
+			<p id="p38">Las referidas retribuciones deberán valorarse económicamente y su cuantía deberá ser reflejada en el recibo de salarios.</p>
+			<p id="p39">La valoración del salario en especie viene recogida en la Ley del Impuesto sobre la Renta de las Personas Físicas.</p>
+			<p id="p40">2-PERCEPCIONES NO SALARIALES</p>
+			<p id="p41">Son retribuciones percibidas por el trabajador, no por el desarrollo de su actividad laboral, sino como compensación de gastos ocasionados por la ejecución del trabajo o para cubrir necesidades o situaciones de inactividad no imputables al trabajador.</p>
+			<p id="p42">No tienen la consideración de salario y podemos clasificarlas:</p>
+			<p id="p43">a)Indemnizaciones o suplidos por gastos relacionados con el trabajo.</p>
+			<p id="p44">-QUEBRANTO DE MONEDA: Se otorga a los trabajadores que desempeñan su actividad laboral manejando dinero, por ejemplo, los cajeros. Su finalidad es la de compensar los perjuicios económicos ocasionados por errores en su trabajo.</p>
+			<p id="p45">-DESGASTE DE UTILES O HERRAMIENTAS: Cuando pertenecen al trabajador o es el propio trabajador el que los adquiere</p>
+			<p id="p46">-PRENDAS DE TRABAJO: Se concede cuando es el propio trabajador el que las adquiere y consiste o bien en una cantidad fija mensual o en una cantidad prorrateada a lo largo de los doce meses del año.</p>
+			<p id="p47">-GASTOS DE LOCOMOCION: Compensación económica que se concede al trabajador por los desplazamientos que necesariamente tiene que efectuar por causa de su trabajo y por orden de la empresa.</p>
+			<p id="p48">-DIETAS DE VIAJE: Cantidad que se abona al trabajador cuando éste tenga que pernoctar o efectuar sus comidas principales fuera de su domicilio, a consecuencia de desplazamientos realizados por necesidades de su trabajo fuera del lugar de su residencia o de la localidad del centro de trabajo.</p>
+			<p id="p49">-PLUS DE DISTANCIA Y PLUS DE TRANSPORTE URBANO: El primero es la cantidad que percibe el trabajador cuando el centro de trabajo se halla a una determinada distancia del casco urbano de su localidad de residencia y cuando la empresa no facilita medio de transporte para acudir al mencionado centro.</p>
+			<p id="p50">El Plus de transporte urbano es aquella cantidad que percibe el trabajador por su desplazamiento desde el lugar de su residencia hasta el centro habitual de trabajo y a la inversa.</p>
+			<p id="p51">b)Indemnizaciones correspondientes a traslados, suspensiones y despidos.</p>
+			<p id="p52">-INDEMNIZACION POR TRASLADO. Cuando se traslada al trabajador a una población distinta de la de su residencia habitual, el trabajador puede optar por aceptar el traslado, teniendo derecho a percibir una compensación por gastos; o el trabajador puede optar por extinguir el contrato de trabajo, teniendo derecho a percibir una indemnización de veinte días de salario por año de servicio, prorrateándose por meses los períodos inferiores a un año y con un máximo de doce mensualidades.</p>
+			<p id="p53">-INDEMNIZACION POR SUSPENSION DEL CONTRATO: Con carácter general, en casos de suspensión del contrato, el trabajador no tiene derecho a ninguna compensación pero en los casos en que el empresario asuma la entrega de determinadas cantidades, dichas cantidades tienen carácter indemnizatorio y no salarial, por lo que no cotizan a Seguridad Social.</p>
+			<p id="p54">-INDEMNIZACION POR DESPIDO: Las diferentes indemnizaciones se recogen en el siguiente cuadro:</p>
+			<p id="p55">C) Prestaciones de la Seguridad Social</p>
+			<p id="p56">Se trata de cantidades que delegadamente paga el empresario, si bien, posteriormente, el Instituto Nacional de la Seguridad Social le resarce de lo que haya abonado al trabajador en nómina. En concreto, son prestaciones de pago delegado la incapacidad temporal y el desempleo parcial.</p>
+			<p id="p57">INCAPACIDAD TEMPORAL</p>
+			<p id="p58">Es la prestación económica que se reconoce cuando el trabajador se encuentra temporalmente incapacitado para el trabajo por una contingencia que requiera la prestación de asistencia sanitaria.</p>
+			<p id="p59">1) Situaciones protegidas:</p>
+			<p id="p60">Las debidas a enfermedad, común o profesional, y a accidente, sea o no laboral, mientras el trabajador requiera asistencia sanitaria y esté impedido para el trabajo, con una duración máxima de 12 meses, prorrogables por otros seis cuando se presuma que durante ellos pueda ser dado de alta médica por curación.</p>
+			<p id="p61">2)Beneficiarios:</p>
+			<p id="p62">Estar afiliados y en alta o, en su defecto, en situaciones asimiladas al alta</p>
+			<p id="p63">Reunir un período mínimo de cotización de 180 días dentro de los 5 años inmediatamente anteriores a la fecha en que se produzca la baja, si se trata de Enfermedad Común. En caso de accidente, sea o no laboral, y de enfermedad profesional, no se requiere un periodo mínimo de cotización.</p>
+			<p id="p64">3)Prestaciones:</p>
+			<p id="p65">La prestación económica varía según cuál sea el hecho causante:</p>
+			<p id="p66">La cuantía de la prestación económica por incapacidad temporal del trabajador derivada de enfermedad común o accidente no laboral será:</p>
+			<p id="p67">-Durante el período comprendido entre el 4º y el 20º día, ambos inclusive, de permanencia de baja: 60% de la Base Reguladora. La prestación del 4º al 15º día corre a cargo del empresario exclusivamente. A partir del día 16º a cargo del INSS.</p>
+			<p id="p68">-A partir del 21º día de baja: 75% de la Base Reguladora.</p>
+			<p id="p69">Cálculo de la Base Reguladora:</p>
+			<p id="p70">La Base Reguladora para el cálculo de la cuantía de la prestación será el resultado de dividir el importe de la base de cotización por contingencias comunes del mes anterior al de la baja, por el número de días a que dicha cotización se refiera. Es decir:</p>
+			<p id="p71">Cuando el trabajador perciba retribución mensual y haya permanecido en alta en la empresa todo el mes natural anterior, la base de cotización se dividirá por 30.</p>
+			<p id="p72">-La cuantía de la prestación por incapacidad temporal derivada de accidente laboral o enfermedad profesional será el 75% de la base reguladora desde el día siguiente al de la baja en el trabajo, estando a cargo del empresario el salario íntegro correspondiente al día de la baja.</p>
+			<p id="p73">Para calcular la Base reguladora aplicaremos la siguiente fórmula:</p>
+			<p id="p74">Escribe tu e-mail:</p>
+			<p id="p75">Cursos similares a Manual de nóminas</p>
+			<p id="p76">Vídeo</p>
+			<p id="p77">84.347</p>
+			<p id="p78">6.769</p>
+			<p id="p79">1.680</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>UNHCR | Refworld | 2007 Annual Survey of violations of trade union rights - Rwanda</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>UNHCR | Refworld | 2007 Annual Survey of violations of trade union rights - Rwanda</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:01:30.0</pubDate>
+							<eAddress>http://www.unhcr.org/refworld/publisher,ITUC,,RWA,4c52ca112,0.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>UNHCR</keyTerm>
+					<keyTerm>Refworld</keyTerm>
+					<keyTerm>Refugee Status Determination</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/1683.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Publisher</p>
+			<p id="p2">Cite as</p>
+			<p id="p3">International Trade Union Confederation, 2007 Annual Survey of violations of trade union rights - Rwanda, 9 June 2007, available at: http://www.unhcr.org/refworld/docid/4c52ca112.html [accessed 20 September 2010]</p>
+			<p id="p4">2007 Annual Survey of violations of trade union rights - Rwanda</p>
+			<p id="p5">Population: 8,600,000</p>
+			<p id="p6">ILO Core Conventions Ratified: 29 – 87 – 98 – 100 – 105 – 111 – 138 – 182</p>
+			<p id="p7">The Rwandan government has promised to amend its Labour Code to take into account criticisms regarding the non-recognition of the right to organise of civil servants and the right to strike in essential services.</p>
+			<p id="p8">Trade union rights in law</p>
+			<p id="p9">Workers have the right to form trade unions. Union membership is voluntary and open to all salaried workers, including public sector employees. However, there are no provisions guaranteeing this right for civil servants. Under the 2002 Labour Code, drawn up with technical support from the ILO, agricultural workers now have the right to organise. This Code also allows foreign workers to be elected to trade union office after they have lived in the country for at least five years, provided non-nationals do not exceed one third of the union's officers.</p>
+			<p id="p10">Unions must register with the Ministry of Justice for official recognition, but this is just a formality.</p>
+			<p id="p11">The right to collective bargaining is recognised. A National Labour Council (Conseil National du Travail) was established by presidential decree on 2 November 2005.</p>
+			<p id="p12">Civil servants: The 2002 Labour Code specifically excludes civil servants from organising. However, Act 22 of 2002, on the general conditions of service for civil servants, does not contain any specific provisions in this regard, hence the legal situation is unclear.</p>
+			<p id="p13">Right to strike: The Labour Code restricts the right to strike. Authorisation for strikes is subject to the compulsory intervention of a Mediation Committee, but there are still no implementing provisions to establish that committee. Hence since 2002, a legal vacuum has prevented the real exercise of this right. Furthermore, the list of so-called "essential services", in which strikes are not allowed, is excessively long. The Rwandan government has promised to amend its Code to take into account criticisms regarding the organising rights of civil servants and the right to strike in essential services.</p>
+			<p id="p14">Exercising the right to strike is sometimes confused with "disturbing public order", an offence that is severely punished by law and seriously impedes unions' ability to exercise this right.</p>
+			<p id="p15">Trade union rights in practice</p>
+			<p id="p16">Rwanda's trade union rights record has been poor. The authorities have, in the past, interfered in trade union affairs and employers have shown hostility to unions, with little or no retribution. The government appears to be trying to improve relations with trade unions. For example, it has allowed the organisation of elections to determine the representativeness of the trade union organisations, but suspicions remain that it is still seeking to manipulate them.</p>
+			<p id="p17">State employees are no longer banned by law from publicly expressing their views on political, philosophical or trade union matters, but behind the scenes, there is clearly pressure on them not to, say the unions.</p>
+			<p id="p18">There are still no labour courts. However, some new chambers, specialised in social issues, and consisting of a judge and two "assessors", one of whom should come from a union organisation, are meant to be operating within the courts. They have been created and began their work in early 2005.</p>
+			<p id="p19">Persistent anti-union harassment: Employers frequently intimidate trade unionists who are too militant for their liking. They do this through transfers, demotions and dismissals. In January 2005, for example, the telecommunications company RWANDATEL, sacked Anathalie Mukayihi, the treasurer of the union committee of the telecommunications union, SYATEL, a CESTRAR affiliate. Sister Mukayihi was sacked after complaining about a pay cut decided unilaterally by her employer and for trying to organise the employees affected by the measure. Her attitude was regarded as a "subversive act". The company has been bought since then by a multinational, which has just sacked 130 people. The union delegates at the company received no protection during this process.</p>
+			<p id="p20">Ignoring the unions: Employers do not always respect the Constitutional requirement to discuss any proposed staff reductions with their employees' union representatives. In early 2006, the Kigali Institute for Science and Technology unilaterally dismissed 45 employees.</p>
+			<p id="p21">Topics: Labour conflict, Freedom of association,</p>
+			<p id="p22">Copyright notice: © ITUC-CSI-IGB 2010</p>
+		</body>
+	</text>
+</cesDoc>

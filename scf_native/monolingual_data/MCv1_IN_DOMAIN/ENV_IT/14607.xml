@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Il Wwf lancia un allarme per le zone umide del Montenegro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Il Wwf lancia un allarme per le zone umide del Montenegro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 21:25:17.0</pubDate>
+							<eAddress>http://ecologia.guidone.it/2010/10/20/il-wwf-lancia-un-allarme-per-le-zone-umide-del-montenegro/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/14607.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Pubblicato il ottobre 20th, 2010 da Daniela Amitrano</p>
+			<p id="p2">Il Wwf, all’apertura della Conferenza Onu sulla Biodiversità in corso a Nagoya (COP 10), ha lanciato un serio allarme per il rischio che le zone umide del Montenegro, una delle arree più importanti dell’Europa orientale, stanno correndo.</p>
+			<p id="p3">A minacciare questo luogo è la costruzione di quattro dighe per la produzione di energia idroelettrica sul fiume Moraca.</p>
+			<p id="p4">Il Wwf, inoltre, ha anche spiegato che con la realizzazione di questi impianti, si rischia non solo di danneggiare l’ecosistema fluviale del Moraca, ma l’intero patrimonio di biodiversità del lago Scutari, visto che queste costruzioni mirano ad aumentare il numero di esportazioni di energia del nostro paese, tant’è vero che l’Italia ha già fatto un accordo per trasportare questo prezioso bene attraverso un elettrodotto in Adriatico.</p>
+			<p id="p5">Al riguardo, l’organizzazione ambientalista ha dichiarato: ‘è un allarme su un paradiso sconosciuto ai più, a pochi chilometri dalle coste italiane che subisce lo stesso destino riservato ai bacini dell’Amazzonia o del Congo, dove lo sfruttamento delle risorse idriche per la produzione di energia non tiene conto del grande patrimonio di biodiversità e dei servizi economici ad esso legati’.</p>
+			<p id="p6">Infatti, il lago Scutari, di cui il fiume Moraca è il principale affluente, altre ad essere protetto dalla Convenzione di Ramsar si trova al centro di una zona umida dove vivono circa 1900 specie vegetali e più di 400 specie animali tra mammiferi, pesci, uccelli, rettili e anfibi, molte delle quali endemiche.</p>
+			<p id="p7">Sito</p>
+		</body>
+	</text>
+</cesDoc>

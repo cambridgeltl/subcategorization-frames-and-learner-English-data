@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>CAPCOA Climate Change Forum </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>CAPCOA Climate Change Forum </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:35:11.0</pubDate>
+							<eAddress>http://www.capcoaclimateforum.com/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/10802.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Climate Change. Rising temperatures, melting glaciers, extreme weather events, changing habitats and seasons: an overwhelming number of natural signals indicate that climate change is well underway. Governments and industries are now developing plans and technologies for a lower carbon, more energy efficient future. But to succeed, we need to dovetail our efforts to realize productive results and economies of scale. The time has absolutely come to see, discuss, and act upon what we now most certainly know—that visible changes in our environment are transforming the way we must approach the business, personal, and economic decisions we make in our lives today.</p>
+			<p id="p2">Now is the time to thoughtfully examine these complex issues as well as adaptation strategies that decrease exposure to the risks posed by climate change. Multiple factors are now in play, making this the most exciting time in history to be at the table when the issues of climate change are discussed. From California's multi-billion dollar corporations to smaller community governments and stakeholder groups--everyone has an important role as part of the solution. What is less certain is how we band together, how we decide to move forward in harmony with the policies and legislation put forth by a new administration.</p>
+			<p id="p3">California has always been at the forefront of environmental leadership, from its elected officials to its everyday residents. Since its creation in 1975, CAPCOA and its members (leaders of all 35 local and regional air districts in California) have focused on ensuring this trend continues, with enthusiastic drive and dedication toward cleaning the air and ensuring the residents of California have a healthy environment in which to live and thrive, both today and in future generations.</p>
+			<p id="p4">Along with its co-hosts, CAPCOA is proud to have presented The CAPCOA Climate Change Forum on August 30-31, 2010 at the Marriott Marquis Hotel in San Francisco, California. This event marks one more step toward achieving a cleaner, greener, and more energy efficient tomorrow and advancing the critical discussions about climate change.</p>
+			<p id="p5">Mat Ehrhardt, CAPCOA President</p>
+			<p id="p6">Presentations will soon be available on this site for viewing and downloading.</p>
+			<p id="p7">Highlighted Speakers!</p>
+			<p id="p8">Arianna Huffington, Co-Founder &amp; Editor in Chief, The Huffington Post</p>
+			<p id="p9">Jared Blumenfeld, Administrator, United States Environmental Protection Agency, Region IX</p>
+			<p id="p10">Mary Nichols, Chairman, California Air Resources Board</p>
+			<p id="p11">Hunter Lovins, President and Founder, Natural Capitalism Solutions</p>
+			<p id="p12">James Boyd, Commissioner, California Energy Commission</p>
+			<p id="p13">Anthony Eggert, Commissioner, California Energy Commission</p>
+			<p id="p14">Steve Heminger, Executive Director, Metropolitan Transportation Commission</p>
+			<p id="p15">Mark Jacobson, Professor, Stanford University</p>
+			<p id="p16">Wade Crowfoot, Political Director, West Coast, Environmental Defense Fund</p>
+			<p id="p17">Joel Makower, Chairman and Executive Editor, GreenBiz.com</p>
+			<p id="p18">Alec Loorz, Founder, Kids vs. Global Warming</p>
+			<p id="p19">Larry Allen, Air Pollution Control Officer, San Luis Obispo Air Pollution Control District</p>
+			<p id="p20">Jack Broadbent, Executive Officer/Air Pollution Control Officer, Bay Area Air Quality Management District</p>
+			<p id="p21">Barbara Lee, Chair, California Air Pollution Control Officers Association’s Climate Protection Committee</p>
+			<p id="p22">James Goldstene, Executive Officer, California Air Resources Board</p>
+			<p id="p23">Larry Greene, Executive Director/Air Pollution Control Officer, Sacramento Air Quality Management District</p>
+			<p id="p24">Event Partners</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>IMPACTS POTENTIELS DU CHANGEMENT CLIMATIQUE</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>IMPACTS POTENTIELS DU CHANGEMENT CLIMATIQUE</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2006-05-29 11:30:53.0</pubDate>
+							<eAddress>http://www.agora21.org/mies/chan-clim14.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/8915.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Scénarios et méthodologie pour l'étude de l'impact en montagne</p>
+			<p id="p2">Les stratégies d'adaptation pour contrecarrer les conséquences possibles d'un changement climatique abrupt dans les montagnes requièrent une information climatique avec une haute résolution spatiale. Malheureusement les simulations climatiques actuelles ne permettent pas encore d'accéder à une telle échelle. C'est la nécessité de coupler les différentes échelles spatiales, du local au global qui rend les projections sur les zones de montagne difficiles. Et pourtant, c'est certainement dans ces régions que l'impact des changements climatiques pourrait être le plus visible et avec le temps de réponse le plus court, le développement récent des modèles à méso-échelle (ARPEGE de METEO-FRANCE) permet cependant d'espérer, à brève échéance, des résultats plus fiables.</p>
+			<p id="p3">Cette contribution résume les attendus du dernier rapport GIEC. Les impacts des changements climatiques seront successivement envisagés au niveau des systèmes physiques, des écosystèmes. Les éléments recueillis sont focalisés sur les seuls pays développés et en particulier les Alpes pour lesquelles une masse importante d'information est disponible.</p>
+			<p id="p4">Hydrologie</p>
+			<p id="p5">Les calculs effectués à la plus haute résolution possible montrent pour les Alpes occidentales que, dans l'hypothèse d'un doublement du CO2, les précipitations hivernales augmenteraient de 15 % avec une augmentation simultanée des températures de 4 °C. Les précipitations estivales diminueraient tandis que les températures augmenteraient de près de 6 °C. Ces changements climatiques pourraient être accompagnés de modification des répartitions saisonnières, des proportions entre précipitations solides/liquides et de la fréquence des événements extrêmes.</p>
+			<p id="p6">Quelles que puissent être la magnitude et le sens de ces changements, les communautés de montagne comme celles en aval des vallées doivent être préparées à des stratégies de gestion des ressources hydriques assez souples pour prendre en compte des situations en discontinuité avec les situations actuelles.</p>
+			<p id="p7">Tout changement à long terme dans le régime des précipitations en montagne aura des conséquences sur les systèmes hydrologiques de montagne et indirectement sur les processus érosifs et la végétation.</p>
+			<p id="p8">Cryosphère</p>
+			<p id="p9">Dans les zones tempérées et à basse altitude, le réchauffement atmosphérique influence directement la masse et la géométrie des glaciers. Dans les Alpes, l'évolution des glaciers et celle du permafrost constituent les indicateurs les plus fiables des changements climatiques passés et actuels. Bilans de masse et profils de température du permafrost indiquent sans ambiguïté l'impact du réchauffement anthropogénique au-delà des marges de variation naturelle de l'holocène. Les profils de température des sondages dans le permafrost confirment le caractère récent de la tendance au réchauffement.</p>
+			<p id="p10">A cet effet global peut s'ajouter un effet saisonnier : premières neiges plus tardives et réduction de la durée de l'enneigement.</p>
+			<p id="p11">Les données simulées d'enneigement dans les Alpes françaises (CROCUS, SAFRAN) montrent que les zones de basse altitude (1500 m) sont les plus sensibles à de très faibles changements de température. Les changements dans le niveau des précipitations ont un impact plus fort sur l'épaisseur maximale de neige (équivalent eau) que sur la durée du manteau neigeux.</p>
+			<p id="p12">La réduction du manteau neigeux que l'on peut attendre aura un grand nombre d'implications : les fontes de neiges plus précoces accroîtront la sécheresse estivale et les risques d'incendies. Elle affectera aussi les écosystèmes à travers des étés plus chauds et secs.</p>
+			<p id="p13">Evénements extrêmes</p>
+			<p id="p14">Les possibilités de simulation des événements extrêmes et de leur fréquence d'occurrence sont très limitées. Pourtant, ces événements (tempêtes, pluies diluviennes, coulées de boue, avalanches...) ont un impact maximum sur le contexte physique, écologique et humain (infrastructures, voies de communication). Outre l'augmentation d'intensité, une augmentation dans la fréquence de tels événements placerait les populations vivant dans les montagnes devant d'importantes difficultés.</p>
+			<p id="p15">Parmi les impacts associés aux événements extrêmes figurent également les incendies. Une augmentation combinée de la température et de la sécheresse estivale, comme certaines simulations le montrent, pourrait assimiler certaines régions des Alpes du sud aux zones les plus sensibles de la région méditerranéenne. Cette sensibilité aux incendies pourrait être d'autant plus forte, que la déprise rurale favorise l'extension des espaces boisés.</p>
+			<p id="p16">Processus géomorphologiques</p>
+			<p id="p17">Les changements climatiques peuvent affecter un grand nombre de processus érosifs. Si les précipitations croissent en moyenne et en intensité, elles peuvent entraîner chutes de rochers et glissements de terrains. Les glissements de terrains sur de vastes surfaces sont causés par des précipitations prolongées tandis que les glissements plus localisés résultent de précipitations de forte intensité. Un autre mécanisme qui pourrait être responsable d'une déstabilisation des pentes sous un climat plus chaud est la réduction de la cohésion des sols à travers une dégradation du permafrost à haute altitude, avec pour conséquence une augmentation des risques de flux de boue, chutes de rochers.</p>
+			<p id="p18">Impact sur les systèmes écologiques</p>
+			<p id="p19">L'impact des changements climatiques sur les écosystèmes et les réserves naturelles est particulièrement important dans les régions de montagne, qui concentrent, sur de faibles superficies (zonation altitudinale), la plus grande biodiversité, et sont considérées par nos sociétés comme des réserves naturelles. Les changements climatiques sont susceptibles d'affecter significativement l'étagement altitudinal de certaines espèces. Globalement, à haute altitude, les plantes sont soumises aux contraintes directes et indirectes des basses températures, à l'effet des radiations, des vents très intenses, le stress hydrique pouvant également intervenir. Les plantes répondent à ces contraintes par des adaptations morphologiques, physiologiques, des stratégies reproductives permettant de réduire les risques de destruction, en particulier dans les premières phases de leur cycle de vie. La réponse aux changements climatiques sur ces équilibres peut être appréhendée par différentes approches : en prenant en compte les mécanismes permettant de prédire la réaction des individus, des espèces, en recherchant les changements prévisibles dans la distribution géographique de ces espèces, en modélisant la réponse globale des communautés et des écosystèmes. Compte tenu des échelles de temps en jeu dans la dynamique biologique et écologique, une des clés de ces réponses réside dans les reconstructions paléoclimatiques et paléoécologiques, qui seules permettent le recul suffisant sur de tels processus. Seules ces données fournissent des indications sur les rythmes des changements possibles et leur amplitude, ce sont par ailleurs les seuls moyens de valider les modèles théoriques globaux ou régionaux.</p>
+			<p id="p20">La réponse écophysiologique</p>
+			<p id="p21">Les plantes répondent globalement à l'augmentation de température par un déplacement (à travers les processus de reproduction) en altitude. Il est également prouvé que les effets directs au niveau atmosphérique priment sur les effets indirects au niveau des sols. Par ailleurs, les effets de l'augmentation de température sont amplifiés dans les zones où les conditions climatiques sont extrêmes. Les changements dans l'enneigement (durée et quantité) liés à une augmentation des températures hivernales sont également à prendre en compte.</p>
+			<p id="p22">Quelques points associés aux particularités des milieux d'altitude peuvent être relevés :</p>
+			<p id="p23">les herbacées peuvent être particulièrement sensibles compte tenu des risques de balance carbonée négative en hiver ;</p>
+			<p id="p24">les gels printaniers peuvent affecter certaines herbacées dont l'élongation n'est pas inféodée à la photopériode (jours plus longs) ;</p>
+			<p id="p25">l'accroissement de la période de végétation, en particulier au démarrage, et l'augmentation des températures estivales sont les deux composantes qui peuvent avoir le maximum d'impact sur la reproduction et donc sur la dynamique de population dans les zones arctiques et alpines. Les espèces florissant tôt et les petites populations isolées seraient les plus affectées ;</p>
+			<p id="p26">les contraintes photopériodiques strictes et leurs interactions (peu connues) avec le facteur limitant température pourraient avoir d'importantes conséquences en modifiant en particulier la composition des communautés végétales et les statuts de dominance spécifique ;</p>
+			<p id="p27">la combinaison accroissement de température et sécheresse (particulièrement en été) pourrait avoir un impact majeur à travers les processus d'évapotranspiration et les processus de recyclage des nutriments dans les horizons superficiels des sols. Parce que la plupart des plantes alpines sont caractérisées par de faibles rythmes de croissance, tout accroissement des ressources en nutriments stimulerait les quelques plantes ayant un potentiel de croissance supérieur et changerait complètement la structure de la végétation, conduisant en particulier à une modification profonde de la composition spécifique des forêts ;</p>
+			<p id="p28">l'épaisseur et la durée de l'enneigement corrélés avec les facteurs précipitation et température sont considérés comme facteurs climatiques majeurs dans les écosystèmes alpins, la neige procurant une protection contre le gel en hiver et une bonne alimentation en eau au printemps. On peut prédire en particulier que les espèces les plus menacées par une réduction de ces deux termes du manteau neigeux sont celles vivant au contact des névés, dans les dépressions et les communautés des tourbières.</p>
+			<p id="p29">La réponse migratoire et la distribution géographique</p>
+			<p id="p30">L'hypothèse la plus communément admise concernant la réponse des espèces au changement climatique concerne les potentialités de migration selon le gradient altitudinal associé au gradient thermique. La règle biogéographique conceptuelle de ce modèle associe à un changement de 3 °C un changement d'altitude de 500 m. Selon ce modèle, l'impact du changement climatique entraînerait la perte des zones climatiques les plus froides et le déplacement linéaire de toutes les ceintures de végétation vers les sommets. Ainsi, les ceintures de végétation à sommets se verraient toutes réduites en surface et les espèces de ces ceintures, représentées par des populations réduites, seraient toutes menacées. Dans les Alpes, la principale contraction concernerait les étages alpin et nival. Comme ces étages contiennent une part importante des endémiques de la flore alpine (15 % selon certains auteurs), l'impact du changement climatique sur la biodiversité dans les Alpes serait très significatif. Certains auteurs ont envisagé également des processus plus complexes.</p>
+			<p id="p31">L'impact du changement climatique sur la distribution altitudinale de la végétation ne peut être analysé sans prendre en compte son interférence avec la distribution latitudinale. Plus particulièrement à basse altitude, les espèces méditerranéennes pourraient se substituer aux espèces collinéennes. Dans les Alpes du sud, réchauffement et baisse des précipitations peuvent entraîner une progression vers le nord des écotypes méditerranéens (³ steppisation ² des écosystèmes). Un tel processus peut être envisagé pour les Alpes suisses, italiennes et françaises dans leurs versants sud.</p>
+			<p id="p32">Modélisation de la réponse des communautés et des écosystèmes</p>
+			<p id="p33">Quelques approches modélisatrices basées sur les " forest gap models " ont été menées à bien pour déterminer l'impact du changement climatique sur la biomasse forestière, la composition spécifique des écosystèmes. Bien que ne mettant pas en oeuvre les mêmes modèles, elles aboutissent à des conclusions similaires. Un modèle mis en oeuvre pour l'Australie montre un potentiel d'expansion de la végétation forestière (arbres et buissons) en réponse à une augmentation de température.</p>
+			<p id="p34">La limite supérieure des forêts est également susceptible d'une remontée de 100 m pour chaque augmentation de 1 degré de la température moyenne. Ces considérations sont à prendre en compte avec précaution dans la mesure où les limites actuelles de la forêt sont, dans nos régions soumises à une pression humaine depuis des siècles, bien en dessous des limites potentielles.</p>
+			<p id="p35">Le couplage d'un modèle de relation croissance radiale-climat à des sorties régionalisées du modèle climatique ARPEGE appliqué à 15 populations d'essences forestières réparties sur l'ensemble des Alpes françaises a permis de montrer que le réchauffement pouvait être bénéfique (en termes de croissance radiale) aux populations de mélèze les plus altitudinales ou préjudiciable pour des populations en montagne méditerranéenne. Ces conclusions sont cohérentes avec les interprétations écophysiologiques sur les bilans hydriques.</p>
+			<p id="p36">D'une façon générale, l'accroissement des températures affectera la structure, le fonctionnement de la végétation et sa composition spécifique, dès lors que le temps ne sera probablement pas suffisant pour permettre aux espèces de migrer vers un habitat adéquat.</p>
+			<p id="p37">Recherches futures et " monitoring "</p>
+			<p id="p38">Les activités de recherche futures devraient combiner observations de terrain, expérimentation, suivis in situ, collecte de données paléoenvironnementales et modélisation. Ces approches peuvent être d'autant plus efficaces si elles peuvent être coordonnées dans le cadre de programmes de recherche.</p>
+			<p id="p39">Observations et suivis</p>
+			<p id="p40">Une harmonisation des différentes opérations d'observation effectuées dans le cadre des programmes de surveillance des zones de montagne avec celles menées dans d'autres sites est nécessaire. La surveillance des zones de montagne s'impose d'autant plus que ce pourrait être parmi les premiers sites affectés par les changements.</p>
+			<p id="p41">Etudes expérimentales</p>
+			<p id="p42">Les études expérimentales et les observations de terrain doivent être coordonnées. Les observations de terrain révèlent les problèmes, mais les mécanismes en jeu doivent être élucidés par l'approche expérimentale. Les techniques à mettre en ¦uvre incluent des expérimentations d'introductions, de suppressions, de colonisation et de transplantation et les manipulations des facteurs environnementaux.</p>
+			<p id="p43">Modélisations</p>
+			<p id="p44">Compte tenu des incertitudes, la modélisation permet d'établir des prédictions à propos de l'état futur des écosystèmes sous différents scénarios. Les modèles ont déjà fourni d'importantes données sur les tendances futures de la dynamique des écosystèmes. Certains sont déjà très élaborés (modèles associés à la cryosphère et l'hydrologie). D'autres, ceux en particulier traitant de la dynamique de la végétation s'affinent grâce à une meilleure paramétrisation et une meilleure compréhension des processus en jeu. Cette amélioration se fait à la fois dans les approches mécanistiques et dans des approches statistiques (réseaux neuronaux, logique floue) permettant de se rapprocher des processus biologiques de type non linéaire et caractérisés par des phénomènes de seuils. Ces modèles doivent également mieux intégrer les dimensions topographiques et édaphiques à l'échelle régionale.</p>
+		</body>
+	</text>
+</cesDoc>

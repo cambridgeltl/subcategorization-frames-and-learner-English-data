@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Gérer les Congés Payés</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Gérer les Congés Payés</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:19:47.0</pubDate>
+							<eAddress>http://www.juritravail.com/gestion-conge-employeurs/gestion-conges-payes</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/6128.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Les éléments pour organiser et gérer les congés payés</p>
+			<p id="p2">Pour bien gérer les congés payés de vos salariés , vous devez connaître certaines règles indispensables : calcul de la durée des congés payés , décompte des jours de congé, répartition, fixation des dates de congé, modification, rémunération... Ce dossier, rédigé par un expert en droit du travail, vous explique de façon claire et concise comment organiser les congés payés dans votre entreprise.</p>
+			<p id="p3">Mots-clés: Calcul de la durée , Décompte , Répartition , Dates,</p>
+			<p id="p4">Organiser et gérer les congés payés</p>
+			<p id="p5">Il est au format RTF, et donc directement utilisable dans votre traitement de texte, quel que soit votre ordinateur PC ou Mac. Il vous sera livré instantanément sur votre ordinateur par téléchargement.</p>
+			<p id="p6">Ce guide pratique, rédigé par un expert en droit du travail, vous détaille étape par étape la gestion et l'organisation des congés payés dans votre entreprise.</p>
+			<p id="p7">I. Comment calculer la durée des congés payés ?</p>
+			<p id="p8">Tous les salariés ont-ils droit aux congés payés ?</p>
+			<p id="p9">Quelle est la période de référence à prendre en compte pour le calcul de la durée des congés ?</p>
+			<p id="p10">Comment calculer la durée totale des congés payés ?</p>
+			<p id="p11">Quel mode de calcul retenir pour apprécier la période de travail effectif du salarié ?</p>
+			<p id="p12">Quelles sont les périodes que l’on doit obligatoirement assimiler à du travail effectif ?</p>
+			<p id="p13">Quels sont les cas pour lesquels il existe des congés supplémentaires ?</p>
+			<p id="p14">II. Comment effectuer le décompte des jours de congés ?</p>
+			<p id="p15">Comment effectuer un décompte en jours ouvrables ?</p>
+			<p id="p16">Comment effectuer un décompte en jours ouvrés ?</p>
+			<p id="p17">Comment prendre en compte les jours fériés dans le décompte des jours de congés ?</p>
+			<p id="p18">Faut-il rémunérer le jour férié inclu dans les congés ?</p>
+			<p id="p19">III. Comment répartir les congés payés dans l’année ?</p>
+			<p id="p20">Quelle est la période des congés payés ?</p>
+			<p id="p21">Comment répartir les différents congés ?</p>
+			<p id="p22">Comment doit-on attribuer le congé principal ?</p>
+			<p id="p23">Comment doit-on attribuer la 5ème semaine de congé ?</p>
+			<p id="p24">Tous les congés (congé principal + 5ème semaine) peuvent-ils être pris en une seule fois par les salariés ?</p>
+			<p id="p25">Peut-on fractionner le congé principal?</p>
+			<p id="p26">Peut-on fractionner la 5ème semaine de congés ?</p>
+			<p id="p27">IV. Comment fixer les dates des congés payés ?</p>
+			<p id="p28">Comment fixer la date de départ en congé ?</p>
+			<p id="p29">Comment déterminer l’ordre des départs en congés, dans le cadre de départs par roulement ?</p>
+			<p id="p30">Comment organiser la fermeture de l’établissement pendant la période des congés ?</p>
+			<p id="p31">Comment articuler les périodes de congés des salariés avec la période de fermeture de l’entreprise ?</p>
+			<p id="p32">Faut-il informer les salariés sur les dates de leurs congés ?</p>
+			<p id="p33">V. Peut-on modifier les dates des congés payés ?</p>
+			<p id="p34">Peut-on modifier les dates de départs en congés du salarié ?</p>
+			<p id="p35">Un salarié peut-il passer outre ses dates de départ et de retour de congés ?</p>
+			<p id="p36">Les congés payés peuvent-ils être reportés d’une année sur l’autre ?</p>
+			<p id="p37">Une salariée en congé maternité peut-elle demander le report de ses congés payés ?</p>
+			<p id="p38">Les salariés en congés sabbatique ou pour création d’entreprise peuvent-ils reporter les cinquièmes semaines ?</p>
+			<p id="p39">VI. Comment rémunérer les congés des salariés ?</p>
+			<p id="p40">Comment calculer l’indemnité de congés payés pris par le salarié ?</p>
+			<p id="p41">Quand faut-il verser l’indemnité de congés payés ?</p>
+			<p id="p42">Comment rémunérer les mois comportant une période de congés payés ?</p>
+			<p id="p43">Quel est le rôle des caisses de congés payés ?</p>
+			<p id="p44">Faut-il indemniser les congés payés non pris ?</p>
+			<p id="p45">Quel est le régime fiscal et social de l’indemnité de congés payés et de l’indemnité compensatrice de congés ?</p>
+			<p id="p46">VII. Maladie et congés payés</p>
+			<p id="p47">La maladie au cours de la période de référence</p>
+			<p id="p48">Le salarié tombe malade avant le premier jour de congé</p>
+			<p id="p49">Le salarié tombe malade pendant ses congés</p>
+			<p id="p50">VIII. Rupture du contrat de travail et congés payés</p>
+			<p id="p51">Congés payés et préavis</p>
+			<p id="p52">Comment calculer l’indemnité compensatrice de congés payés en cas de rupture d’un contrat de travail ?</p>
+			<p id="p53">Le salarié dont le contrat de travail est rompu peut-il réclamer le paiement de l’indemnité de congés des années antérieures ?</p>
+		</body>
+	</text>
+</cesDoc>

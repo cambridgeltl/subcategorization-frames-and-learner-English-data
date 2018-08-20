@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La DADS 2009 version papier est simplifiée - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La DADS 2009 version papier est simplifiée - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:03:37.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=139&amp;titre=La+DADS+2009+version+papier+est+simplifi%C3%A9e</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/9874.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La DADS 2009 version papier est simplifiée</p>
+			<p id="p2">La DADS (déclaration annuelle de données sociales) de l’année 2009 doit être transmise au plus tard le 31 janvier 2010. Sa version papier est simplifiée concernant les départs de salariés de 55 ans ou plus.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">La DADS (déclaration annuelle de données sociales) est une formalité obligatoire pour toute entreprise employant des salariés. Elle permet de renseigner différents organismes (CRAM, Direction Générale des Impôts, Pôle emploi, URSSAF , etc.).</p>
+			<p id="p5">La DADS doit être communiquée au plus tard le 31 janvier de chaque année. Celle concernant l’année 2009 doit donc être transmise le 31 janvier 2010 au plus tard. Ne l'oubliez pas !</p>
+			<p id="p6">L’employeur qui omet de déclarer ces éléments encourt une amende équivalente à 600 fois le taux horaire du SMIC, soit 5.292 euros ( Code du travail , art. L. 1221-18).</p>
+			<p id="p7">Les obligations des employeurs sont vastes : déposer les déclarations dans les délais, respecter les procédures en cas de rupture du contrat de travail, rédiger les contrats de travail, etc. Pour vous aider, nous vous proposons de télécharger gratuitement notre dossier « Droit du travail : 10 pièges à éviter », une sélection de 10 questions/réponses reprenant quelques-unes des erreurs les plus fréquentes en matière de droit du travail.</p>
+			<p id="p8">La DADS 2009 peut être transmise :</p>
+			<p id="p9">par Internet (on parle alors de DADS unifiée : DADS-U), sur le site www.net-entreprises.fr , si l’entreprise dispose d’un logiciel de paye à la norme DADS-U ou sur le site www.e-ventail.fr dans le cas contraire ;</p>
+			<p id="p10">sur un support papier, au Centre de transfert des données sociales (CTDS).</p>
+			<p id="p11">C’est cette version papier qui est simplifiée cette année.</p>
+			<p id="p12">En effet, depuis 2009, tout employeur doit faire une déclaration spécifique à l’URSSAF, s’il a au cours de l’année civile :</p>
+			<p id="p13">mis au moins un salarié en préretaite ;</p>
+			<p id="p14">mis au moins un salarié à la retraite ;</p>
+			<p id="p15">licencié au moins un salarié de 55 ans ou plus ;</p>
+			<p id="p16">conclu une rupture conventionnelle du contrat de travail avec au moins un salarié de 55 ans ou plus.</p>
+			<p id="p17">Cette déclaration devait jusqu’à présent être faite sur un formulaire CERFA spécifique, en mentionnant le nombre de salariés concernés, leur âge et les sommes reçues à l’occasion de leur départ.</p>
+			<p id="p18">Cette formalité est aujourd’hui simplifiée, puisqu’elle est désormais intégrée dans la DADS papier et ne fait donc plus l’objet d’un formulaire spécifique.</p>
+			<p id="p19">A. Ninucci</p>
+			<p id="p20">(Communiqué URSSAF du 27 novembre 2009)</p>
+			<p id="p21">Pour plus de précisions sur vos obligations déclaratives, les Editions Tissot vous conseillent leur ouvrage « Tissot Social Entreprise ». </p>
+			<p id="p22">Article publié le 11 décembre 2009</p>
+			<p id="p23">Partagez cet article :</p>
+			<p id="p24">Articles sur le même thème : Rémunération</p>
+			<p id="p25">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

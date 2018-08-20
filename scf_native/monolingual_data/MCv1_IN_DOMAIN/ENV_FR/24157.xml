@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Pollution par le benzène à surveiller à l'intérieur des locaux - notre-planete.info</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Pollution par le benzène à surveiller à l'intérieur des locaux - notre-planete.info</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-11 02:33:52.0</pubDate>
+							<eAddress>http://www.notre-planete.info/actualites/actu_133_pollution_benzene_locaux.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/24157.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Recevoir gratuitement et régulièrement la lettre d'information</p>
+			<p id="p2">environnement et risques naturels depuis 2001</p>
+			<p id="p3">Pollution par le benzène à surveiller à l'intérieur des locaux</p>
+			<p id="p4">5351 lectures / 1 commentaire 17 novembre 2002, 00 h 00</p>
+			<p id="p5">Le numéro 77 des Données de l'environnement publié aujourd'hui par l'Institut Français de l'Environnement (Ifen) présente les résultats des analyses de concentrations ambiantes de benzène relevées par les Associations agréées de surveillance de la qualité de l'air (AASQA) de 1994 à 2001, complétées d'analyses pilotes des concentrations à l'intérieur des locaux. Si les concentrations extérieures baissent considérablement depuis une dizaine d'années, celles relevées dans certains locaux sont encore très élevées.</p>
+			<p id="p6">Le benzène est un composé organique volatil (COV) utilisé dans les carburants en remplacement du plomb ou dans l'industrie chimique comme intermédiaire de synthèse pour la fabrication de plastiques, fibres synthétiques, solvants, pesticides... Les émissions de benzène dans l'air extérieur proviennent de l'évaporation lors du stockage et de la distribution des carburants, des émissions à l'échappement parmi les hydrocarbures imbrûlés, de l'évaporation à partir des moteurs ou des réservoirs et, de façon diffuse, aux abords d'industries chimiques. Du fait de la réglementation (directive 98/70/CE du 13 octobre 1998), la teneur en benzène des carburants est passée de 5 à 1% maximum au 1er janvier 2000.</p>
+			<p id="p7">Un polluant de moins en moins présent à l'extérieur</p>
+			<p id="p8">Les niveaux de concentration moyens annuels en benzène relevés dans l'air extérieur par les AASQA sont compris entre 1 µg/m3 en sites urbains de fond et plus de 10 µg/m3 en sites de proximité au trafic. Depuis 1994, les niveaux ont été respectivement divisés par 3 et 4. La réglementation européenne, qui fixe la valeur limite de concentration à 10 µg/m3 en moyenne annuelle est donc respectée en sites de fond, même si l'objectif de qualité (fixé à 2 µg/m3) reste à atteindre sur certains sites de proximité industrielle et de trafic. Cependant, la directive 2000/69/CE du 16 novembre 2000 a fixé une nouvelle valeur limite de concentration dans l'air extérieur à 5 µg/m3, avec une tolérance de dépassement jusqu'en 2005.</p>
+			<p id="p9">... Très présent à l'intérieur, quand il est mesuré...</p>
+			<p id="p10">A l'intérieur des locaux, la fumée de tabac est une source connue d'émission de benzène, ainsi que les produits de bricolage et d'entretien, certains revêtements ou éléments de décoration. Les récents résultats d'une campagne pilote de mesurage chez des volontaires, menée par l'Observatoire de la qualité de l'air intérieur sur 3 sites géographiques (Nord-Pas-de-Calais, Communauté urbaine de Strasbourg, Aix-Marseille) a permis de relever des niveaux de concentration en benzène pouvant aller jusqu'à 14 µg/m3 dans certaines cuisines ou chambres. Ils sont en général 1,5 fois plus élevés que dans l'air extérieur où 90% des niveaux ne dépassent pas 3 µg/m3.</p>
+			<p id="p11">... Et considéré unanimement comme cancérogène</p>
+			<p id="p12">L'induction de leucémies par le benzène a été établie par de nombreuses études épidémiologiques. Le Centre international de recherche sur le cancer (Circ) estime que les preuves sont suffisantes pour le considérer cancérogène certain pour l'homme. Selon l'Organisation mondiale de la santé (OMS), l'exposition continue d'un million de personnes à 1 µg/m3 pendant une vie entière est susceptible d'induire un excès de six décès par leucémie.</p>
+			<p id="p13">Auteur</p>
+			<p id="p14">Actualités connexes</p>
+			<p id="p15">elvius isère - 13/12/2008, 19:00</p>
+			<p id="p16">Le Plan Particules du ministère de l'écologie pointe du doigt le benzène émis par la combustion du bois :</p>
+			<p id="p17">« La combustion du bois dans le secteur domestique représente la plus large part des émissions de particules du secteur résidentiel-tertiaire. Le développement du chauffage au bois domestique a un impact négatif sur la qualité de l’air, du fait de ses émissions très importantes notamment (mais pas uniquement) en poussières. Le chauffage au bois a également un impact sur la QUALITÉ DE L'AIR INTÉRIEUR, du fait des émissions de BENZÈNE notamment. » (Dossier de Presse, 11 juillet 2008).</p>
+			<p id="p18">La combustion du bois, dans le secteur domestique, est le principal émetteur de benzène dans l'atmosphère (74%</p>
+			<p id="p19">en 2005 - source : chantier n°33 du Grenelle, rapport du 13 mars 2008).</p>
+			<p id="p20">Votre nom et lieu de résidence :</p>
+			<p id="p21">Pour éviter les abus des robots spammeurs, merci de répondre à cette question :</p>
+			<p id="p22">Notre planète s'appelle la</p>
+			<p id="p23">Votre commentaire :</p>
+			<p id="p24">Tout commentaire qui est injurieux, incompréhensible (style SMS), non constructif, promeut des produits ou services, sera immédiatement supprimé. Toute récidive entraînera le bannissement définitif du posteur.</p>
+			<p id="p25">notre-planete.info est un site indépendant qui vise à informer et sensibiliser objectivement sur l'environnement, l'écologie, les sciences de la Terre, les risques naturels et le développement durable</p>
+		</body>
+	</text>
+</cesDoc>

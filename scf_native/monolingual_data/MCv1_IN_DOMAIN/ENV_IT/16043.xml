@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Carceri, via a laboratori per t - ERMES Regione Emilia-Romagna</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Carceri, via a laboratori per t - ERMES Regione Emilia-Romagna</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-06-17 04:04:28.0</pubDate>
+							<eAddress>http://www.regione.emilia-romagna.it/wcm/ERMES/notizie/news/2009/giu/carceri_rifiuti_elettrici.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>ambiente</keyTerm>
+					<keyTerm>ricicalggio rifiuti elettrici e elettronici</keyTerm>
+					<keyTerm>progetto "Rifiuti elettrici ed elettronici in carcere"</keyTerm>
+					<keyTerm>carcere</keyTerm>
+					<keyTerm>lavoro</keyTerm>
+					<keyTerm>detenuti</keyTerm>
+					<keyTerm>assessore lino zanichelli</keyTerm>
+					<keyTerm>assessore giovanni sedioli</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/16043.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Carceri, via a laboratori per trattamento rifiuti elettrici</p>
+			<p id="p2">Da lunedì 29 giugno a Bologna nel carcere della Dozza il primo dei tre laboratori del progetto "Raee in carcere". Gli altri a Forlì e Ferrara</p>
+			<p id="p3">IN SINTESI:</p>
+			<p id="p4">Lunedì 29 giugno parte nel carcere bolognese della Dozza il primo laboratorio del progetto "Rifiuti di apparecchiature elettriche ed elettroniche in carcere".</p>
+			<p id="p5">Il progetto è promosso dalla Regione e ha due obiettivi. Il primo è obiettivo è favorire il recupero e il riciclaggio dei Raee, rifiuti elettrici ed elettronici come  frigoriferi e telefoni cellulari, che possono essere molto pericolosi per l´ambiente. L´altro scopo del progetto è aiutare i detenuti con un lavoro  retribuito che consiste nello smontare e separare le varie parti di questi rifiuti.</p>
+			<p id="p6">Nella notizia si trovano informazioni sul progetto e nei Documenti si possono vedere le interviste all´assessore ambiente e sviluppo sostenibile Lino Zanichelli e all´assessore scuola, formazione  professionale, università, lavoro Giovanni Sedioli.</p>
+			<p id="p7">APPROFONDIMENTI</p>
+			<p id="p8">(23 giugno 2009) - Un´importante opportunità di lavoro e di reinserimento sociale per i detenuti, un´occasione concreta di tutela dell´ambiente.</p>
+			<p id="p9">Parte lunedì 29 giugno nel carcere bolognese della Dozza il primo di tre laboratori in cui i detenuti saranno impiegati nel trattamento dei rifiuti elettrici ed elettronici, per favorirne il recupero e il riciclaggio.</p>
+			<p id="p10">Si tratta del progetto "Rifiuti elettrici ed elettronici in carcere", che coinvolgerà a breve anche gli Istituti penitenziari di Forlì e Ferrara e che è stato presentato a Bologna.</p>
+			<p id="p11">I laboratori (all´interno del carcere per Bologna e Ferrara, all’esterno per Forlì) saranno opportunamente allestiti e attrezzati per lo smontaggio dei Raee, ovvero rifiuti come lavastoviglie, lavatrici e computer, che, se non opportunamente trattati, possono essere molto pericolosi per l´ambiente a causa delle sostanze che contengono, quali mercurio e piombo.</p>
+			<p id="p12">Tale attività impegnerà complessivamente e in prima battuta dieci detenuti per 30 ore alla settimana, con un´adeguata retribuzione e il concorso della contrattazione sindacale.</p>
+			<p id="p13">Frutto dell´iniziativa comunitaria "Equal Pegaso", finanziata dalla Regione Emilia-Romagna con il Fondo sociale europeo, il cui obiettivo è l´inclusione socio-lavorativa delle fasce deboli, il progetto ha avuto una prima fase sperimentale tra la fine del 2007 e l´inizio del 2008.</p>
+			<p id="p14">Cosa prevede il progetto</p>
+			<p id="p15">La quantità di rifiuti elettronici ed elettrici che verrà trattata ogni anno, attraverso operazioni di bonifica e smontaggio, ammonta a circa mille tonnellate comprensive di "grandi elettrodomestici ferrosi" (circa 13mila lavatrici e lavastoviglie) e di piccoli elettrodomestici di uso quotidiano (ad es. computer, stampanti, ventilatori, phon, sveglie, aspirapolvere, giocattoli elettrici, etc.).</p>
+			<p id="p16">Raccolti in maniera differenziata e provenienti dalle stazioni ecologiche del Gruppo Hera, questi rifiuti, una volta trattati, verranno inviati agli impianti di smaltimento finale per essere recuperati in valore percentuale pari a circa l’85%. Si stima che l’operazione contribuirà al risparmio di 2 milioni Kwh di energia elettrica, a riciclare più di 660 mila kg di ferro, 10 mila kg di rame, 5 mila kg di alluminio, 25 mila kg di plastica.</p>
+			<p id="p17">La gestione dell´attività produttiva e il rapporto con le persone detenute vengono condotti dalle cooperative sociali IT2 a Bologna, Gulliver a Forlì, AmbientAzione a Ferrara, grazie al contributo progettuale e ai finanziamenti del Gruppo Hera e dei Consorzi Raee Ecodom ed Ecolight.</p>
+			<p id="p18">Ampia la rete degli Enti che hanno voluto e promosso il progetto: oltre alla Regione, il Provveditorato regionale dell’Amministrazione penitenziaria di Bologna, il Gruppo Hera Spa, le Provincie di Forlì-Cesena, Bologna e Ferrara, i Consorzi Raee Ecolight ed Ecodom, le agenzie di formazione professionale Techne Forlì-Cesena, Cefal Bologna, Enaip Ferrara.</p>
+		</body>
+	</text>
+</cesDoc>

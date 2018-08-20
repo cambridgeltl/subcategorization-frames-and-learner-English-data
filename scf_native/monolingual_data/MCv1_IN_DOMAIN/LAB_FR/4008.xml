@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Rémunération BTP - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Rémunération BTP - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:57:09.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?actualite=R%C3%A9mun%C3%A9ration+BTP&amp;secteur=BTP&amp;mode=theme&amp;idtheme=21</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/4008.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Rémunération BTP</p>
+			<p id="p2">La rémunération dans le BTP est une thématique très importante, de par les spécificités liées à ce secteur d’activité. Lire la suite</p>
+			<p id="p3">En effet, de nombreuses données relatives à la paie sont fixées une fois par an :</p>
+			<p id="p4">au niveau régional pour les ouvriers et les ETAM du BTP : salaires minimaux, indemnités de repas (ou primes de panier), indemnités de frais de trajet et de transport ;</p>
+			<p id="p5">au niveau national pour les ingénieurs et assimilés cadres (IAC) du BTP : salaires minimaux (sauf pour la région Nord-Pas de Calais).</p>
+			<p id="p6">D’autres sujets reviennent régulièrement dans l’actualité.</p>
+			<p id="p7">Les avantages en nature </p>
+			<p id="p8">Les avantages en nature permettent au salarié de faire l’économie de certains frais. Il peut s’agir par exemple de la mise à disposition d’un véhicule de fonction ou d’un ordinateur portable.</p>
+			<p id="p9">Les dispositifs d’épargne salariale </p>
+			<p id="p10">Les deux principaux dispositifs d’épargne salariale sont la participation (obligatoire dans les entreprises de 50 salariés et plus) et l’intéressement.</p>
+			<p id="p11">Les partenaires sociaux du Bâtiment et des Travaux publics ont par ailleurs signé plusieurs accords, mettant en place d’autres dispositifs comme le PERCO-BTP (plan d'épargne pour la retraite collectif du BTP) et le PEI-BTP (plan d'épargne interentreprises du BTP).</p>
+			<p id="p12">21/09/2010</p>
+			<p id="p13">Sur le terrain des inégalités professionnelles entre hommes et femmes, les employeurs ont déjà l’obligation de négocier et de prendre des mesures afin de les réduire. A compter du 1er janvier 2012, ils seront financièrement sanctionnés s’ils ne respectent pas ces obligations.</p>
+			<p id="p14">URSSAF</p>
+			<p id="p15">07/09/2010</p>
+			<p id="p16">Comme annoncé le 28 mai 2010 aux membres du comité d’alerte sur l’évolution des dépenses d’assurance maladie, les modalités de calcul des indemnités journalières de Sécurité sociale vont changer.</p>
+			<p id="p17">31/08/2010</p>
+			<p id="p18">A partir du 1er janvier 2011, la déclaration et le recouvrement des cotisations d’assurance chômage et les contributions AGS (assurance garantie des salaires) seront transférés des Pôles emploi aux URSSAF. Attention, pour les employeurs du BTP domiciliés dans le département du Rhône, ce transfert est effectif à compter du 1er septembre 2010 !</p>
+			<p id="p19">31/08/2010</p>
+			<p id="p20">Le revenu de solidarité active (RSA), qui a remplacé le RMI au 1er juin 2009, est étendu au 1er septembre 2010 aux jeunes, de 18 à 25 ans. Les conditions d’attribution sont toutefois plus strictes que pour les plus de 25 ans.</p>
+			<p id="p21">31/08/2010</p>
+			<p id="p22">Jeudi 2 septembre, jour de rentrée scolaire. Les parents qui travaillent et qui souhaitent accompagner leurs enfants à l’école en ce jour particulier ont-ils droit à des autorisations d’absence ?</p>
+			<p id="p23">Dimanche 8 août 2010</p>
+			<p id="p24">La source d'information au sujet du thème rémunération BTP</p>
+			<p id="p25">Le droit du travail enfin proche de vous : disposez de toutes les informations en droit du travail BTP pour faire face aux situations du quotidien. L'analyse des dernières informations sur le thème de votre choix comme rémunération BTP. Plongez dans le cœur de l'actualité du droit du travail avec les Editions Tissot. Un accès complet à des fiches d'actualité en droit du travail BTP et des dizaines de thèmes pertinents à appliquer directement dans votre entreprise.</p>
+			<p id="p26">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

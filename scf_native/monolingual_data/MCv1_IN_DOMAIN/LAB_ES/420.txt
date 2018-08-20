@@ -1,0 +1,659 @@
+Tema I. Ámbito de aplicación del derecho del trabajo
+Se ocupa de fenómeno social y humano del trabajo. No le interesa cualquier tipo de trabajo. Le interesa las relaciones jurídicas laborales entre personas, es decir trabajo que se presta para otros. No regula el trabajo realizado para el autoconsumo personal o familiar (huerto).
+Existen relaciones de trabajo entre personas que no se regulan por el derecho del trabajo, sino que se regulan por el derecho civil o por el derecho mercantil.
+El Derecho del Trabajo, se ocupa solamente del trabajo en el que concurren tres notas:
+Trabajo libre o voluntario
+Trabajo dependiente o subordinado
+Trabajo libre.
+Para que exista contrato de trabajo, el trabajador se debe comprometer libremente a prestar servicios a un empresario. Si no existe este consentimiento libre no existe contrato de trabajo.
+Si el consentimiento está viciado, el contrato de trabajo es nulo.
+Hay de todas formas, trabajos que son obligatorios (servicios a la sociedad, servicio militar), en los que no existe esa libertad, por ello no son contrato de trabajo.
+Ajeneidad
+Se explica desde dos perspectivas:
+Ajeneidad en los riesgos. El trabajador con un contrato de trabajo no asume los riesgos de la actividad que desarrolla. A cambio de su trabajo recibe un salario garantizado, con independencia de los resultados que obtenga la empresa en la que se trabaja.
+Ajeneiedad en los frutos. Los frutos del trabajo no corresponden al trabajador, sino que corresponden al empresario para el que trabaja. Los bienes y servicios que produce el trabajador, no le reportan un beneficio económico. Al trabajador se le compensa con una parte de ese beneficio.
+Esta nota de la ajeneidad nos permite determinar, porqué algunos trabajos, como son los voluntarios, no están dentro de esta disciplina. Son trabajos que en esencia no están retribuidos, al igual que hay trabajos que reciben un salario, pero no tienen contrato de trabajo, porque les falta la tercera nota.
+Dependencia y subordinación
+Para que exista contrato de trabajo, tiene que cumplirse las dos anteriores condiciones y además tiene que cumplirse esta última. El trabajador en el desarrollo de su trabajo tiene que someterse al poder de dirección y organización del empresario, siguiendo las órdenes e instrucciones indicadas. El empresario marca las pautas de ejecución del trabajo.
+El trabajador subordinado se somete al poder disciplinario del empresario, lo que significa que si el trabajador incumple sus obligaciones laborales, la empresa tiene facultad para sancionarle.
+Esta nota debe cumplirse, ya que si no existe dependencia, no existe contrato de trabajo.
+Actualmente la dependencia se ha flexibilizado mucho, de tal forma que los rasgos clásicos de la dependencia, como contrato de trabajo, jornada completa, horario rígido, trabajo para un solo empresario, sometimiento... se han difuminado de tal forma que existen trabajadores con contrato de trabajo que están pluriempleados, a tiempo parcial.
+Actualmente también hay trabajadores dependientes, pero que no están sometidos a permanente control por el empresario, como es el contrato de trabajo a domicilio (Teletrabajo). De todas formas aunque se haya relajado esta dependencia, no ha dejado de existir.
+En el momento en que no exista cualquiera de estas características, la prestación de servicios, no se regulará por el derecho del trabajo.
+El derecho del trabajo no regula el trabajo autónomo, ya que existe independencia, se asumen riesgos, y no existe subordinación.
+Al trabajo autónomo de todas formas se le puede aplicar excepcionalmente alguno de los artículos contenido en el estatuto de los trabajadores (libertad sindical, prevención de riesgos laborales).
+Hay que señalar una excepción importante dentro de los trabajadores por cuenta ajena y dependiente, que aunque cumpliendo los requisitos anteriormente citados, no están regulados por el derecho del trabajo, estos son los funcionarios públicos. Este trabajo público se regula por el derecho administrativo, ya que la relación de vinculación del funcionario con el Estado es de carácter administrativo. De todas formas actualmente hay un proceso de laboralización del funcionario.
+II. Concepto y contenido del derecho del trabajo
+Concepto: Es la rama del ordenamiento jurídico que regula el trabajo prestado libremente en régimen de ajeneidad y dependencia y realizado a cambio de una retribución económica.
+Contenido: Es muy amplio, puede dividirse en varias partes:
+Fundamentos de la relación laboral y su sistema normativo. Origen histórico del derecho del trabajo. Fuentes del derecho del trabajo. Los principios de aplicación de las normas laborales y órganos de aplicación del derecho del trabajo.
+Estudio de las relaciones colectivas de trabajo. Contempla al trabajador como un individuo dentro de la empresa que tiene unos intereses propios. Se estudia también los órganos de representación en la empresa, así como el trabajador como miembro de un grupo social con sus intereses específicos (régimen jurídico de los sindicatos y otras asociaciones profesionales) y los instrumentos colectivos de autodefensa colectiva de los trabajadores.
+Estudio de las relaciones individuales de trabajo. Se estudia la relación de trabajo entre un trabajador y un empresario, mediante un contrato de trabajo.
+Derecho procesal del trabajo. Se estudia los mecanismos de solución de los conflictos de trabajo ante los tribunales de justicia.
+Derecho de la Seguridad Social. Estudia los mecanismos de protección de los ciudadanos ante determinadas situaciones de enfermedad, necesidad (Desempleo, accidentes laborales).
+III. Origen, formación y evolución del derecho del trabajo
+Tiene una evolución histórica particular.
+El trabajo dependiente y por cuenta ajena, ha existido siempre, pero no siempre ha sido tal y como lo conocemos actualmente.
+En un primer momento, en las sociedades preindustriales, predomina el trabajo por cuenta ajena forzado y no libre. De forma que fue primero la esclavitud (mundo antiguo) y posteriormente con la servidumbre (edad media). En estos momentos existía poco de lo que se conoce por trabajo libre en gremios preindustriales.
+En todo caso va a ser a finales del S. XVIII y a lo largo del S. XIX cuando se generaliza el trabajo libre por cuenta ajena, como consecuencia de la revolución industrial. Es este contexto histórico va a surgir el DT como una reacción frente a los problemas sociales que se producen con la revolución industrial, para resolver graves problemas sociales.
+El nacimiento del DT se puede decir que es a partir de este momento.
+El DT surge gracia a la acción conjunta de varios factores de distinta naturaleza:
+De carácter sociológico, debido a las consecuencias sociales de la RI.
+La RI tiene como consecuencia un importante cambio en la titularidad en los medios de producción.
+En un principio capital y trabajo estaban reunidos en una misma persona (artesanos), ahora en cambio el capital y el trabajo se separan. Se necesitan en estos momentos grandes sumas de capital para crear fábricas. Esto hace que se produzca el nacimiento de nuevas formas jurídicas de organizar el trabajo (SA...), que trae consigo una gran concentración de capitales. El trabajador lo único que le queda es su capacidad de trabajo. Este cambio en la titularidad en los medios de producción tiene varias implicaciones:
+Cambio en la organización del trabajo. De pequeños talleres se pasa a grandes fábricas, lo que implica que aparezca la división del trabajo y la especialización, así como un proceso de jerarquización del trabajo.
+Cambio en la estructura de la población trabajadora. Los que eran antiguamente artesanos, no pueden ser fabricantes por no poseer las grandes sumas de capital, y hace que la mayoría tenga que convertirse en trabajadores.
+Se produce un importante éxodo del campo a la ciudad, incrementándose el número de trabajadores.
+De esta manera se generaliza el trabajo libre por cuenta ajena, surgiendo así una nueva clase social “el trabajador” u obrero asalariado, que se caracteriza porque carece de medios de producción y cuya única salida es vender su trabajo como medio de vida.
+Factor de carácter jurídico. Está constituido por la existencia de un derecho liberal e individualista, que se muestra desfasado de la realidad social que regula. En el plano del derecho triunfa también la ideología liberal propia de la revolución burguesa, y así los códigos civiles del S. XIX a diferencia de épocas anteriores proclaman la libertad del trabajo y la libertad de contratación.
+Los códigos civiles del XIX consideraban que trabajo y empresario acudían al mercado en condiciones de igualdad y libertad para intercambiar trabajo por salario. Estas relaciones de trabajo se regulaban jurídicamente a través de un contrato civil de arrendamiento de servicios, donde se fijaba los derechos y obligaciones de ambas partes.
+Desde la ideología liberal se entendía que el estado no tenía que intervenir para nada en esa relación entre particulares. Como consecuencia se prohíbe la asociación obrera, por entender que el sindicato interfería en el normal funcionamiento del contrato de trabajo, ya que el sindicato velaba por unas condiciones mínimas en el trabajo.
+En la realidad se demuestra que la libertad de contratación no existió, porque el trabajador no acudía al mercado en las mismas condiciones que el empresario, ya que éste contaba con una superioridad económica.
+Esta situación lleva a los trabajadores a aceptar condiciones desfavorables para ellos y siempre favorables para los empresarios.
+Esto se tradujo en una utilización abusiva por parte de los empresarios de la mano de obra.
+Fase desencadenante del DT. Aparición del movimiento obrero y la intervención del estado en las relaciones de trabajo.
+La reacción de la clase trabajadora supuso:
+Toma de conciencia de su situación.
+Agrupación para su autodefensa colectiva.
+Surge así el movimiento obrero, que en su fase inicial tiene una finalidad mutualista. Después hay un movimiento llamado nudista, que va en contra de las máquinas.
+Gracias a la acción del movimiento obrero, el estado va a empezar a intervenir en las relaciones de trabajo de una manera interesada, intentando sostener el sistema implantado.
+En un primer momento el estado interviene tímidamente mediante un estudio sociológico de la situación. En este primer momento las normas elaboradas van dirigidas a proteger a los colectivos más explotados (niños y mujeres).
+En un segundo momento se incrementa la intervención del estado en las relaciones de trabajo, basado en la Rev. Rusa.
+En 1919 se promulga la constitución alemana de Wiemar que es la primera constitución europea que recoge derechos sociales de los trabajadores, así como también se produce la internacionalización del DT, con la creación de la OIT (organización internacional del trabajo).
+Fase de desarrollo y consolidación del DT. Se produce en fechas distintas en los diversos países. Los estados van regulando los distintos aspectos de las relaciones de trabajo. De esta manera se acaba creando una figura nueva, como es el contrato de trabajo, que va a ser diferente al arrendamiento de servicios, ya que éste último era incapaz de responder a la realidad social.
+Además con el tiempo el estado cambia de actitud frente al fenómeno sindical (1º lo prohíbe, 2º tolera, 3º Regula).
+Los estados crean administraciones especializadas en materia laboral.
+De esta manera con el tiempo surge y se consolida el DT, como un derecho nuevo, distinto al de DC y cuya finalidad es encauzar el conflicto social y tratar de equilibrar la desigualdad de poder entre trabajador y empresario, tutelando y protegiendo a la parte más débil (trabajador). Para conseguir este objetivo se utiliza básicamente dos instrumentos:
+Se limita la libertad contractual de las partes. Esto significa que una parte del contrato de trabajo ya viene regulada por ley.
+Se ofrece al trabajador unos instrumentos de auto defensa colectiva. Se negocia colectivamente en diversos aspectos.
+El DT que surge de este proceso, tiene diferentes aspectos en los diferentes países:
+Países anglosajones. El estado debe intervenir limitadamente en las relaciones de trabajo. El protagonismo debe tenerlo, los representantes de los trabajadores y de los empresarios.
+EE.UU. Existen pocos límites.
+España, Italia, Alemania. Se considera que el estado debe intervenir de manera intensa en las relaciones de trabajo.
+El hecho cierto resultante de este proceso histórico, ha sido un derecho caracterizado por ofrecer importantes niveles de protección a los trabajadores.
+Hoy por hoy el DT europeo, está sufriendo importantes transformaciones, ajustándose a las nuevas exigencias económicas y sociales. Se entiende que el DT tiene que seguir protegiendo al trabajador sin olvidar las exigencias económicas y productivas de las empresas. Por ello se dice que el derecho del trabajo se ha flexibilizado actualmente.
+LECCION 2. Las fuentes del derecho del trabajo
+I. Concepto y clases
+Se entiende en un doble sentido:
+Sujetos, órganos o entidades que crean o establecen la norma. Son por tanto fuentes de producción de normas, el Parlamento, el Gobierno.
+Medios, instrumentos o formas a través de los cuales se exterioriza la norma (Fuentes formales)
+Parlamento: fuente formal: La ley
+Gobierno: fuente formal: Decreto ley y Decreto legislativo
+Fuentes del derecho del trabajo
+Las fuentes del derecho del trabajo, comparten con el resto del ordenamiento jurídico, unas fuentes comunes, como son la ley, la costumbre y los principios generales del derecho.
+El derecho del trabajo tiene unas fuentes propias y específicas que no comparte con ninguna otra disciplina: el convenio colectivo.
+II. Fuentes de producción del derecho del trabajo
+El DT se nutre de unas fuentes internas que tienen su origen en el estado, de esta forma están:
+- Constitución. Es la principal norma. Prevalece sobre cualquier otra ley y vincula a los poderes públicos y a todos los ciudadanos.
+Resto de leyes del ordenamiento jurídico.
+Reglamentos del gobierno.
+En nuestro país hay un reparto de poderes y competencias gracias al estatuto de autonomía de las comunidades autónomas. Hay que determinar que potestades tienen en materia laboral.
+Fuentes de origen internacional:
+Derecho comunitario que tiene su origen en una comunidad supranacional.
+Hay que tener en cuenta que el derecho comunitario prevalece sobre el derecho nacional
+Fuentes de origen profesional:
+La costumbre laboral. Para que sea considerada fuente del derecho, es necesario que sea local y profesional.
+Convenio colectivo. Fuente propia y exclusiva del DT, y que tiene su origen en el poder normativo que se reconoce conjuntamente a los representantes de los trabajadores y a los empresarios.
+En el ámbito laboral, los representantes de los trabajadores, tienen potestad de formular leyes.
+III. El trabajo en la Constitución
+La constitución es la primera fuente.
+La Constitución de 1978 consagra respecto a la etapa anterior, un régimen democrático de las relaciones laborarles que está basado en tres pilares básicos:
+La Constitución reconoce una concepción dialéctica conflictiva de las relaciones laborales. Esto supone que la Const. reconoce que los empresarios y los trabajadores tienen, como grupos sociales, unos intereses específicos y en parte contrapuestos.
+Como consecuencia de esta concepción, la Const. reconoce junto con instituciones básicas como los partidos políticos o el ejército, la existencia de sindicatos y asociaciones empresariales.
+Además esta concepción se refleja en el hecho de que la Const. reconoce el derecho a adoptar medidas de conflicto colectivo.
+El Art. 28 reconoce el derecho a la huelga (medidas de conflicto colectivo).
+Reconocimiento como pieza clave del sistema normativo laboral de la llamada “autonomía colectiva” o lo que es lo mismo, reconocimiento del poder normativo compartido por empresas y trabajadores, para que a través de sus representantes puedan autorregular sus intereses, las condiciones de trabajo que habrán de regir en las relaciones laborales. Se reconoce de esta forma un poder normativo a estas organizaciones.
+El Art. 37 C: reconoce el derecho a la negociación colectiva y de las condiciones de trabajo y establece la fuerza vinculante de los convenios colectivos.
+En definitiva la Const. reconoce que la facultad para dictar normas laborales, no sólo la tiene el gobierno, sino también los representantes de los trabajadores.
+El convenio colectivo es una norma laboral que nace de la negociación colectiva.
+En el anterior régimen franquista, no se reconocía la autonomía laboral.
+La intervención promocional del Estado. El Estado a pesar de esa autonomía colectiva, sigue interviniendo en las relaciones de trabajo.
+Art. 9 c. Los poderes públicos deben promover las condiciones para que los derechos y libertades de los ciudadanos sean reales y efectivos.
+Derechos y libertades y sus garantías de contenido laboral, que reconoce la const.
+La Const. reconoce una serie de derechos de contenido social-laboral y además establece una serie de mecanismos para proteger esos derechos frente a violaciones o incumplimientos de los mismos.
+Titulo I de la constitución: Capítulos II y III
+Capítulo II. Derechos y libertades del título I
+Hay que distinguir dos secciones: la sección I y la sección II.
+Sección I. Regula lo que se llaman derechos fundamentales. Son unos derechos privilegiados.
+En el ámbito laboral, el Art. 28 C. Reconoce el derecho de libertad sindical y el derecho de huelga.
+De todos estos derechos, sólo son fundamentales el derecho a la huelga y el derecho a la libertad sindical, los demás no lo son.
+Hay otros derechos que no son de contenido explícitamente laboral, pero que tienen incidencia en el mundo laboral.
+Art. 14 C. Establece el principio de igualdad de todos los españoles ante la ley sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra circunstancia personal o social.
+Art. 16 C. Se garantiza la libertad ideológica, religiosa, y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley.
+Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.
+Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia católica y las demás confesiones.
+Art. 18 C. Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.
+El domicilio se considera inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.
+Se garantiza el secreto de las comunicaciones y en especial de las postales telegráficas y telefónicas, salvo resolución judicial.
+La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
+Art. 20 C. Establece el derecho fundamental de la libertad de expresión de ideas y opiniones, a libertad a la creación literaria, libertad de cátedra, a comunicar o recibir comunicación por cualquier medio de difusión. El ejercicio de estos derechos no puede restringirse. La ley regulará la organización y el control parlamentario de los medios de comunicación. Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos
+Art. 24 C. Todas las personas tiene derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos legítimos, sin que en ningún caso puede producirse indefensión.
+Asimismo, todos tienen derecho al juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado, a ser informados de la acusación formulada contra ellos, a un proceso público sin dilaciones indebidas y con todas las garantías a utilizar los medios de prueba pertinentes para su defensa, a no declarar contra sí mismos, a no declarase culpables y a la presunción de inocencia.
+La ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos.
+Sección II. Regula los derechos civiles laborales.
+Art. 35 C. Todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión y oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia, sin que en ningún caso pueda hacerse discriminación por razón de sexo. Una ley regulará un estatuto de los trabajadores.
+Art. 37 C. La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios.
+Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.
+Art. 38 C. Se reconoce la libertad de empresa en el marco de la economía de mercado. Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso de la planificación.
+Garantía comunes para todos los derechos del capítulo II
+Cualquiera de éstos derechos puede ser alegado ante los tribunales de justicia con el objeto de que sean protegidos ante cualquier incumplimiento.
+Posibilidad de interponer un recurso de inconstitucionalidad ante el Tribunal Constitucional. Se puede plantear cuando una ley o una norma con rango de ley vulnera el contenido esencial de alguno de estos derechos.
+Este tipo de recursos puede ser planteado por: El presidente del gobierno, por el defensor del pueblo, por 50 diputados o 50 senadores del parlamento de la nación y las comunidades autónomas.
+Garantías específicas de los derechos fundamentales de la sección I del Capítulo II
+Estas garantías consisten en:
+Posibilidad de plantear un recurso sumario y preferente ante los tribunales ordinarios de justicia.
+La garantía especial supone que un ciudadano solicita protección a los tribunales ordinarios a través de un procedimiento especial. Se trata de un procedimiento especial porque es de tramitación preferente y es sumario porque los plazos para resolver ese recurso se reducen a la mitad respecto de un procedimiento ordinario.
+En este proceso es de aplicación a la tutela de los derechos de libertad sindical o para la tutela de los demás derechos fundamentales.
+Garantías especiales. Cosiste en la posibilidad de plantear el recurso de amparo que se puede plantear ante el T. Constitucional.
+Puede ser planteado por un ciudadano y también por el defensor del pueblo o por el ministerio fiscal, cuando cualquiera de ellos considere que ha sido vulnerado un derecho fundamental por la actuación de un poder público.
+El origen de esta violación, tiene que estar en un poder público (organismo del estado o sus funcionarios), incluyendo también las acciones y omisiones de los tribunales.
+El efecto es la declaración de nulidad de lo impugnado, el reconocimiento del derecho y el restablecimiento del recurrente en el disfrute de su derecho.
+Si la violación es por una ley, hay que plantear un recurso de inconstitucionalidad.
+El recurso de amparo antes de plantearlo, es necesario agotar todos los posibles recursos ante los tribunales ordinarios.
+P.Ej. vulneración de un derecho fundamental. El primer paso sería un recurso sumario y preferente en los juzgados de lo social.
+Capítulo III del título I de la Constitución.
+Regula los principios rectores de la política social y económica.
+Este capítulo no reconoce derechos a los ciudadanos, sino que se establecen una serie de objetivos que debe perseguir el estado en materia económica y laboral.
+Art. 40 C. Los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica. De manera especial realizarán una política orientada al pleno empleo.
+Asimismo los poderes públicos fomentarán una política que garantice la formación y readaptación profesionales, velarán por la seguridad e higiene en el trabajo (ley de prevención de riesgos laborales) y garantizarán el descanso necesario, mediante la limitación de la jornada laboral, las vacaciones periódicas retribuidas y la promoción de centros adecuados.
+Art. 41 C. Los poderes públicos mantendrán un régimen público de seguridad social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.
+Art. 42 C. El estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno.
+Art. 43 C. Se reconoce el derecho a la protección de la salud.
+Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.
+Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte. Igualmente facilitarán la adecuada utilización del ocio.
+Art. 49 C. Los poderes públicos realizarán una política de previsión, tratamiento, rehabilitación e integración de los disminuidos físicos sensoriales y psíquicos, a los que prestará la atención especializada que requieran y los ampararán especialmente para el disfrute de los derechos que este título otorga a todos los ciudadanos.
+Art. 50 C. Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio.
+Art. 53 C. Los derechos y libertades reconocidos en el Capítulo II del presente título vinculan a todos los poderes públicos. Solo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161.
+Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el Art. 14 y la sección primera del capítulo segundo ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y en su caso, a través del recurso de amparo ante el tribunal constitucional. Este último recurso será aplicable a la objeción de conciencia reconocida en el Art. 30.
+El reconocimiento, el respeto y la protección de los principios reconocidos en el Cap III informará la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Solo podrán ser alegados antes la jurisdicción ordinaria de acuerdo con los que dispongan las leyes que los desarrollen.
+TEMA 3. NORMAS ESTATALES LABORALES.
+Las Leyes laborales. Otras normas con rango de ley.
+Las leyes se regulan en la Constitución en los Art. 81-92. Las leyes juegan como fuente un papel fundamental porque según el Art. 53 va a corresponder a la ley regular todos los derechos y libertades que reconoce la Constitución.
+Ahora bien para regular la ley es necesaria la actuación del Parlamento.
+Según el Art. 81 Constitución, para regular un derecho fundamental (Dcho. de huelga y dcho. de libertad sindical) se requiere una ley orgánica. Una ley orgánica se diferencia de la ordinaria en que para su aprobación se requiere la mayoría absoluta, situación que no es necesaria en la ordinaria.
+Está regulado por ley actualmente el derecho de libertad sindical, pero el derecho de huelga.
+Un rasgo particular en cuanto a la elaboración de las leyes laborales consiste en que, cualquier anteproyecto de ley del Estado que tenga un contenido socio-económico o laboral exige un dictamen previo aunque no vinculante del Consejo económico y social. Antes de la tramitación parlamentaria es necesario que el anteproyecto sea aprobado por el consejo económico y social.
+Este Consejo es un órgano consultivo del Gobierno en materia socio-laboral y que esta integrado por varios grupos:
+Un primer grupo que va a representar a los trabajadores (Sindicatos)
+Un segundo grupo que va a representar a los empresarios (Asociaciones patronales).
+Un tercer grupo que va a representar a consumidores y usuarios, agrícolas y sector marítimo-pesquero.
+Solamente va haber un anteproyecto de ley que va a quedar fuera de este dictamen del Consejo económico-social, que va a ser el anteproyecto de ley de los PGE.
+En ámbito laboral se suele hablar de legislación negociada o negocial, es decir que el contenido de las leyes se va a pactar con los interlocutores sociales. Con frecuencia se alcanzan acuerdos sobre futuras leyes o de futuros proyectos de ley a elaborar por el Gobierno, consensuando su contenido.
+Todas estas practicas de consenso son practicas informales que no son exigidas por ley, pero que si que tienen como consecuencia que posteriormente cuando se aplican las leyes éstas se acepten mejor.
+Hay ocasiones que no se llega a alcanzar el acuerdo completo y sólo se alcanza entre el gobierno y los sindicatos o el gobierno y las asociaciones empresariales
+Normas con rango de ley
+Además de las leyes podemos encontrar otras normas con rango de ley, estas son los decretos leyes y los Decretos legislativos. Estas son normas aprobadas por el Gobierno y que tienen el mismo valor normativo que una ley. A estas normas se las va a exigir siempre un control por parte del Parlamento.
+Hay dos modalidades:
+Decreto legislativo:
+Art. 82 Constitución: las cortes (Parlamento) pueden delegar en el Gobierno la facultad de dictar normas con rango de ley, siempre que no afecten a materias reservadas a la ley orgánica.
+Podemos distinguir 2 modalidades de delegación legislativa:
+1ª. El Parlamento aprueba una ley de bases y después el Gobierno sobre esas bases aprueba un texto articulado, el cual tiene forma de Decreto legislativo.
+En la ley de bases se inspiran los principios sobre una determinada materia, y después el Gobierno desarrolla esas bases en forma de Decretos legislativos.
+2ª. El Parlamento aprueba una ley por la que se autoriza al Gobierno a refundir varios textos legales en uno solo. El Gobierno en este caso lo que hace es aprobar un texto refundido, este va a ser otra modalidad de Decreto legislativo.
+Este ultimo tipo de legislación ha sido utilizado en las ultimas reformas laborales. Podemos distinguir 3 textos refundidos en ámbito laboral:
+T. R. de Ley General de la S/S.
+T. R. de Estatuto de los Trabajadores.
+T. R. de Procedimiento laboral.
+Respecto a los Decretos legislativos hay que tener en cuenta que cuando tienen un contenido económico-social es necesario que pasen por un dictamen previo del Consejo económico-social (no es vinculante).
+Decreto ley:
+Art. 86 Constitución: el Decreto ley es una norma con rango de ley dictada por el Gobierno, pero en este caso sin previa delegación por el Parlamento, y las aprueba el Gobierno en caso de extraordinaria y urgente necesidad.
+El Parlamente tiene un control posterior, y este control consiste en que en el plazo de los 30 días siguientes a su promulgación el Decreto ley debe someterse al Congreso de los Diputados para que decida sobre su convalidación (ratificación) o derogación.
+El Decreto ley puede tramitarse como proyecto ley a través de un procedimiento de urgencia, donde esta ley dejara sin validez al Decreto ley.
+Según la Constitución los decretos leyes no pueden afectar a los derechos y libertades del Titulo I de la Constitución.
+Las normas reglamentarias.
+Los reglamentos son disposiciones de carácter general dictadas por el Gobierno y que tienen un rango inferior a la ley. La potestad de dictar reglamentos corresponde al Gobierno, no se tiene que esperar a que el Parlamento lo delegue.
+Los reglamentos no pueden invadir materias reservadas a la ley. Esta subordinación implica que los reglamentos que desarrolla la ley no pueden dejarlas sin efecto o contradecirlas.
+Podemos distinguir los siguientes tipos de reglamentos:
+Atendiendo al órgano que dicta el reglamento:
+Reales Decretos: se aprueban en Consejo de Ministros.
+Orden Ministerial: lo dicta un ministro concreto.
+Desde el punto de vista de la función que cumple el reglamento:
+Reglamento de ejecución: es el más frecuente desarrolla o complementa una ley.
+Reglamentos autónomos: regulan directamente una materia, no se desarrolla una ley.
+En el ámbito del Derecho del trabajo los reglamentos laborales son normalmente reglamentos de ejecución, es decir reglamentos aprobados por el Gobierno para desarrollar o complementar una ley.
+El Art. 3.2 del E.T. establece que los reglamentos laborales no pueden en ningún caso contradecir la ley. Las disposiciones reglamentarias desarrollaran los preceptos que establecen las normas de rango superior, pero no podrán establecer condiciones de trabajo distintas a las establecidas por las leyes a desarrollar. El reglamento está completamente subordinado a la ley.
+Hay que tener en cuenta que antes de que el Gobierno (consejo de ministros) apruebe un reglamento tiene libertad para decidir si lo somete a un dictamen previo del Consejo Económico y Social, es decir, que no es obligatoria la participación del Consejo Económico y Social en materia de regulado por Real decreto.
+Con independencia de esta participación del CES, es frecuente que la ley laboral obligue al Gobierno antes de elaborar determinados reglamentos a que consulte de forma previa a los sindicatos y asociaciones patronales más representativos. Por ejemplo el Gobierno todos los años fija un Salario Mínimo Interprofesional, donde la ley dice que antes de fijarlo es necesario consultar previamente con los sindicatos y asociaciones patronales más representativos. Otro ejemplo seria el reflejado en el Art. 17, el cual dice que el Gobierno puede fomentar medidas para el acceso al empleo, pero antes de tomas esas medidas se le va a exigir consultar previamente con los sindicatos y asociaciones patronales más representativos.
+Hay un tipo especial de reglamento, que responde a un reglamento autónomo, el cual esta previsto en la disposición adicional 7ª del E.T. y que se le suele denominar reglamento laboral sectorial (reglamento de necesidad). Esta disposición nos dice que el Gobierno puede aprobar reglamentos en los que se fijen las condiciones de trabajo para un sector o rama de la actividad que carezca de convenio colectivo y al que no se le pueda aplicar otro convenio vigente de otro sector similar. Se trata de evitar vacíos normativos; esta situación se resuelve mediante un convenio que este vigente en un sector u otro sector similar.
+Competencias normativas de las Comunidades Autónomas.
+Nuestra constitución reconoce unos poderes nacionales que representan los intereses de los ciudadanos (Gobierno de la nación y Parlamento de la nación). Junto a estos poderes nacionales tenemos los poderes territoriales (CCAA). Estos poderes representan los intereses específicos de esos territorios y no de otros.
+Después la constitución procede a formular las competencias del Estado y de las CCAA. Podemos distinguir las siguientes competencias:
+Competencias exclusivas del Estado.
+Competencias compartidas por Estado y CCAA.
+En materia laboral hay que reseñar según el Art. 149.1.7 de la Constitución que el Estado tiene competencia exclusiva sobre la legislación laboral. Solo pueden aprobar leyes y reglamentos laborales el Estado, por lo que no va a ser competencia ni del Gobierno ni de los parlamentos autónomos. Por ejemplo el Gobierno catalán no puede crear un E.T. propio para su región.
+En Estado debe garantizar que las condiciones mínimas de trabajo sean iguales para todos los españoles (Principio de igualdad) con independencia de cual sea la parte del territorio nacional donde se trabaje. Como vemos estamos hablando de condiciones mínimas, ya que no todos los trabajadores tienen las mismas condiciones de trabajo y verdaderamente hay notables diferencias, debido a las competencias de las CCAA y a la negociación colectiva en la que se establecen condiciones especificas de trabajo que pueden mejorar pero nunca empeorar las ya establecidas por el Estado.
+En Art. 149.1.7 Constitución sigue diciendo que las CCAA pueden asumir una competencia de ejecución de la ley laboral. Estas competencias suponen que todas las CCAA pueden crear, organizar y poner en funcionamiento su propia administración laboral. Todas las CCAA tienen su propia consejería de trabajo a las que se les a transferido competencias de ejecución que antes correspondían al Estado. Algunos ejemplos de competencias de ejecución de las CCAA serian:
+Para despedir a los trabajadores por causas técnicas o económicas es necesario solicitar un expediente a la Administración autonómica.
+Se permite intervenir a los menores de 16 en espectáculos públicos según competencias de las CCAA.
+Hay determinadas materias que no son estrictamente laborales o que son laborales de una forma indirecta, y que sobre ellas puede legislar las CCAA sobre la base de su competencia en materia económica.
+Las CCAA están elaborando sus propias políticas de empleo basándose en sus competencias en materia económica (subvenciones, ayudas, ...), ya que no pueden realizar políticas de empleo basándose en normas laborales, debido a que no es de su competencia.
+TEMA 4. LOS CONVENIOS COLECTIVOS.
+Los convenios colectivos como fuentes especificas del Derecho del Trabajo: concepto y bases constitucionales.
+Nuestra Constitución reconoce que el poder normativo en materia laboral no solo lo tiene el Estado, sino que también se concede poder normativo a los representantes de los trabajadores y a los empresarios.
+El Art. 37 Constitución reconoce el derecho a la negociación colectiva y la fuerza vinculante de los convenios colectivos.
+Podemos definir el convenio colectivo como un acuerdo o pacto en el que se fijan condiciones de trabajo y de empleo, y que se celebra entre representantes de trabajadores y empresarios. Este convenio colectivo es el resultado de un proceso de negociación con el que se pretende un intercambio lo mas equilibrado posible de ventajas y contrapartidas entre la parte laboral y la parte empresarial.
+Potestad para negociar
+Del lado empresarial puede negociar el convenio directamente el empresario si se trata de convenio de empresa, sin necesidad de utilizar intermediarios.
+Ahora si se negocia un convenio para varias empresas de un mismo sector, será necesaria la presencia de uno o varios representantes patronales.
+Del lado de los trabajadores (laboral) será necesario siempre una representación colectiva de los trabajadores. Si se trata de convenio de empresa, quien tiene competencia serán los órganos de representación del personal de la empresa, comité de empresa o bien el representante del personal.
+Ahora si se negocia un convenio de sector que afecta a varias empresas, se sentara a negociar uno o varios sindicatos en representación de los trabajadores.
+Podemos distinguir varios tipos de convenios colectivos:
+Convenios colectivos estatutarios.
+Los convenios colectivos estatutarios.
+Son convenios colectivos que están regulados en el Titulo III del E.T. Se caracterizan por ser convenios que para ser validos deben tener unos requisitos específicos:
+Desde el punto de vista de los sujetos que se sientan a negociar.
+No puede sentarse a negociar cualquier sindicato. Solo podrán sentarse a negociar aquellos que tengan una cierta representatividad e implantación en el ámbito del convenio, ya sea a nivel nacional o CC.AA.
+En cuanto a la adopción de acuerdos en la comisión negociadora, se hará por mayoría.
+Requisitos de procedimiento.
+El E.T. recoge distintas modalidades de convenio colectivo estatutario:
+1ª. Convenio Colectivo ordinario: se regulan condiciones de trabajo y empleo para una o varias empresas. Es la modalidad normal. Los destinatarios de estos convenios son los trabajadores y los empresarios de la empresa o sector para la que se negocia el convenio.
+2ª. Convenio marco o acuerdo interprofesional (Art. 83.2 E.T.): este tipo de acuerdos sólo pueden ser negociados por los sindicatos y las asociaciones patronales más representativos, ya sea a nivel estatal o de CCAA. En estos acuerdos no se negocian condiciones de trabajo, sino que se establecen reglas, pautas o procedimientos para la negociación de futuros convenios ordinarios. Los destinatarios de estos acuerdos son los futuros negociados de convenios de condiciones de trabajo (representantes de trabajadores y asociaciones patronales).
+Hay convenios ordinarios, negociados por sindicatos que actúan como acuerdos marco para la negociación colectiva de ámbitos inferiores.
+3ª. Acuerdo sobre materias concretas (Art. 83.3 E.T.): son acuerdos que pueden alcanzar los sindicatos o asociaciones patronales más representativos, ya sea a nivel nacional o de CCAA. Son acuerdos que regular una materia concreta. Algunos ejemplos serian: acuerdo nacional sobre la F.P. continua, acuerdo sobre mecanismos de solución extrajudicial de los conflictos colectivos de trabajo (métodos para solucionar los problemas pacíficamente).
+EFICACIA O VALOR DE LOS CONVENIOS COLECTIVOS ESTATURARIOS (IMP)
+Siempre que un convenio colectivo se negocie y se acuerde cumpliendo esos requisitos decimos que va a tener una eficacia especial que no van a cumplir otros convenios colectivos.
+Eficacia jurídica normativa: los convenios colectivos estatutarios van a actuar como una norma, que se impone a trabajadores y empresarios, de tal manera que el contenido del convenio se aplica directa y automáticamente a los contratos de trabajo, sin necesidad de que trabajadores y empresarios acepten previamente la aplicación del propio convenio. Las partes únicamente pueden modificar el convenio a mejor.
+La consecuencia de esta eficacia normativa es que son nulas las cláusulas de los contratos que no respeten el contenido del convenio colectivo.
+Si se celebra un contrato con violación de alguno de los artículos, el contrato no es válido, incluso aunque venga firmado por el trabajador
+Eficacia personal general: el convenio se aplica a todos los trabajadores y empresarios incluidos dentro del ámbito del convenio y se les aplica con independencia de que estén o no afiliados a los sindicatos y a las asociaciones patronales que han firmado el convenio. Este rasgo es exclusivo de los convenios colectivos estatutarios.
+CONTENIDO:
+Contenido mínimo u obligatorio: debe aparecer en cualquier convenio colectivo.
+Este contenido debe recoger las siguientes menciones:
+Las partes negociadoras.
+Ámbito funcional del convenio (empresa o empresas que quedan afectadas por el convenio). Hay que especificar si estamos en un convenio de empresa o de una parte de la empresa. Si afecta a varias empresas estaríamos ante un convenio supraempresarial.
+Ámbito personal (cuales van a ser los sujetos destinatarios del convenio). Ej.: convenios franja, convenio para un solo grupo o categoría profesional, ...
+Ámbito territorial (si el convenio va a ser provincial, de CCAA o estatal).
+Ámbito temporal (vigencia temporal del convenio).
+Condiciones de la denuncia del convenio. Comunicación de una de las partes a la otra de que el convenio ha dejado de tener vigencia.
+Es habitual de que los convenios contengan vigencias diferentes para las diferentes materias que se negocian en el convenio (materia salarial).
+Designación de una comisión paritaria integrada por representantes de ambas partes negociadoras, y cuya finalidad va a ser resolver en primera instancia los problemas de interpretación y aplicación que plantee ese convenio colectivo.
+2. Contenido normativo: se trata de fijar condiciones de trabajo y empleo, siendo sus destinatarios el conjunto de trabajadores y empresarios para los que se negocia el convenio.
+Dentro del contenido normativo hay que incluir:
+Cláusulas de índole laboral: salarios, vacaciones, régimen disciplinario, ...
+Cláusulas de índole económico: que pueden afectar ala empresa y al empleo en la misma (política de inversiones de la empresa, política de restituciones organizativas, compromisos de mantenimiento del empleo, ...)
+Cláusulas de índole sindical: consiste en ampliar los derechos que forma general disfrutan los trabajadores a los representantes del personal por el desarrollo de su labor sindical (días de reserva).
+Cláusulas de índole asistencial: mejoras de las condiciones de la s/s, ya que las condiciones de la SS se consideran innegociables.
+Todas estas cláusulas son establecidas por el Estado por ley, y no son condiciones que se establecen en el convenio colectivo. Lo que sí puede hacer el convenio colectivo es mejorar las condiciones que establece la ley.
+También se puede negociar el establecimiento de mecanismos de solución pacifica de determinados conflictos colectivos de trabajo.
+3. Contenidos obligacionales: son cláusulas que establecen compromisos que asumen las partes firmantes del convenio colectivo. Los destinatarios de estas cláusulas no son el conjunto de trabajadores y empresarios del convenio, sino que son los negociadores / firmantes del convenio.
+Un tipo clásico de cláusula obligacional es la cláusula de paz (compromiso para resolver pacíficamente determinadas materias).
+PROCEDIMIENTO DE ELABORACION DEL CONVENIO.(Art. 89 y s.s. E.T.)
+1ª FASE:
+La elaboración del convenio comienza con la invitación de una de las partes a la otra a la negociación del convenio.
+Esta invitación sólo puede hacerse si ya ha sido denunciado el anterior convenio.
+Esta invitación tiene que hacerse por escrito, y debe señalarse en ella, la representatividad de los agentes que van a sentarse a negociar, así como también es necesario especificar el ámbito del convenio, así como las materias objeto de la negociación.
+La parte receptora de la comunicación tiene la obligación de aceptarla y deberá proceder a sentarse a negociar, solo pudiéndose negar a la iniciación de las negociaciones por causa legal o cuando se trate de negociar un convenio ya vencido, lo que no establece la ley es que haya necesariamente que llegar a un acuerdo.
+Ambas partes estarán obligadas a negociar bajo el principio de la buena fe.
+2ª FASE:
+En el plazo máximo de 1 mes a partir de la recepción de la comunicación se procederá a constituir la comisión negociadora, pudiendo fijar el calendario de las negociaciones.
+Hay que designar a las personas concretas que se van a sentar a negociar. La ley va a establecer un máximo de miembros de la comisión negociadora. Los acuerdos de la comisión requerirán el voto favorable de la mayoría de cada una de las 2 representaciones.
+Convenio de empresa: máximo 12 miembros para cada una de las partes negociadoras.
+Convenio supraempresarial: máximo 15 miembros por cada parte negociadora.
+Las deliberaciones y discusiones de la comisión negociadora deberán desarrollarse según el principio de la buen fe.
+En el supuesto de que se produjeran violencia, tanto sobre personas como sobre cosas, quedara suspendida de inmediato la negociación hasta la desaparición de aquellas.
+3ª FASE:
+Una vez llegado al acuerdo los convenios colectivos han de redactarse por escrito, bajo sanción de nulidad y firmado por las partes negociadoras.
+Una vez firmado hay que remitirlo en el plazo de 15 días desde la firma a la Administración Laboral competente, para que esta proceda a su registro y deposito.
+Una vez registrado será remitido al órgano público de mediación, arbitraje y conciliación competente, para su depósito.
+Después la Administración laboral deberá ordenar la publicación del convenio en el Boletín Oficial correspondiente (Estado, CCAA, o provincia).
+Si la administración laboral advierte que existe alguna irregularidad o ilegalidad del convenio o bien le considera lesivo contra terceros, ésta podrá promover la impugnación de ese convenio ante los tribunales.
+Otras modalidades de convenios colectivos.
+CONVENIOS EXTRAESTATURARIOS O IRREGULARES:
+Estos convenios son acordados al margen de las reglas del Titulo III del E.T., de ahí la denominación de extraestatutarios. Ocurre ocasiones que no se pueden o no se quieren cumplir todos los requisitos establecidos en el Titulo III del ET.
+Estos convenios son muy frecuentes, y los tribunales los consideran como perfectamente validos basándose en la constitución, donde esta reconoce ampliamente el derecho a la negociación colectiva sin ningún tipo de limitación.
+Los tribunales aunque consideren que estos convenios sean validos no obstante tienen una eficacia distinta a la de los convenios estatutarios. Hoy en día se admite que el convenio extraestatutario tiene una eficacia jurídica normativa muy similar a la de los estatutarios, pero la eficacia personal es muy diferente a la del convenio extraestatutario. La eficacia personal del convenio extraestatutario es limitada, mientras que la del extraestatutario es general.
+Esto significa, que a diferencia de lo que ocurre en los estatutarios, los irregulares solo se aplican a trabajadores y a empresarios afiliados a los sindicatos y asociaciones patronales firmantes del convenio.
+Una vez negociado un convenio extraestatutario se permiten adhesiones posteriores al convenio, caben incluso adhesiones individuales. A un trabajador no se le puede obligar a afiliarse a un sindicato para poder beneficiarse del convenio, seria antisindical. De hecho aunque un trabajador no este afiliado a un sindicato si tendrá la facultad de beneficiarse del convenio.
+La empresa invita a sus trabajadores a la adhesión individual para evitar la sindicación.
+También pueden producirse adhesiones colectivas al convenio colectivo (sindicatos no incluidos en la negociación), beneficiando a todos sus afiliados.
+Hay que destacar que estas adhesiones posteriores no transformaran el convenio en estatutario.
+ACUERDOS O PACTOS DE EMPRESA.
+Estamos ante acuerdos adoptados entre un empresario y los representantes del personal en su empresa. Tienen eficacia normativa y general en la empresa. Se trata de un tipo nuevo de negociación colectiva, estatutaria en todo caso, pero no sometida al procedimiento establecido en el Tit. III E.T. para los convenios colectivos.
+Estos pactos de empresas pueden tener finalidades distintas:
+Finalidad de cubrir un vacío normativo por falta de convenio. Ej.: Art. 22 y 24 E.T. Categorías profesionales y promoción
+Finalidad de inaplicar (dejar sin efecto) lo provisto en un convenio colectivo. Ej.: Art. 82.3 E.T. (cláusula de descuelgue salarial) ! Si la situación económica así lo exige, el empresario podrá acordar con los representantes del personal en su empresa un régimen salarial distinto al previsto en el convenio sectorial.
+Finalidad de modificar lo previsto en un convenio colectivo. Ej.: Art. 41 E.T. ! Si hay razones económicas, técnicas, organizativas o de producción que lo justifiquen, el empresario podrá acordar con los representantes del personal de su empresa una modificación de lo previsto en el convenio sectorial en materia de horarios, trabajo a turnos, jornada de trabajo, sistema de remuneración, sistema de trabajo y rendimiento, ...
+TEMA 5. NORMAS INTERNACIONALES LABORALES.
+Tratados y convenios internacionales.
+En materia laboral hay muchos tratados y convenios internacionales, como en materia de la s/s.
+Art. 96 Constitución: los tratados deben ser ratificados y publicados en el BOE, y a partir de ese momento llegan a formar parte de nuestro ordenamiento jurídico. Será necesario previamente una autorización de las cortes; la ratificación se hará en el Consejo de Ministros.
+A partir de ese momento el tratado o convenio solo podrá ser modificado en la forma prevista en el propio convenio de acuerdo con las normas de derecho internacional. (Dcho. internacional).
+En el hipotético supuesto de que existiera contradicción entre un tratado internacional y una norma española, según el Art. 96 se aplicara preferentemente la norma internacional.
+Ahora bien, según el Art. 95 de la Constitución, para celebrar un tratado internacional que sea contrario a nuestra constitución, será necesario modificar previamente la propia constitución. Esto significa que si hay conflicto entre un tratado o convenio internacional y la constitución prevalecerá en dicho conflicto la constitución. Por tanto sólo hay dos posibilidades o no ratificar el tratado internacional o bien modificar la Const.
+La acción normativa de la OIT.
+Esta organización nació en 1919 al firmarse los tratados que pusieron fina la I GM (trat. de Versalles) con la finalidad de mejorar las condiciones de vida y trabajo a nivel internacional. España ha pertenecido a la OIT desde su nacimiento, excepto durante la dictadura franquista.
+La OIT es un organismo especializado, que esta vinculado por la ONU. La nota característica de la OIT es que es una organización internacional que no tiene una naturaleza gubernamental o política, sino que tiene una composición tripartita o social, es decir que la OIT esta representada no solo por representantes de los gobiernos de los estados miembros, sino que también por representantes de los sindicatos y patronales de los diferentes estados miembros.
+La OIT esta estructurada en 3 importantes órganos:
+Conferencia de la OIT: CIT esta integrada por 4 representantes de cada estado miembro. 2 en representación del gobierno, 1 en representación de los trabajadores y 1 en representación de los empresarios.
+La principal función de la conferencia de la OIT es adoptar convenios y recomendaciones, para lo cual deberán reunirse al menos 1 vez al año.
+Cabe la posibilidad de contar sólo con la representación del gobierno, pero lo que no cabe es representación sindical sin representación empresarial o viceversa.
+Consejo de administración de la OIT: Es el órgano ejecutivo de la OIT, se compone de 56 consejeros, de los cuales 28 en representación de los gobiernos, 14 en representación de los trabajadores y 14 en representación de los empresarios.
+El consejo de administración se reúne al menos 3 veces al año, y tiene entre otras funciones la de preparar las actuaciones de la conferencia y fijar el orden del día de la misma.
+Oficina internacional de la OIT: al frente de esta oficina esta el general de la OIT y se compone de un alto numero de funcionarios, los cuales llevan la gestión de la misma.
+Esta oficina actúa como secretaria general permanente, y realiza funciones de estudio, investigación, publicaciones de gran prestigio en materia socio-laboral, cooperación y asistencia técnica en los estados miembros que lo soliciten.
+A través de estos 3 órganos la OIT realiza funciones diversas, pero de todas ellas la más importante es la función normativa, que consiste en la adopción de convenios y recomendaciones.
+CONVENIOS DE LA OIT:
+Son normas internacionales que solo tienen eficacia cuando los estados miembros de la OIT lo ratifican.
+La conferencia de la OIT aprueba un convenio dando después el plazo de 1 año a los distintos estados miembros para que decidan sobre su ratificación o no, mediante su órgano legislativo.
+Los estados miembros no tienen obligación de ratificar los convenios de la OIT, y de hecho en muchas ocasiones no lo ratifican.
+El estado miembro que no ratifique un convenio de la OIT tiene la obligación de informar al directo de la OIT sobre las razones que impiden o dificultan la ratificación de ese convenio.
+Hay ocasiones que algunos convenios no se llegan a aplicar por se exige un número mínimo de ratificaciones para que sea operativo.
+Respecto a los estados miembros que decidan ratificar ese convenio van a estar sometidos a un control sobre el cumplimiento de ese convenio ratificado. Estos mecanismos de control son básicamente 2:
+Memorias que se presentan anualmente donde se da cuenta del grado del cumplimiento de esos convenios ratificados.
+Denuncia de un estado miembro a otro de que existe incumplimiento de un convenio ratificado, así como las quejas que podrán reclamar los representantes sindicales o patronales sobre posibles incumplimientos por parte de su estado sobre convenios ratificados.
+Cuando existen quejas la OIT lo que va hacer es constituir una Comisión de Investigación para luego hacer publico un informe donde se recojan dichas quejas o reclamaciones.
+La sanción por el incumplimiento va a consistir en la persuasión que supone la opinión pública internacional, ya que los incumplidores son publicados en una lista especial.
+RECOMENDACIONES DE LA OIT:
+Son textos donde se ofrecen propuestas, orientaciones, sugerencias, ... sobre unas determinadas propuestas, pero en ningún caso de ellos se derivan obligaciones para los estados miembros. Lo que sí se les va a exigir a los estados miembros va a ser informar al director de la OIT sobre el estado de su legislación de esa materia e indicar cual es el grado de cumplimiento de las recomendaciones.
+Se suele adoptar en materias que no están completas o bien para ofrecer criterios de interpretación de un convenio adoptado. Hay que tener claro que las recomendaciones no son normas jurídicas sino que propuestas o sugerencias.
+Las normas comunitarias europeas.
+En el Derecho Comunitario hay que distinguir lo que es el Derecho primario u originario de lo que es Derecho derivado.
+Derecho primario u originario: se compone de los tratados constitutivos de la comunidad europea y de los tratados de adhesión (Roma, París).
+A través de estos tratados se definen los principios y los objetivos que se persiguen con las instituciones comunitarias. Entre estos objetivos o principios tenemos:
+Objetivos económicos: libre circulación de la moneda y libre circularon de mercancías.
+Objetivos sociales: libre circulación de trabajadores, equiparación por la vía del progreso de las condiciones de vida y del trabajo de los trabajadores europeos, dialogo social europeo.
+Objetivo fundamental: coordinación de las políticas de empleo en los diferentes estados miembros, este objetivo se incorpora en el tratado de Ámsterdam.
+Derecho derivado: instrumentos jurídicos entre los que hay que destacar los reglamentos y directivas comunitarias que emanan de las instituciones comunitarias. A través de los cuales se desarrollan esos principios y objetivos comunitarios.
+Los 2 principales instrumentos jurídicos son:
+REGLAMENTOS COMUNITARIOS: disposiciones de carácter general que emana del consejo comunitario y que va dirigido a todos los estados miembros. El reglamento además se caracteriza porque es obligatorio en todos sus elementos sin que admita cláusula de reserva o de dispensa temporal.
+El reglamento se caracteriza porque es una disposición que se aplica directa e inmediatamente a cada estado miembro, por lo que no necesita normas nacionales de desarrollo posteriores para su aplicación.
+El reglamento entra en vigor en la fecha indicada en el propio reglamento o en su defecto a los 20 días de su publicación en el DOCE (Diario Oficial de las Comunidades Europeas).
+Los reglamentos tienen como objetivo conseguir una regulación unificada o igual para los estados miembros, sin atender a particularidades o diversidades por cada una de los estados miembros. No obstante hay reglamentos comunitarios en materia laboral importantes como la libre circulación de trabajadores o la s/s de los trabajadores emigrantes.
+DIRECTIVAS COMUNITARIAS: son disposiciones también de carácter general emanadas del consejo comunitario y que vinculan a todos los estados miembros, pero en este caso les vincula con el resultado a alcanzar en una determinada materia, aunque deja cierto margen de libertad a los distintos estados miembros en cuanto a los medios de conseguir esos resultados. Va a tratar de buscar un objetivo común para los estados miembros.
+La directiva a diferencia del reglamento no es una norma directamente aplicable, sino que necesita de varias normas nacionales de desarrollo (transposición de la directiva comunitaria).
+Excepcionalmente se ha declarado que la directiva es directamente aplicable, en el caso de que el estado miembro haya dejado pasar el plazo para su desarrollo. La directiva contiene reglas o enunciados claros que pueden ser aplicados directamente.
+La directiva es obligatoria, entra en vigor a partir de su notificación a los estados miembros. En principio no es necesario que se publique en el DOCE, en el que solo esta publicado a efectos informativos.
+A diferencia de los reglamentos las directivas no pretenden unificar o igualar la regulación de una materia en todos los estados miembros, sino que se pretende únicamente aproximar las legislaciones nacionales.
+Hay directivas que han permitido mejorar nuestra legislación como en materia de seguridad y salud en el trabajo.
+EFICACIA INTERNA DE LAS NORMAS DE DERECHO COMUNITARIO.
+En materia de Derecho comunitario solo se exige la publicación en el BOE del tratado de adhesión a las comunidades europeas, porque al Derecho derivado no se le exige su publicación en el BOE.
+Los conflictos entre normas españolas y normas de Derecho comunitario se van a resolver a favor de las normas comunitarias. Si el conflicto es contra la constitución, El TJCE establece que también se va a resolver a favor de la norma comunitaria.
+Esto es reflejo de que la comunidad europea es una comunidad supranacional, es decir significa que por ser supranacional se cede soberanía.
+TEMA 6. LA APLICACIÓN DE LA NORMA LABORAL (I).
+La costumbre como fuente supletoria del ordenamiento laboral.
+La costumbre es una norma no escrita, impuesta por el uso social. Es una fuente supletoria, que se aplica cuando no existe norma escrita. Según el Art. 3 E.T. la costumbre se aplica en defecto de ley, convenio o de contrato de trabajo.
+La costumbre se aplica directamente solo en el caso de que la ley se remita directamente a ella. Como ocurre por ejemplo en el Art. 29 (la liquidación y pago del salario se harán puntual y documentalmente en la fecha y lugar convenidos o conforma a los usos y costumbres) y Art. 49 (derecho del trabajador a dimitir en el trabajo).
+Los requisitos necesarios para que la costumbre pueda aplicarse como fuente del derecho son 2:
+Que sea una costumbre licita, no contraria al ordenamiento jurídico, a la moral, buenas costumbres, ...
+Quien alegue la costumbre debe probar su existencia.
+Ahora bien, hay un 3º requisito que solo se exige en el ámbito laboral, y que consiste en que:
+La costumbre debe ser local y profesional. La costumbre tiene un carácter local y profesional de donde se haya generado. Se origina en un lugar y en un ámbito determinado y hace que no pueda ser aplicada en otros sectores.
+La jurisprudencia.
+No es una fuente del derecho.
+Es la doctrina reiterada recogida del conjunto de sentencias del Tribunal Supremo sobre una misma materia. Estas sentencias de los tribunales no son normas ni fuentes del derecho.
+La función principal de la jurisprudencia va a ser complementar el ordenamiento jurídico, es decir, ofrecer criterios para interpretar las normas, así como integrar posibles lagunas normativas.
+Además del Tribunal Supremo hay sentencias del Tribunal constitucional, estas sentencias son importantes, ya que en algunos casos estas declaran la inconstitucionalidad de los preceptos o parte de los preceptos de una ley. De esta forma se expulsa del ordenamiento jurídico a una norma o parte de la misma, junto con toda su doctrina y jurisprudencia.
+En otras ocasiones las sentencias del Tribunal Constitucional van a aportar los criterios para interpretar una norma con el objeto de que esta sea inconstitucional.
+La Doctrina de las sentencias del Tribunal de Justicia de la UE deberá ser respetada por todos los jueces y tribunales de los estados miembros.
+Concurrencia de normas laborales: principio de jerarquía normativa y principio de norma más favorable.
+Para regular una materia concreta existen distintas normas, todas ellas vigentes, planteándose por tanto la cuestión de que norma aplicar. Este tipo de concurrencia se resuelve a partir del principio de jerarquía normativa (Art. 9.3 Constitución), de acuerdo con el cual se aplicaría con preferencia la norma de mayor rango jerárquico normativo.
+Rango jerárquico de las fuentes:
+Derecho comunitario
+Reglamentos
+Costumbre
+Este principio de jerarquía normativa esta matizado por otro principio típicamente laboral, llamado “Principio de la norma más favorable” (Art. 3.3 E.T.) ! En caso de conflicto entre los preceptos de 2 o más normas laborales, se aplicara con preferencia la norma que en su conjunto resulte más favorable para el trabajador.
+Si lo que se esta comparando son conceptos cuantificables se deberá tener en cuenta el computo anual. Se aplicara la norma más favorables con independencia de cual sea su rango normativo.
+En el ámbito laboral ocurre con frecuencia que la norma con rango inferior resulta más favorable que la de rango superior, debido a que ésta actúa como una norma de mínimos que puede ser superada por normas de rango inferior. Ejemplos:
+En los convenios de la OIT se establece con frecuencia que la edad mínima de admisión al trabajo son los 15 años, mientras que en el E.T. la edad mínima de admisión son los 16 años. ¿Qué norma se aplica?. Según el E.T. la norma más favorable es la nacional, por lo que se mejora lo establecido en la norma internacional.
+Conflicto entre normas internacionales y normas internas. En ningún caso podrá considerarse que la adopción de un convenio o de una recomendación por la Conferencia de la OIT, o la ratificación de un convenio por cualquier miembro, menoscabara cualquier ley, sentencia, convenio o acuerdo que garantice a los trabajadores condiciones más favorables que las que figuren en el convenio o en la recomendación. No hay conflicto alguno, ya que la norma internacional funciona como una norma de mínimos.
+La ley establece que la jornada ordinaria es de 40 horas semanales de promedio anual. Ahora si un convenio colectivo para un sector concreto establece que la jornada ordinaria es de 38 horas. ¿Qué norma aplicar?. Se aplica el convenio, ya que se mejora lo establecido en la ley. Como vemos existe concurrencia, pero sin haber conflicto.
+Conflictos entre leyes y convenios. Ni el derecho legal necesario absoluto, ni los máximos legales pueden ser mejorados, ya que conforme al Art. 85 del ET los convenios pueden regular diversas materias, pero dentro del respeto a las leyes, ni los mínimos legales pueden ser empeorados a cambio de la mayor favorabilidad global de un convenio, pues en todo caso se deben respetar los mínimos de derecho necesario. El convenio colectivo puede mejorar los mínimos legales, pero en ese caso no hay verdadero conflicto colectivo. (ET jornada es de 40 h semanales, convenio jornada 35, no hay conflicto).
+Señalar como dice el Art. 3.3 del ET, que no se puede aplicar este principio, cuando la norma de rango inferior aunque en su conjunto sea más favorable, no respeta alguna norma de derecho necesario previsto por la norma de rango superior.
+Conflicto entre leyes y reglamentos. Según el Art. 3.2 del ET, las disposiciones reglamentarias desarrollarán los preceptos que establecen las normas de rango superior, pero no podrán establecer condiciones de trabajo distintas a las establecidas en las Leyes a desarrollar. En este caso, si hay conflicto, se aplicará con preferencia la ley, pese a que el reglamento pudiera establecer condiciones más favorables. El reglamento sólo puede completar, desarrollar, hacer operativa una ley pero no puede establecer condiciones distintas a las establecidas por la ley.
+Entre ley y costumbre no cabe concurrencia conflictiva y por lo tanto no cabe aplicación del principio de norma más favorable. La costumbre sólo es de aplicación a falta de ley escrita, convenio o contrato de trabajo.
+Si hay concurrencia entre 2 o más convenios colectivos, esa concurrencia no necesariamente se resuelve a través de principio de norma más favorable, debido a que los convenios marco pueden fijar otros aspectos para negociar convenios.
+Si hay conflictos entre convenios de distinto ámbito, nacionales, provinciales, o de empresa, no se resuelve su conflicto por el principio de norma más favorable, sino que se resuelve según lo establecido en el ET. “Un convenio colectivo durante su vigencia, no podrá ser afectado por lo dispuesto por convenios de distinto ámbito”. Sólo en el caso de conflicto entre convenios estatutarios y extraestatutarios cabe una aplicación del principio de norma más favorable.
+Sucesión de normas laborales en el tiempo: principio de orden normativo.
+Para regular una determinada materia se pueden suceder varias normas en el tiempo. Esta cuestión de norma se resuelve a través del principio de orden normativo que formula el Código Civil ! La norma posterior deroga a la anterior siempre que la posterior sea de igual o superior rango que la que deroga.
+Este principio tiene una consecuencia importante, y es que la ley posterior puede modificar las condiciones de trabajo previstas en la norma anterior que deroga, y puede modificarlas bien para mejorarlas o bien para empeorarlas. Las normas laborales en el tiempo suelen ser progresivas, pero puede ocurrir que sean regresivas, es decir que la norma posterior empeora los preceptos de la norma anterior. Esta problemática también suele producirse en los convenios colectivos.
+El ET establece que el convenio colectivo posterior puede disponer sobre los derechos reconocidos en el convenio anterior al que sustituye, aplicándosele íntegramente lo previstos en el nuevo convenio. Esto no significa que el nuevo convenio sea mejor, ya que puede disponer sobre los derechos reconocidos en anteriores convenios.
+Art. 82.4 El cc que sucede a otro anterior puede disponer sobre los derechos reconocidos en aquél. En dicho supuestos se aplicará íntegramente lo regulado en el nuevo convenio.
+Art. 86.4. El cc que sucede a uno anterior, deroga en su totalidad a éste último, salvo en aquellos aspectos que expresamente se mantengan.
+La conclusión que podemos sacar es que las normas laborales, ya sean leyes o convenios, no generan derechos adquiridos hacia el futuro, sino que se aplican mientras que están vigentes, y pueden ser sustituidas por otras posteriores que bien pueden fijar condiciones de trabajo distintas, mejorando o empeorando la anterior. De manera excepcional la norma posterior puede mantener condiciones de trabajo previstas en la norma anterior que sustituye (frecuente en convenios colectivos) y que constituyen una situación más beneficiosa que ya hubieran disfrutado los trabajadores bajo el anterior convenio. Constituyen lo que se denominan cláusulas de garantía personal o de mantenimiento de derechos adquiridos.
+Funciones de la autonomía individual.
+FUNCION REGULADORA: PRINCIPIO DE CONDICION MAS BENEFICIOSA DE ORIGEN CONTRACTUAL.
+Las normas no generan derechos adquiridos hacia el futuro, sin embargo la voluntad de empresario y trabajador expresada en su contrato de trabajo si puede generar derechos adquiridos hacia el futuro. En este sentido hay que tener en cuenta el Art. 3.1 c del E.T., según el cual el trabajador y el empresario pueden fijar en su contrato condiciones de trabajo que mejoren las condiciones previstas en la ley o en los convenios colectivos siempre que su objeto sea lícito. Estas condiciones mejoradas constituyen condiciones más beneficiosas que se incorporan al contrato de trabajo y se convierten en derechos adquiridos para el trabajador debiendo ser respetadas por el empresario.
+PRECISIONES DE ESTAS MEJORAS:
+Origen de estas mejoras: el nacimiento está en la decisión libremente adoptada por la empresa. Es el empresario quien libremente decide una mejora. La empresa es la que decide también sobre el contenido de dicha mejora, así como su asistencia o forma de darla, así como quienes van a ser los beneficiarios de la mejora (todos, algunos o un trabajador, no hay discriminación).
+La empresa asimismo ha de decidir sobre la duración de dicha mejora. En la mejora es imprescindible conocer la voluntad del empresario.
+Forma de conceder la mejora: podemos distinguir 2 formas:
+Concesión expresa: entregar al trabajador documento escrito o por palabras expresas del empresario en que se manifiesta la concesión de la mejora.
+Concesión tácita: es la mas frecuente y la más conflictiva. Si el empresario concede voluntariamente una mejora, ésta se entiende aceptada por el trabajador e incorporada al contenido del contrato como una cláusula tácitamente aceptada. En este caso no existe documento escrito o bien palabras expresas del empresario.
+El problema es probar la existencia de la mejora:
+El TS ha dicho que es necesario para probar la existencia de la mejora el demostrar dos aspectos:
+Una serie de conductas o manifestaciones de forma reiterada por parte del empresario mostrando la mejora que se concede.
+Demostrar la voluntad del empresario de conceder una mejora que amplíe lo establecido en una ley o convenio colectivo.
+La jurisprudencia de los tribunales ante estas mejoras establece:
+No hay voluntad de conceder una mejora, cuando hay una error en la conducta del empresario, aunque sea repetitiva.
+No hay voluntad de conceder una mejora, cuando hay una cierta permisividad o tolerancia por parte del empresario (permitir llegar tarde al trabajo).
+Mecanismos que se pueden utilizar para modificar o neutralizar la mejora:
+Acuerdo entre empresario y trabajador para modificar o suprimir la mejora
+Por decisión unilateral de la empresa. Podemos distinguir 2 posibilidades:
+La empresa decida aplicar la técnica de la compensación o absorción. De acuerdo con esta técnica, las mejoras que a nivel general para los trabajadores se introduzcan por ley o por convenio no se tienen porque acumular a las mejoras que a nivel individual que esté disfrutando el trabajador, ya que estas ultimas quedan neutralizadas o absorbidas por aquellas.
+Así por ejemplo si a un trabajador se le aplica una mejora en su salario base de 10.000 Ptas. (de 80.000 a 90.000) en el 2000, y en el convenio del 2001 se establece un salario base para los trabajadores de 100.000, entonces la mejora del trabajador quedara neutralizada, y su salario será de 100.000 Ptas.
+La empresa decida modificar o suprimir la mejora alegando que existen razones técnicas, económicas, organizativas o productivas que lo justifiquen. En estos casos la empresa deberá probar que existen dichas razones, así como seguir los tramites establecidos en el Art. 41 del E.T.
+Las mejoras son derechos adquiridos que no tienen una duración vitalicia, sino que tienen una duración limitada, ya que pueden ser modificadas o suprimidas.
+FUNCION APLICATIVA. LA IRRENUNCIABILIDAD DE LOS DERECHOS LABORALES.
+Con este principio se pretende garantizar a los trabajadores que puedan disfrutar de manera efectiva de sus derechos sin que puedan disponer sobre los mismos una vez que los ha adquirido.
+Según el Art. 3.5 del E.T. los trabajadores no podrán disponer validamente, antes o después de su adquisición, de los derechos que tengan reconocidos por disposiciones legales o convenio colectivo.
+Este principio presenta las siguientes precisiones:
+1º. Conductas que se están prohibiendo en el Art. 3.5. :
+Renuncia. El trabajador decide renunciar a un derecho sin recibir contraprestación alguna.
+Transacción. El trabajador dispone abandonar un derecho pero pacta con la empresa el obtener una contraprestación a cambio.
+2º. Derechos protegidos que no pueden ser objeto de renuncia o transacción.
+El trabajador no puede renunciar los derechos mínimos que reconoce la ley o el convenio colectivo, sin embargo si puede ser objeto de renuncia o transacción las mejoras que están por encima de la ley.
+3º. El trabajador no puede disponer de sus derechos antes o después de su adquisición.
+En un primer momento, al celebrar el contrato de trabajo, no se pueden pactar condiciones contrarias o peores que las establecidas en las normas legales o convencionales.
+En un segundo momento se prohíbe disponer de un derecho antes de adquirirlo, indisponibilidad previa o anticipada.
+Por último se prohíbe disponer de un derecho incluso después de haberlo adquirido.
+La indisponibilidad de derechos juega tanto durante la vigencia del contrato como después de su extinción.
+4º. Cualquier renuncia contraria a lo establecido en el Art. 3.5. será nula de pleno derecho, ya que la renuncia puede ser objeto de engaño.
+Hay un conflicto entre la doctrina, en lo relativo a los convenios:
+Los derechos reconocidos en normas convencionales serán indisponibles cuando así expresamente se señale. La doctrina ha calificado de inadmisible esta interpretación del Art. 3.5 del ET, la jurisprudencia estima irrenunciables los mínimos del convenio, aunque éste no los califique expresamente de indisponibles.
+Hay una sentencia del T.S. en la que un trabajador renuncia a la indemnización por traslado de trabajo a cambio de que este elija el destino de dicho traslado. El T.S. decidió que este pacto entre empresa y trabajador era valido. El problema radicaba en que por esta vía se estaba dejando sin efecto lo establecido en convenio colectivo.
+TEMA 7. APLICACIÓN DE LA NORMA LABORAL (II): ORGANOS DE APLICACIÓN.
+Administraciones laborales: Administración laboral del Estado (Ministerio de Trabajo y asuntos sociales) y Administraciones laborales autonómicas.
+Hay que destacar que en España la Administración laboral es muy intervencionista, cuyas competencias más significativas son:
+Concesión de autorizaciones y resolución de expedientes.
+Registros y depósitos.
+Conciliación, mediación y arbitraje para la solución pacifica de los conflictos de trabajo.
+Administración laboral del Estado:
+La administración del Estado tiene como eje central el Ministerio de Trabajo, el cual se estructura en 3 niveles:
+Órganos centrales que tienen competencia en todo el territorio nacional.
+Órgano central
+Direcciones generales
+Órganos periféricos o provinciales, que sustituyen a lo que antes eran las Direcciones Provinciales del Ministerio de Trabajo. Sus competencias se integran en las Delegaciones de Gobierno de las distintas CCAA.
+Organismos autónomos. Son entidades con personalidad jurídica propia y gestión propia, pero que están tutelados por los órganos centrales del Ministerio de Trabajo.
+Administraciones laborales autonómicas:
+Las CCAA pueden asumir competencias de ejecución de normativa laboral, de ahí que todas las CCAA tengan su propia consejería de trabajo. Estas Administraciones autonómicas han ido asumiendo competencias que antes tenia el Estado.
+A pesar de esto:
+1º. La Administración laboral del Estado cumple la función de inspección de las Administraciones laborales de las CCAA.
+2º. Todavía hay competencias del Estado que aun no han sido transferidas a algunas CCAA. Hay que destacar que aunque hay competencias que todavía no han sido transferidas a CCAA hay otras competencias que son intransferibles como en materia de la S/S o regulación de inmigrantes.
+La inspección de trabajo.
+Surge en España a principios del siglo XX como consecuencia del origen de la normativa laboral. La Inspección de Trabajo tiene como papel principal el control de la aplicación de la normativa laboral.
+La Inspección de Trabajo es un servicio publico encuadrado dentro de la Administración laboral del Estado, y tiene como funciones principales:
+Control y vigilancia del cumplimiento de la normativa laboral.
+Ofrecer asesoramiento técnico a empresas y trabajadores, así como a organismos públicos, administrativos y judiciales.
+Elaboración de informes o dictámenes.
+Conciliación, mediación o arbitraje para resolver conflictos de trabajo o huelgas.
+Todas estas funciones se encomiendan a 2 cuerpos de funcionarios:
+Inspectores de trabajo y Seguridad Social.
+Subinspectores de empleo y Seguridad Social. Las facultades de estos son mas limitadas que las de un inspector.
+La actuación de la inspección se puede iniciar de las siguientes formas:
+Iniciativa propia del funcionario (inspector), o por orden superior para ejecutar algún control.
+Requerimiento o instancia de organismos públicos. INSS puede requerir a la inspección ante la falta de afiliaciones de trabajadores. El INEM...
+Exista una denuncia publica. Esta denuncia puede formularla cualquier persona, trabajador, empresario, no pudiendo ser en ningún momento anónima, debiendo identificarse para prosperar la denuncia. La inspección debe guardar secreto de la identidad del denunciante.
+Las modalidades de actuación que puede realizar la inspección son:
+Requerir al empresario o sujeto inspeccionado para que comparezca en la oficina de la inspección aportando documentación o realizando aclaraciones sobre aquellos asuntos que la inspección estime necesarios.
+Clásicas visitas al centro de trabajo. Que sea el inspector el que comparezca en el centro de trabajo (es lo más usual). Esta visita puede realizarse sin previo aviso, pero una vez en el centro de trabajo el inspector deberá notificar su presencia al empresario o bien a su representante, salvo que esa notificación ponga en peligro el éxito de sus actuaciones.
+Una vez en el centro de trabajo el inspector el inspector podrá:
+Interrogar, ante testigos, peritos, al empresario, trabajadores, representantes del personal, ...
+Solicitar documentación para su examen.
+Adoptar medidas cautelares para evitar la pérdida de documentos
+Obtener pruebas materiales (fotos, videos, ...). Esta modalidad no es posible en el subinspector.
+Una vez finalizada la visita, el inspector debe dejar constancia de la misma en el “Libro de Visitas”, que deberá estar disponible en todos los centros de trabajo de la empresa (debidamente diligenciado por la inspección).
+En caso que el inspector necesitará de una autorización judicial, en el caso de que quiera inspeccionar el domicilio del investigado.
+Los resultados que puede tener la actuación de la inspección son:
+Poner fin a la actuación de la inspección, en el caso de que no existan irregularidades. Se archiva la inspección.
+Adoptar “medidas preventivas” si advierte que hay irregularidades.
+Iniciar “procedimiento sancionador” levantándose acta sin iniciar medidas preventivas.
+MEDIDAS PREVENTIVAS:
+Que la inspección formule una advertencia o recomendación antes de iniciar el procedimiento sancionador.
+La inspección observa una irregularidad sin perjuicio para los trabajadores, advirtiendo o recomendando al empresario la necesidad de adoptar las medidas necesarias para solventar el problema. (Calendario laboral oculto).
+Al advertir al empresario que existe irregularidades se evita el procedimiento sancionador, ahora bien si la empresa hace caso omiso a tal advertencia entonces sí se iniciaría el procedimiento sancionador.
+La advertencia o recomendación hay que comunicarla por escrito al empresario o dejar constancia de ella en el Libro de Visitas, indicando la irregularidad.
+Requerimiento en materia de seguridad y salud en el trabajo.
+Siempre que la inspección advierta que hay una irregularidad en materia de seguridad o salud en el trabajo el funcionario de inspección tendrá la obligación de requerir al empresario, para que éste pueda subsanar dichas deficiencias, sin perjuicio de que al mismo tiempo se pueda levantar una acta de infracción correspondiente, cuando así se estime necesario
+El requerimiento deberá comunicarse al empresario por escrito o dejar constancia del mismo en el Libro de Visitas.
+El inspector decida paralizar, total o parcialmente, la actividad o trabajos en el centro de trabajo.
+Esta medida se podrá adoptar cuando el inspector advierta que existen graves o inminentes riesgos para la salud o seguridad de los trabajadores. En este caso no se limita el inspector a requerir sin más, sino que hay una acción preventiva que tiene carácter ejecutivo.
+El inspector deberá comunicar esta medida tanto al empresario como a la Administración Laboral competente.
+El empresario deberá cumplir en todo caso la orden de paralización, ya que es ejecutiva, pudiendo posteriormente impugnar esta orden ante la administración. La administración deberá pronunciarse en 24 horas sobre esta impugnación.
+Esta medida puede ir acompañada del levantamiento de acta de infracción para iniciar el procedimiento sancionador.
+PROCEDIMIENTO SANCIONADOR:
+El funcionario de inspección podrá levantar 3 tipos de actas:
+ACTA DE INFRACCION: Esta acta se levanta cuando se advierte que hay una conducta que según la ley constituye una infracción. No es el inspector el que decide qué es infracción.
+La ley asimismo define si esas conductas tienen la consideración de leves, graves o muy graves, así como las sanciones que hay que imponer en cada caso. La sanción administrativa típica es la multa (sanción pecuniaria).
+La ley que define todas estas cuestiones es el Real Decreto Legislativo 5/2000 de 4 de agosto, por el que se aprueba el texto refundido de la ley sobre infracciones y sanciones en el orden social.
+Actas de infracción con estimación de perjuicio económico. Constituyen una modalidad específica del acta de infracción y se formulan cuando a la comprobación de la infracción de la norma laboral se suma la violación de un derecho económico de uno o varios trabajadores afectados por la contravención. Doble actuación de la administración laboral
+Actas de infracción especiales. Por razón de la materia en la que recaen, son las originadas en procedimientos sancionadores sobre la SS y desempleo.
+ACTAS DE LIQUIDACION: esta acta se levanta cuando se constatan deudas con la Seguridad Social, ya sea por falta de afiliación y alta de los trabajadores, o por diferencias de cotización de trabajadores dados de alta y lo que verdaderamente debieran cotizar.
+ACTA DE OBSTRUCCION: esta acta se levanta cuando se han producido hechos o conductas dirigidas a impedir, dificultar, retrasar o perturbar la actuación de la inspección, incluidos los subinspectores. La acción puede consistir en impedir la entrada al centro de trabajo, ocultación de datos, falseando declaraciones...
+Estas actas no son incompatibles los unos con los otros.
+La ley exige que el acta tenga un contenido necesario:
+Debe aparecer los hechos constatados por el funcionario y la infracción que se estima cometida.
+El funcionario que levante acta debe hacer una propuesta de sanción y cuantificación de la misma en función de la reiteración, gravedad o asunto a que se refiera.
+El acta debe especificar el órgano competente para resolver el procedimiento sancionador, y plazo que tiene el sujeto afectado para hacer alegaciones ante el mismo.
+Identificación del sujeto infractor y funcionario que lo levanta (firmante). Deberá además incluirse el número de trabajadores afectados, cuando tal requisito sirva para calificar la gravedad de la infracción.
+Si el acta se ha levantado correctamente goza de una presunción de certeza respecto de los hechos constatados en la misma; presunción que se puede destruir en el caso de que se aporten pruebas por parte del sujeto infractor demostrando que no existe tal infracción.
+Una vez que el inspector levanta acta se hace la propuesta de sanción, y ahí termina su actuación.
+Seguidamente al levantamiento del acta se inicia la tramitación del procedimiento sancionador, que ha de tramitar y resolver la correspondiente autoridad administrativa (del Estado o de las CCAA).
+Los tramites del procedimiento sancionador son:
+Notificar el acta al afectado, dándole un plazo de 15 días para si lo estima oportuno formular alegaciones y aportar pruebas para su defensa.
+Si se formulan alegaciones, la autoridad administrativa podrá exigir al inspector un informe ampliatorio donde valore esas alegaciones, volviendo a revisar y valorar los hechos advertidos, aportando una propuesta definitiva de sanción si es que es así.
+Antes de terminar el procedimiento la autoridad administrativa puede dar un nuevo plazo de alegaciones (8 días) si de las actuaciones de este procedimiento se desprenden hechos que no aparezcan recogidos en el acta correspondiente.
+Dictar por parte de la autoridad administrativa una “Resolución motivada” (es decir explicada. Esta resolución se puede confirmar la propuesta de sanción por el inspector, pero también se puede modificar la misma, incluso anularla si no llegan a apreciarse irregularidades o incumplimiento de leyes.
+Esta resolución se comunica al sancionado, indicando los recursos que puede presentar y ante qué organismos.
+El sancionado debe pagar la multa cuando la resolución sea firme, una vez resuelto la impugnación presentada.
+También puede ser que pague la multa y no se esté de acuerdo todavía con la sanción, pudiendo presentar para resolver este desacuerdo los recursos en los tribunales de justicia laborales.
+Órganos judiciales que tiene competencia en normativa laboral.
+JUZGADOS DE LO SOCIAL (antes magistraturas de trabajo)
+Existe al menos uno en cada provincia, y se plantean (vía instancia) las siguientes cuestiones:
+Conflictos de carácter individual, es decir, conflictos entre un trabajador y un empresario a raíz de su contrato de trabajo.
+Conflictos de carácter colectivo o sindical, es decir, conflictos que afectan a un colectivo genérico de trabajadores. Estos conflictos para plantearse en los Juzgados de lo social deberán tener un ámbito no superior al de la provincia.
+Conflictos entre sociedades cooperativas y sociedades laborales, y sus socios trabajadores.
+Conflictos en materia de Seguridad Social.
+B) SALAS DE LO SOCIAL DE LOS TRIBUNALES SUPERIORES DE JUSTICIA DE LAS CCAA:
+Estas salas van a tener las siguientes competencias:
+En instancia conoce:
+Conflictos de carácter colectivo cuyo ámbito exceda el de la provincia pero no sobrepase el de la Comunidad Autónoma correspondiente.
+En vía de recurso conoce:
+Recurso de suplicación: se puede plantear frente a las sentencias de los juzgados de lo social.
+C) SALA DE LO SOCIAL DE LA AUDIENCIA NACIONAL:
+Se plantea aquellos conflictos laborales de carácter colectivo cuyo ámbito excede del de la CCAA. Impugnación de convenios colectivos de ámbito nacional.
+D) SALA DE LO SOCIAL DEL TRIBUNAL SUPREMO:
+El Tribunal Supremo solo conoce asuntos por la vía del recurso, concretamente conoce 2 tipos de recursos:
+Recurso de casación: este se puede plantear frente a las sentencias que dicten los Tribunales Superiores de justicia y la Audiencia Nacional al resolver conflictos colectivos de su competencia.
+Recurso de casación para la unificación de doctrina: este se puede plantear cuando existe contradicción entre 2 o más sentencias de Tribunales Superiores de justicia que resuelvan por la vía de la suplicación casos idénticos o similares de distinta forma.
+LECCION 9. LA REPRESENTACIÓN DE LOS INTERESES DEL PERSONAL EN LA EMPRESA
+I. La organización del personal en la empresa
+El derecho del trabajo contempla al trabajador desde una doble perspectiva:
+Individual.
+Colectivo, con intereses propios
+A lo largo del tiempo van apareciendo órganos que representan al personal de la empresa, dotados con una serie de poderes, más amplios o menos, según el momento, limitando de esta forma el poder empresarial.
+La ley configura una serie de órganos de representación del personal, para que defienda los intereses de los trabajadores, que en parte son contrapuestos con los del empresario.
+En nuestro ordenamiento existen dos tipos de órganos de representación del personal de la empresa:
+Órganos de representación unitaria. Son básicamente el comité de empresa y los delegados de personal. Estos órganos de representación unitaria se caracterizan por dos notas esenciales:
+Órganos de representación de todo el personal en la empresa.
+Estos órganos deben constituirse obligatoriamente porque así lo establece la ley.
+Representación sindical en la empresa. Está formada por lo que se llama secciones sindicales y delegados sindicales. Estos órganos sindicales se caracterizan por dos notas esenciales:
+Órganos que representan sólo a trabajadores afiliados a un determinado sindicato.
+Son órganos de constitución voluntaria, a diferencia con los anteriores que eran de constitución obligatoria.
+Si en una empresa dos trabajadores afiliados a UGT, si lo desea pueden constituir una sección sindical en la empresa.
+Ambos órganos pueden coexistir a la vez en la empresa y de hecho lo hacen, según la voluntad de los trabajadores.
+Órganos de representación unitaria
+Una empresa deberá constituir en su empresa un comité de empresa o bien nombrar delegados de personal, en función del número de trabajadores por cada centro, además también el número de trabajadores determinará el número de representantes a elegir en uno u otro modo de representación.
+Como norma general se establece lo siguiente:
++ 50 trabajadores en el centro: constitución de comité de empresa.
+- 50 trabajadores en el centro: elección de delegados del personal.
+Para computar los trabajadores que tiene cada centro es necesario tener en cuenta todos los trabajadores fijos en plantilla, más los trabajadores temporales, a los cuales se les aplica un régimen especial: los trabajadores con contrato temporal de más de un año se computarán como trabajadores fijos de empresa y los que tienen menos de un año tienen un régimen específico.
+Delegados de personal
+Se eligen en las empresas o centros de trabajo que tengan más de 10 trabajadores y menos de 50 (hasta 49).
+Los representantes a elegir serán :
+Un delegado de personal cuando la empresa tenga 10-30 trabajadores.
+Tres delegados de personal cuando la empresa tenga 31-49 trabajadores.
+Las empresas que no alcancen los diez trabajadores pero tengan más de seis, podrán voluntariamente elegir por mayoría un delegado de personal. En este caso no se exige de forma obligatoria.
+Las empresas o centros de trabajo que tengan menos de seis trabajadores no podrán nombrar delegado de personal, aunque si podrán nombrar un portavoz que represente a los trabajadores, pero sin tener las facultades y competencias de un delegado de personal.
+La elección de los delegados se realizará por sufragio universal, personal, secreto y directo, pudiendo presentarse como candidato cualquier trabajador que tenga más de 18 años y una antigüedad de al menos 6 meses en la empresa y pudiendo votar sólo los trabajadores mayores de 18 años con un mes de antigüedad.
+Los delegados de personal actúan mancomunadamente, lo que significa, que deben actuar conjuntamente, y de mutuo acuerdo, de modo que si hay discrepancias se decide por lo que establezca la mayoría.
+Las funciones de los delegados son las mismas que las que tiene atribuidas el comité de empresa, asimismo son iguales las garantías de unos y otros.
+Constitución de comité de empresa
+Art. 63, 66 del ET.
+El comité de empresa es el órgano representativo y colegiado del conjunto de trabajadores de las empresas o centros de trabajadores, con 50 o más trabajadores
+Los miembros del comité de empresa se establecen según una escala en función del número de trabajadores.
+50 a 100, cinco
+751 a 1000, veintiuno
+1000 en adelante, dos por cada mil o fracción de mil, con el máximo de 75
+Si la empresa tiene en la misma provincia o en municipios limítrofes de otras provincias colindantes, dos o más centros de trabajo y ninguno de ellos alcanza individualmente los 50 trabajadores, pero en su conjunto si lo superan, se constituirá un comité de empresa conjunto.
+En esta misma circunstancia, si algunos centros alcanzan dentro de la misma provincia más de 50 trabajadores y otros no, el que lo alcance podrá constituir un comité de empresa propio y entre los demás que no lo alcanzan se constituirá un comité conjunto. Este tratamiento se hace para evitar la dispersión de los representantes de los trabajadores.
+Por último, la ley establece la posibilidad que la empresa que tenga constituidos varios comités de centro, pueda crear, si así está previsto en el convenio colectivo, un comité intercentros (comité de comités).
+Las funciones de estos comités intercentros deben venir especificados en el convenio colectivo, además esté comité tendrá un máximo de 13 miembros que serán elegidos de entre los distintos comités de centro.
+El comité una vez constituidos debe elegir de entre sus miembros a un presidente y a un secretario y tiene la obligación de redactar un reglamento propio de actuación, remitiendo una copia del mismo al empresario, así como a la autoridad administrativa correspondiente, para así evitar conflictos.
+Este reglamento es muy importante, ya que el comité es un órgano colegiado = reglado, que supone que la voluntad del comité se forma por voluntad de todos sus miembros por medio de votación, y no cabe en ningún caso voluntad individual. Ello significa que para discutir un asunto deben respetarse siempre las reglas especificadas en el reglamento en cuanto a convocatoria, quórum, acta de reuniones...
+Podemos afirmar que esta es la principal diferencia entre el comité de empresa y los delegados de personal.
+El comité de empresa habrá de reunirse, siempre que lo solicite 1/3 de sus miembros o 1/3 de sus representados o en todo caso y sin que medie solicitud, deberán reunirse cada 2 meses.
+Competencias que la ley asigna a los representantes unitarios (tanto delegados como comité)
+Art. 64
+Competencias relativas a recepción de información. La empresa está obligada a remitir informaciones a los representantes unitarios:
+Situación económica de la empresa. Trimestralmente la empresa tiene que informar sobre la situación de producción y ventas, programa de producción, evolución probable del empleo en la empresa, previsiones, si existen de contratación de trabajadores y subcontratación de actividades.
+También anualmente hay que poner en conocimiento, el balance de situación, la cuenta de pérdidas y ganancias y la memoria, así como cualquier otro documento que se comunique o se ponga a disposición de los socios mercantiles.
+Informar a los representantes de todos las sanciones que se impongan a los trabajadores por falta graves o muy graves.
+Obligación del empresario de remitir una copia básica de todos los contratos laborales que se celebren en la empresa por escrito.
+Prórrogas y denuncias de los contratos temporales.
+Con carácter trimestral, remitir estadísticas sobre accidentes de trabajo, enfermedades profesionales, siniestralidad laboral, índices de absentismo laboral en la empresa, medida que se adoptan en materia de riesgos laborales.
+Consisten en la emisión de informes por parte de los representantes de los trabajadores.
+Antes de que la empresa tome una decisión, la ley exige que se realice un informe previo antes de la decisión de la empresa en materia de:
+Reestructuración de plantilla que implique cese de personal.
+Reducción de jornada.
+Fusiones y absorciones empresariales que incidan en el trabajo.
+Estos informes son previos y obligatorios por parte de los representantes, pero no son vinculantes para la empresa.
+Control del cumplimiento de las condiciones de trabajo. Vigilar el cumplimiento de las condiciones de seguridad e higiene en el trabajo.
+Desde esta perspectiva, la ley ofrece a éstos representantes acciones legales oportunas, antes la administración o los tribunales de justicia.
+Función negociadora. Hay que incluir la función principal de la negociación de CC de ámbito empresarial o inferior.
+Además también hay que tener en cuenta los periodos de consultas o negociaciones con los representantes que la ley exige con carácter previo a la toma de decisiones empresariales.
+No se trata simplemente de emitir un informe, si no que son consultas, negociaciones que pueden suponer una cogestión conjunta con el empresario.
+Eje. Despido colectivo por causas económicas, tecnológicas... , introducción de modificaciones sustanciales a las condiciones de trabajo en la empresa que tengan carácter colectivo.
+Función de participación y colaboración.
+Por CC se puede establecer la participación de los representantes de los trabajadores en la gestión de determinadas obras sociales de la empresa (comedores, economatos...).
+También puede establecerse por CC el que los representantes de los trabajadores colaboren en la adopción de medidas sobre mantenimiento o incremento de la productividad en la empresa.
+Los representantes de los trabajadores deberán guardar sigilo profesional en todo aquello que la empresa señale como reservado y no podrá utilizar la información recibida fuera del ámbito de aquella y para distintos fines de los que motivaron su entrega.
+Todas estas funciones son las contempladas en la ley, por lo que pueden incluso ampliarse si así lo establece el convenio colectivo.
+Garantías de los representantes de los trabajadores
+Los trabajadores que ostenten la condición de trabajador y de representante del personal a la vez, tiene asumido un compromiso en la defensa de los intereses de los trabajadores.
+La ley para ello fija unos mecanismos, para que los representantes, puedan realizar sus funciones con independencia y efectividad.
+El representante del personal, no puede ser sancionado o despedido por el ejercicio de sus funciones de representación.
+Si un representante no actúa correctamente en el desarrollo de sus cometidos, los propios representados por éste, pueden revocar su mandato.
+La garantía de no poder ser sancionado o despedido durante el tiempo en que ejerce de representante, dura mientras dure el mandato de representación, incluso se extiende durante el año siguiente a la finalización de su mandato, salvo que éste haya sido revocado o bien se haya dimitido del cargo.
+Transcurrido ese año lógicamente tampoco podrá ser sancionado o despedido por sus actuaciones como representante.
+Al trabajador que es representante se le puede sancionar o despedir igualmente que otro trabajador, si incumple cualquiera de sus obligaciones laborales.
+Incluso en este caso de incumplimiento de sus obligaciones si al representante se le sanciona por faltas laborales graves o muy graves, en ese caso goza de una garantía especial, que consiste en la apertura de un “expediente contradictorio”, que consiste en que antes que la empresa ejecute la sanción o despido, el representante tiene derecho a una audiencia previa, así como deberán ser escuchados el resto de los representantes o miembros del comité.
+Hay CC que amplían esta garantía e expediente contradictorio, a todos los trabajadores de la empresa.
+Los representantes de los trabajadores tienen prioridad de permanencia en la empresa frente a sus compañeros en los casos de:
+Suspensión temporal de contratos.
+Caso de desplazamientos temporales o traslados definitivos (movilidad geográfica).
+Esta garantía no quiere decir que no puede ser despedido el representante bajo ninguna causa, sino que goza de una prioridad, que no es frente a todos los trabajadores, sino sólo sobre los de su misma categoría profesional.
+Ejercicio de la libertad de expresión en el ámbito de la esfera de su representación y pudiendo editar publicaciones de interés social o laboral, comunicándoselo previamente a los trabajadores y siempre que no perturbe la normalidad en el trabajo.
+No se puede discriminar al representante, por su condición de representante, en materia de promoción económica y profesional en la empresa.
+El crédito horario. Esta garantía consiste en que el representante dispone de un número de horas mensuales retribuidas que dentro de la jornada de trabajo del representante, pueden ser empleados para realizar funciones representativas.
+La reserva de horas viene establecido en una escala en función del número de trabajadores:
+Hasta 100 trabajadores, 15 horas.
+101 a 250, 20 h.
+251 a 500, 30 h,
+501 a 750, 35 h
+751 en adelante 40h.
+La jurisprudencia ha establecido:
+Utilizar este tiempo para asistir a cursos de formación específicos de su función.
+Cierta flexibilidad en la forma de celebrar reuniones con otros miembros (puede ser en un bar).
+En el empresario no puede someter a un control sistemático y permanente a un representante en el ejercicio de sus horas de reserva.
+Por CC se puede pactar, que la suma global de créditos de todos los representantes, se redistribuyan y se asignen a uno o varios de los representantes que añadirían a su crédito personal el de los demás. Esto lleva con frecuencia a los que se llama el liberado sindical que queda verdaderamente liberado de su trabajo gracias a esta predistribución.
+1

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Overtime : Directgov - Employment</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Overtime : Directgov - Employment</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 02:32:22.0</pubDate>
+							<eAddress>http://www.direct.gov.uk/en/Employment/Employees/WorkingHoursAndTimeOff/DG_10028439</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Overtime</keyTerm>
+					<keyTerm>pay</keyTerm>
+					<keyTerm>rates</keyTerm>
+					<keyTerm>conditions</keyTerm>
+					<keyTerm>time off in lieu</keyTerm>
+					<keyTerm>TOIL</keyTerm>
+					<keyTerm>contract</keyTerm>
+					<keyTerm>entitlement</keyTerm>
+					<keyTerm>work pattern</keyTerm>
+					<keyTerm>breach of contract</keyTerm>
+					<keyTerm>working time regulations</keyTerm>
+					<keyTerm>holiday pay</keyTerm>
+					<keyTerm>hours of work</keyTerm>
+					<keyTerm>extra hours</keyTerm>
+					<keyTerm>working</keyTerm>
+					<keyTerm>employment</keyTerm>
+					<keyTerm>about</keyTerm>
+					<keyTerm>careers</keyTerm>
+					<keyTerm>terms</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/2619.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Please note that this website has a UK government accesskeys system.</p>
+			<p id="p2">Public services all in one place</p>
+			<p id="p3">Main menu</p>
+			<p id="p4">Overtime</p>
+			<p id="p5">Overtime generally means any work over the basic working hours included in your contract. Regulations say that most workers can't be made to work more than an average of 48 hours a week, but they can agree to work longer. This agreement must be in writing and signed by you.</p>
+			<p id="p6">Overtime pay</p>
+			<p id="p7">There's no legal right to pay for working extra hours, and there are no minimum statutory levels of overtime pay, although your average pay rate must not fall below the National Minimum Wage. Your contract of employment should include details of overtime pay rates and how they are worked out.</p>
+			<p id="p8">Overtime rates vary from employer to employer, some will pay extra for working weekends or Bank Holidays, and others won't.</p>
+			<p id="p9">Time off instead of pay for working overtime</p>
+			<p id="p10">Instead of paying for overtime, some employers offer 'time off in lieu' (TOIL). This is agreed between you and your employer, and any time you take off will normally be at a time that suits the employer. Some companies have rules on when time off can be taken, but others arrange time off on a case by case basis.</p>
+			<p id="p11">Overtime and payment for time off</p>
+			<p id="p12">Overtime isn't usually taken into account when working out holiday pay or paid maternity, paternity or adoption leave. However, it is taken into account when the overtime is guaranteed and you have to work the overtime as part of your contract of employment.</p>
+			<p id="p13">Can you be forced to work overtime, or stopped from doing so?</p>
+			<p id="p14">Your contract of employment should include the conditions for working overtime. You only have to work overtime if your contract says so. Even if it does you can't usually be forced to work more than an average of 48 hours per week. If you are told to work more than this and you don't want to, you should take it up with your employer.</p>
+			<p id="p15">Your contract of employment should say what your normal working hours and days are, and this may include or exclude working on Sundays. Whether this counts as overtime working depends on your contract of employment. Workers in betting premises and in retail shops can choose to opt out of working on a Sunday.</p>
+			<p id="p16">Overtime for part-time workers</p>
+			<p id="p17">Unless it says differently in their contract of employment, employers will usually only pay overtime to part-time workers when they work:</p>
+			<p id="p18">longer hours than are included in their contract (although sometimes they might just get their normal rate)</p>
+			<p id="p19">more than the normal working hours of full-time staff (when they must receive extra payments if full-time staff receive them) </p>
+			<p id="p20">unsocial hours for which full-time staff would get more pay</p>
+			<p id="p21">It is a legal requirement that part-time workers must not be treated less favourably than full-time staff.</p>
+			<p id="p22">Changes to patterns of work</p>
+			<p id="p23">Your employer may need to change your conditions or patterns of work because of business or economic factors. However, your contract of employment can only be changed if both you and your employer agree to this. It's a breach of contract to change your working conditions without your agreement.</p>
+			<p id="p24">Finding out more about how your overtime is managed</p>
+			<p id="p25">Firstly, check your contract of employment for details of how overtime is worked out and what the rates of pay should be. If you don't have a written contract, you may find the article on contracts of employment helpful. Remember that your employer must by law give you written terms and conditions within two months of starting work. </p>
+			<p id="p26">What to do next</p>
+			<p id="p27">If anything isn't clear, you should take up the problem with your employer. You might find it helpful to ask an employee representative, such as a trade union official, to help you. You should also look at the papers you were given when you started work, such as the written statement of terms, and an employee's handbook if one was provided.</p>
+			<p id="p28">Where to get help</p>
+			<p id="p29">If you need further help the Pay and Work Rights Helpline offers free and confidential advice on working hours.</p>
+			<p id="p30">Thinking about what you have just read, how useful did you find the information?</p>
+			<p id="p31">Very useful</p>
+			<p id="p32">Not at all useful</p>
+			<p id="p33">Take a moment to tell us how we could improve this page, but please don't leave any personal details like your name or address</p>
+			<p id="p34">500 character limit</p>
+			<p id="p35">we want to hear what you think about the quality and usefulness of our pages</p>
+			<p id="p36">your comments will help us improve our pages</p>
+			<p id="p37">your comments will also help with the future development of Directgov</p>
+			<p id="p38">telling us what you think will help make sure we give you the very best service</p>
+			<p id="p39">Bookmark with:</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La gestion des déchets dangereux - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La gestion des déchets dangereux - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 17:43:41.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/La-gestion-des-dechets-dangereux.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/549.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">Sommaire :</p>
+			<p id="p3">Réglementation</p>
+			<p id="p4">Les principaux mode d'élimination des déchets dangereux industriels sont l'incinération et le stockage. Deux textes encadrent ces activités : l'arrêté du 20 septembre 2002 relatif aux installations d'incinération et de co-incinération de déchets dangereux (JO du 1er décembre 2002) et l'arrêté du 30 décembre 2002 relatif au stockage de déchets dangereux (JO du 16 avril 2003).</p>
+			<p id="p5">Planifier</p>
+			<p id="p6">Les plans régionaux d'élimination des déchets industriels ou PREDIS organisent la réflexion des différents acteurs pour définir les besoins de la région (besoin de capacités, principes de prévention de la production de déchets, de leur gestion, , etc..). L'élaboration de ces plans est de la compétence des conseils régionaux en application de la loi " Démocratie de proximité " du 27 février 2002 prise dans le cadre de la décentralisation.</p>
+			<p id="p7">L'activité industrielle française produit 35 millions de tonnes de déchets industriels banals (non dangereux), assimilables aux ordures ménagères par leurs filières de collecte ou de traitement, et 7 millions de tonnes de déchets dangereux (d'après l'inventaire de l'ADEME, établi pour la période 1992-1995).</p>
+			<p id="p8">La moitié des déchets dangereux est traitée par les établissements industriels qui la produisent ; l'autre est transportée dans des centres collectifs spécialisés.</p>
+			<p id="p9">Incinérer</p>
+			<p id="p10">Les prescriptions applicables aux usines d'incinération en matière de rejets atmosphériques, de rejets aqueux et de résidus solides sont les mêmes, que les déchets traités soient dangereux ou non dangereux. En revanche, des dispositions particulières sont prévues en ce qui concerne les modalités d'acceptation et de réception des déchets et les conditions de combustion lorsque l'installation incinère des déchets dangereux. On compte en France 16 centres collectifs d'incinération de déchets dangereux, 13 centres spécialisés dans l'évapo-incinération et plus de 25 installations co-incinérant des déchets (il s'agit pour l'essentiel de cimenteries). En 2000, près de 1,6 millions de tonnes de déchets dangereux ont été traitées par ces trois types d'usines : 48 % dans des centres dédiés, 40 % dans des installations de co-incinération et 12 % dans des installations d'évapo-incinération.</p>
+			<p id="p11">Stocker</p>
+			<p id="p12">Les prescriptions techniques en matière de stockage (barrière géologique et drainage des lixiviats) visent à augmenter la sécurité du site en limitant les possibilités d'échanges avec le milieu naturel. En outre, les conditions d'admission du déchet sur le site renforcent cette sécurité. Le réaménagement du site et sa surveillance à long terme sont également prescrits, des mécanismes de garanties financières en assurant la réalisation. Il y a actuellement sur le territoire national 14 installations de stockage de déchets dangereux. En 2000, 810 000 tonnes de déchets ont été reçues dans ces installations et 900 000 tonnes en 2001.</p>
+			<p id="p13">Assurer la transparence</p>
+			<p id="p14">Les commissions locales d'information et de surveillance (CLIS) permettent aujourd'hui aux associations et aux élus de suivre les différentes phases de l'exploitation d'une installation de traitement. Mise en place par le préfet, la CLIS se compose d'élus, de représentants des services administratifs, de représentants d'associations de personnalités scientifiques, de l'exploitant, etc... et se réunit plusieurs fois par an.</p>
+			<p id="p15">Site mis à jour le 10 septembre 2010</p>
+			<p id="p16">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

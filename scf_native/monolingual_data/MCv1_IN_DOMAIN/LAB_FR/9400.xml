@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 79 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 79 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:58:22.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=79</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/9400.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">14/11/2008</p>
+			<p id="p2">Un de vos salariés vient de reprendre son travail en mi-temps thérapeutique. Il travaille désormais à mi-temps. Comment devez-vous établir son bulletin de salaire ? Faut-il maintenir son salaire en totalité comme vous y êtes obligé en cas de maladie ?</p>
+			<p id="p3">13/11/2008</p>
+			<p id="p4">Actuellement, vous rencontrez des difficultés économiques. Pour les surmonter, vous envisagez de modifier la fonction d’un de vos salariés. C’est un élément essentiel de son contrat. Vous ne pouvez pas agir seul : son accord est nécessaire. Respectez la procédure.</p>
+			<p id="p5">12/11/2008</p>
+			<p id="p6">Vous êtes actuellement en train d’organiser les élections des représentants du personnel, ne négligez pas le 1er tour. C’est une nouveauté, vous devez informer l’Administration des résultats de ce tour : représentativité syndicale oblige.</p>
+			<p id="p7">10/11/2008</p>
+			<p id="p8">Vous allez embaucher un salarié en contrat à durée indéterminée (CDI). Vous souhaitez pouvoir vérifier qu’il « fait l’affaire » et intégrez une période d’essai dans son contrat de travail. Savez-vous que les règles concernant la période d’essai (durée, renouvellement et rupture) ont été profondément modifiées cet été ?</p>
+			<p id="p9">10/11/2008</p>
+			<p id="p10">Les dispositions relatives au temps de travail ont été profondément modifiées cet été. Beaucoup de questions restaient encore en suspens : certaines d’entre elles ont enfin trouvé une réponse !</p>
+			<p id="p11">10/11/2008</p>
+			<p id="p12">La mise en place d’un régime d’astreintes doit être prévue par un accord collectif. A défaut, vous ne pourrez pas imposer à un salarié de faire des astreintes.</p>
+			<p id="p13">07/11/2008</p>
+			<p id="p14">Vous avez peut-être entendu parler de la polémique provoquée par un éventuel recul de l’âge de la mise à la retraite. Contrairement à la position qu’ont pu défendre certains commentateurs, cette disposition ne signifierait pas que les salariés vont devoir travailler jusqu’à 70 ans… Nos explications.</p>
+			<p id="p15">06/11/2008</p>
+			<p id="p16">Une seule bonne nouvelle, mais de taille : le nombre de décès dus à une maladie professionnelle baisse pour la 3e année consécutive. Pour le reste, le bilan est plus que mitigé...</p>
+			<p id="p17">Toute l'actualité en droit du travail PME</p>
+			<p id="p18">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p19">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

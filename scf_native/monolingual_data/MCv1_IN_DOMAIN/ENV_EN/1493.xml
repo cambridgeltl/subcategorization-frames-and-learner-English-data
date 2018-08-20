@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Change 2001: Mitigation</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Change 2001: Mitigation</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-10-10 17:06:15.0</pubDate>
+							<eAddress>http://www.grida.no/climate/ipcc_tar/wg3/072.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/1493.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">2.2.2 Mitigation and Stabilization Scenarios</p>
+			<p id="p2">Mitigation scenarios are usually defined as a description and a quantified projection of how GHG emissions can be reduced with respect to some baseline scenario. They contain new emission profiles as well as costs associated with the emission reduction. Stabilization scenarios are mitigation scenarios that aim at a pre-specified GHG reduction target. Usually the target is the concentration of CO</p>
+			<p id="p3">2</p>
+			<p id="p4">2</p>
+			<p id="p5">-equivalent concentration of a “basket” of gases by 2100 or at some later date when atmospheric stabilization is actually reached.</p>
+			<p id="p6">There are two common difficulties associated with the formulation and quantification of mitigation scenarios. First, in certain cases there is not a clear-cut distinction between intervention and non-intervention scenarios, that is, scenarios with or without explicit climate policy. This is discussed in detail in Box 2.1 . The second important problem regarding mitigation scenarios has to do with the difference between top-down and bottom-up models. Whereas the latter focus on engineering trends and technology costs, the former view resource development from a macroeconomic price-mediated perspective. Although, as discussed in the SAR (IPCC, 1995), the differences between these approaches are continiously narrowing as each incorporates elements of the other, there is still quite a difference in their formulation of emission reduction strategies. This suggests the importance of including multiple methodological approaches in scenario analysis.</p>
+			<p id="p7">Box 2.1. Differentiating Between Climate Policy and No-climate-policy Scenarios</p>
+			<p id="p8">Recent discussions among IPCC experts and reactions from reviewers of this report and the SRES report revealed the need to clarify differences between various types of GHG emission scenarios, in particular, between climate policy scenarios (CP scenarios) and scenarios without climate policies (NCP scenarios) but with low emissions.</p>
+			<p id="p9">CP scenarios (also known as climate intervention or climate mitigation scenarios) are defined in this report as those that: (1) include explicit policies and/or measures, the primary</p>
+			<p id="p10">goal of which is to reduce GHG emissions (e.g., carbon tax) and/or (2) mention no climate policies and/or measures, but assume temporal changes in GHG emission sources or drivers required to achieve particular climate targets (e.g., GHG emission levels, GHG concentration levels, temperature increase or sea level rise limits).</p>
+			<p id="p11">CP scenarios are often, but not always, constructed with reference to a corresponding reference or baseline scenario that is similar to the CP scenario in every respect except the inclusion of climate mitigation measures and/or policies. In fact, climate policy analysis often starts with the construction of such a reference scenario, to which is added climate policy to create the CP scenario.</p>
+			<p id="p12">Another type of CP scenario is not originally built around such “no-policy” baselines. Developers of such scenarios envision future “worlds” that are internally consistent with desirable climate targets (e.g., a global temperature increase of no more than 1°C by 2100), and then work “backwards” to develop feasible emission trajectories and emission driver combinations leading to these targets. Such scenarios, also referred to as “safe landing” or “tolerable windows” scenarios, imply the necessary development and implementation of climate policies, intended to achieve these targets in the most efficient way.</p>
+			<p id="p13">The general definition of CP scenarios provided here enables one to effectively discriminate between CP scenarios and other scenarios with low emissions (e.g., IS92c, SRES-B1). Unlike the former, NCP scenarios have low emissions but do not assume any explicit emission abatement measures or policies, nor are they designed specifically to achieve certain climate targets. NCP scenarios by themselves may explore a wide variety of alternative development paths, including “green” or “dematerialization” futures.</p>
+			<p id="p14">Confusion can arise when the inclusion of “non-climate-related” policies in a NCP scenario has the effect of significantly reducing GHG emissions. For example, energy efficiency or land use policies that reduce GHG emissions may be adopted for reasons that are not related to climate policies and may therefore be included in a NCP scenario. Such a NCP scenario may have GHG emissions that are lower than some CP scenarios.</p>
+			<p id="p15">The root cause of this potential confusion is that, in practice, many policies can both reduce GHG emissions and achieve other goals. Whether such policies are assumed to be adopted for climate or non-climate policy related reasons in any given scenario is determined by the scenario developer based on the underlying scenario narrative. While this is a problem in terms of making a clear distinction between CP and NCP scenarios, it is at the same time an opportunity. Because many decisions are not made for reasons of climate change alone, measures implemented for reasons other than climate change can have a large impact on GHG emissions, opening up many new possibilities for mitigation. Chapters 7, 8, and 9 discuss ancillary benefits of climate mitigation and the co-benefits of policies integrating climate mitigation objectives with other goals.</p>
+			<p id="p16">2.2.3 Scenarios and “Development, Equity, and Sustainability (DES)”</p>
+			<p id="p17">The climate issue is embedded in the larger question of how combined social, economic, and environmental subsystems interact and shape one another over many decades. There are multiple links. Economic development depends on maintenance of ecosystem resilience; poverty can be both a result and a cause of environmental degradation; material-intensive lifestyles conflict with environmental and equity values; and extreme socio-economic inequality within societies and between nations undermines the social cohesion required for effective policy responses.</p>
+			<p id="p18">It is clear that climate policy, and the impacts of climate change, will have significant implications for sustainable development at both the global and sub-global levels. In addition, policy and behavioural responses to sustainable development issues may affect both our ability to develop and successfully implement climate policies, and our ability to respond effectively to climate change. In this way, climate policy response will affect the ability of countries to achieve sustainable development goals, while the pursuit of those goals will in turn affect the opportunities for, and success of, climate policy responses.</p>
+			<p id="p19">In this report and its Working Group II companion report, climate change impacts, mitigation, and adaptation strategies are discussed in the broader context of DES (see Munasinghe, 1999).</p>
+			<p id="p20">The issues raised by a consideration of DES are of particular relevance to the scenarios discussed in this chapter. Because they are necessarily based upon assumptions about the socio-economic conditions that give rise to emissions profiles, mitigation and stabilization scenarios implicitly or explicitly contain information about DES. In principle, each stabilization or mitigation scenario describes a particular future world, with particular economic, social, and environmental characteristics. Given the strong interactions between development, environment, and equity as aspects of a unified socio-ecological system and the interplay between climate policies and DES policies, emissions scenarios are viewed in this report as an aspect of broad sustainable development scenarios.</p>
+			<p id="p21">The allocation of emissions in a scenario is coupled closely to an important policy question in climate negotiations: the fair distribution of future emission rights among nations, or “burden sharing”. For example, an egalitarian formulation of the rights of developing countries to future “climate space” is often expressed in terms of equal per capita emissions allocations. Alternative assumptions on burden sharing have important implications for equity, sustainable development, and the economics of emissions abatement. However, it is noteworthy that this critical conditioning variable is usually not explicitly treated in mitigation scenarios in the literature (see section 2.3 ). Indeed, documentation of scenarios generally does not address the implications of the scenarios for equity and burden sharing. In rare cases, mitigation scenarios have been developed which explicitly impose the simultaneous co-constraints of climate and equity goals (e.g., Raskin et al., 1998).</p>
+			<p id="p22">In this and other ways scenario analysis could become an important way of linking DES issues to climate policy considerations. However, as discussed in more detail in section 2.4 , many quantitative mitigation and stabilization scenarios have not been designed with this purpose in mind. As a result, it is not always easy to draw out the DES implications of particular stabilization and mitigation scenarios.</p>
+			<p id="p23">Although this chapter focuses on mitigation and stabilization scenarios, it is important to note that DES issues are also implicit in the base case or reference scenarios that underlie mitigation and stabilization scenarios. Since the difference between reference case scenarios and stabilization and mitigation scenarios is simply the addition of deliberate climate policy, it can be the case that the DES differences among different reference case scenarios are greater than between any one such scenario and its stabilization or mitigation version. This is of particular relevance in the discussion below in section 2.5.2 of scenarios based on the baselines produced in the IPCC’s SRES (Nakicenovic et al., 2000).</p>
+		</body>
+	</text>
+</cesDoc>

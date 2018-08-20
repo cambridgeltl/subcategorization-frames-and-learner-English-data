@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ministerio de Medio Ambiente y Medio Rural y Marino:Sea and Coast Waters:Protección del Medio Marino:Biodiversity</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ministerio de Medio Ambiente y Medio Rural y Marino:Sea and Coast Waters:Protección del Medio Marino:Biodiversity</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:36:13.0</pubDate>
+							<eAddress>http://www.mma.es/portal/secciones/aguas_marinas_litoral/prot_medio_marino/biodiversidad/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>KEYWORDS_AGUAS_MARINAS_LITORAL</keyTerm>
+					<keyTerm>Sea and Coast Waters</keyTerm>
+					<keyTerm>Protección del Medio Marino</keyTerm>
+					<keyTerm>Biodiversity</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/6906.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Biodiversidad Marina</p>
+			<p id="p2">Las principales líneas de trabajo de protección de la biodiversidad marina que históricamente se han desarrollado se engloban en dos grupos: la conservación de las especies, y la conservación de los lugares de especial valor ecológico.</p>
+			<p id="p3">El primer grupo podría englobar la creación de listas de especies protegidas y el posterior desarrollo de planes de conservación, así como el establecimiento de cuotas y cupos de capturas para las especies de interés comercial.</p>
+			<p id="p4">Por otro lado, la protección de zonas de alto valor ecológico tiene su máximo exponente en el establecimiento de Áreas Marinas Protegidas, consideradas desde un punto de vista holístico y gestionadas mediante una aproximación ecosistémica. Esta medida, que es la más coherente desde un punto de vista ecológico, se desarrolla sin menoscabo del establecimiento de medidas sectoriales, como la creación de Reservas Marinas de interés pesquero o de Áreas Especiales para la Navegación (estas últimas bajo el amparo de la Organización Marítima Internacional).</p>
+			<p id="p5">En España actualmente no existe una legislación específica en materia de protección de espacios o especies marinas, aunque la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad, como norma básica sobre biodiversidad, ha dado un paso importante respecto a la anterior legislación, en cuanto que toma en consideración, de un modo específico, la biodiversidad marina, y establece unas normas básicas que regirán el futuro en los próximos años.</p>
+			<p id="p6">Además de la necesidad de realizar un Inventario del Patrimonio Natural y de la Biodiversidad, así como de un Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad (incluyendo tanto el patrimonio terrestre como el marino), la Ley establece un Catálogo Español de Hábitats en Peligro de Desaparición, donde se incluirán aquellos tipos de hábitats cuya conservación o restauración requieran medidas específicas.</p>
+			<p id="p7">La Ley crea el Listado de Especies Silvestres en Régimen de Protección Especial y, dentro del mismo, el Catálogo Español de Especies Amenazadas , donde se incluirán especies o taxones dentro de las categorías “en peligro de extinción” y “vulnerable”.</p>
+			<p id="p8">Respecto a protección de áreas marinas, la norma establece una nueva figura de protección de los espacios naturales, junto con los Parques, Reservas, Monumentos Naturales y Paisajes Protegidos, que son las “Áreas Marinas Protegidas”. También establece un régimen especial para la Red Ecológica Europea Natura 2000, que se constituye por las Zonas Especiales de Conservación (ZEC) y las Zonas de Especial Protección para las Aves (ZEPA).</p>
+			<p id="p9">En cuanto a competencias, la Ley establece que corresponde a la Administración General del Estado, a través del Ministerio de Medio Ambiente, y Medio Rural y Marino, el ejercicio de las funciones administrativas a las que se refiere la ley, respetando lo dispuesto en los Estatutos de Autonomía de las comunidades autónomas del litoral, en los siguientes supuestos:</p>
+			<p id="p10">Cuando se trate de espacios, hábitats o áreas críticas situados en áreas marinas bajo soberanía o jurisdicción nacional, siempre que no exista continuidad ecológica del ecosistema marino con el espacio natural terrestre objeto de protección, avalada por la mejor evidencia científica existente.</p>
+			<p id="p11">Cuando afecten, bien a especies cuyos hábitats se sitúen en los espacios a que se refiere el párrafo anterior, bien a especies marinas altamente migratorias.</p>
+			<p id="p12">Cuando, de conformidad con el derecho internacional, España tenga que gestionar espacios situados en los estrechos sometidos al derecho internacional o en alta mar.</p>
+		</body>
+	</text>
+</cesDoc>

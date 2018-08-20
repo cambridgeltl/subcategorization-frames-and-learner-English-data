@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Gerencie.com | Periodo de pago en el contrato de trabajo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Gerencie.com | Periodo de pago en el contrato de trabajo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:17:48.0</pubDate>
+							<eAddress>http://www.gerencie.com/periodo-de-pago-en-el-contrato-de-trabajo.html?replytocom=16852</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>contrato de trabajo</keyTerm>
+					<keyTerm>derecho laboral</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/1281.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Periodo de pago en el contrato de trabajo</p>
+			<p id="p2">En un contrato de trabajo se puede pactar distintos periodos, siempre que no sea un periodo superior a un mes.</p>
+			<p id="p3">Es así como se pueden pactar periodo de pagos diarios, semanales, quincenales y mensuales, pero nunca más de un mes.</p>
+			<p id="p4">Así se desprende lo expresado en el artículo 134 del código sustantivo del trabajo:</p>
+			<p id="p5">1. El salario en dinero debe pagarse por períodos iguales y vencidos, en moneda legal. El período de pago para los jornales no puede ser mayor de una semana, y para sueldos no mayor de un mes.</p>
+			<p id="p6">2. El pago del trabajo suplementario o de horas extras y el del recargo por trabajo nocturno debe efectuarse junto con el salario ordinario del período en que se han causado, o a más tardar con el salario del período siguiente.</p>
+			<p id="p7">Existe la excepción para las horas extras y el recargo nocturno, caso en el cual se pueden pagar en el periodo siguiente, de modo que cuando se ha pactado un periodo de un mes, para estos conceptos la ley permite pagarlos a los dos meses.</p>
+			<p id="p8">Claro que la realidad de muchos trabajadores es que pactan un periodo mensual pero les pagan a los dos o tres meses, y el trabajador, por temor a ser despedido no presenta ninguna reclamación.</p>
+			<p id="p9">Artículos relacionados</p>
+			<p id="p10">Documento anterior:</p>
+			<p id="p11">alexander asprilla</p>
+			<p id="p12">Opinar</p>
+			<p id="p13">En Gerencie.com está permitido opinar, criticar, discutir, controvertir, disentir, etc. Lo que no está permitido es insultar o escribir palabras ofensivas o soeces. Si lo hace, su comentario será rechazado por el sistema o será eliminado por el administrador. Por último, trate de no escribir en mayúscula sostenida, resulta muy difícil leerle.</p>
+			<p id="p14">Lo nuevo en Gerencie.com:</p>
+		</body>
+	</text>
+</cesDoc>

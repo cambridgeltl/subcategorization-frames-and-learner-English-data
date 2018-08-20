@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Modelos de Contratos</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Modelos de Contratos</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2005-07-26 17:33:30.0</pubDate>
+							<eAddress>http://www.graduados.unlp.edu.ar/asContable/modelos_contrato.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/81409.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Modelo contrato a plazo fijo</p>
+			<p id="p2">En la ciudad de nombre de la ciudad, a los Fecha de hoy, se acuerda entre la Empresa xxxx S.A. representada por el Lic. Apellido y nombres en su carácter de Apoderado, de aquí en mas la Empresa, con domicilio en la calle Domicilio legal, Piso, número departamento, localidad y el Sr. Apellido y Nombre con domicilio en Calle, Número, Localidad, Código Postal, de aquí en más el Empleado, celebrar el presente contrato a Plazo Fijo, de acuerdo a la normativa vigente de los artículos 90,92,93,94, 95 y concordantes de la Ley de Contrato de Trabajo N° 20.744.</p>
+			<p id="p3">1- El Sr. Apellido y Nombre ingresa el día Fecha de Ingreso en calidad de categoría profesional, para desarrollar tareas de Describir tareas que realizará hasta la fecha de finalización del presente Contrato que se fija para el día Fecha Fin de Contrato.</p>
+			<p id="p4">2- El horario a cumplir será de Horario y la remuneración convenida es de Remuneración en números y letras por todo concepto.</p>
+			<p id="p5">3- Se deja expresa constancia que al término del contrato habrá cesado la exigencia extraordinaria y transitoria que le da origen y que el Empleado recibirá, de acuerdo a los términos legales, la notificación del preaviso de acuerdo a los artículos 231, 232 y 233 de la Ley de C. T. no haciéndose acreedor a ninguna indemnización al término del mismo de acuerdo a lo dispuesto en el articulo 250 in fine de la Ley de C. T.</p>
+			<p id="p6">4- En el caso que el Empleado no cumpliera fielmente sus obligaciones o incurriera en faltas, actitudes o conductas perjudiciales a la empresa está podrá declarar rescindido el presente contrato antes de la fecha estipulada sin ninguna obligación indemnizatoria.</p>
+			<p id="p7">En prueba de conformidad a las cláusulas anteriores se firman dos ejemplares del mismo tenor y a un solo efecto, en el lugar y fecha indicados en el encabezamiento.</p>
+			<p id="p8">__________________</p>
+			<p id="p9">Modelo de Contrato de trabajo por temporada</p>
+			<p id="p10">En la ciudad de nombre de la ciudad, a los Fecha de hoy, se acuerda entre la Empresa xxxx S.A. representada por el Lic. Apellido y nombres en su carácter de Apoderado, de aquí en mas la Empresa, con domicilio en la calle Domicilio legal, Piso, número departamento, localidad y el Sr. Apellido y Nombre con domicilio en Calle, Número, Localidad, Código Postal, de aquí en más el Empleado, celebrar el presente contrato de TRABAJO POR TEMPORADA, de acuerdo a la normativa vigente de los artículos 96, 97, 98 de la Ley de Contrato de Trabajo N° 20.744 y los art. XXXX, del Convenio colectivo de Trabajo N° XXXX y concordantes que regulan la actividad.</p>
+			<p id="p11">El Sr. Apellido y Nombre ingresa el día Fecha de Ingreso en calidad de categoría profesional, para desarrollar tareas de por el periodo de temporada Describir tareas que realizará hasta la fecha de finalización de la temporada que se fija para el día Fecha Fin de Temporada.</p>
+			<p id="p12">El horario a cumplir será de Horario y la remuneración convenida es de Remuneración en números y letras por todo concepto.</p>
+			<p id="p13">Se deja expresa constancia que al término de la temporada habrá cesado la</p>
+			<p id="p14">Necesidad de prestación de servicios, pero no la relación de dependencia que se extiende por tiempo indeterminado y que el Empleado en el mismo acto, se compromete a reincorporarse al comienzo de la temporada entrante, previa comunicación de la Empresa. De no presentarse a prestar servicios se entenderá que no tiene intención de continuar la relación laboral la cual extinguirá unilateralmente la relación laboral, no haciéndose acreedor a ninguna indemnización.</p>
+			<p id="p15">En el caso que el Empleado no cumpliera fielmente sus obligaciones o incurriera en faltas, actitudes o conductas perjudiciales a la empresa está podrá declarar rescindido el presente contrato antes de la fecha estipulada sin ninguna obligación indemnizatoria.</p>
+			<p id="p16">En prueba de conformidad a las cláusulas anteriores se firman dos ejemplares del mismo tenor y a un solo efecto, en el lugar y fecha indicados en el encabezamiento.</p>
+			<p id="p17">__________________</p>
+			<p id="p18">Modelo de Contrato de trabajo a tiempo parcial</p>
+			<p id="p19">En la ciudad de nombre de la ciudad, a los Fecha de hoy, se acuerda entre la Empresa xxxx S.A. representada por el Lic. Apellido y nombres en su carácter de Apoderado, de aquí en mas la Empresa, con domicilio en la calle Domicilio legal, Piso, número departamento, localidad y el Sr. Apellido y Nombre con domicilio en Calle, Número, Localidad, Código Postal, de aquí en más el Empleado, celebrar el presente contrato de Trabajo a Tiempo Parcial, de acuerdo a la normativa vigente de los artículos 92 tercero, 94, y concordantes de la Ley de Contrato de Trabajo N° 20.744.</p>
+			<p id="p20">El Sr. Apellido y Nombre ingresa el día Fecha de Ingreso en calidad de categoría profesional, para desarrollar tareas de Describir tareas.</p>
+			<p id="p21">El horario a cumplir será de Horario (siempre inferior a las 2/3 partes de la jornada normal) y la remuneración convenida es de Remuneración en números y letras por todo concepto.</p>
+			<p id="p22">En el caso que el Empleado no cumpliera fielmente sus obligaciones o incurriera en faltas, actitudes o conductas perjudiciales a la empresa está podrá declarar rescindido el presente contrato sin ninguna obligación indemnizatoria.</p>
+			<p id="p23">En prueba de conformidad a las cláusulas anteriores se firman dos ejemplares del mismo tenor y a un solo efecto, en el lugar y fecha indicados en el encabezamiento.</p>
+			<p id="p24">__________________</p>
+		</body>
+	</text>
+</cesDoc>

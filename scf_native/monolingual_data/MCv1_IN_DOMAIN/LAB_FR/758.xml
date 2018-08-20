@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:38.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=1584</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/758.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">Les conditions d’accès</p>
+			<p id="p4">Le droit individuel à la formation (DIF) s’applique au salarié titulaire d’un contrat de travail à durée déterminée ou indéterminée. En revanche, les salariés en contrat d’apprentissage ou de professionnalisation sont exclus de ces dispositions.</p>
+			<p id="p5">Contrat de travail à durée indéterminée</p>
+			<p id="p6">Le salarié ayant un contrat de travail à durée indéterminée bénéficie, sous réserve d’une ancienneté d’au moins un an, d’un droit individuel à la formation d’une durée de 20 heures chaque année (article L.6323-1 du code du travail). Cependant, une convention ou un accord collectif peut envisager une durée supérieure. Cette durée sera calculée en proportion du temps travaillé pour le salarié à temps partiel (article L.6323-2 du code du travail).</p>
+			<p id="p7">Exemple : Un salarié travaillant 25 heures hebdomadaires obtient dans le cadre du DIF : 25h / 35h X 20h = 14,28 heures</p>
+			<p id="p8">Contrat de travail à durée déterminée</p>
+			<p id="p9">Le salarié en CDD bénéficie du DIF, en proportion du temps travaillé, à l’issue d’un délai (article L.6323-3 du code du travail). Il doit en effet avoir travaillé au moins 4 mois (consécutifs ou non) dans les 12 derniers mois.</p>
+			<p id="p10">Exemple : Un salarié ayant travaillé 8 mois, obtient dans le cadre du DIF :</p>
+			<p id="p11">20h X 8 / 12 = 13,33 heures</p>
+			<p id="p12">Le cumul des droits acquis</p>
+			<p id="p13">Les droits acquis chaque année font l’objet d’un cumul sur une durée de 6 ans, soit 120 heures maximum. Ce plafond s’applique également au salarié à temps partiel (article L.6323-5 du code du travail). Toutefois, une convention, un accord collectif de branche ou d’entreprise peut décider d’une durée plus élevée (article L.6323-6 du code du travail). Dans l’éventualité où le salarié n’utilise pas son cumul, celui-ci reste plafonné. En revanche, les heures de formation accomplies dans le cadre du DIF sont déduites de ces droits acquis. Il peut de nouveau acquérir des droits chaque année, dans la limite des 120 heures.</p>
+			<p id="p14">Exemple : Un salarié utilise 85 heures de formation dans son cumul. Il lui reste 35 heures. Il peut de nouveau obtenir des droits à hauteur de 120 heures.</p>
+			<p id="p15">Pour le calcul des droits dans le cadre du DIF, certaines périodes d’absences du salarié sont intégralement prise en compte (article L.6323-2 du code du travail) :</p>
+			<p id="p16">- congé maternité et d’adoption ;</p>
+			<p id="p17">- congé de présence parentale (nécessitant de s'occuper d'un enfant à charge gravement malade, handicapé ou accidenté);</p>
+			<p id="p18">- congé de soutien familial (permettant s’occuper d’un proche malade ou handicapé) ;</p>
+			<p id="p19">- congé parental d’éducation.</p>
+			<p id="p20">Information annuelle sur le cumul</p>
+			<p id="p21">Chaque année, par écrit, l’employeur informe chaque salarié du total de ses droits acquis au titre du DIF. Le salarié en CDD est également concerné par cette mesure (article L.6323-7 du code du travail). Cette information est communiquée sur le bulletin de paie ou sur un relevé distinct.</p>
+			<p id="p22">Mention du cumul dans le certificat de travail</p>
+			<p id="p23">Depuis le décret du 18 janvier 2010 (décret n°2010-64), le certificat de travail contient dans les mentions exclusives (article D1234-6 du code du travail) :</p>
+			<p id="p24">le solde du nombre d’heures acquises au titre du droit individuel à la formation et non utilisées mais également la somme correspondant à ce solde ;</p>
+			<p id="p25">l’organisme collecteur paritaire agréé compétent pour verser la somme prévue au 2° de l’article L.6323-18 du code du travail.</p>
+			<p id="p26">La mise en œuvre</p>
+			<p id="p27">La mise en œuvre du DIF se fait sur l’initiative du salarié, avec accord de l’employeur. A défaut de texte sur le formalisme de la demande du salarié, un écrit est conseillé (en recommandé avec AR). Il doit préciser les informations utiles comme le type de formation, sa durée, son coût.</p>
+			<p id="p28">Le choix de la formation</p>
+			<p id="p29">Le choix de la formation peut faire l’objet de priorités, sans que cela constitue une obligation pour le salarié. Ces priorités peuvent être définies par convention, accord collectif de branche ou d’entreprise (article L.6323-8 du code du travail).</p>
+			<p id="p30">A défaut, ces priorités peuvent être formalisées par un accord collectif conclu entre les organisations représentatives d’employeurs et les organisations syndicales de salariés signataires d’un accord constitutif d’un organisme collecteur paritaire des fonds de la formation professionnelle continue à compétence interprofessionnelle.</p>
+			<p id="p31">A défaut, les actions de formation relèvent :</p>
+			<p id="p32">- d’actions de promotion qui consentent l’acquisition d’une qualification plus élevée (3° de l’article L.6313-1 du code du travail) ;</p>
+			<p id="p33">- d’actions d’acquisition, d’entretien, de perfectionnement des connaissances (6° de l’article L.6313-1 du code du travail) ;</p>
+			<p id="p34">- d’actions de qualification pour acquérir une certification reconnue (article L.6314-1 du code du travail).</p>
+			<p id="p35">L’accord ou le refus de l’employeur</p>
+			<p id="p36">Accord de l’employeur</p>
+			<p id="p37">L’employeur doit donner son accord sur le choix de l’action de formation. Il dispose d’un délai d’un mois pour répondre au salarié qui a sollicité son accord pour exercer son droit au titre du DIF. Attention, l’absence de réponse dans ce délai vaut acceptation du choix de l’action de formation proposée par le salarié (articles L.6323-9 et L.6223-10 du code du travail).</p>
+			<p id="p38">Le choix de l’action de formation envisagée est ensuite arrêté par écrit du salarié et de l’employeur.</p>
+			<p id="p39">Refus de l’employeur</p>
+			<p id="p40">En cas de refus de l’employeur, le salarié peut renouveler ultérieurement sa demande. Cependant, quand le salarié et l’employeur sont en désaccord sur deux exercices civils consécutifs, l’organisme collecteur paritaire agréé au titre du CIF (Congé individuel de formation) assure par priorité la prise en charge financière de l’action de formation (article L.6323-12 du code du travail). La formation doit néanmoins correspondre aux priorités et aux critères établis par cet organisme. Dans l’éventualité où celui-ci accepte, l’employeur doit verser le montant de l’allocation de formation qui correspond aux droits acquis par le salarié au titre du DIF ainsi que les frais de formation. Ceux-ci sont calculés sur la base forfaitaire applicable au contrat de professionnalisation. La formation est alors effectuée dans le cadre du CIF.</p>
+			<p id="p41">La rémunération et la protection sociale</p>
+			<p id="p42">Les actions de formation se déroulent en dehors du temps de travail. Néanmoins, une convention, un accord collectif de branche ou d’entreprise peut les prévoir en partie pendant le temps de travail (article L.6323-11 du code du travail).</p>
+			<p id="p43">Quand c’est le cas, ces heures constituent du temps de travail effectif et ouvrent droit au maintien de la rémunération du salarié par l’entreprise (article L.6323-13 du code du travail). Celles réalisées hors du temps de travail font l’objet du versement d’une allocation de formation par l’employeur (article L.6323-14 du code du travail). Son montant, qui n’est pas soumis à cotisations sociales (patronales et salariales) ainsi qu’à la CSG (Contribution Sociale Généralisée) et à la CRDS (Contribution au Remboursement de la Dette Sociale), correspond à 50 % de la rémunération nette de référence du salarié intéressé. Le salaire horaire de référence s’obtient en divisant la totalité des rémunérations nettes versées sur les 12 mois précédant le début de la formation par le nombre d’heures rémunérées au cours de ces 12 derniers mois.</p>
+			<p id="p44">En outre, dans le cadre du droit individuel à la formation, le salarié bénéficie de la protection en matière d’accidents du travail et de maladies professionnelles du régime de sécurité sociale pendant la durée de la formation (article L.6323-15 du code du travail).</p>
+			<p id="p45">La prise en charge des frais de formation</p>
+			<p id="p46">Comme l’allocation de formation, les frais de formation sont à la charge de l’employeur. Il a la possibilité de s’en acquitter en utilisant un titre spécial de paiement émis par des entreprises spécialisées (article L.6323-16 du code du travail) mais sa mise en œuvre, par accord de branche, est en attente d’un décret.</p>
+			<p id="p47">Cependant, lorsque le contrat de travail est à durée déterminée, l’organisme collecteur paritaire agréé au titre du CIF, pour les entreprises de dix salariés et plus, assure la prise en charge des frais de formation, de transport, d’hébergement et de l’allocation de formation du salarié concerné (article L.6323-3 du code du travail).</p>
+			<p id="p48">Transfert du DIF</p>
+			<p id="p49">En cas de démission : le salarié peut solliciter le bénéfice de son DIF, sous réserve que l’action de bilan de compétence, de validation des acquis de l’expérience (VAE), de formation, soit engagée avant la fin du préavis (article L.6323-19 du code du travail).</p>
+			<p id="p50">Dans le cadre d'un licenciement : la lettre de licenciement informe le salarié de ses droits au titre du DIF et de la possibilité d’une demande pendant le préavis (article L6323-18 du code du travail).</p>
+			<p id="p51">Dans cette éventualité, le DIF est transférable sauf si celui-ci intervient pour une faute grave ou une faute lourde. Le montant de l’allocation de formation qui correspond aux heures acquises (qui n’ont pas été utilisées) est calculé sur la base du salaire net perçu par le salarié avant qu’il quitte l’entreprise (article L6323-17 du code du travail).</p>
+			<p id="p52">En pratique, le salarié fait une demande auprès de son employeur avant la fin de son préavis. Les sommes correspondantes concèdent le financement, en tout ou en partie, d’une action de :</p>
+			<p id="p53">- bilan de compétence ;</p>
+			<p id="p54">- formation.</p>
+			<p id="p55">En l’absence de demande, le montant du DIF n’est pas dû par l’employeur.</p>
+			<p id="p56">Lors du départ à la retraite : dans cette éventualité, le DIF n’est pas transférable (article L.6323-20 du code du travail). En conséquence, le salarié perd ses droits acquis.</p>
+			<p id="p57">Martial Mecquignon, juriste</p>
+			<p id="p58">ACCEDER A VOTRE CONVENTION COLLECTIVE</p>
+		</body>
+	</text>
+</cesDoc>

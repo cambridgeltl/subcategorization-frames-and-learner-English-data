@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Las medidas contra la deforestación reducirían un 80% la extinción de especies | Ciencia | elmundo.es</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Las medidas contra la deforestación reducirían un 80% la extinción de especies | Ciencia | elmundo.es</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:27:27.0</pubDate>
+							<eAddress>http://www.elmundo.es/elmundo/2010/11/30/ciencia/1291141670.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Cómo</keyTerm>
+					<keyTerm>reducir</keyTerm>
+					<keyTerm>extinción</keyTerm>
+					<keyTerm>especies</keyTerm>
+					<keyTerm>Ciencia</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/17887.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Las medidas contra la deforestación reducirían un 80% la extinción de especies</p>
+			<p id="p2">Cancún debate el plan de reducción de emisiones de deforestación (REED+)</p>
+			<p id="p3">El instituto Conservation International (CI) presenta un informe sobre el tema</p>
+			<p id="p4">El índice de extinción de especies bajaría entre un 46 y un 80% en cinco años</p>
+			<p id="p5">Efe | Cancún (México)</p>
+			<p id="p6">El índice de extinción de anfibios, aves y mamíferos que habitan los bosques podría bajar en un 80% en cinco años si se aprobara el plan de reducción de emisiones de deforestación y degradación (REED+) que se debate en la Conferencia de la ONU sobre Cambio Climático .</p>
+			<p id="p7">Así lo indica un informe de los investigadores del instituto Conservation International (CI) difundido este martes durante la Cumbre del Clima que se desarrolla en Cancún hasta el próximo 10 de diciembre.</p>
+			<p id="p8">"Si se contara con la financiación necesaria para apoyar la reducción de emisiones resultante de la deforestación" los índices de extinción de miles de especies de anfibios, aves y mamíferos que habitan los bosques podrían reducirse entre un 46 y un 80% en cinco años, dijeron los expertos.</p>
+			<p id="p9">Según el estudio, con un marco de financiación de REDD + de entre 28.000 a 31.000 millones de dólares, que constituiría un escenario de financiación completo, la reducción de los índices de extinción podría ser del 78 al 82%.</p>
+			<p id="p10">En un escenario de financiación mínimo, estimado entre 5.000 a 6.000 millones, la reducción de la extinción sería del 43 al 49%.</p>
+			<p id="p11">Las especies tropicales, en grave peligro</p>
+			<p id="p12">El estudio considera que las especies de bosques tropicales, que forman aproximadamente dos tercios de todas las especies terrestres conocidas, están cada vez más amenazadas por la deforestación ocasionada por la conversión de los suelos y la consecuente pérdida de hábitat.</p>
+			<p id="p13">Mientras tanto, se estima que el desbroce y la quema de los bosques tropicales contribuyen con alrededor del 15% de todas las emisiones de gases de efecto invernadero responsables del cambio climático.</p>
+			<p id="p14">"Lo que esta investigación nos dice es que REDD+ puede ser una solución para la protección de nuestro clima y la preservación de la biodiversidad en la que todos salen ganando", dijo el científico Jonah Busch, autor principal del informe, y economista climático y forestal de Conservation International.</p>
+			<p id="p15">"Mayor financiación conducirá a mayores reducciones en la deforestación, mayor almacenamiento de carbono en los bosques, y mayores beneficios para la biodiversidad", añadió Busch, para quien "todos están entrelazados".</p>
+			<p id="p16">Para Will Turner, coautor del informe, REDD+ puede ser una parte importante de la solución a dos de los desafíos más grandes de la humanidad, la pérdida de biodiversidad y el cambio climático.</p>
+			<p id="p17">"De ser adecuadamente financiado, REDD+ será una línea vital inmediata para la biodiversidad global de la que todos dependemos, y es una de las herramientas más fácilmente disponibles para reducir las emisiones de gases de efecto invernadero", añadió Turner.</p>
+			<p id="p18">El documento concluye con un llamamiento a los participantes y observadores de las negociaciones climáticas en Cancún a que colaboren y aseguren que las negociaciones den como resultado un mecanismo REDD+ que sea completamente financiado, y diseñado para incentivar una amplia participación.</p>
+			<p id="p19">Compartir</p>
+		</body>
+	</text>
+</cesDoc>

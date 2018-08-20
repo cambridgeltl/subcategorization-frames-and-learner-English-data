@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:43.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=627</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/789.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">Les règles relatives au droit individuel à la formation</p>
+			<p id="p4">Le Droit Individuel à la Formation (le DIF) a été mis en place par la loi du 4 mai 2004 relative à la formation professionnelle.</p>
+			<p id="p5">Ce dispositif permet aux salariés de disposer chaque année d’un crédit de 20 heures de formation, cumulable sur 6 années, dans la limite de 120 heures.</p>
+			<p id="p6">Les salariés pouvant bénéficier du DIF sont : </p>
+			<p id="p7">- les salariés engagés à temps plein sous contrat à durée indéterminée ayant au moins 1 an d’ancienneté, </p>
+			<p id="p8">- les salariés engagés sous contrat à durée déterminée ayant au moins 4 mois d’ancienneté, consécutifs ou non, au cours des 12 derniers mois (les droits seront dans cette hypothèse acquis au prorata temporis et l’employeur devra en informer le salarié dès que ses droits seront ouverts), </p>
+			<p id="p9">- les salariés engagés sous contrat à durée indéterminée à temps partiel (les droits seront dans ce cas calculés au prorata temporis).</p>
+			<p id="p10">Sont exclus des dispositions sur le DIF : </p>
+			<p id="p11">- les titulaires de contrat d’apprentissage, </p>
+			<p id="p12">- les titulaires de contrat de professionnalisation à durée indéterminée.</p>
+			<p id="p13">Chaque année, l’employeur est tenu d’informer le salarié par écrit du total des droits qu’il a acquis au titre du DIF.</p>
+			<p id="p14">En principe, le droit individuel à la formation se déroule en dehors du temps de travail : le salarié a alors droit à une allocation de formation versée par l’employeur égale à 50 % de la rémunération nette de référence du salarié.</p>
+			<p id="p15">Cependant, il est possible qu’une convention ou qu’un accord collectif de branche ou d’entreprise prévoie que le DIF puisse s’exercer pendant le temps de travail : dans cette hypothèse, la rémunération du salarié est maintenue.</p>
+			<p id="p16">Dans tous les cas de figure, l’employeur conserve à sa charge les frais de formation qu’il imputera sur la participation à la formation professionnelle continue.</p>
+			<p id="p17">Enfin, à l’occasion du licenciement du salarié (sauf faute grave ou faute lourde) l’employeur a l’obligation d’informer le salarié dans sa lettre de licenciement qu’il a la possibilité de demander, pendant son préavis, à bénéficier d’une action de bilan de compétence, de validation des acquis, de l’expérience ou de formation.</p>
+			<p id="p18">Novembre 2005</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Change 2001: Mitigation</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Change 2001: Mitigation</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-10-10 17:06:30.0</pubDate>
+							<eAddress>http://www.grida.no/climate/ipcc_tar/wg3/163.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/1272.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">4.2.4 Changes in Global Climate and Other Indirect Human Effects</p>
+			<p id="p2">Evaluating the long-term outcome of carbon mitigation activities will require estimating how carbon reservoirs will change in the future. Carbon stocks sequestered through mitigation activities today may be more or less secure, depending on how the environment changes and how society adapts to those changes. Estimating future C stocks in ecosystems is complicated by our inability to predict the magnitude and impact of impending changes in the environment. Some of the possible changes favour larger C stocks; others would lead to smaller stocks. The impact of global climate change on future C stocks is particularly complex. These changes may result in both positive and negative feedbacks on C stocks (Houghton et al., 1998). For example, increases in atmospheric CO</p>
+			<p id="p3">2</p>
+			<p id="p4">are known to stimulate plant yields, either directly or via enhanced water-use efficiency, and thereby to enhance the amount of C added to soils (Schimel, 1995; Woodwell et al., 1998). Higher CO</p>
+			<p id="p5">2</p>
+			<p id="p6">concentrations may also suppress decomposition of stored C, because C/N ratios in residues may increase and because more C may be allocated below ground (Owensby, 1993; Morgan et al., 1994; Van Ginkel et al., 1996; Torbert et al., 1997). Predicting the long-term influence of elevated CO</p>
+			<p id="p7">2</p>
+			<p id="p8">concentrations on the C stocks of forest ecosystems remains a research challenge (Bolin et al., 2000; Prentice et al., 2001).</p>
+			<p id="p9">Where plant growth is now limited by nitrogen (N) deficiencies, increased deposition of N associated with intensified production of bio-available N (Schindler and Bayley, 1993; Vitousek et al., 1997) may accelerate plant growth. This may, eventually, enhance the carbon stock of the soil (Wedin and Tilman 1996). Nadelhoffer et al. (1999) caution, however, that the global impact of N deposition may be comparatively small. Moreover, where the N fertilization effect increases growth, especially in the N-deficient northern forests, it also delays the hardening-off process, resulting in increased winter damage, and thus negating some of the growth enhancement (Makipaa et al., 1999).</p>
+			<p id="p10">Increased soil temperatures associated with increased atmospheric CO</p>
+			<p id="p11">2</p>
+			<p id="p12">have long been expected to result in increased soil respiration (Schimel, 1995; Townsend and Rastetter, 1996; Woodwell et al., 1998). Data recently reported by Giardina and Ryan (2000), however, suggest that decomposition of organic carbon in mineral soil layers is relatively insensitive to changes in air temperature. Modelling studies by Liski et al. (1998) suggest similar results. Nevertheless, IPCC reviews (Bolin et al., 2000; Prentice et al., 2001) conclude that existing terrestrial C sinks may gradually diminish over time, in part because of increasing losses via respiration.</p>
+			<p id="p13">Over the long term, as climate gradually changes, the time scales for adaptation of ecosystems to climatic conditions will become important. Vegetation types (and other organisms) have adapted to the combination of site conditions, including climate, where they now occur. It cannot be assumed that tree growth will increase with climate change, or that the plant populations will remain optimally adapted to their current sites. Analysis of provenance (seed source) data, in the light of global change, indicates either no net increase in growth rate as a result of warming or small decreases in growth rate. Trees may be under more stress in a changed climate, leaving them more susceptible to insects and diseases.</p>
+			<p id="p14">Figure 4.6: Cumulative carbon changes for a scenario involving afforestation and harvest. These are net changes in that, for example, the diagram shows savings in fossil fuel emissions with respect to an alternative scenario that uses fossil fuels and alternative, more energy-intensive products to provide the same services (adapted from Marland and Schlamadinger, 1999).</p>
+			<p id="p15">The various processes of environmental change may occur over different time periods and with varying intensity at different locations. Ecosystems that initially absorb C in response to higher atmospheric CO</p>
+			<p id="p16">2</p>
+			<p id="p17">2</p>
+			<p id="p18">if increasing temperatures lead to enhanced decomposition and respiration (Cao and Woodward, 1998; Scholes et al., 1999). Fires and other disturbances could increase in frequency and intensity if temperatures increase and precipitation patterns change. The net impact of these, and other global changes, is an area of active research (e.g., Hungate et al., 1997; Kauppi et al., 1997; Norby and Cotrufo, 1998; Woodwell et al., 1998).</p>
+			<p id="p19">The effects of climate change on mitigation activities in the terrestrial biosphere are difficult to anticipate, as they are dependent on the timing and the specific spatial character and distribution of changes. Present climate scenarios are neither spatially nor temporally very precise, and averages over the scale of typical global circulation climate models are inadequate for estimating impacts on very specific, localized mitigation activities. Moreover, the responses of ecosystems are dependent on the ecological mechanisms, the climate change imposed, and the management responses to these factors. For example, planting of species adapted to present conditions may be inappropriate for future conditions and the species might grow more slowly under chronic climate change. Conversely, species planted for an anticipated future climate may not be able to survive current variations.</p>
+			<p id="p20">Climate change can also affect the economic and social dimensions of land use and forestry. Currently, productive lands may become less productive and less attractive for food and fibre production. The current patterns of land use and disturbance could change. Model results reported by Darwin et al. (1995, 1996) and others suggest, for example, that conversion from forestland to cropland is a significant adaptive response to climate change in some regions. Protection from fire or insect and/or disease predation, in boreal regions especially, may become increasingly hard to maintain. Reliable estimates of risks to, or enhancements of, mitigation activities carried out today will require increased understanding of the interactions between the important ecological, economic, and social impacts of climate change. As described in this chapter, the carbon stocks in terrestrial ecosystems respond to a combination of ecological, economic, and social drivers. That will not change even if the global environment changes.</p>
+		</body>
+	</text>
+</cesDoc>

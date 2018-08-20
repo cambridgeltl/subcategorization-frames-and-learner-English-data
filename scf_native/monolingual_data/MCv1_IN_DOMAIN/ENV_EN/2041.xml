@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2005-04-20 18:30:32.0</pubDate>
+							<eAddress>http://www.ace.mmu.ac.uk/Newsletter/0799.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/2041.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">NATIONAL AIR QUALITY STRATEGY CRITICISED.</p>
+			<p id="p2">More than 100 responses to the review of the National Air Quality Strategy have been received by DETR. There have been two common responses throughout; that the Strategy is over complicated and criticism over plans to relax the particulate matter (PM10) pollution objective.</p>
+			<p id="p3">The Environment Agency has described many of the proposals as "unnecessarily complicated and in places ambiguous and confusing". The National Society for Clean Air in particular have opposed plans to weaken the PM10 objective. NSCA believe this could "represent a serious retreat from health-based air quality objectives, calling into question the Government's commitment to improve air quality".</p>
+			<p id="p4">The National Air Quality Strategy Review was published in January 1999 and was expected to be widely accepted given that most objectives had been tightened. However, the critical responses may mean that the review proposals may not be implemented. The outcome of the Review is expected later this year.</p>
+			<p id="p5">Source: Air Quality Management, May 1999.</p>
+			<p id="p6">NEW POLLUTION INVENTORY LAUNCHED BY ENVIRONMENT AGENCY</p>
+			<p id="p7">Data on polluting industries can now be accessed on the Internet via the Environment Agency's site which includes a new Pollution Inventory. The Inventory shows emissions from all processes under integrated pollution control (IPC). It is possible to create league tables of polluters for different pollutants and to search the database by postcode, industry sector, company name or pollutant.</p>
+			<p id="p8">The inventory data for 1998 for England and Wales has been welcomed by Friends of the Earth who operate a similar database. The Swedish Environmental Protection Agency have stated that the Environment Agency's pollution inventory "far exceeds" the initial requirements for industrial installation emissions reporting contained in the EU's Integrated Pollution Prevention and Control (IPPC) Directive, which will apply to new industrial plants from November.</p>
+			<p id="p9">Environment Agency website: http://www.environment-agency.gov.uk</p>
+			<p id="p10">FIDDLERS FERRY TO GET FGD</p>
+			<p id="p11">Edison Mission Energy, a US power company, has bought two coal fired power stations, Fiddler's Ferry and Ferrybridge C, for £1.25 billion. Plans to invest £200 million in pollution control measures, including flue gas desulphurisation (FGD) have been announced by the new owners. However, Mission are not planning to completely retrofit all four 500MW units with FGD but may have some FGD capacity at each station.</p>
+			<p id="p12">The transfer from PowerGen to Mission will also involve the transfer of a portion of PowerGen's company-wide emission limit for sulphur dioxide, the amount is currently under discussion.</p>
+			<p id="p13">Source: ENDS Report 292, May 1999.</p>
+			<p id="p14">MILLENIUM STREETBOX</p>
+			<p id="p15">A new pollution monitoring device - the Learian streetbox - has been endorsed by the Government as a millenium product.</p>
+			<p id="p16">The box is suitable for monitoring roadside pollution, typically monitoring carbon monoxide, nitrogen dioxide, sulphur dioxide as well as meteorological parameters. The streetbox can operate for 400 days on its own batteries and is therefore useful for sites away from mains supplies and telephone links. Pollution levels are transmitted via a radio link up to five kilometres away. For further information contact Leardes (Tel: 01252 523292).</p>
+			<p id="p17">Source: Air Quality Management, May 1999.</p>
+			<p id="p18">OZONE LINKED TO LUNG CANCER &amp; ASTHMA</p>
+			<p id="p19">An American study which commenced in 1977 has shown a link between ozone pollution and lung cancer. Six thousand white non-smoking Seventh Day Adventists have been followed up on incidence of lung cancers. The exposure of persons to ozone and other pollutants was calculated using postcode-based pollution concentration maps and data of hours spent at work and home.</p>
+			<p id="p20">Strong correlations between ozone and lung cancer in males were found. Researchers believe this is because the males tended to spend much more time outdoors in the summer than the females, when ozone pollution is at its highest. Associations were found at concentrations of ozone as low as 80ppb.</p>
+			<p id="p21">In the same study, researchers claim to have found a causal link between ozone and asthma. Many studies have in the past shown that ozone aggravates asthma but not that it causes asthma. This study found a significant relationship between 20-year ozone exposures and newly reported cases of asthma in males but not in females. This suggests that cumulative exposure to low levels (60ppb) of ozone may be related to the development of new cases of asthma.</p>
+			<p id="p22">Source: Air Quality Management, May 1999.</p>
+			<p id="p23">BELFAST EMISSIONS MAINLY DOMESTIC</p>
+			<p id="p24">A study by the London Research Centre of the Greater Belfast Atmospheric Emissions Inventory has shown that domestic sources are responsible for high levels of sulphur dioxide. The Belfast area has traditionally relied on coal and oil for domestic heating although emissions of sulphur dioxide are likely to start decreasing as natural gas is becoming more widely available.</p>
+			<p id="p25">Road traffic was identified as the main source of carbon monoxide, nitrogen oxides and VOCs, similar to other large UK cities. (London Research Centre 0171 793 1965).</p>
+			<p id="p26">Source: Air Quality Management, May 1999.</p>
+			<p id="p27">CLIMATE CHANGE</p>
+			<p id="p28">GLOBAL TEMPERATURE INCREASES</p>
+			<p id="p29">During the last century the earth as a whole has been warming, but the Northern Hemisphere has experienced the greatest increase in temperature. This has been primarily linked to changes in atmospheric circulation that may be related to increasing greenhouse gases in the atmosphere.</p>
+			<p id="p30">Evidence that man-made emissions of greenhouse gases are responsible for increasing the temperature of the earth is now becoming available. A climate model at the Hadley Centre (Bracknell UK) has shown that temperature changes during this century cannot be explained by any combination of natural variability alone. It can be explained as the climate's response to the changes in man-made greenhouse gas emissions.</p>
+			<p id="p31">A continued temperature increase throughout the world could have profound effects. Ocean ecosystems are already being effected by climate change according to a report by the Marine Conservation Biology Institute and the World Wildlife Fund. The report suggests that an increase in ocean temperatures may be responsible for the rapid decline in Pacific Salmon over the last few years. Salmon metabolism increases as temperatures rise and this can lead to mortality in winter when food is scarce. It is thought that a doubling of carbon dioxide levels will remove all suitable habitats for the Pacific Salmon.</p>
+			<p id="p32">Source: Global Environmental Change Report, 11th June 1999</p>
+			<p id="p33">BIRDS AND BUTTERFLIES MOVE NORTH</p>
+			<p id="p34">According to a report in the 20th May issue of Nature (vol. 399, p. 23) the range of many British birds is expanding northwards. Chris Thomas and Jack Lennon of the University of Leeds found that the northern margins of southerly bird species have shifted northwards in the last 20 years by an average of 19 km.</p>
+			<p id="p35">The researchers believe that the explanation for this is climate related. The overall distribution of birds in the UK is correlated with temperature and the northerly shifts coincide with a period of climate warming.</p>
+			<p id="p36">European butterflies have been found to be experiencing a similar shift to UK birds according to a report in 10th June issue of Nature (Vol. 399, p. 579-583). Camille Parmesan of the National Centre for Ecological Analysis and Synthesis and colleagues studied 35 different species of butterflies. They found that 65% of the species had extended their ranges northwards over the past 30-100 years. 2% had shifted their boundary southwards and 34% had remained stable.</p>
+			<p id="p37">European temperature isotherms have shifted north by some 120 km over the period of analysis. From the research, it was concluded that the northward shifts represent responses to increased temperatures.</p>
+			<p id="p38">Source: Global Environmental Change Report, 28th May &amp; 11th June 1999.</p>
+			<p id="p39">IMPACTS OF AVIATION ON CLIMATE CHANGE AND OZONE</p>
+			<p id="p40">A new report published by the Intergovernmental Panel on Climate Change (IPCC) looks at the effects that the continued growth of the Global Aviation Industry could have on Global Climate Change. The growth could cause a fourfold increase in aviation's contribution to climate change by 2050. Aviation and the Global Environment examines the impacts of aircraft emissions on climate change and ozone depletion through a range of predicted growth scenarios.</p>
+			<p id="p41">Since 1960 airline passenger traffic has increased by 9% annually, slowing to 5% annually in recent years. IPCC predicts that it will continue to increase by 5% per year until 2015, when estimates become more uncertain.</p>
+			<p id="p42">In 1992, emissions of carbon dioxide (CO</p>
+			<p id="p43">2</p>
+			<p id="p44">2</p>
+			<p id="p45">2</p>
+			<p id="p46">emissions from aircraft will increase to 400 Mt per year, and account for 3% of man made emissions. By the year 2050, aircraft emissions of CO</p>
+			<p id="p47">2</p>
+			<p id="p48">could be anywhere between 230 and 1450 Mt, according to potential growth scenarios.</p>
+			<p id="p49">Nitrogen oxide (NOx) emissions are also predicted to increase with a growth in aviation. As NOx increases so do levels of tropospheric ozone, but levels of stratospheric ozone decrease.</p>
+			<p id="p50">Source: Global Environmental Change Report, 14th May 1999.</p>
+			<p id="p51">ENERGY</p>
+			<p id="p52">UK's FIRST STRAW-FIRED POWER STATION</p>
+			<p id="p53">The UK's first straw-fired power station is currently under construction and is due to become operational in September 2000. The £60 million facility will be the largest of its kind in the world, generating 271.5GWh of electricity every year. This is enough power to supply approximately 80,000 homes. The power station is being developed by a partnership between Energy Power Resources Ltd. and Cinergy Global Power. It will be sited in Sutton, near Ely in Cambridgeshire.</p>
+			<p id="p54">The facility will require 200,000 tonnes of straw every year, which will be produced by long-term agreements with farmers and contractors situated within a 50 mile radius. All straw will be supplied in Hesston bales and will have a moisture content under 25%. The straw will be transported by HGVs and placed in two barns with a total capacity of storing 2200 tones (enough for four days operation). The bales will then be shredded and fed into four burners where they will produce superheated steam that can be used for electricity generation.</p>
+			<p id="p55">The plant will have a lime scrubber and a baghouse filter system to neutralise emissions and the ash formed will be used in the production of agricultural fertiliser. There are plans for the waste heat produced to be used to supply local developments.</p>
+			<p id="p56">Source: New Review, May 1999.</p>
+			<p id="p57">THE RENEWABLES REVIEW</p>
+			<p id="p58">In March 1999, the UK Energy Minister, John Battle set out the Government's blueprint for the future development of renewables. £43 million will be spent over the next 3 years on research and the development of renewable energy. Mr. Battle said that the new paper "New and Renewable Energy - Prospects for 21st Century" shows that there is a great deal of potential for the use of renewables in the UK. At present only 2% of electricity in the UK is produced by renewables. With the Government's support it is hoped that this figure will rise to 5% by 2003 and 10% by 2010. This could lead to a reduction of 5 million tones of UK carbon dioxide emissions. This would make a valuable contribution to the UK climate change strategy.</p>
+			<p id="p59">Source: New Review, May 1999.</p>
+		</body>
+	</text>
+</cesDoc>

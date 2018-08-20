@@ -1,0 +1,2282 @@
+(
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 1v2)
+
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?z) (|passive| ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVN"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 2)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 74v3v4v160)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as"))          
+     ((get-lexicon-data '?x '?patterns '?grs)) 5)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|ccomp| ?w ?x ?v) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 6)
+
+    (((|csubj| ?x ?y |that|) (|dobj| ?x ?z))
+     (and (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 7)   
+
+    (((|xsubj| ?x ?y |inv|) (|dobj| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 8) 
+
+    (((|csubj| ?x ?y |inv|) (|dobj| ?x ?z))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 8) ;;; `for him to leave pleases me'
+
+    (((|ncsubj| ?x ?y _) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VV0")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 9)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?z) "VV0")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 10)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for")
+          (or (word-value (quote ?y) "it")
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 10) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VV0")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 11)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| ?c ?x ?z) (|ncsubj| ?z ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "to")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 12)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "to")
+          (pos-value (quote ?z) "VV0")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 13)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "to")
+          (or (word-value (quote ?y) "it")
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 13) ;;; parsercorr: preferred parse
+
+    (((|csubj| ?x ?y |that|) (|iobj| ?x ?z))
+     (and (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "to"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 14)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p)(|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VV0")
+	  (not (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+          (or (word-value (quote ?p) "for") 
+              (word-value (quote ?p) "with")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 15)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+	  (not (or (word-value (quote ?y) "it")
+              (word-value (quote ?y) "It")))
+          (or (word-value (quote ?p) "for")
+              (word-value (quote ?p) "with")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 15) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|arg_mod| _ ?z ?p) (|ccomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?p) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 16)
+
+    (((|ncsubj| ?x ?y _) (|objs| ?z ?p) (|ccomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?p) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 16)
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?p) (|xcomp| |to| ?p ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?p) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 17)
+
+    (((|ncsubj| ?x ?y _) (|xcomp| ?w ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VV0")
+          (not (symbol-equal (quote ?w) (quote |to|))))
+     ((get-lexicon-data '?x '?patterns '?grs)) 18v142) 
+
+    (((|ncsubj| ?x ?y _) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (or (word-value (quote ?y) "it") 
+                   (word-value (quote ?y) "It")))
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 112v111v110)
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 19v20v21)
+
+    (((|ncsubj| ?x ?y _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 22)
+
+    (((|ncsubj| ?x ?y _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-infix (quote ?y) "2") 
+              (word-value (quote ?y) "and")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 23) ;;; cld also be 22 so output as well
+
+    (((|ncsubj| ?x ?y _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 164)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 24v51)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 24)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p))
+     (and
+          (strict '?x '?patterns '?grs)
+          (word-value (quote ?p) "by")
+          (pos-start (quote ?x) "VV"))
+          ((get-lexicon-data '?x '?patterns '?grs)) 24) ;;; parsercorr: to deal with iobj over ncmod "by" pref
+
+     (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x))
+      (and
+       (strict '?x '?patterns '?grs)
+       (pos-start (quote ?x) "VV"))
+      ((get-lexicon-data '?x '?patterns '?grs)) 24)  ;;; parsercorr?
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) (|iobj| ?x ?p))
+     (and
+          (strict '?x '?patterns '?grs)
+          (word-value (quote ?p) "by")
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 24) ;;; parsercorr: to deal with iobj over ncmod "by" pref
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 25v26)  ;;; cld also have (ncsubj ?z ?n), passive too??
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 25v26)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 25v26)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?w) "N")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 29v30)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| _ ?n ?z) (|dobj| ?z ?w))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as")
+          (pos-start (quote ?w) "N"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 29v30) ;;; parsercorr: to deal with low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?w) "N")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 29v30)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                            (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?w) "N")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 29v30)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 31)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| _ ?n ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 31) ;;; parsercorr: to deal with low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 31)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?z) 
+                                        (|dobj| ?z ?w) (|iobj| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "for")
+          (word-value (quote ?p) "by"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 31) ;;; parsercorr: to deal with iobj over ncmod "by" pref
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                            (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 31)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?z) (|ncsubj| ?z ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 33v32)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 35v34v36)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xmod| _ ?n ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 35v34v36) ;;; parsercorr: to deal with low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 35v34v36)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?z) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 35v34v36)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "Q")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 37v38)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|objs| ?x ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 37v38)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) (|objs| ?x ?n))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 37v38)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|det| ?n ?d))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "S")
+          (word-value (quote ?d) "a"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 38) ;;; can we learn that this a high precision rule?
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|objs| ?x ?n) (|det| ?n ?d))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "S")
+          (word-value (quote ?d) "a"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 38) ;;; can we learn that this a high precision rule?
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                            (|objs| ?x ?n) (|det| ?n ?d))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "S")
+          (word-value (quote ?d) "a"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 38) ;;; can we learn that this a high precision rule?
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z) (|xcomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?z) "I")
+	  (not (word-value (quote ?z) "by")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 40v39v41v42)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| _ ?x ?z) (|xcomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?z) "I")
+	  (not (word-value (quote ?z) "by")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 40v39v41v42)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                         (|xcomp| _ ?x ?z) (|xcomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?z) "I")
+	  (not (word-value (quote ?z) "by")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 40v39v41v42)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?p) 
+                          (|ccomp| _ ?p ?w) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?w) "$"))
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 43)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| _ ?x ?p) 
+                          (|ccomp| _ ?p ?w) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 43)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|xmod| _ ?y ?x) 
+                     (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?w) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 43)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|cmod| _ ?n ?p) 
+                          (|ccomp| _ ?p ?w) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 43) ;;; parsercorr: to deal with low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| _ ?n ?p) 
+                          (|dobj| ?p ?w) (|xmod| _ ?w ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 43) ;;; parsercorr: low attchmt preference plus xmod analysis in lower clause
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?p) 
+                          (|ccomp| _ ?p ?w) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 44)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?p) 
+                          (|dobj| ?p ?v) (|det| ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 44)  ;;; parsercorr: iobj analysis with VVG as gerund
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|pcomp| ?x ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 45) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|pmod| ?n ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?z) "C") 
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 45) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|pcomp| ?x ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?z) "C") 
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 45)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|pcomp| ?x ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?z) "C") 
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 45)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|cmod| _ ?n ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|cmod| _ ?n ?v) 
+                                        (|dobj| ?p ?z) (|arg_mod| _ ?v ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46) ;;; parsercorr: low attchmt + `about what' preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|cmod| _ ?n ?v) 
+                                        (|dobj| ?p ?z) (|objs| ?v ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46) ;;; parsercorr: low attchmt + `about what' preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| _ ?x ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|ccomp| _ ?x ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 46)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?p) 
+                                        (|dobj| ?p ?z) (|xmod| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 47)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) 
+                                        (|dobj| ?p ?z) (|xmod| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 47)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|iobj| ?x ?p) 
+                                        (|dobj| ?p ?z) (|xmod| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 47)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|pcomp| ?x ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 48)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|pmod| ?n ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 48)  ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|pcomp| ?x ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 48)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|pcomp| ?x ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 48)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?p) (|dobj| ?p ?z))
+     (and 
+      (strict '?x '?patterns '?grs)
+      (pos-start (quote ?x) "VV")
+      (or (pos-start (quote ?n) "N") 
+	  (pos-start (quote ?n) "P"))
+      (or (pos-start (quote ?z) "N") 
+	  (pos-start (quote ?z) "P"))
+      (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 49v50)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?n ?p) (|dobj| ?p ?z))
+     (and 
+      (strict '?x '?patterns '?grs)
+      (word-value (quote ?p) "of")
+      (pos-start (quote ?x) "VV")
+      (pos-start (quote ?n) "N"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 50) ;;; parsercorr: low attchmt preference, ncmod and other preps?
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| _ ?n ?p) (|dobj| ?p ?z))
+     (and 
+      (strict '?x '?patterns '?grs)
+      (word-value (quote ?p) "on")
+      (pos-start (quote ?x) "VV")
+      (pos-start (quote ?n) "N"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 50) ;;; parsercorr: low attchmt preference
+
+;    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) (|dobj| ?p ?z))
+;    (and 
+;         (strict '?x '?patterns '?grs)
+;         (pos-start (quote ?x) "VV")
+;         (or (pos-start (quote ?n) "N") 
+;             (pos-start (quote ?n) "P"))
+;         (pos-start (quote ?p) "I"))
+;     () 49v50v118) ;;; causes error - why?
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                          (|iobj| ?x ?p) (|dobj| ?p ?z))
+     (and 
+      (strict '?x '?patterns '?grs)
+      (pos-start (quote ?x) "VV")
+      (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 49v50)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?s _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (not (or (word-value (quote ?y) "it") 
+                   (word-value (quote ?y) "It")))
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 52)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| ?c ?n ?v) (|ncsubj| ?v ?s _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-start (quote ?v) "V")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 52) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|cmod| ?a ?n ?v) (|ncsubj| ?v ?s _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-start (quote ?v) "V")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 52) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?s _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 52)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                         (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?s _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 52)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?s _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?n) "it") 
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 166) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| |to| ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (not (or (word-value (quote ?y) "it") 
+                   (word-value (quote ?y) "It")))
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 53v54v55)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xmod| |to| ?n ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 53v54v55) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 53v55)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 53v55)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?p) (|dobj| ?p ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (word-value (quote ?p) "to"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 56v49)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| _ ?n ?p) (|dobj| ?p ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (word-value (quote ?p) "to")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 56v49) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) (|dobj| ?p ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "to"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 56v49)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                          (|iobj| ?x ?p) (|dobj| ?p ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "to"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 56v49)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 57)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 57)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 57)
+
+    (((|ncsubj| ?x ?y _) (|ncsubj| _ ?v ?n) (|ccomp| _ ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (pos-value (quote ?v) "VVN"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 58)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|passive| ?v) (|xmod| _ ?n ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-value (quote ?v) "VVN")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 58) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 59)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| _ ?x ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 59)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                         (|ccomp| _ ?x ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 59)
+
+   (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 60)
+
+   (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 60)
+
+   (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                         (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 60)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 61)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xcomp| _ ?x ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 61)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                         (|xcomp| _ ?x ?z) (|xcomp| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 61)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|obj2| ?x ?z) (|xmod| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 62)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|objs| ?x ?z) (|xmod| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 62)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                          (|objs| ?x ?z) (|xmod| ?w ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 62)
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?p) (|xcomp| _ ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 63v64v75)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?n) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (not (pos-infix (quote ?n) "$"))
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 65)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+	  (not (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+          (pos-start (quote ?p) "I")
+	  (not (word-value (quote ?p) "for") ))
+     ((get-lexicon-data '?x '?patterns '?grs)) 67v66v68)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) (|xmod| ?w ?n ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (symbol-equal (quote ?w) (quote |to|))
+	  (not (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+          (pos-start (quote ?p) "I")
+	  (not (word-value (quote ?p) "for")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 67v66v68) ;;; parsercorr: low attachment pref
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?n) 
+                                            (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "$"))
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (or (pos-value (quote ?v) "VV0") (pos-value (quote ?v) "VD0") (pos-value (quote ?v) "VB0"))
+	  (not (or (word-value (quote ?y) "it") 
+               	   (word-value (quote ?y) "It")))
+          (pos-start (quote ?p) "I")
+	  (not (word-value (quote ?p) "for")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 67v66v68) ;;; parsercorr: preferred analysis
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?n) 
+                                            (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "$"))
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (or (pos-value (quote ?v) "VB0") (pos-value (quote ?v) "VVN"))
+	  (not (or (word-value (quote ?y) "it") 
+              (word-value (quote ?y) "It")))
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 68) ;;; pjb.  i think ncsubj is actually with the participle (vvn), not "be"
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?n) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?n) "$")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 69)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?v) (|det| ?v ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?n) "$")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 69)
+
+    (((|ncsubj| ?x ?y _) (|pcomp| ?x ?p) (|ccomp| _ ?p ?c))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?c) "C")
+          (or (pos-infix (quote ?c) "W") (word-value (quote ?c) "if"))
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 70)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|objs| ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?w) "Q")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 71)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?v) (|arg_mod| _ ?v ?p) (|dobj| ?p ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?w) "Q")
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 71)  ;;; parsercorr: consistently gets this analysis
+
+    (((|ncsubj| ?x ?y _) (|pcomp| ?x ?p) (|xcomp| _ ?p ?c) (|xcomp| ?w ?c ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?c) "C")
+          (or (pos-infix (quote ?c) "W") (word-value (quote ?c) "if"))
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 72)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?z) 
+                                        (|xmod| ?w ?z ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (symbol-equal (quote ?w) (quote |to|))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 73)
+
+     (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z))
+      (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "I")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 74)
+
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|xcomp| _ ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (pos-value (quote ?v) "VVG")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 75)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|dobj| ?x ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (not (pos-infix (quote ?n) "Q"))
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 76v28v27v155v136)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|passive| ?x))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 76v28v27)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|passive| ?x) (|xmod| _ ?y ?x))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 76v28v27)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|dobj| ?x ?n) (|iobj| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 77)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|dobj| ?x ?n) (|ncmod| _ ?n ?p))
+     (and 
+          (strict '?x '?patterns '?grs)         
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?x) (quote ?n)))
+          (pos-start (quote ?z) "R") 
+          (pos-start (quote ?n) "N")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 77) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|passive| ?x) (|iobj| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 77)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|passive| ?x) 
+                                              (|xmod| _ ?y ?x) (|iobj| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 77)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|dobj| ?p ?n) (|iobj| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 78)
+
+    (((|ncsubj| ?x ?y _) (|pcomp| ?x ?z) (|iobj| ?z ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 78)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "C")
+          (or (pos-infix (quote ?p) "W") (word-value (quote ?p) "if"))
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 79)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|ccomp| _ ?x ?v) 
+                         (|objs| ?v ?n) (|ncsubj| ?v ?s _)) 
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "Q")
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 80) 
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|ccomp| _ ?x ?v) 
+                         (|dobj| ?x ?n) (|ncsubj| ?v ?s _)) 
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "Q")
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 80) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|xcomp| _ ?x ?p) (|xcomp| ?t ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "C")
+          (or (pos-infix (quote ?p) "W") (word-value (quote ?p) "if"))
+          (symbol-equal (quote ?t)  (quote |to|))
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 81)
+   
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|dobj| ?x ?n) (|xmod| ?t ?n ?v)  
+                                                           (|objs| ?v ?n)) 
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?n) "Q")
+          (pos-start (quote ?z) "R")
+          (symbol-equal (quote ?t)  (quote |to|))
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 82)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|ccomp| ?a ?x ?v) 
+                                                        (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "R")
+          (pos-start (quote ?v) "V")
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 83) 
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 84)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?v) (|det| ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 84)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| _ ?x ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 85) ;;; broken in subcat.tag2 `too much'
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?x ?v) (|det| ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+          (pos-infix (quote ?w) "$"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 85)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| _ ?x ?v))
+      (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+           (pos-value (quote ?v) "VVG"))
+      ((get-lexicon-data '?x '?patterns '?grs)) 86) ;;; broken in subcat.tag2, low attchmt??
+
+    (((|ncsubj| ?x ?y _) (|ncmod| _ ?n ?p) (|xcomp| _ ?x ?v) (|dobj| ?v ?n))
+      (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VVG")
+	  (pos-start (quote ?p) "I"))
+      ((get-lexicon-data '?x '?patterns '?grs)) 86) ;;; parsercorr: low attachment pref
+
+    (((|csubj| ?x ?y _) (|iobj| ?x ?p) (|passive| ?x))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?y) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 86)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "Q"))
+          (pos-start (quote ?p) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 87v96)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|iobj| ?x ?z) (|xcomp| |to| ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?z)))
+          (pos-start (quote ?p) "I")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 88)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 88) ;;; parsercorr: more preferred parse
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|iobj| ?x ?z) 
+                                          (|dobj| ?z ?n) (|xmod| |to| ?n ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?z)))
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?v) "VV0")
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 88) ;;; parsercorr: another preferred parse
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?v) (|arg_mod| _ ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| _ ?v ?p) (|ccomp| _ ?x ?v) (|arg_mod| _ ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89) ;; parsercorr: PP attachment to lower clause
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?v) (|objs| ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                         (|cmod| _ ?n ?v) (|arg_mod| _ ?v ?w)) 
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89) ;;; parsercorr: low attchmt
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                         (|cmod| _ ?n ?v) (|objs| ?v ?w)) 
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89) ;;; parsercorr: low attchmt
+
+    (((|csubj| ?x ?y _) (|iobj| ?x ?p) (|passive| ?x) (|arg_mod| _ ?y ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89)
+
+    (((|csubj| ?x ?y _) (|iobj| ?x ?p) (|passive| ?x) (|objs| ?y ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 89)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| _ ?x ?w) (|xcomp| |to| ?w ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-infix (quote ?w) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 90) ;;; passive for this needed
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|pcomp| ?x ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 91)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|dobj| ?w ?n) (|pmod| ?n ?p) 
+                                        (|ccomp| _ ?p ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 91) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|ccomp| _ ?x ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 92)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|dobj| ?w ?n) (|cmod| _ ?n ?p) 
+                                        (|ccomp| _ ?p ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 92) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|dobj| ?w ?n) (|cmod| _ ?n ?v) 
+                                        (|dobj| ?p ?z) (|arg_mod| _ ?v ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 92) ;;; parsercorr: low attchmt + `about what' preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|dobj| ?w ?n) (|cmod| _ ?n ?v) 
+                                        (|dobj| ?p ?z) (|objs| ?v ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 92) ;;; parsercorr: low attchmt + `about what' preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|iobj| ?x ?p) 
+                                        (|dobj| ?p ?z) (|xmod| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?w) (quote ?p)))
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 93)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|pcomp| ?x ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?t ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?t) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 94)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?w) (|dobj| ?w ?n) (|pmod| ?n ?p) 
+                                        (|xcomp| _ ?p ?z) (|xcomp| ?t ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (symbol-equal (quote ?t) (quote |to|))
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 94)  ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                         (|iobj| ?x ?q) (|dobj| ?q ?m))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?q)))
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?q) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 95)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (not (or (word-value (quote ?y) "it") 
+                   (word-value (quote ?y) "It")))
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 97)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                                          (|ccomp| ?c ?n ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?v) "V")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 97) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 98)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                                         (|ccomp| ?c ?n ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?v) "VV0")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 98) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| |to| ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 99) 
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?n) (|ncsubj| ?v ?n _) (|xcomp| _ ?v ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 99)  ;;; parsercorr
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?z) "C") 
+          (pos-infix (quote ?z) "W")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 100) ;;; restrict this and below to `about'?
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 101)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) 
+                                        (|cmod| _ ?n ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 101) ;;; parsercorr: low attchmt
+
+    (((|ncsubj| ?x ?y _) (|ncmod| _ ?v ?p) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (pos-infix (quote ?z) "Q")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 101) ;;; parsercorr: attachment of PP to lower clause
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| _ ?x ?z) (|xcomp| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-start (quote ?z) "C") 
+          (pos-infix (quote ?z) "W"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 102)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) (|dobj| ?x ?z) 
+                                                     (|xmod| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I") 
+          (or (pos-start (quote ?n) "N") (pos-start (quote ?n) "P"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 103)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 104v109)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 106)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 107) 
+
+    (((|xsubj| ?x ?y |inv|) (|ccomp| ?c ?x ?v) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 105) 
+
+    (((|csubj| ?x ?y _) (|ccomp| ?c ?x ?v) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 105) 
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?z) (|ccomp| _ ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "C")
+          (or (pos-infix (quote ?z) "W") (word-value (quote ?z) "if"))) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 113) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|ccomp| _ ?x ?v) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 114) 
+
+    (((|ncsubj| ?x ?y _) (|xcomp| _ ?x ?z) (|xcomp| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "C")
+          (pos-infix (quote ?z) "W"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 115) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|xmod| |to| ?z ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 116) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|ncmod| |prt| ?x ?p))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "Q"))
+          (pos-start (quote ?p) "R"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 117)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| |prt| ?x ?p) 
+                                          (|ncmod| _ ?n ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")  
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 120) ;;; parsercorr: to deal with low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ncmod| |prt| ?x ?p) 
+                                          (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")  
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 120)
+
+    (((|ncsubj| ?x ?y |obj|) (|passive| ?x) (|ncmod| |prt| ?x ?p) (|xmod| _ ?y ?x) 
+                                            (|iobj| ?x ?z) (|dobj| ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")  
+          (word-value (quote ?z) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 120)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|iobj| ?x ?p) (|iobj| ?x ?q))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?q)))
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?q) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 121)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|iobj| ?x ?p) (|iobj| ?x ?q))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?q)))
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?q) "I"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 122)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) (|iobj| ?x ?q))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?p) (quote ?q)))
+          (pos-start (quote ?p) "I") 
+          (pos-start (quote ?q) "I")
+          (not (or (word-value (quote ?p) "by") (word-value (quote ?q) "by"))))
+     ((get-lexicon-data '?x '?patterns '?grs)) 122)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "N")
+          (or (pos-infix (quote ?z) "O") (pos-infix (quote ?z) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 123)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?z) "N")
+          (or (pos-infix (quote ?z) "O") (pos-infix (quote ?z) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 123)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") (pos-infix (quote ?n) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 124)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|iobj| ?x ?p) 
+                                                        (|xcomp| |to| ?x ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?w) "VV0")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") (pos-infix (quote ?n) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 167)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|ccomp| _ ?x ?p) 
+                                          (|ccomp| _ ?p ?o) (|ncsubj| ?v ?o _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?v) "VV0")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") (pos-infix (quote ?n) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 167) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|xcomp| |to| ?x ?w))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-value (quote ?w) "VV0")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") 
+              (pos-infix (quote ?n) "U") 
+              (pos-infix (quote ?n) "T")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 168)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|obj2| ?x ?n) (|xmod| |to| ?n ?v))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-value (quote ?v) "VV0")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") 
+              (pos-infix (quote ?n) "U")
+              (pos-infix (quote ?n) "T")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 168) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?p) (|dobj| ?x ?z) (|obj2| ?x ?n))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")
+          (pos-start (quote ?n) "N")
+          (or (pos-infix (quote ?n) "O") (pos-infix (quote ?n) "U")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 125)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| ?w ?x ?z) (|ncmod| ?w ?x ?r))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (not (equal (quote ?z) (quote ?r)))
+          (pos-start (quote ?z) "R") 
+          (pos-start (quote ?r) "R") 
+          (symbol-equal (quote ?w)  (quote |prt|)))
+     ((get-lexicon-data '?x '?patterns '?grs)) 126)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?p) 
+                                    (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?n _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")
+          (pos-start (quote ?v) "V")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 128)
+
+    (((|csubj| ?x ?y |that|) (|ncsubj| ?y ?n _))
+     (and (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 129)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ncmod| |prt| ?x ?p) 
+                                         (|ccomp| ?a ?x ?v) (|ncsubj| ?v ?w _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (or (pos-start (quote ?x) "VV") (pos-start (quote ?x) "VHD"))
+          (pos-start (quote ?p) "R")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 130)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?n) (|ncmod| |prt| ?x ?p) 
+                                          (|ccomp| ?c ?x ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 131) 
+   
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|obj2| ?x ?p) 
+                                         (|ccomp| ?c ?x ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 132) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|obj2| ?x ?p) 
+                                       (|ccomp| ?a ?p ?v) (|ncsubj| ?v ?w _))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?v) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 132) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| ?a ?x ?z) (|ncsubj| ?z ?w _) (|aux| ?z ?c))
+     (and (word-value (quote ?a) "that")
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (pos-infix (quote ?n) "Q"))
+          (pos-value (quote ?z) "VVN")
+	  (pos-infix (quote ?c) "0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 133)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?z) 
+                                           (|ccomp| _ ?z ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?n) "it")
+          (word-value (quote ?z) "if")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 134)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| _ ?x ?z) 
+                                           (|ccomp| _ ?z ?v) (|ncsubj| ?v ?w _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (word-value (quote ?z) "if")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 134)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?v) (|arg_mod| _ ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 135)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 135)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| _ ?v ?p) (|ccomp| _ ?x ?v) (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 135) ;; parsercorr: attachment of PP
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) (|cmod| _ ?n ?v) 
+                                                         (|arg_mod| _ ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 135) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|dobj| ?p ?n) (|cmod| _ ?n ?v) 
+                                                         (|objs| ?v ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-infix (quote ?z) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 135) ;;; parsercorr: low attchmt preference
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?p) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R") 
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 137)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?p) (|xcomp| |to| ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R") 
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 138)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?p) (|xcomp| |to| ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "R") 
+          (pos-value (quote ?v) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 139)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) 
+                                 (|xcomp| _ ?x ?p) (|xcomp| _ ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?p) "I") 
+          (pos-value (quote ?v) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 140)
+
+    (((|ncsubj| ?x ?y _) (|xcomp| ?w ?x ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (not (symbol-equal (quote ?w) (quote |to|)))
+          (pos-value (quote ?v) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 142)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z) (|xcomp| _ ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?w) "J")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 147v143)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) (|ncsubj| ?z ?n _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 146v145)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|passive| ?x) (|xcomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?z) "J"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 146v145)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) 
+                                         (|xcomp| _ ?x ?z) (|xcomp| _ ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?w) "J")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 148)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) 
+                                                       (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-value (quote ?z) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 149)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) 
+                                                       (|xmod| |to| ?n ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-value (quote ?z) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 149)    ;;; parsercorr: low attachment pref
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|passive| ?x) 
+                                                       (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-value (quote ?z) "VB0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 149)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) 
+                                                       (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 150)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|passive| ?x) 
+                                                       (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 150)
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|iobj| ?x ?p) 
+                                                       (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?p) "I") 
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 151)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|ccomp| _ ?x ?p) 
+                                  (|ccomp| _ ?p ?n) (|ncsubj| ?z ?n _))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?p) "I") 
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 151)  ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|dobj| ?x ?n) 
+                                       (|xcomp| _ ?x ?p) (|xcomp| _ ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+         (pos-start (quote ?p) "I") 
+          (pos-value (quote ?v) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 152)  
+
+    (((|ncsubj| ?x ?y _) (|ncmod| |prt| ?x ?r) (|passive| ?x) 
+                                       (|xcomp| _ ?x ?p) (|xcomp| _ ?p ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?r) "R") 
+          (pos-start (quote ?p) "I") 
+          (pos-value (quote ?v) "VVG"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 152)
+
+    (((|ncsubj| ?x ?y _) (|iobj| ?x ?p) (|xcomp| ?w ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?z) "VV0")
+          (not (symbol-equal (quote ?w) (quote |to|))))
+     ((get-lexicon-data '?x '?patterns '?grs)) 153)
+
+    (((|ncsubj| ?x ?y _) (|ccomp| _ ?x ?p) (|ccomp| _ ?p ?z) (|ncsubj| ?z ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-start (quote ?p) "I")
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 153)
+
+    (((|xsubj| ?x ?y |inv|))
+     (and
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 154) 
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|arg_mod| _ ?z ?p) (|ccomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?p) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 156)
+
+;;    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|objs| ?z ?p) (|ccomp| _ ?x ?z))
+;;     (and 
+;;          (strict '?x '?patterns '?grs)
+;;          (pos-start (quote ?x) "VV")
+;;          (pos-infix (quote ?p) "Q"))
+;;     ((get-lexicon-data '?x '?patterns '?grs)) 156)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|arg_mod| _ ?z ?p) (|ccomp| _ ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (pos-infix (quote ?p) "Q"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 156)
+
+;;    (((|ncsubj| ?x ?y _) (|passive| ?x) (|objs| _ ?z ?p) (|ccomp| _ ?x ?z))
+;;     (and 
+;;          (strict '?x '?patterns '?grs)
+;;          (pos-start (quote ?x) "VV")
+;;          (pos-infix (quote ?p) "Q"))
+;;     ((get-lexicon-data '?x '?patterns '?grs)) 156)
+
+    (((|ncsubj| ?x ?y _)  (|dobj| ?x ?n) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 157)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?z) (|ccomp| _ ?x ?p) 
+                                         (|ccomp| _ ?p ?n) (|ncsubj| ?v ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 157) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 157)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|xmod| _ ?y ?x) 
+                                        (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?p) "for")
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 157)
+
+    (((|ncsubj| ?x ?y _)  (|dobj| ?x ?n) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?p) "for") 
+              (word-value (quote ?p) "to") 
+              (word-value (quote ?p) "with"))
+          (or (word-value (quote ?n) "it") (word-value (quote ?n) "It"))
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 165)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|ccomp| _ ?x ?p) 
+                                         (|ccomp| _ ?p ?z) (|ncsubj| ?v ?z _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?p) "for")
+              (word-value (quote ?p) "to")  
+              (word-value (quote ?p) "with"))
+              (pos-value (quote ?v) "VV0")
+          (or (word-value (quote ?n) "it") (word-value (quote ?n) "It")))
+     ((get-lexicon-data '?x '?patterns '?grs)) 165) ;;; parsercorr: preferred parse
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|iobj| ?x ?p) (|xcomp| |to| ?x ?z))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?p) "for") 
+              (word-value (quote ?p) "to") 
+              (word-value (quote ?p) "with"))
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-value (quote ?z) "VV0"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 165)
+
+    (((|ncsubj| ?x ?y _) (|passive| ?x) (|ccomp| ?w ?x ?z) (|ncsubj| ?z ?n _))
+     (and 
+          (strict '?x '?patterns '?grs)
+          (pos-start (quote ?x) "VV")
+          (or (word-value (quote ?y) "it") (word-value (quote ?y) "It"))
+          (pos-start (quote ?z) "V"))
+     ((get-lexicon-data '?x '?patterns '?grs)) 158)
+    
+    (((|ncsubj| ?x ?y _) (|pcomp| ?x ?z) (|ccomp| _ ?z ?w) (|ccomp| _ ?w ?v))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-start (quote ?v) "V")
+          (word-value (quote ?w) "if")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 159)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z) 
+                                            (|xcomp| _ ?z ?w) (|passive| ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-value (quote ?w) "VVN")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 162)
+
+    (((|ncsubj| ?x ?y _) (|dobj| ?x ?n) (|xcomp| _ ?x ?z) 
+                                            (|xcomp| _ ?z ?w))
+     (and 
+          (strict '?x '?patterns '?grs) 
+          (pos-start (quote ?x) "VV")
+          (word-value (quote ?z) "as") 
+          (pos-infix (quote ?w) "G")) 
+     ((get-lexicon-data '?x '?patterns '?grs)) 163)
+)

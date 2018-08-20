@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>[Eden Biogaz Méthanisation Digesteur Biomasse Solaire ENR]</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>[Eden Biogaz Méthanisation Digesteur Biomasse Solaire ENR]</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 23:17:41.0</pubDate>
+							<eAddress>http://www.eden-enr.org/forum-news.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/17644.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">par AwaK</p>
+			<p id="p2">Bonjour, Je projète de réaliser une petite installation de biogaz à partir de compost de broussailles et de déchets ménagers, plus éventuellement des résidus de fauche. Ca nous servirait à chauffer une maison par la chaleur du compost, à faire la cuisine, et éventuellement à faire tourner une voiture, voire un groupe électrogène (et en tout cas à gagner un peu d’autonomie par rapport aux groupes pétroliers)</p>
+			<p id="p3">J’ai quelques questions à vous poser à ce sujet : J’ai vu sur votre site qu’une installation rudimentaire est facile à faire (le digesteur souple), mais convient elle à du compost de végétaux ? Quelles seraient les modifications à apporter ?</p>
+			<p id="p4">Et pour l’utilisation comme carburant, j’ai vu qu’il est possible de comprimer le biogaz pour avoir une autonomie suffisante. Et qu’il faut filtrer le biogaz. Mes questions : A quoi sert le filtrage ? Est il faisable avec des moyens de base, comme pour la phase de production de gaz ? Peut on se procurer un compresseur pour GNV dont vous parlez sur le site ? A quelle pression doit être le gaz pour alimenter le moteur ?</p>
+			<p id="p5">Trouve t’on des groupes électrognènes à gaz, pour faire tourner le compresseur par exemple ?</p>
+			<p id="p6">Si vous pouviez me communiquer le nom de sites internet ou d’ouvrages pouvant m’aider à répondre à ces questions, et si vous voulez bien prendre la peine d’y répondre vous mêmes, je vous en serais très reconnaissant, car pour l’instant toutes mes recherches ne m’ont pas apporté de réponse.</p>
+			<p id="p7">Merci Julien</p>
+			<p id="p8">Bonjour Buno,</p>
+			<p id="p9">Je viens de lire votre message, concernant votre voeux de "méthaniser" des villages à Madagascar. Je suis Français, résident, et je cherchais le moyen de m’équiper de la sorte, pour un projet, que nous avons avec ma femme ( Malgache) à BRICKAVILLE ;</p>
+			<p id="p10">Je trouve que votre idée, est super, car non seulement elle est une solution économique simple et gratuite, mais de plus elle évitera, dans le temps, que toute la végétation de ile, soit rasée, avec les conséquences qu’on peut imaginer. Votre message date de 2008, mais....il vaut mieux tard que jamais non ???</p>
+			<p id="p11">Contactez moi, si mon petit mot vous parvient, nous parlerons de ce qu’il est possible de faire ici, car toutes les recettes judicieuses, allant dans le sens de la population, sont je pense, les bien venues.</p>
+			<p id="p12">A bientot, j’espère.</p>
+			<p id="p13">par kamate</p>
+			<p id="p14">votre manuel sur le digesteur brique crue est très interessant seulement il est en englais.puis je l’avoir en version française ? merci kamate en côte d’ivoire</p>
+			<p id="p15">vendredi 15 janvier 2010</p>
+			<p id="p16">BONNE ANNEE 2010</p>
+			<p id="p17">j’ai fini un biodigesteur d’une capacité de 02M3.en beton lissé et traité avec de produit d’étencheité( secalite ) je me soucie un peu à propos de la vidange ou echange d’eau ; - pour cette capacité, en combien de temps me suffit il pour changer les fumié de bouefs evec l’eau usée de la fosse septique que je vais melanger. je pense de mettre pour demarrer, mettre 08 sac de 50Kg de fumié et quelques residus de cuisine. vous remercian d’avance, cordialement. BILLERE.</p>
+			<p id="p18">par Pierre Delrez</p>
+			<p id="p19">Nous avons encore quelques exemplaires du livre des 2 tomes de Biométhane. Vous pouvez envoyer à chèque à l’association pour le recevoir.</p>
+			<p id="p20">mercredi 30 décembre 2009</p>
+			<p id="p21">Je suis à la recherche du tome 2 des ouvrages de Bernard Lagrange. Vous reste t-il un exemplaire ?</p>
+			<p id="p22">francis.clery (at) yahoo.fr</p>
+			<p id="p23">mardi 17 novembre 2009</p>
+			<p id="p24">Bonjour,</p>
+			<p id="p25">le digesteur de démonstration ne permet pas d’être autonome pour faire la cuisine quotidiennement. Si c’est votre objectif, il faut prévoir un système de contenant plus important et il vous faut également une source de matière organique complémentaire que vos toilettes et déchets alimentaires (animaux, déchets verts...). Les modèles de biodigesteur tropicaux, en plastique ou en brique crue sont mieux adaptés. Pour répondre à votre question, il n’y a pas besoin de clapet anti-retour. Bien cordialement.</p>
+			<p id="p26">Pierre Delrez</p>
+			<p id="p27">jeudi 12 novembre 2009</p>
+			<p id="p28">par billmoq</p>
+			<p id="p29">Bonjour à tous, je suis à Madagascar, je suis marié, père de 03 enfants. je souhaiterais fabriquer de biogaz pour la cuisine( utilisation familiale). je me soucis de fonctionne pour le magasinage de produit avec les 02 chambre à aire. est ce que le tuyau de conduite doit muni de clapet quelconque ou comment ?(anti- retour). amicalement.</p>
+			<p id="p30">par nimrod59</p>
+			<p id="p31">vous oublié que l’on peut produire du gaz naturel à partir des déchets organique et ainsi le réinjecter dans le réseau comme on le fait pour le courant produit par des éoliennes c’est quand même fprmidable de faire de l’énergie avec nos déchets et je ne comprend pas pourquoi en ne développe pas le gaz naturel en france alors que ça marche trés bien au luxembourg en allemagne en italie en suisse en france on crois toujours avoir la meilleur solution et aprés en nous dit que nous somme en retard sur les autres et qu’il faut rattraper le retard en france nous sommes au stade des bonnes intention c’est tout a quand les station de gnv public dans le même style que les station ou l’on se fourni en essence et gazoil et pas des station ou il faut un mot de passe et autorisé un prélèvement automatique comme chez gnvert</p>
+			<p id="p32">par Pierre Delrez</p>
+			<p id="p33">Nous avons encore quelques exemplaires du livre en stock. Si vous souhaitez les 2 tomes, il suffit de nous envoyer un chèque de 30 euros si vous êtes en France. Si vous êtes à l’étranger, vous pouvez nous faire un virement bancaire. Celui-ci doit tenir compte des frais de port un peu plus important (2 à 8 euros supplémentaires environs). Vous pouvez nous écrire un courrier électronique et nous vous enverrons les coordonnées bancaires. Suite à votre versement, nous vous enverrons le livre. Si vous souhaitez uniquement un des deux tomes, il faut compter 20 euros avec les frais de port inclus en France. A bientôt.</p>
+		</body>
+	</text>
+</cesDoc>

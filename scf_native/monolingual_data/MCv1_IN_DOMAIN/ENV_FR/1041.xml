@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La forêt et le changement climatique - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La forêt et le changement climatique - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:25:16.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/La-foret-et-le-changement.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/1041.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">14 décembre 2009 (mis à jour le 27 janvier 2010) - Énergie et climat</p>
+			<p id="p3">La France est, par sa surface forestière, l’un des trois plus grands pays forestiers de l’Union européenne. La surface couverte par la forêt tempérée en métropole est de 15,7 millions ha (29% du territoire) et celle occupée par la forêt tropicale dans l’outre mer (Guyane) est de 8 millions ha. Le couvert forestier est en progression constante en métropole depuis 20 ans (+ 25 000 ha/an actuellement, par plantations ou accroissement naturel sur les terres agricoles), tandis que les déboisements sont estimés à 2 500 ha/an en Guyane.</p>
+			<p id="p4">La forêt française, par son rôle de séquestration du carbone atmosphérique dans les sols et la biomasse forestière, participe activement à la lutte contre le changement climatique : la forêt métropolitaine représente un stock de carbone estimé à 2,5 GtC (2,4 milliards de m3), réparti entre le sol (63%) et la biomasse aérienne (37%). Sur la période 2000-2005, elle a absorbé près de 10% des émissions de gaz à effet de serre française et cette tendance se renforcerait (13% des émissions en 2007). Toutefois, le développement des biocarburants ralentira probablement le reboisement des terres agricoles, tandis que l’essor du bois-énergie conduira à un déstockage accru du bois dans les forêts. En outre, des changements climatiques structurels, comme le dépérissements de certains massifs de hêtre dus au réchauffement climatique, ou ponctuels, tels les chablis dus aux tempêtes de 1999 (6 MteCO2 émises) et de 2009 (37 MteCO2 émises) ou la perte de biomasse pendant la sécheresse de 2003, risquent de réduire les stocks de carbone forestiers. Le défrichement forestier et les changements d’utilisation des sols sont à l’origine de moins de 1% des émissions françaises.</p>
+			<p id="p5">la compensation d’émissions de carbone, par l’augmentation de l’utilisation des produits bois (bois matériau, bois énergie) en substitution à d’autres matériaux ;</p>
+			<p id="p6">la séquestration de carbone :</p>
+			<p id="p7">- par la protection des stocks existants : maintien du couvert forestier existant ou ralentissement du taux de déforestation ;</p>
+			<p id="p8">- par le piégeage du carbone : extension de la surface forestière (boisements) ;</p>
+			<p id="p9">- par l’accroissement des stocks existants, en augmentant la densité en carbone du couvert forestier ;</p>
+			<p id="p10">la gestion intensive ;</p>
+			<p id="p11">la lutte contre la dégradation forestière ;</p>
+			<p id="p12">la capitalisation de la biomasse forestière ;</p>
+			<p id="p13">l’adaptation des peuplements au changement climatique.</p>
+			<p id="p14">Le Grenelle de l’environnement a défini plus précisément une stratégie visant à « produire plus de bois, tout en préservant mieux la biodiversité ». En particulier, un objectif de mobilisation supplémentaire de bois au niveau national, proposé lors des Assises de la forêt (+21 Mm3 par an à l’horizon 2020, à comparer au niveau actuel de la récolte commercialisée, de l’ordre de 65 Mm3 par an) a été fixé.</p>
+			<p id="p15">Pour accompagner cet effort accru d’extraction de bois, plusieurs axes d’appui à la filière bois ont été définis - dynamisation de la gestion forestière ; promotion des débouchés du bois (bois-énergie, bois matériau, voire biocarburants de 2nde génération), développement de la certification forestière - et à travers des mesures complémentaires annoncées par le président de la république en mai 2009.</p>
+			<p id="p16">La mise en œuvre de ces différents éléments de politiques publiques s’articulera autour des principes suivants :</p>
+			<p id="p17">valorisation locale de la ressource ;</p>
+			<p id="p18">préservation de la biodiversité et des ressources naturelles (eau, sol), dans le cadre d’une utilisation plus intensive de la biomasse, conformément à la stratégie nationale sur la biodiversité (dont la finalité est de stopper la perte de biodiversité d’ici 2010) ; le recours à des importations de bois en provenance des pays en développement ne devra pas contribuer à aggraver la déforestation tropicale, ni à encourager les pratiques de gestion non-durable ; il s’agira également d’étendre le système de durabilité qui sera mis en place pour les biocarburants ;</p>
+			<p id="p19">adaptation de la forêt au changement climatique, en développant sa résilience (par une diversification des essences et des types de sylviculture améliorant la stabilité des peuplements) ;</p>
+			<p id="p20">développement des paiements pour services environnementaux.</p>
+			<p id="p21">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

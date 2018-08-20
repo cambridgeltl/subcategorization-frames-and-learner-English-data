@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Instituto Nacional de Ecología</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Instituto Nacional de Ecología</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 16:06:52.0</pubDate>
+							<eAddress>http://www2.ine.gob.mx/publicaciones/libros/296/cap1.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/19415.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Título</p>
+			<p id="p2">1.1. EL EFECTO INVERNADERO</p>
+			<p id="p3">Nuestro planeta está rodeado por una delgada capa de gases denominada atmósfera, compuesta por nitrógeno (78.3%), oxígeno (21.0%), argón (0.3%), dióxido de carbono (0.03%) y otros gases en cantidades menores como helio, neón y xenón.</p>
+			<p id="p4">Además contiene aerosoles (partículas) en cantidades variables, dependiendo de su origen y concentración, y vapor de agua en concentraciones fluctuantes. Este último es responsable de gran parte de los fenómenos meteorológicos (Salati, 1990). El efecto invernadero (figura 1.1) se debe a que ciertos gases en la atmósfera permiten que la mayor parte de la radiación solar incidente penetre hasta la superficie del planeta, mientras que se absorbe y reemite parte de la radiación infrarroja que el planeta regresa al espacio exterior. Cuanto mayor es la concentración de los gases de invernadero, menor es la cantidad de radiación infrarroja que el planeta emite libremente al espacio exterior. De esta manera, al aumentar la concentración de gases de invernadero, se incrementa la cantidad de calor atrapado en la atmósfera, dando origen a que se eleve la temperatura superficial del planeta.</p>
+			<p id="p5">De mantenerse constantes las concentraciones de los gases de invernadero, la temperatura de la superficie terrestre estaría en equilibrio. Sin embargo, el desarrollo de las actividades humanas ha provocado un desequilibrio al incrementar en unas cuantas décadas las emisiones de componentes como el dióxido de carbono (CO2), los clorofluorocarbonos (CFC) y otros gases de invernadero.</p>
+			<p id="p6">1.2. GASES DE INVERNADERO</p>
+			<p id="p7">Como ya se mencionó, el clima de la Tierra está dado por el balance radiactivo de la atmósfera, el cual depende, a su vez, de la entrada de energía en forma de radiación solar, su actividad radiactiva, la abundancia de gases de efecto invernadero en la atmósfera, nubes y aerosoles (IPCC, 1992).</p>
+			<p id="p8">Diferentes autores (Schneider, 1989; Houghton y Woodwell, 1989; Goudie, 1990; Dixon et al., 1994; Masera, 1995) afirman que el dióxido de carbono (CO2) es el principal gas de efecto invernadero. Otros gases con concentraciones menores producen el mismo efecto, tales como metano (CH4), óxido nitroso (N2O), clorofluorocarbonos (CFC) y ozono (O3).</p>
+			<p id="p9">Desde la revolución industrial, la concentración de gases de efecto invernadero se ha incrementado rápidamente, sobre todo como resultado de las actividades humanas.</p>
+			<p id="p10">Muchos de estos gases tienen tiempos de vida (residencia atmosférica) que van desde décadas hasta centenares de años, por lo que los cambios en las concentraciones de la atmósfera responden lentamente como respuesta a los que se dan en las tasas de emisión (Goudie, 1990; IPCC, 1990).</p>
+			<p id="p11">La concentración de 353,000 ppb1 del dióxido de carbono (CO2) en 1990, resultó 25% mayor que en la etapa preindustrial (1750-1800), cuyo valor era de alrededor de 280,000 ppb, y por arriba, a su vez, de cualquier periodo durante los últimos 160,000 años (Goudie, 1990; Masera, 1991).</p>
+			<p id="p12">En el cuadro 1.1. se proporciona información sobre los principales gases de invernadero, la fuente antropogénica que los genera, la concentración actual estimada en el planeta, la concentración que alcanzó en la era preindustrial y su tiempo de residencia en la atmósfera.</p>
+			<p id="p13">1.3. EL CAMBIO CLIMÁTICO GLOBAL: CAUSAS Y CONSECUENCIAS</p>
+			<p id="p14">Se define al cambio climático como el posible aumento en la temperatura superficial del planeta que se produciría como consecuencia de un aumento importante y rápido de las concentraciones de gases de invernadero en la atmósfera (IPCC, 1995). La causa fundamental de este incremento es la emisión de estos gases provocados por actividades humanas (antropogénicas) que alteran la composición original de la atmósfera. En el cuadro 1.2. se resumen por sector las actividades que destacan como principales aportadoras de gases de efecto invernadero (CO2, N2O, CFC, CH4).</p>
+			<p id="p15">El Panel Intergubernamental de Cambio Climático (IPCC, 1995) estima que un cambio de las emisiones de gases de efecto invernadero que duplique las concentraciones de CO2 con respecto al nivel preindustrial daría como resultado un incremento de temperatura de 1.5 a 3.5 ºC. Este cambio de temperatura provocaría, a su vez:</p>
+			<p id="p16">i) cambios en los patrones mundiales de precipitación pluvial, con diferencias regionales significativas.</p>
+			<p id="p17">ii) elevación del nivel del mar de 0.2 a 0.6 metros, tanto por la expansión térmica de los océanos como por el derretimiento parcial de glaciares en las montañas y de la capa de hielo en las regiones polares, como el caso de la Antártica, para la que se estima un desprendimiento de 200 km de masas de hielo.</p>
+			<p id="p18">iii) cambios en la humedad del suelo al aumentar la evaporación del agua.</p>
+			<p id="p19">Cuadro 1.2. Actividades por sector industrial que contribuyen</p>
+			<p id="p20">a la emisión de gases de invernadero (según Ahuja, 1990)</p>
+			<p id="p21">Estos tres factores afectarían directamente todas aquellas actividades humanas que dependen de la precipitación, la temperatura, la humedad y de los cuerpos de agua. El producto de esta alteración sería equivalente a desplazar una región cualquiera en 200 km de latitud, lo que provocaría, por ejemplo, la migración de las comunidades de las zonas costeras al interior de los continentes y cambios en el uso del suelo, entre otros factores, con las consiguientes crisis de tipo social, económico y político (modificado de Masera, 1995d).</p>
+			<p id="p22">1.4. EL DIÓXIDO DE CARBONO: PRINCIPALES FUENTES Y SUMIDEROS</p>
+			<p id="p23">Se estima que el dióxido de carbono (CO2) es el responsable del 71.5% del efecto invernadero (Lashof y Ahuja, 1990). Por esta razón, en lo que resta del trabajo se centrará la atención en este gas.</p>
+			<p id="p24">El uso de combustibles fósiles y el cambio en el uso del suelo son considerados a nivel mundial como las dos principales fuentes netas de CO2 a la atmósfera relacionadas con el cambio climático global (Mintzer, 1992).</p>
+			<p id="p25">La emisión entre 1989 y 1990 de CO2 proveniente del uso de combustibles fósiles se estimó en 6.0±0.5 GtC (1Gt=109t), comparada con 5.7±0.5 GtC emitidas en 1987 (IPCC, 1990). Por otro lado, el flujo neto de CO2 emitido por cambio en el uso del suelo (principalmente por desforestación), se ha estimado en 1.6±1.0 GtC para la década de los 80 (IPCC, 1992).</p>
+			<p id="p26">El ciclo global del carbono es complejo. En la figura 1.2. podemos observar el intercambio de carbono que se da entre la atmósfera y la biosfera; donde se aprecian los ciclos existentes (uno sobre tierra firme representado por la vegetación y otro sobre los océanos).</p>
+			<p id="p27">Los bosques, a través de sus procesos fisiológicos tales como la fotosíntesis, absorben 110 Gt Caño-1, mientras que mediante la respiración emiten 55 Gt Caño-1 y por medio de la descomposición2 emiten de 54 a 55 Gt Caño-1. El suelo, el detritus y la turba almacenan 172 GtC aproximadamente. Los océanos absorben aproximadamente 93 Gt Caño-1 y emiten por procesos químicos y biológicos cerca de 90 Gt Caño-1, además de que se considera que conservan grandes cantidades de carbono (38,500 GtC). Estos dos ciclos eliminan de la atmósfera casi tanto carbono como el que le aportan de forma natural; pero actividades humanas como la deforestación y la quema de combustibles fósiles están provocando un aumento en la cantidad de carbono atmosférico en unos 3 Gt Caño-1 (Bolin et al., 1986).</p>
+			<p id="p28">1.4.1. LOS BOSQUES COMO RESERVORIOS DE CARBONO</p>
+			<p id="p29">La superficie forestal estimada en la Tierra es de 4.1x109 ha, donde las áreas naturales protegidas abarcan el 2.3%, menos del 10% de las áreas que se encuentran bajo manejo. Aproximadamente el 37% de carbono se encuentra en latitudes bajas (0º a 25º lat.), 14% en las medias (25º a 50º lat.) y 49% en las altas (50º a 75º lat.). Es por esto que Dixon et al. (1994) afirman que la proporción de carbono capturado por la vegetación y suelo difiere en cuanto a su ubicación geográfica respecto de su latitud. Dos terceras partes del carbono en ecosistemas forestales se encuentra contenido en el suelo.</p>
+			<p id="p30">Los biomas boreales circumpolares tienen una cobertura de 2x109 ha en el hemisferio norte, y contienen 800 GtC en reservas de carbono contenido en la biomasa, detritus, suelo y turba. En los ecosistemas forestales boreales, la biomasa, el detritus, la turba (con 419 GtC) y el suelo (con 290 GtC) contienen en su totalidad 709 GtC (Apps et al., 1993). Los bosques tropicales almacenan en la vegetación y el suelo 159 GtC y 216 GtC, respectivamente, para un total de 375 GtC (Brown et al., 1993).</p>
+			<p id="p31">Actualmente la deforestación y la degradación forestal son factores importantes para el cambio climático global, puesto que producen emisiones netas de dióxido de carbono. Además generan grandes problemas locales y regionales, como el incremento de la erosión y el abatimiento de los mantos acuíferos, entre otros. Sin embargo, se ha estimado que, combinando estrategias de conservación forestal con proyectos de reforestación en todo el mundo, los bosques podrían resultar en un sumidero neto de carbono durante los próximos cien años, permitiendo reducir de 20 a 50% de las emisiones netas de dióxido de carbono a la atmósfera (IPCC, 1995).</p>
+			<p id="p32">Por lo anterior, es necesario conservar los bosques y manejarlos adecuadamente, y comenzar a reforestar en zonas altamente degradadas, permitiendo una regeneración de la cobertura vegetal acorde al tipo de suelo, fisonomía del terreno y cercanía de cuerpos de agua, e integrando este proceso en todo momento a las actividades agrícolas y pecuarias de una región determinada.</p>
+			<p id="p33">1 Ppb (partes por billón) equivale a una parte por mil millones (109 de partes).</p>
+			<p id="p34">2 La descomposición y la respiración son los dos emisores naturales de los bosques. Sus emisiones suman un total aproximado de 110 GtC año 1, por lo que en ausencia de desforestación hay un balance entre el carbono emitido y el capturado.</p>
+			<p id="p35">Periférico 5000, Col. Insurgentes Cuicuilco, C.P. 04530, Delegación Coyoacán, México D.F.</p>
+			<p id="p36">Última Actualización: 15/11/2007</p>
+		</body>
+	</text>
+</cesDoc>

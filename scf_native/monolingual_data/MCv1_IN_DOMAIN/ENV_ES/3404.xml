@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>cambio climático y turismo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>cambio climático y turismo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 11:55:04.0</pubDate>
+							<eAddress>http://locuraviajes.com/blog/el-cambio-climatico-puede-alterar-el-mapa-de-nuestras-vacaciones/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>calentamiento global</keyTerm>
+					<keyTerm>cambio climatico</keyTerm>
+					<keyTerm>turismo</keyTerm>
+					<keyTerm>vacaciones</keyTerm>
+					<keyTerm>noticias</keyTerm>
+					<keyTerm>turismo sostenible</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/3404.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Destinos</p>
+			<p id="p2">Sólo alcanza con pensar que un país entero intenta mudarse desde su paraíso en el Pacífico , para entender el impacto del cambio climático en el planeta. El anuncio del presidente de Maldivas sobre la necesidad de mudar su país insular ante la elevación del nivel del mar es una realidad desesperada. Es sólo un ejemplo del modo en que los rápidos cambios del planeta pueden modificar el futuro de nuestros destinos soñados de vacaciones.</p>
+			<p id="p3">La Organización Mundial del Turismo advierte en sus informes que el cambio climático, por efecto del calentamiento global puede alterar drásticamente el mapa de nuestros destinos de vacaciones tradicionales. Imaginemos un planeta en donde las ciudades de renombre asociadas a jornadas de sol y playa desaparezcan lentamente invadidas por el mar, los glaciares se convierten en un recuerdo de postal del pasado, y amplias zonas de bosque que viven del ecoturismo se transforman en pocos años en un desierto. El cambio climático ya ha empezado a cambiar el mapa de destino de nuestras futuras vacaciones.</p>
+			<p id="p4">A pesar de que los riesgos parecen distantes, el cambio climático podría se una preocupación inmediata en el turismo, con fenómenos meteorológicos que nos sorprenden en plenas vacaciones.</p>
+			<p id="p5">El cambio climático, altera el equilibrio de los ciclos naturales del clima, provocando fenómenos meteorológicos violentos y catástrofes naturales con daños irreversibles. Las empresas del turismo, se deben adaptar incorporando sistemas sofisticados para detectar y predecir las catástrofes capaces de arruinar vacaciones, además de provocar daños irreparables. Aunque según algunos informes despreocupados, el cambio climático podría estirar las temporadas de calor reduciendo las fechas de temporada baja, hay poco espacio para el optimismo.</p>
+			<p id="p6">El cambio climático deja también su huella destructiva en destinos atractivos del turismo que dejan de serlo. Cada vez son más las extensiones de costa que por los cambios drásticos del clima sumados a la contaminación, se trasforman en zonas muertas muy lejos del idílico paraíso. Arrecifes que disminuyen drásticamente su biodiversidad , o playas y bosques que pierden el encanto de la mano de cambios acelerados.</p>
+			<p id="p7">Más drástico aún, numerosos centros de esquí vieron perder en años recientes sus visitantes por falta de nieve en el invierno europeo. Los ejemplos de como el cambio climático afecta los destinos de vacaciones son numerosos y por demás preocupantes. También hay ejemplos para la esperanza. En Estados Unidos, algunas estaciones de esquí implementan sistemas de provisión de energías renovables para abastecerse. Y dando un paso más lejos, afortunadamente la política de Estados Unidos quiere dar un giro para revertir el calentamiento global .</p>
+			<p id="p8">Revertir o disminuir el acelerado proceso del cambio climático, es una tarea que requiere del esfuerzo de todos, y de un modo que aunque parezca minúsculo, podría sumar desde nuestras pequeñas acciones. Desde no contratar servicios de hotel en complejos que no tuvieron reparos en modificar el entorno natural de un modo repudiable, hasta promover un turismo responsable, ecológico, y cuidadoso con el medio ambiente.</p>
+			<p id="p9">Es mucho lo que podemos aportar para que nuestras vacaciones, y las de las futuras generaciones, no sean tan diferentes de como las conocemos.</p>
+			<p id="p10">Conoces la Portada de la Revista locuraviajes?</p>
+			<p id="p11">Desde nuestra portada podrás acceder a todas las noticias, así como a todos los artículos de nuestras secciones: Guias , Destinos ...</p>
+			<p id="p12">Deja un comentario!</p>
+			<p id="p13">Se amable, limpio, mantente en la temática del Artículo y no hagas Spam.</p>
+			<p id="p14">Nombre (Requerido)</p>
+			<p id="p15">Página web (opcional)</p>
+			<p id="p16">Puedes usar los siguientes tags:</p>
+			<p id="p17">&lt;a href="" title=""> &lt;abbr title=""> &lt;acronym title=""> &lt;b> &lt;blockquote cite=""> &lt;cite> &lt;code> &lt;del datetime=""> &lt;em> &lt;i> &lt;q cite=""> &lt;strike> &lt;strong></p>
+			<p id="p18">Notify me of followup comments via e-mail</p>
+			<p id="p19">Patrocinadores</p>
+		</body>
+	</text>
+</cesDoc>

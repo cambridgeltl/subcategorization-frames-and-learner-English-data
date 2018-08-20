@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ai-je le droit de refuser une demande de DIF ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ai-je le droit de refuser une demande de DIF ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:53:55.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=944&amp;titre=Ai-je+le+droit+de+refuser+une+demande+de+DIF+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/13461.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Ai-je le droit de refuser une demande de DIF ?</p>
+			<p id="p2">Publicité</p>
+			<p id="p3">Le Droit individuel à la formation (DIF) s'inscrit dans le principe de formation tout au long de la vie professionnelle.</p>
+			<p id="p4">Le DIF permet aux salariés sous contrat à durée indéterminée (CDI) ou contrat à durée déterminée (CDD) de bénéficier, à leur initiative, d'actions de formation ( Code du travail , art. L. 6323-1).</p>
+			<p id="p5">Heures acquises au titre du DIF</p>
+			<p id="p6">Si le salarié travaille à temps plein, il a droit à 20 heures par an de formation cumulables pendant 6 ans au maximum, dans la limite absolue de 120 heures. C'est-à-dire qu’après une période de cumul de 6 ans, si le salarié n'utilise pas tout ou partie de ses heures de formation, son DIF reste plafonné à 120 heures. Il ne peut plus augmenter.</p>
+			<p id="p7">Attention : pensez à consulter votre convention collective elle peut prévoir un crédit d’heures plus important.</p>
+			<p id="p8">Demande du salarié</p>
+			<p id="p9">Cette demande n'est soumise à aucun formalisme, mais il est préférable pour le salarié :</p>
+			<p id="p10">de l’adresser par lettre recommandée avec accusé de réception (LRAR) ;</p>
+			<p id="p11">de prévenir son employeur suffisamment à l'avance en lui précisant la nature et l'intitulé de la formation, les dates de formation, son coût et le nom de l'organisme prestataire.</p>
+			<p id="p12">Répondre à la demande du salarié</p>
+			<p id="p13">Vous disposez d’un délai d’1 mois pour notifier votre réponse au salarié . Il s'agit d'un délai calendaire, c'est-à-dire 30 jours de date à date. Ce délai court à compter de la date de réception de la demande du salarié.</p>
+			<p id="p14">Afin d'éviter tout litige ou ambiguïté avec le salarié, il est conseillé de répondre au salarié par LRAR ou lettre remise en mains propres contre décharge.</p>
+			<p id="p15">Attention : l'absence de réponse de votre part vaut acceptation de la demande de DIF.</p>
+			<p id="p16">Oui, vous pouvez refuser une demande de DIF si vous n’êtes pas d’accord avec le salarié sur l’action de formation choisie.</p>
+			<p id="p17">Rien ne vous interdit de refuser une demande de DIF , à condition toutefois que votre décision ne soit pas discriminatoire. Le droit du travail n'impose pas expressément de motiver votre refus. Mais pour éviter tout litige et, notamment, toute accusation de discrimination, il est conseillé d’en préciser les motifs.</p>
+			<p id="p18">Des modalités particulières peuvent être prévues par les conventions collectives ou accord d'entreprise en cas de refus de DIF.</p>
+			<p id="p19">En cas de refus, le salarié ne peut donc pas effectuer sa formation. Il a toutefois la possibilité de renouveler sa demande.</p>
+			<p id="p20">En cas de désaccord durant deux exercices civils consécutifs, le salarié peut déposer sa demande dans le cadre du Congé individuel de formation (CIF).</p>
+			<p id="p21">Pour plus de précisions sur le DIF, les Editions Tissot vous proposent leur dossier pratique « Le Droit individuel à la formation (DIF) ».</p>
+			<p id="p22">Article publié le 20 mai 2009</p>
+			<p id="p23">Partagez cet article :</p>
+			<p id="p24">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

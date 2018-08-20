@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Matteo Incerti: giugno 2006</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Matteo Incerti: giugno 2006</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-25 10:17:48.0</pubDate>
+							<eAddress>http://matteoincerti.blogspot.com/2006_06_01_archive.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/32176.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">"Ci vogliono gli inceneritori, così eliminiamo le discariche" . E' questo uno dei leit motiv che i difensori di questo sistema di smaltimento indicano per difendere la combustione dei rifiuti. Ma è davvero così?Nella tabella sopra riportata abbiamo provato a confrontare due diverse strategie : quella dell'inceneritore con la raccolta differenziata con cassonetti stradali (finora sostenuta da Enia e parte dei Ds) e il trattamento meccanico biologico a freddo, cioè con bioessicazione, successivo alla raccolta differenziata porta a porta (sistema proposto dai Comitati) . Il risultato? Con gli inceneritori (più costosi) le discariche non sono abolite. LE DUE VIE: 1) CON INCENERITORE. In provincia di Reggio, dati ufficiali 2005 ; sono state prodotte 375.337 tonnellate di rifiuti solidi urbani . Di questi con i cassonetti stradali circa il 45% (170.614) è stato differenziato. Sull'altro fronte abbiamo invece stimato (potrebbe essere un calcolo prudente, visti i primi dati pubblicati nella tabella) che col porta a porta si potrebbe salire subito al 65% (243 .969 tonnellate stimate) a livello provinciale. 45% dei rifiuti viene recuperato con la raccolta differenziata con cassonetti, si può bruciare il restante 55% (204.046 tonnellate all'anno). Dalla combustione si produrrebbero nanopolveri,diossine ed altri inquinanti bioaccumulabili, ma anche un 30% (61.213 tonnellate) di ceneri tossiche . Queste andrebbero smaltite in discariche speciali. Va ricordato che il bilancio energetico - economico di un inceneritore è negativo : uno studio della Bocconi stima che produrre energia in questo modo costi 228 euro/MWh: quattro volte eolico e idroelettrico, due volte tramite biomasse . 2) CON IL TMB. Passiamo alla proposta dei Comitati . Dopo aver recuperato il 65% dei rifiuti col porta a porta, il 35% verrebbe sottoposto al Trattamento meccanico biologico a freddo. Andrebbero bioessicate (producendo biogas e senza combustioni) 131.368 tonnellate, con una nuova riduzione del 50% dei rifiuti in entrata . Alla fine resterebbero 65.684 tonnellate di materiali essicati ed inertizzati da portare in discarica. Una quantità simile a quella prodotta dagli inceneritori, ma stavolta non sarebbero ceneri tossiche.</p>
+			<p id="p2">Matteo Incert (Il Resto del Carlino - Reggio 01/06/2006)</p>
+			<p id="p3">Reggio Emilia, Reggio Emilia, Italy</p>
+			<p id="p4">Giornalista free lance - Collabora a Resto del Carlino-QN, Radio Bruno, Reggio nel Web. Ha collaborato in passato come corrispondente free lance da Paesi Bassi-Belgio-Scandinavia per Il Gazzettino ed al mensile Valori.</p>
+		</body>
+	</text>
+</cesDoc>

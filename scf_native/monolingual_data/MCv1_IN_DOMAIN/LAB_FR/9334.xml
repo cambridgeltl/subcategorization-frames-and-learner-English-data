@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail PME - Page 81 - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail PME - Page 81 - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:57:19.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail.aspx?secteur=PME&amp;mode=secteur&amp;page=81</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/9334.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">27/10/2008</p>
+			<p id="p2">Les entreprises de plus de 20 salariés doivent employer au moins 6 % de travailleurs handicapés dans leur effectif. Moins d’une entreprise sur deux atteint cet objectif… Et vous ? Savez-vous que si vous n’avez rien fait depuis 2006, vous allez le payer cher ? Ce serait d’autant plus dommage que de nombreuses aides existent en la matière.</p>
+			<p id="p3">27/10/2008</p>
+			<p id="p4">Savez-vous si les indemnités versées à l’occasion d’une rupture conventionnelle d’un CDI sont soumises à cotisations ? Et qu’en est-il des indemnités versées lorsqu’un CDD à objet défini prend fin ? Des précisions utiles sur ces deux nouveaux dispositifs.</p>
+			<p id="p5">27/10/2008</p>
+			<p id="p6">La clause de mobilité vous permet de modifier le lieu de travail d’un salarié sans avoir à obtenir son accord. C'est-à-dire que s’il refuse de changer de lieu de travail, vous avez la possibilité de le licencier… Mais attention : tout n’est pas permis.</p>
+			<p id="p7">24/10/2008</p>
+			<p id="p8">Le calcul de l’indemnité légale de licenciement a été modifié cet été : quelles sont les nouvelles dispositions ? Comment cette indemnité se conjugue-t-elle avec votre convention collective ? Suivez notre exemple pratique !</p>
+			<p id="p9">23/10/2008</p>
+			<p id="p10">Les représentants du personnel bénéficient d’une protection particulière contre le licenciement. Mais que se passe-t-il si vous licenciez un de ces salariés pour une faute commise pendant et après sa période de protection ?</p>
+			<p id="p11">22/10/2008</p>
+			<p id="p12">La rupture conventionnelle aurait permis « 1.660 séparations à l’amiable, c'est-à-dire 1.660 situations où l’on n’est pas allé aux prud’hommes et où on a trouvé un terrain d'entente »*.</p>
+			<p id="p13">21/10/2008</p>
+			<p id="p14">9,1 : c’est le nombre moyen d’heures supplémentaires effectué par les salariés à temps complet dans les entreprises de plus de 10 salariés au 2e trimestre 2008. Soit une augmentation de… 34,5 % en un an !</p>
+			<p id="p15">20/10/2008</p>
+			<p id="p16">Un nouveau salarié va commencer à travailler dans votre entreprise la semaine prochaine. Vous avez signé son contrat de travail, mais vos obligations administratives ne s’arrêtent pas là : vous avez encore des informations à transmettre à votre URSSAF, à mettre à jour votre registre du personnel, etc. Notre synthèse vous aidera à remplir correctement toutes ces obligations.</p>
+			<p id="p17">20/10/2008</p>
+			<p id="p18">L’URSSAF contrôle les cotisations et contributions exigibles pour le régime de la Sécurité sociale. Sachez qu’elle est aussi habilitée pour vérifier celles dues à l’assurance chômage (ASSEDIC).</p>
+			<p id="p19">Toute l'actualité en droit du travail PME</p>
+			<p id="p20">Retrouvez l'essentiel de l'actualité juridique en droit du travail PME. Nos juristes vous proposent une analyse claire et pratique des dernières jurisprudences du domaine. Avec des outils pratiques à télécharger gratuitement, vous pouvez appliquer directement en entreprise les conseils juridiques Tissot. La section droit du travail PME: l'analyse des dernières informations du monde juridique.</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

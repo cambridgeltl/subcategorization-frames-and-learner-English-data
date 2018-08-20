@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>L'accident du travail, l'accident de trajet et la maladie professionnelle</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>L'accident du travail, l'accident de trajet et la maladie professionnelle</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:09:46.0</pubDate>
+							<eAddress>http://www.travail-solidarite.gouv.fr/informations-pratiques,89/fiches-pratiques,91/sante-conditions-de-travail,115/l-accident-du-travail-l-accident,1055.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/94.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">L’accident du travail, l’accident de trajet et la maladie professionnelle</p>
+			<p id="p2">Synthèse</p>
+			<p id="p3">Accident du travail ou de trajet, maladie professionnelle : la santé du salarié peut, du fait ou à l’occasion de son travail, se trouver altérée. Il bénéficie alors d’une protection et d’une indemnisation particulière. Il doit informer son employeur dans les 24 heures de l’accident de travail ou de trajet (sauf impossibilité absolue, force majeure ou motif légitime). Ce dernier doit ensuite faire une déclaration, sous 48 heures, à la Caisse primaire d’assurance maladie et délivrer à la victime une feuille d’accident qui lui permet d’être dispensée de l’avance de ses frais médicaux (dans la limite toutefois des tarifs de la Sécurité sociale) ; depuis le 1er septembre 2008, cette déclaration obligatoire peut être faite, par l’employeur ou son mandataire (experts-comptables, centres de gestion., etc.), directement sur Internet .</p>
+			<p id="p4">A savoir</p>
+			<p id="p5">La durée de l’arrêt de travail consécutif à un accident ou une maladie professionnelle est prise en compte pour la détermination de tous les avantages légaux et conventionnels liés à l’ancienneté dans l’entreprise.</p>
+			<p id="p6">Sommaire</p>
+			<p id="p7">Qu’est-ce qu’un accident du travail ?</p>
+			<p id="p8">Il s’agit d’un accident survenu, par le fait ou à l’occasion du travail, à un salarié ou à une personne travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs.</p>
+			<p id="p9">La législation relative aux accidents du travail est étendue à certains bénéficiaires tels les élèves des établissements techniques, les demandeurs d’emploi participant à des actions de formation, d’aide à la recherche d’emploi…, les personnes en stage de formation professionnelle continue…</p>
+			<p id="p10">Plusieurs critères doivent être réunis pour autoriser la qualification d’accident du travail :</p>
+			<p id="p11">le caractère soudain de l’événement (éblouissement, coupure, chute…) ou l’apparition soudaine d’une lésion (douleur lombaire à l’occasion d’une manutention), critères qui distinguent l’accident de la maladie, laquelle apparaît de façon lente et progressive ;</p>
+			<p id="p12">l’existence d’une lésion corporelle, quelle que soit son importance. Ce critère est apprécié largement ; a même été retenue l’apparition de troubles psychiques à la suite d’un entretien d’évaluation ;</p>
+			<p id="p13">le caractère professionnel, c’est-à-dire la survenance de l’accident par le fait ou à l’occasion du travail. La victime doit être placée sous la subordination juridique d’un employeur (critère qui exclut par exemple le candidat à une offre d’emploi) et l’accident survient soit au cours de la réalisation de son travail soit à l’occasion de celui-ci (accident lors d’un déplacement ou d’une mission effectuée pour le compte de l’employeur, blessures à la suite d’une rixe survenue en dehors du temps et du lieu de travail mais pour des motifs liés à l’activité professionnelle).</p>
+			<p id="p14">L’accident d’un représentant du personnel dans l’exercice de son mandat constitue un accident du travail. En revanche, ne sont pas considérés comme tels les accidents qui se produisent pendant la suspension du contrat de travail (grève, congés, mise à pied) ou lorsque le salarié s’est soustrait à l’autorité de l’employeur (pour accomplir un travail personnel par exemple).</p>
+			<p id="p15">Un accident de trajet ?</p>
+			<p id="p16">Considéré comme accident du travail, l’accident de trajet est celui qui survient lors du parcours normal aller-retour effectué par le salarié entre :</p>
+			<p id="p17">le lieu de travail et sa résidence principale - ou sa résidence secondaire si elle présente un caractère de stabilité (maison de week-end par exemple), ou encore un lieu de séjour où l’intéressé se rend de façon habituelle pour des motifs d’ordre familial ;</p>
+			<p id="p18">le lieu de travail et celui où il prend habituellement ses repas (restaurant, cantine…).</p>
+			<p id="p19">La notion de « parcours normal » n’implique pas nécessairement le parcours le plus direct. En revanche, elle exige que le trajet soit effectué pendant le temps normal du parcours, compte tenu des horaires habituels du salarié et des nécessités de l’emploi qu’il occupe. Enfin, les accidents survenus lors d’un détour ou d’une interruption de travail peuvent être qualifiés d’accident de trajet, si le détour ou l’interruption est motivée par les nécessités de la vie courante (acheter du pain, effectuer une démarche administrative, accompagner un enfant), ou de l’emploi (chercher un vêtement destiné à une cérémonie professionnelle, déposer un collègue dans le cadre d’un covoiturage régulier pour aller et revenir du lieu de travail).</p>
+			<p id="p20">Et une maladie professionnelle ?</p>
+			<p id="p21">Est présumée d’origine professionnelle, toute maladie inscrite dans l’un des tableaux de maladies professionnelles (prévus à l’article R. 461-3 du Code de la sécurité sociale) et contractée dans les conditions mentionnées dans le tableau concerné. Chaque tableau définit les maladies visées ainsi que les principaux travaux susceptibles de provoquer ces maladies et fixe le délai de prise en charge. Par délai de prise en charge, on entend le temps écoulé entre la première constatation de la maladie et le retrait du risque. Si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d’exposition ou à la liste limitative des travaux ne sont pas remplies, la maladie peut tout de même être reconnue comme professionnelle s’il est établi qu’elle est directement causée par le travail habituel de la victime, après avis motivé d’un comité régional de reconnaissance des maladies professionnelles.</p>
+			<p id="p22">D’autres maladies caractérisées, non désignées dans un tableau de maladies professionnelles, peuvent être reconnues comme telles :</p>
+			<p id="p23">s’il est établi que la maladie est essentiellement et directement causée par le travail habituel du salarié ;</p>
+			<p id="p24">et si elle entraîne le décès de la victime ou une incapacité permanente d’un taux au moins égal à 25 %.</p>
+			<p id="p25">Il appartient alors à la caisse primaire d’assurance maladie de reconnaître l’origine professionnelle de cette maladie conformément à une liste de maladies professionnelles donnée sous forme de tableaux. Est présumée d’origine professionnelle toute maladie désignée dans ces tableaux dès lors que certaines conditions cumulatives sont remplies. Ce système est assoupli par la procédure de reconnaissance après expertise médicale confiée aux comités régionaux de reconnaissance des maladies professionnelles (CRRMP) :</p>
+			<p id="p26">pour les maladies visées par les tableaux et pour lesquelles une ou plusieurs conditions tenant au délai de prise en charge, à la durée d’exposition ou à la liste limitative des travaux ne sont pas remplies ;</p>
+			<p id="p27">pour les affections non inscrites dans un tableau mais qui présentent une gravité certaine ayant entraîné une incapacité permanente d’un taux au moins égal à 25 %, ou le décès de la victime</p>
+			<p id="p28">Formalités</p>
+			<p id="p29">- Information de l’employeur par la victime dans les 24 heures, sauf impossibilité absolue, force majeure ou motif légitime</p>
+			<p id="p30">- Déclaration de l’accident par l’employeur à la CPAM (1) dans les 48 heures de la prise de connaissance de l’accident</p>
+			<p id="p31">- Information de l’employeur par la victime dans les 24 heures, sauf impossibilité absolue, force majeure ou motif légitime</p>
+			<p id="p32">- Déclaration de l’accident par l’employeur à la CPAM (1) dans les 48 heures de la prise de connaissance de l’accident</p>
+			<p id="p33">- Déclaration par la victime à la CPAM (1) dans les 15 jours qui suivent la cessation de travail</p>
+			<p id="p34">Indemnisation</p>
+			<p id="p35">- Indemnités journalières de la sécurité sociale en cas d’arrêt de travail et complément versé par l’employeur, sans délai de carence (voir « l’indemnisation légale des absences pour maladie ou accident »)</p>
+			<p id="p36">- Prise en charge à 100 % des frais médicaux, chirurgicaux, pharmaceutiques…</p>
+			<p id="p37">- Rente ou indemnité en capital en cas d’incapacité permanente totale ou partielle</p>
+			<p id="p38">- Rente aux ayants droit de la victime décédée</p>
+			<p id="p39">- Indemnités journalières de la sécurité sociale en cas d’arrêt de travail et complément versé par l’employeur, après délai de carence (voir « l’indemnisation légale des absences pour maladie ou accident »)</p>
+			<p id="p40">- Prise en charge à 100 % des frais médicaux, chirurgicaux, pharmaceutiques…</p>
+			<p id="p41">- Rente ou indemnité en capital en cas d’incapacité permanente totale ou partielle</p>
+			<p id="p42">- Rente aux ayants droit de la victime décédée</p>
+			<p id="p43">- Indemnités journalières de la sécurité sociale en cas d’arrêt de travail et complément versé par l’employeur, sans délai de carence (voir « l’indemnisation légale des absences pour maladie ou accident »)(2)</p>
+			<p id="p44">- Rente ou indemnité en capital en cas d’incapacité permanente totale ou partielle</p>
+			<p id="p45">- Rente aux ayants droit de la victime décédée</p>
+			<p id="p46">Protection du salarié</p>
+			<p id="p47">- Licenciement interdit pendant l’arrêt de travail sauf faute grave ou impossibilité de maintenir le contrat de travail pour un motif non lié à l’accident</p>
+			<p id="p48">- En cas d’inaptitude constatée par le médecin du travail à l’issue de l’arrêt de travail, obligation est faite à l’employeur de reclasser l’intéressé. En cas d’impossibilité, versement d’une indemnité de licenciement majorée</p>
+			<p id="p49">- Absence de protection spécifique mais, conformément au droit commun, interdiction de licencier ou de sanctionner l’intéressé pour un motif lié à son état de santé</p>
+			<p id="p50">- Licenciement interdit pendant l’arrêt de travail sauf faute grave ou impossibilité de maintenir le contrat de travail pour un motif non lié à l’accident</p>
+			<p id="p51">- En cas d’inaptitude constatée par le médecin du travail à l’issue de l’arrêt de travail, obligation est faite à l’employeur de reclasser l’intéressé. En cas d’impossibilité, versement d’une indemnité de licenciement majorée</p>
+			<p id="p52">(1) Caisse primaire d’assurance maladie dont relève la victime.</p>
+			<p id="p53">(2) Le versement des indemnités journalière de la Sécurité sociale peut être maintenue, après avis du médecin-conseil, lorsque la victime demande à accéder durant son arrêt de travail, avec l’accord du médecin traitant, aux actions de formation professionnelle continue prévues à l’article L. 6313-1 du code du travail ou à d’autres actions d’évaluation, d’accompagnement, d’information et de conseil auxquelles la caisse primaire est partie prenante. La caisse informe l’employeur et le médecin du travail de sa décision de maintenir l’indemnité. En outre, l’indemnité journalière peut être rétablie pendant le délai d’un mois mentionné à l’article L. 1226-11 du code du travail lorsque la victime ne peut percevoir aucune rémunération liée à son activité salariée. Le versement de l’indemnité cesse dès que l’employeur procède au reclassement dans l’entreprise du salarié inapte ou le licencie. Lorsque le salarié bénéficie d’une rente, celle-ci s’impute sur l’indemnité journalière. Un décret (à paraître) déterminera les conditions d’application de cette disposition.</p>
+			<p id="p54">Textes de référence</p>
+			<p id="p55">Articles L. 411-1 et suivants (accident du travail, accident de trajet), articles L. 461-1 et suivants et R. 461-1 et suivants (maladies professionnelles) du Code de la sécurité sociale</p>
+			<p id="p56">Loi n° 2008-1330 du 17 décembre 2008 (JO du 18)</p>
+			<p id="p57">© Ministère du Travail, de la Solidarité et de la Fonction Publique</p>
+			<p id="p58">Ces fiches pratiques donnent une information synthétique. Les informations fournies n’ont pas de valeur légale ou réglementaire.</p>
+		</body>
+	</text>
+</cesDoc>

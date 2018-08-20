@@ -1,0 +1,2831 @@
+
+       Dictionary and System Subcategorisation Code Mappings
+
+       Copyright 1995-2006,
+       Ted Briscoe, Computer Laboratory, Cambridge University
+       Use for research purposes only       
+       (With thanks to Diane Nicholls, Dan Flickinger, Anna Korhonen,
+       Sabine Buchholz) 
+
+1) Mappings between Comlex, ANLT, XTAG, LingoERG and TSG
+2) Diathesis alternation rules 
+3) Extraction rule specialisations
+4) Other ways of grouping classes
+
+Mappings
+
+The file represents all the open-class verb distinctions in
+COMLEX/ANLT/XTAG/LingoERG/TSG and indicates how they can be recovered
+from the TSG in terms of feature-value info in the parse tree. PFORM
+values / headword (particle) info etc is not represented as a feature
+value a) because it won't be recoverable as such when parsed as a
+particle/adverbial, and b) because these are parameters to each class
+rather than a defining feature. Note: when headword parameters are
+essential to recognition of a category, they appear in upper case --
+IT, HOW, TO, WHAT etc. The mapping to TSG grammatical relations (GRs)
+is also shown.
+
+The file also represents mappings from GRs to classes for adjectives
+and nouns. These cover most of the distinctions in NOMLEX, COMLEX, and
+ANLT. (XTAG/LingoERG yet to be checked and some info eg ANLT freq to
+be added.)
+
+The mapping is not one:one because of control/raising/equi and one or
+two other conflations. Of the 116 classes from Comlex, ANLT
+systematically ignores arbitrary or variable control cases (about 8),
+and TSG cannot distinguish subject or arbitrary control from
+object control and predicative from non-predicative NP/PP (21 cases).
+There are 38 classes not coded in Comlex which appear in ANLT or XTAG
+which are given at the end of the file. A lot are gaps created by not
+coding in Comlex for phrasal/prepositional verbs with some
+complementation patterns. There are some classes found only in LingoERG
+-- these are coded into the classifier in the acquisition system
+(class 164 onwards).
+
+In general, Comlex spells out most patterns by steam, eg
+extraposition, heavy-XP-shift, whilst ANLT/XTAG assume some of these
+variations are dealt with by alternative rule expansions / tree
+families from one subcategorisation. I have tried to spell out the
+mapping to ANLT rule features (eg AGR for extrap) even where ANLT
+would subsume cases. I have used discretion in dropping some
+distinctions eg Comlex heavy-shift variants, some ANLT raising/equi
+distinctions. I have given mappings to TSG for all classes.
+
+
+Diathesis Alternations
+
+The alternation rules listed are redundant given the Comlex
+classification.  However, they may be useful in predicting unseen
+cases of complementation patterns and also in recovering
+control/raising/equi information from sets of patterns derived from
+TSG
+
+I try to indicate some of the likely correlations between diff.
+patterns of complementation in terms of mappings between ANLT SUBCAT
+values (+ further features if needed). Where these correspond to
+linguistically-recognised lexical rules / local transformations I name
+them. Otherwise, I indicate an unnamed unidirectional relationship
+(->). I indicate them as info removing and argument reducing
+unidirectional rules so that they are bounded by the number of
+arguments in complementation patterns (given transitivity of
+application).
+
+Some of the rules contain variables over PFORM/PREP values between
+input and output written @X indicating identity of value in output
+rule (incl @X_@Y -> @X/@Y to indicate splitting of value and either
+carrying over).
+
+In terms of the full ANLT grammar some lexical rules are implemented
+by allowing the SUBCAT/SUBTYPE to be expanded by two PS rules (eg.
+Extraposition) -- I prefix these cases with % and give features from
+the full grammar which enforce the alternation (eg. AGR S[FIN +]). They
+are not relevant if one assumes the lexicon is to be used with the
+full grammar. I ignore Passive throughout since this is too productive
+for useful listing.
+
+Ldoce_inter contains additional information in the SUBTYPE field about
+the application of certain (in)transitivity alternations to particular
+verbs -- these alternations are not listed separately here, as their
+effect on SUBCAT is uniform (NP/NULL or 0).
+
+The correlations are not 100% (as the rules they represent tend to
+apply to subclasses of the verbs which can be assigned a given SUBCAT
+value and are of varying productivity).
+
+One possibility is to assess the productivity of each mapping from the ANLT
+lexicon by calculating the ratio of the number of times it does occur
+to the number of times it could occur. This can then be used to help
+predict the relative likelihood of unseen SUBCAT values for a given
+verb. The frequency of each (attested) class in the ANLT lexicon is given
+(23,273 entries in v.le). The following classes add up to 24,300,
+however a number of frequencies for Comlex classes involve repeating
+estimates eg HOW vs. WHETHER conflated in ANLT.
+
+
+Subcat extraction rule specialisations / multiple output cases:
+
+(49 50 118) and 31        = NP+PP vs NP+PPfor
+(49 50 118) and (56 49)   = NP+PP vs NP+PPto
+23 and 22                 = they met vs Intrans
+(24 51) and 123           = NP vs MP `cost £10'
+(37 38) and 124           = NP vs MP `cost him £10'
+125 and 117               = NP vs MP `set him back £10'
+(104 109) and 106         = Scomp vs S-Subjunctive `prefer he leave'
+97 and 98                 = PP+S vs PP+S-Subjunctive 
+52 and 133                = NP+S vs NP+Sbse `that he be free'
+164 and 22                = Intrans vs `it rains'
+97 and 12                 = PP+S vs it+PP+S `it matters to him that S'
+(112 111 110) and 9       = VPinf vs it+VPinf `it remains to go'
+(53 54 55) and 11         = NP+VPinf it+NP+VPinf `it pleases then to go'
+
+These are all deliberate decisions; eg:
+
+If you see it+V (almost) every time then you can conclude that you
+have a verb like `it rains' which can only occur with (dummy) it: *the
+man rains. On the other hand `it smiles' isn't dummy it, so with
+smiles you'd expect to see lots of cases of just 22 output, not always
+22 and 164. So in constructing the final lexicon if you (nearly)
+always see 22 and 164 you can make the inference that the correct
+class is 164 (ditto 23 and 31). With 23 and 31, this then implies that
+you shld also have 24 and 37 respectively (ie more `smoothing' /
+alternation inferencing is possible based on assignment of these rarer
+classes). 
+
+
+Other ways of grouping classes
+
+a) Subsumption hierarchy: This can be defined in terms of the GR
+extraction patterns (see subcat.lsp) or their more informal
+representation below eg: Class 22 Intransitive just requires a (ncsubj
+v1 n1) relation, but all transitive classes (eg 24, 32, etc) also
+require (dobj v1 n2), and so forth.
+
+b) Superclasses: These can be defined in terms of paradigms of
+diathesis alternations as by Levin/Korhonen, and/or by classes + their
+specialisation(s) (eg. `it rains', class 164, specialises `he/it smiles',
+class 22) -- see notes above, and/or by the groupings output by the
+extraction rules (see subcat.lsp) which conflate (eg. Classes (112 111
+110) equi/raising/arb control) cases in most to least frequent order
+when there isn't enough information in a single TSG derivation to
+distinguish them.
+
+
+Feature Information (from ANLT / TSG grammars)
+
+ANLT SUBCAT/SUBTYPE values:
+
+FEATURE SUBCAT{ADL, ADVP, ADVP_PP, IT_WHS, LOC, MP, NP, NP_ADL,
+NP_ADVP, NP_LOC, NP_MP, NP_NP, NP_NP_SFIN, NP_PP, NP_PP_PP, NP_SBSE,
+NP_SFIN, NP_WHS, NP_WHVP, NULL, OC_AP, OC_BSE, OC_INF, OC_ING, OC_NP,
+OC_PASS, OC_PP_BSE, OC_PP_INF, OC_PP_ING, PP, PPING, PPSING, PP_PP, PP_SBSE,
+PP_SFIN, PP_SINF, PP_VPINF, PP_WHS, PP_WHVP, SBSE, SC_AP, SC_BSE,
+SC_INF, SC_ING, SC_NP, SC_NP_AP, SC_NP_INF, SC_NP_NP, SC_PASS, SC_PP_INF,
+SFIN, SINF, VPINF, WHS, WHVP, VPING, SING, 
+AND, BOTH, BUT, EITHER, NEITHER, NOR, OR, DETA, DETN, AS, FOR, IF,
+THAN, THAT, WHETHER, NOT, BE, DO, HAVE, MODAL_BSE, MODAL_INF, TO, FUT, OFN1}
+
+FEATURE SUBTYPE{ASIF, IF, EQUI, EQU_EXTRAP, EXTRAP, PVERB, PVERB_OE,
+PVERB_OR, RAIS, READY, SILLY, TOUGH, NONE, DMOVT, DEO}
+
+TSG(10vs) V/P SUBCAT values:
+
+FEATURE VSUBCAT{SCOMP, SINF, SING, SING_PP, VPINF, VPING, VPING_PP,
+VPPRT, VPBSE, NP, NP_NP, , NP_NP_VPINF, NP_NP_PP, NP_PP, NP_WHPP,
+NP_PPOF, NP_PP_PP, NP_AP, NP_SCOMP, NP_NP_SCOMP, PP, WHPP, PP_PP,
+PP_WHPP, PP_SCOMP, PP_WHS, PP_WHVP, PP_VPINF, PP_AP, AP, NONE}
+
+FEATURE PSUBCAT{SFIN, SINF, SING, NP, PP, VPINF, VPING, VPPRT, WHS, NONE}
+
+
+File Format
+Subcat-class entry format:
+
+Class Number. Comlex class name / ANLT freq
+(ANLT: SUBCAT/SUBTYPE PFORM/PRT f-v pairs)
+XTAG:Tree-family / LingoERG:LE
+Example: CLAWS-II/Susanne TAGS
+TSG P/V-SUBCAT, PRT, PFORM and HEADWORD | _TAG
+GRs from tsg14-grs (but with additional control GRs, GR subtypes etc
+added with *)
+
+Alternation rules:
+%/0 (ANLT F-Vs) -> (ANLT F-Vs) (Optional-rule-name)
+
+Note classes 141, 144, 161, 119, 108, 120, 127 dropped in current
+subcat extraction rules: 141 (passive get) and 144 (equiv to 38), 161 (equiv to 51), 
+119 (equiv to 78), 108 (equiv to 12), 120 (equiv to 77), 127 (equiv to 78)
+
+Now added classes: 164 (it rains), 165 (I arranged it with kim to meet), 166 (I take 
+it that kim left), 167 (it cost kim a pound for us to go), 168 (it took us an 
+hour to find)
+
+EJB 12/06/06
+
+;*********************************
+
+VERBS
+
+
+   1. ADJP / 93
+   (SUBCAT SC_AP, SUBTYPE EQUI) 
+   XTAG:Tnx0Va1 / v_subj_equi_prd_adj_le
+   his_AT reputation_NN1 sank_VVD low_JJ
+   (VSUBCAT AP)
+   (ncsubj sink reputation _)
+   (xcomp _ sink low) 
+   *(ncsubj low reputation _)
+   
+   2. ADJP-PRED-RS / 15
+   (SUBCAT SC_AP, SUBTYPE RAIS) 
+   XTAG:Tnx0Ax1 / v_prd_ssr_any_le
+   he_NP1 appears_VVZ crazy_JJ / distressed_VVN
+   (VSUBCAT AP) / (VSUBCAT VPPRT)
+   (ncsubj appear he rais)
+   (xcomp _ appear crazy) 
+   *(ncsubj crazy he _)
+
+   3. ADVP / 64
+   (SUBCAT ADVP)
+   XTAG gap / v_adv_le
+   he_NP1 meant_VVD well_RP 
+   (VSUBCAT NONE, PRT +) well
+   (ncsubj mean he _)
+   (ncmod prt mean well) 
+
+   4. ADVP-PRED-RS / 0 (in vppp)
+   (SUBCAT ADVP, SUBTYPE RAIS) 
+   XTAG gap / v_prd_ssr_any_le
+   He_NP1 seems_VVZ well_RP
+   (VSUBCAT NONE, PRT +) well
+   (ncsubj seem he *rais)
+   (ncmod prt seem well)
+	
+(SUBCAT SC_AP) -> (SUBCAT ADVP)
+
+   5. AS-NP / 0 (in vppp with PRT 1 = end)
+   (SUBCAT SC_NP, SUBTYPE EQUI, PREP as) 
+   XTAG gap / ERG gap
+   I_NP1 worked_VVZ as_CSA an_AT1 apprentice_NN1 cook_NN1
+   (VSUBCAT PP) as
+   (ncsubj work I _)
+   (iobj work as)
+   (dobj as cook *equi)
+
+   6. EXTRAP-NP-S / 58
+   (SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT]) 
+   XTAG gap / v_expl_it_subj_np_cp_le
+   it_PPH1 annoys_VVZ them_PPHO2 that_CST she_PPHS1 left_VVD
+   it (VSUBCAT NP_SCOMP) _ _VVZ/D/G
+   (ncsubj annoy it *extrap)
+   (dobj annoy them _)
+   (ccomp that annoy leave)
+
+   7. S-SUBJ-NP-OBJ / 58
+   (SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR S[FIN +]) 
+   XTAG:Ts0Vnx1 / v_np_trans_le
+   that_CST she_PPHS1 left_VVD annoys_VVZ them_PPHO2 
+   _VVD/Z/G (VSUBCAT NP) 
+   (csubj annoy leave _)
+   (dobj annoy them _)
+
+   8. TO-INF-SUBJ-NP-OBJ / 56
+   (SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR VP[FIN -])
+   XTAG gap / v_np_trans_le
+   to_TO read_VV0 pleases_VVZ them_PPHO2
+   _VV0 (VSUBCAT NP)
+   (xsubj please read *extrap)
+   (dobj please them _)
+   *(ncsubj read them _)
+
+%(SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT]) -> (SUBCAT NP, AGR
+S[FIN +]) (Extraposition)
+
+   9. EXTRAP-TO-INF / 4
+   (SUBCAT VPINF, SUBTYPE EXTRAP, AGR N2[NFORM IT])
+   XTAG gap / ERG gap
+   it_PPH1 remains_VVZ to_TO find_VV0 a_AT1 cure_NN1
+   IT (VSUBCAT VPINF)
+   (ncsubj remain it *extrap)
+   (xcomp to remain find)
+   *(ncsubj find Pro)
+
+   10. EXTRAP-FOR-TO-INF / 0 (not in vppp)
+   (SUBCAT SINF, SUBTYPE EXTRAP, AGR N2[NFORM IT]) 
+   XTAG gap / ERG gap
+   it_PPH1 remains_VVZ for_IF us_PPHO2 to_TO find_VV0 a_AT1 cure_NN1
+   IT (VSUBCAT PP_VPINF) for (PSUBCAT NP)
+   (ncsubj remain it *extrap)
+   (xcomp to remain find)
+   (iobj remain for)
+   *(ncsubj find Pro/us? _)
+
+
+(SUBCAT SINF, SUBTYPE EXTRAP, AGR N2[NFORM IT]) -> (SUBCAT OC_INF|VPINF,
+SUBTYPE EXTRAP, AGR N2[NFORM IT]) (PP deletion)
+
+   11. EXTRAP-NP-TO-INF / 56
+   (SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR N2[NFORM IT]) 
+   XTAG gap / v_expl_it_subj_np_cp_le
+   it_PPH1 pleases_VVZ them_PPHO2 to_TO find_VV0 a_AT1 cure_NN1
+   IT (VSUBCAT SINF)
+   (ncsubj please it *extrap)
+   (dobj please them _)
+   (xcomp to please find)
+   *(ncsubj find them)
+
+; ignore OC_INF, SUBTYPE EQUI, AGR N2[NFORM IT] -- it behoves you to
+; make amends
+
+%(SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR VP[FIN -]) -> (SUBCAT
+OC_INF, SUBTYPE EQU_EXTRAP, AGR N2[NFORM IT])  (Extraposition)
+
+   12. EXTRAP-TO-NP-S / 5  (4 without EXTRAP)
+   (SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM to, AGR N2[NFORM IT]) 
+   XTAG gap / v_expl_it_subj_pp_cp_le
+   it_PPH1 matters_VVZ to_II them_PPHO2 that_CST she_PPHS1 left_VVD
+   IT (VSUBCAT PP_SCOMP) to (PSUBCAT NP) _VVZ/D/G
+   (ncsubj matter it *extrap)
+   (iobj matter to)
+   (ccomp that matter leave)
+
+   13. EXTRAP-TO-NP-TO-INF / 1
+   (SUBCAT PP_VPINF, SUBTYPE EXTRAP, PFORM to) 
+   XTAG gap / v_prep_intrans_le   
+   it_PPH1 occurred_VVD to_II them_PPHO2 to_TO watch_VV0
+   IT (VSUBCAT PP_VPINF) to (PSUBCAT NP)
+   (ncsubj occur it *extrap)
+   (iobj occur to)
+   (xcomp to occur watch)
+   *(ncsubj watch them _)
+
+   14. S-SUBJ-TO-NP-OBJ / 5
+   (SUBCAT PP_SFIN, SUBTYPE EXTRAP, AGR S[FIN +])
+   XTAG gap / v_prep_intrans_le   
+   that_CST she_PPHS1 left_VVD matters_VVZ to_II them_PPHO2
+   _VVD/G/Z (VSUBCAT PP) to (PSUBCAT NP)   
+   (csubj matter leave *extrap)
+   (iobj matter to)
+
+%(SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM to,  AGR N2[NFORM IT]) ->
+(SUBCAT PP, PFORM to, AGR S[FIN +]) (Extraposition) 
+
+   15. FOR-TO-INF / 17
+   (SUBCAT SINF)
+   XTAG gap / v_cp_inf_le
+   I_PPHS1 prefer_VV0 for_IF her_PPHO1 to_TO do_VV0 it_PPH1
+   (VSUBCAT PP_VPINF) FOR (PSUBCAT NP) 
+   (ncsubj prefer I _)
+   (iobj prefer for)
+   (xcomp to prefer do)
+   *(ncsubj do her _)
+
+(SUBCAT SINF) -> (SUBCAT SC_INF) (PP deletion)
+
+   16. HOW-S / 155 (combined with other wh comps)
+   (SUBCAT WHS) 
+   XTAG gap / v_cp_ques_fin_inf_non_trans_le
+   he_PPHS1 asked_VVD how_RGQ she_PPHS1 did_VDD it_PPH1
+   (VSUBCAT SCOMP)  HOW/WHY/WHERE/WHEN 
+   (ncsubj ask he _)
+   (ccomp _ ask do)
+   (arg_mod _ do how)
+
+   17. HOW-TO-INF / 100 (combined with other wh comps)
+   (SUBCAT WHVP)
+   XTAG gap / v_cp_fin_inf_non_trans_le
+   he_PPHS1 explained_VVD how_RGQ to_TO do_VV0 it_PPH1
+   (VSUBCAT PP) HOW/WHERE/WHEN (PSUBCAT VPINF)
+   (ncsubj explain he _)
+   (iobj explained how)
+   *(ncsubj do Pro _) 
+
+(SUBCAT WHS) -> (SUBCAT WHVP)
+
+   18. INF-AC / ??
+   ANLT gap (SUBCAT VC_BSE)
+   XTAG gap / v_subj_equi_bse_le
+   he_PPHS1 helped_VVD bake_VV0 the_AT cake_NN1
+   (VSUBCAT VPBSE)
+   (ncsubj help he _)
+   (xcomp _ help bake)
+   *(ncsubj bake Pro _)
+   
+   19. ING-NP-OMIT / 242
+   (SUBCAT SC_ING, SUBTYPE EQUI) ; ?? wrong / need specific
+   XTAG gap / v_subj_equi_prp_le
+   his_AT hair_NN1 needs_VVZ combing_VVG
+   (VSUBCAT VPING)
+   (nsubj need hair _)
+   (xcomp _ need comb)
+   *(ncsubj comb Pro _)
+   *(dobj comb hair _)
+
+   20. ING-SC/BE-ING-SC / 21
+   (SUBCAT SC_ING, SUBTYPE RAIS) ; ?? wrong
+   XTAG gap / v_subj_equi_prp_le
+   she_PPHS1 stopped_VVD smoking_VVG
+   (VSUBCAT VPING)
+   (ncsubj stop she _)
+   (xcomp _ stop smoke)
+   (ncsubj smoke she _)
+
+   21. ING-AC / ??
+   ANLT gap (SUBCAT VC_ING)
+   XTAG gap / v_np_trans_le
+   she_PPHS1 discussed_VVD writing_VVG novels_NN2
+   (VSUBCAT VPING)
+   (ncsubj discuss she _)
+   (xcomp _ discuss write)
+   *(ncsubj write Pro _)
+
+   22. INTRANS / 2985
+   (SUBCAT NULL)
+   XTAG gap / v_unerg_le 
+   he_PPHS1 went_VVD
+   (VSUBCAT NONE)
+   (ncsubj go I _)
+
+   23. INTRANS-RECIP(SUBJ-PL/COORD) / ??
+   (SUBCAT NULL) 
+   XTAG gap / v_unerg_le
+   They_PPHS2 met_VVD 
+   _PP/NN*2 (VSUBCAT NONE)
+   John_NP1 and_CC her_AT brother_NN1 met_VVD
+   _CC (VSUBCAT NONE) ***
+   (ncsubj meet they *recip)
+
+   24. NP / 5281
+   (SUBCAT NP) 
+   XTAG:Tnx0Vnx1 / v_np_trans_le
+   he_PPHS1 loved_VVD her_PPHO1
+   (VSUBCAT NP)
+   (ncsubj love he _)
+   (dobj love her _)
+
+   25. NP-ADJP / 113
+   (SUBCAT OC_AP, SUBTYPE EQUI)
+   XTAG gap / v_obj_equi_prd_le
+   he_PPHS1 painted_VVD the_AT car_NN1 black_JJ
+   (VSUBCAT NP_AP)
+   (ncsubj paint he _)
+   (dobj paint car _)
+   (xcomp _ paint black)
+   (ncsubj black car _) ; 
+   
+% heavy-np-shift ADJP-NP Comlex category, no ANLT equiv, TSG10vs V/ap_np_hs
+
+(SUBCAT NP) -> (SUBCAT NULL) (Reciprocal, Causative etc)
+
+   26. NP-ADJP-PRED / 46
+   (SUBCAT OC_AP, SUBTYPE RAIS)  
+   XTAG:Tnx0Vs1 / v_obj_equi_prd_le
+   she_PPHS1 considered_VVD him_PPHO1 foolish_JJ
+   (VSUBCAT NP_AP)
+   (ncsubj consider she _)
+   (dobj consider him _)
+   (xcomp _ consider foolish)
+   (ncsubj foolish him _)
+
+(SUBCAT OC_AP, SUBTYPE RAIS) -> (SUBCAT OC_NP, SUBTYPE RAIS)
+(SUBCAT OC_AP, SUBTYPE RAIS) -> (SUBCAT NP)
+
+   27. NP-ADVP / 9
+   (SUBCAT NP_ADVP) 
+   XTAG gap / v_np_prep_trans_dors_le
+   he_PPHS1 put_VVD it_PPH1 there_RL
+   (VSUBCAT NP, PRT +) * there
+   (ncsubj put he _)
+   (dobj put it _)
+   (ncmod prt put there)
+
+(SUBCAT NP_LOC) -> (SUBCAT NP) (PP deletion)
+(SUBCAT NP_ADVP) -> (SUBCAT NP)
+
+   28. NP-ADVP-PRED / 281 (with PPs)
+   (SUBCAT NP_LOC)   
+   XTAG:Tnx0Vs1 / v_obj_equi_prd_le
+   they_PPHS2 mistakenly_RR thought_VVD him_PPHO1 here_RL
+   (VSUBCAT NP, PRT +) here
+   (ncsubj think they _)
+   (dobj think him _)
+   (ncmod prt think here)    
+
+   29. NP-AS-NP / 3
+   (SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as) ; OC ??
+   XTAG gap / v_np_comp_le
+   I_PPHS1 sent_VVD him_PPHO1 as_CSA a_AT1 messenger_NN1
+   (VSUBCAT NP_PP) (PFORM AS)
+   (ncsubj send I _)
+   (dobj send him *rais)
+   (iobj send as)
+   *(ncsubj messenger him _)
+
+(SUBCAT OC_NP, SUBTYPE RAIS, PREP as) -> (SUBCAT NP) (PP deletion)
+   
+   30. NP-AS-NP-SC / 3
+   (SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as)
+   XTAG gap / ERG gap
+   she_PPHS1 served_VVD the_AT firm_NN1 as_CSA a_AT1 researcher_NN1
+   (VSUBCAT NP_PP) (PFORM AS)
+   (ncsubj serve she *rais)
+   (dobj serve firm _)
+   (iobj serve as)
+   *(ncsubj researcher she _)
+   
+
+(SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as) -> (SUBCAT NP) (PP deletion)
+
+   31. NP-FOR-NP / 90
+   (SUBCAT NP_PP, SUBTYPE DMOVT, PFORM for) 
+   XTAG gap / v_empty_prep_trans_le
+   she_PPHS1 bought_VVD a_AT1 book_NN1 for_IF him_PPHO1
+   (VSUBCAT NP_PP) (PFORM FOR)
+   (ncsubj buy she _)
+   (dobj buy book _)
+   (iobj buy for)
+
+%(SUBCAT NP_PP, SUBTYPE DMOVT, PFORM for) -> (SUBCAT NP_NP)
+
+   32. NP-INF / 11
+   (SUBCAT OC_BSE, SUBTYPE RAIS) 
+   XTAG:Tnx0Vs1 / v_sorb_le
+   he_PPHS1 made_VVD her_PPHO1 sing_VV0
+   (VSUBCAT SCOMP)  _VV0
+   (ncsubj make he _)
+   (ccomp _ make sing)
+   (ncsubj sing her _)
+
+   33. NP-INF-OC / 17
+   (SUBCAT OC_BSE, SUBTYPE EQUI) 
+   XTAG gap / v_obj_equi_bse_le
+   he_PPHS1 helped_VVD her_PP$ bake_VV0 the_AT cake_NN1
+   (VSUBCAT SCOMP) _VV0
+   (ncsubj help he _)
+   (ccomp _ help bake)
+   (ncsubj bake her _)
+
+(SUBCAT OC_BSE, SUBTYPE EQUI) -> (SUBCAT BSE, SUBTYPE EQUI)
+(SUBCAT OC_BSE, SUBTYPE EQUI) -> (SUBCAT NP)
+
+   34. NP-ING / 28
+   (SUBCAT OC_ING, SUBTYPE RAIS)  
+   XTAG:Tnx0Vs1 / v_obj_equi_prd_le
+I_PPHS1 kept_VVD them_PPHO2 laughing_VVG
+   (VSUBCAT SING)
+   (ncsubj keep I _)
+   (dobj keep them *rais)
+   (xcomp _ keep laugh)
+   (ncsubj laugh them _)
+
+   35. NP-ING-OC / 45
+   (SUBCAT OC_ING, SUBTYPE EQUI) 
+   XTAG gap / v_obj_equi_prd_le
+   I_PPHS1 caught_VVD him_PPHO1 stealing_VVG
+   (VSUBCAT SING)
+   (ncsubj catch I _)
+   (dobj catch him _)
+   (xcomp _ catch steal)
+   (ncsubj steal him _)
+
+(SUBCAT OC_ING, SUBTYPE EQUI) -> (SUBCAT NP)
+
+   36. NP-ING-SC / ??
+   ANLT gap: real complement?
+   XTAG gap / ERG gap
+   he_PPHS1 combed_VVD the_AT woods_NN2 looking_VVG for_IF her_PPHO1
+   (VSUBCAT SING)
+   (ncsubj comb he _)
+   (dobj comb woods _)
+   (xcomp _ comb look)
+   (ncsubj look he _)
+
+(SUBCAT SC_ING, SUBTYPE EQUI) -> (SUBCAT NP)
+
+   37. NP-NP / 231
+   (SUBCAT NP_NP) 
+   XTAG:Tnx0Vnx1nx2 / v_ditrans_le
+   she_PPHS1 asked_VVD him_PPHO1 his_AT name_NN1
+   (VSUBCAT NP_NP)
+   (ncsubj ask she _)
+   (dobj ask him _)
+   (obj2 ask name)
+   
+   38. NP-NP-PRED / 38
+   (SUBCAT OC_NP, SUBTYPE EQUI)  
+   XTAG:Tnx0Vs1 / ERG gap
+   they_PPHS2 appointed_VVD him_PPHO1 professor_NNS1
+   (VSUBCAT NP_NP)
+   (ncsubj appoint they _)
+   (dobj appoint him _)
+   (obj2 appoint professor)
+   *(ncsubj professor him _)
+   
+(SUBCAT OC_NP, SUBTYPE EQUI) -> (SUBCAT NP)
+
+   39. NP-P-ING / 2
+   (SUBCAT OC_PP_ING, PFORM from, SUBTYPE PVERB_OR, ORDER POSTNP)
+   XTAG gap / ERG gap
+   I_PPHS1 prevented_VVD her_PPHO1 from_II leaving_VVG
+   (VSUBCAT NP_PP) from (PSUBCAT VPING)
+   (ncsubj prevent I _)
+   (dobj prevent her *rais)
+   (xcomp _ prevent from)
+   *(ncsubj leave her _)
+
+(SUBCAT OC_PP_ING, PFORM, SUBTYPE PVERB_OR, ORDER POSTNP) ->
+(SUBCAT OC_ING, SUBTYPE RAIS) (PP deletion)
+   
+   40. NP-P-ING-OC / 31
+   (SUBCAT OC_PP_ING, PFORM, SUBTYPE PVERB_OE, ORDER POSTNP) 
+   XTAG gap / v_empty_prep_trans_le
+   I_PPHS1 accused_VVD her_PPHO1 of_IO murdering_VVG her_AT husband_NN1
+   (VSUBCAT SING, PRT +) of 
+   (VSUBCAT NP_PP) * (PSUBCAT VPING)
+   (ncsubj accuse I _)
+   (dobj accuse her _)
+   (xcomp _ accuse of)
+   *(ncsubj murder her _)
+
+   41. NP-P-ING-SC / ??
+   ANLT scheme gap ; shld be (SUBCAT SC_PP_ING, PRT, ORDER POSTNP) 
+   XTAG gap / v_empty_prep_trans_le
+   he_PPHS1 wasted_VVD time_NNT1 on_II fussing_VVG with_IW his_AT hair_NN1
+   (VSUBCAT NP_PP) on (PSUBCAT VPING)
+   (ncsubj waste he _)
+   (dobj waste time _)
+   (xcomp _ waste on)
+   *(ncsubj fuss he _)
+
+   42. NP-P-ING-AC / ??
+   ANLT gap ; shld be (SUBCAT VC_PP_ING)
+   XTAG gap / v_empty_prep_trans_le
+   he_PPHS1 told_VVD her_PPHO1 about_II climbing_VVG the_AT mountain_NN1
+   (VSUBCAT NP_PP) about (PSUBCAT VPING)
+   (ncsubj tell he _)
+   (dobj tell her _)
+   (xcomp _ tell about)
+   *(ncsubj climb Pro _)   
+
+   43. NP-P-NP-ING / ??
+   ANLT gap ; shld be (SUBCAT SC_PP_ING) 
+   XTAG gap / v_empty_prep_trans_le
+   he_PPHS1 attributed_VVD his_AT failure_NN1 to_II noone_NP1 buying_VVG his_AT books_NN2
+   (VSUBCAT NP_PP) to (PSUBCAT SING)
+   (ncsubj attribute he _)
+   (dobj attribute failure _)
+   (ccomp _ attribute to)
+
+   44. NP-P-POSSING / ??
+   ANLT gap ; shld be (SUBCAT NP_PP_SING)
+   XTAG gap / v_empty_prep_trans_le
+   They_PPHS2 asked_VVD him_PPHO1 about_II his_PPHO1 participating_VVG in_II the_AT conference_NN1
+   (VSUBCAT NP_PP) about (PSUBCAT SING)
+   (ncsubj ask they _)
+   (dobj ask him _)
+   (ccomp _ ask about)
+
+(SUBCAT OC_PP_ING, PFORM @X, ORDER POSTNP) -> (SUBCAT NP_PP, PFORM @X)
+    
+   45. NP-P-WH-S / 0   (not in vppp, and below)
+   (SUBCAT NP_WHS, PREP) 
+   XTAG gap / v_empty_prep_trans_le
+they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II whether_CSW they_PPHS2 should_VM participate_VV0
+   (VSUBCAT NP_PP) about (PSUBCAT PP) whether (PSUBCAT SFIN)
+   (ncsubj make they _)
+   (dobj make fuss _)
+   (ccomp _ about whether) 
+
+   46. NP-P-WHAT-S / 0
+   (SUBCAT NP_WHS, PREP) 
+   XTAG gap / v_empty_prep_trans_le
+   they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II what_DDQ they_PPHS2 should_VM do_VV0
+   (VSUBCAT NP_WHPP) about (PSUBCAT WHS)
+   (ncsubj make they _)
+   (dobj make fuss _)
+   (ccomp make about)      
+
+   47. NP-P-WHAT-TO-INF / 0
+   (SUBCAT NP_WHVP, PREP) 
+   XTAG gap / v_empty_prep_trans_le
+   they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II what_DDQ to_TO do_VV0
+   (VSUBCAT NP_WHPP) about (PSUBCAT NP)
+   (ncsubj make they _)
+   (dobj make fuss _)
+   (iobj make about)      
+
+   48. NP-P-WH-TO-INF / 0
+   (SUBCAT NP_WHS, PREP) 
+   XTAG gap / v_empty_prep_trans_le
+   they_PPHS2 made_VVD a_AT1 great_JJ fuss_NN1 about_II whether_CSW to_TO go_VV0
+   (VSUBCAT NP_PP) about (PSUBCAT PP) whether (PSUBCAT VPINF) 
+   (ncsubj make they _)
+   (dobj make fuss _)
+   (pcomp make about)      
+   (xcomp _ about whether)
+
+(SUBCAT NP_WHS, PREP @x) -> (SUBCAT NP_WHVP, PREP @x) 
+(SUBCAT NP_WHS) -> (SUBCAT NP_WHVP)
+
+   49. NP-PP / 2010
+   (SUBCAT NP_PP, PFORM, SUBTYPE NONE/PVERB?) 
+   XTAG:Tnx0Vnx1pnx2 / v_empty_prep_trans_le
+   she_PPHS1 added_VVD the_AT flowers_NN2 to_II the_AT bouquet_NN1
+   (VSUBCAT NP_PP) to
+   (ncsubj add she _)
+   (iobj add to)
+   (dobj add flowers _)
+   
+(SUBCAT NP_PP) -> (SUBCAT NP) (PP deletion)
+
+   50. NP-PP-PRED / 2010/50??
+   (SUBCAT NP_PP, PFORM of, SUBTYPE NONE, PRD +) 
+   XTAG gap / v_obj_equi_prd_le
+   I_PPHS1 considered_VVD that_AT problem_NN1 of_IO little_JJ concern_NN1
+   (VSUBCAT NP_PPOF)
+   (ncsubj consider I _)
+   (iobj consider of)
+   (dobj consider problem _)
+
+(SUBCAT NP_PP, PFORM @x, SUBTYPE NONE) -> (SUBCAT OC_AP, PFORM @x,
+SUBTYPE RAIS)
+
+   51. NP-PRED-RS / 12
+   (SUBCAT SC_NP, SUBTYPE RAIS) 
+   XTAG gap / ERG gap
+   he_PPHS1 seemed_VVD a_AT1 fool_NN
+   (VSUBCAT NP)   
+   (ncsubj seem he *rais)
+   (dobj seem fool _)
+   *(ncsubj fool he _)
+
+(SUBCAT SC_AP, SUBTYPE RAIS) -> (SUBCAT SC_NP, SUBTYPE RAIS) 
+
+   52. NP-S / 33
+   (SUBCAT NP_SFIN, SUBTYPE NONE) 
+   XTAG:Tnx0Vnx1s2 / v_np_trans_cp_le
+   he_PPHS1 told_VVD the_AT audience_NN1 that_CST he_PPHS1 was_VBZ leaving_VVG
+   (VSUBCAT NP_SCOMP) * _VVZ/D/G
+   (ncsubj tell he _)
+   (ccomp that tell leaving)
+   (dobj tell audience _)
+
+   53. NP-TO-INF-OC / 189
+   (SUBCAT OC_INF, SUBTYPE EQUI) 
+   XTAG gap / v_obj_equi_le
+   I_PPHS1 advised_VVD Mary_NP1 to_TO go_VV0
+   (VSUBCAT SINF)
+   (ncsubj advise I _)
+   (ncsubj go Mary _)
+   (xcomp to advise go)
+   (dobj advise Mary _)
+
+
+(SUBCAT OC_INF, SUBTYPE EQUI) -> (SUBCAT NP_SFIN) (Equi-NP-deletion)
+
+   54. NP-TO-INF-SC / 1
+   (SUBCAT SC_NP_INF, SUBTYPE EQUI) 
+   XTAG gap / v_anom_equi_le
+   John_NP1 promised_VVD Mary_NP1 to_TO resign_VV0
+   (VSUBCAT SINF)
+   (ncsubj promise John _)
+   (xcomp to promise resign)
+   (dobj promise Mary _)
+   *(ncsubj resign John _) ; override `Mary'
+   
+   55. NP-TO-INF-VC / ??
+   ANLT gap
+   XTAG gap / v_obj_equi_le
+   they_PPHS2 badgered_VVD him_PPHO1 to_TO go_VV0
+   (VSUBCAT SINF)
+   (ncsubj badger they _)
+   (xcomp to badger go)
+   (dobj badger him _)
+   *(ncsubj go Pro _) ; override `him'
+
+   56. NP-TO-NP / 105
+   (SUBCAT NP_PP, PFORM to, SUBTYPE DMOVT) 
+   XTAG:Tnx0Vnx1Pnx2 / v_empty_to_trans_le
+   he_PPHS1 gave_VVD a_AT1 big_JJ kiss_NN1 to_II his_AT mother_NN1
+   (VSUBCAT NP_PP) to 
+   (ncsubj give he _)
+   (iobj give to)
+   (dobj give kiss _)
+
+%(SUBCAT NP_PP, PFORM TO, SUBTYPE DMOVT) -> (SUBCAT NP_NP)
+(Dative Mvt)
+
+; Comlex *to/for-np-np frame treated as heavy-np-shift, no ANLT subcats, 
+; TSG10vs V/pp_np = VSUBCAT NP_PP
+   
+   57. NP-TOBE / 88
+   (SUBCAT OC_INF, SUBTYPE RAIS) 
+   XTAG gap / v_sor_le
+   I_PPHS1 found_VVD him_PPHO1 to_TO be_VB0 a_AT1 good_JJ doctor_NN1
+   (VSUBCAT SINF) BE
+   (ncsubj find I _)
+   (ncsubj be him *rais)
+   (xcomp to find be)
+   (dobj find him _)
+ 
+(SUBCAT OC_INF, SUBTYPE RAIS) -> (SUBCAT OC_AP, SUBTYPE RAIS)
+(SUBCAT OC_INF, SUBTYPE RAIS) -> (SUBCAT SFIN) (Raising-to-Obj)
+
+   58. NP-VEN-NP-OMIT / 3
+   (SUBCAT OC_PASS, SUBTYPE EQUI/RAISING)
+   XTAG gap / v_obj_equi_prd_le
+   he_PPHS1 wanted_VVD the_AT children_NN2 found_VVN
+   (VSUBCAT SCOMP) _VVN
+   (ncsubj want he _)
+   (ccomp _ want found)
+   (ncsubj found children _)
+
+; ignore OC_PASS RAIS -- had/got lee arrested (closed class?)
+
+   59. NP-WH-S / 12
+   (SUBCAT NP_WHS) 
+   XTAG gap / v_np_trans_cp_ques_le
+   they_PPHS2 asked_VVD him_PPHO1 whether_CSW he_PPHS1 was_VBZ going_VVG
+   (VSUBCAT NP_PP) WHETHER/IF (PSUBCAT SFIN)
+   (ncsubj ask they _)
+   (ccomp _ ask whether)
+   (dobj ask him _)
+
+   60. NP-WHAT-S / 12
+   (SUBCAT NP_WHS) 
+   XTAG gap / v_np_trans_cp_ques_le
+   they_PPHS2 asked_VVD him_PPHO1 what_DDQ he_PPHS1 was_VBZ doing_VVG
+   (VSUBCAT NP_SCOMP) S(WH +)
+   (ncsubj ask they _)
+   (ccomp _ ask doing)
+   (dobj ask him _)
+   (obj doing what _)
+
+   61. NP-WH-TO-INF / 12
+   (SUBCAT NP_WHVP)
+   XTAG gap / v_np_trans_cp_ques_le
+   he_PPHS1 asked_VVD him_PPHO1 whether_CSW to_TO clean_VV0 the_AT house_NN1
+   (VSUBCAT NP_PP) WHETHER (PSUBCAT VPINF)
+   (ncsubj ask he _)
+   (xcomp _ ask whether)
+   (dobj ask him _)
+
+   62. NP-WHAT-TO-INF / 12
+   (SUBCAT NP_WHVP)
+   XTAG gap / v_np_trans_cp_ques_le
+   he_PPHS1 asked_VVD him_PPHO1 what_DDQ to_TO do_VV0
+   (VSUBCAT NP_NP) * WHAT/WHO/WHICH
+   (ncsubj ask he _)
+   (obj2 ask what)
+   (dobj ask him _)
+   (xmod to what do)
+
+   63. P-ING-SC / 100
+   (SUBCAT SC_ING, SUBTYPE EQUI, PREP) 
+   XTAG gap / v_empty_prep_intrans_le
+   they_PPHS2 failed_VVD in_II attempting_VVG the_AT climb_NN1
+   (VSUBCAT PP) in (PSUBCAT VPING)
+   (ncsubj fail they _)
+   (xcomp _ fail in)
+   *(ncsubj attempt they _)
+
+; raising versions of SC_ING, PREP/PRT ignored as only 
+; marginal realisation: there could do with being less people
+; v similar to class 75
+
+   64. P-ING-AC / ??
+   ANLT gap ; shld be (SUBCAT VC_ING, PRT)
+   XTAG gap / v_empty_prep_intrans_le
+   they_PPHS2 disapproved_VVD of_IO attempting_VVG the_AT climb_NN1
+   (VSUBCAT PP) of (PSUBCAT VPING)
+   (ncsubj disapprove they _)
+   (xcomp _ disapprove of)
+
+(SUBCAT SC_ING, SUBTYPE EQUI, PREP @X) -> (SUBCAT PP, PFORM @X)
+
+   65. P-NP-ING / 8
+   (SUBCAT OC_PP_ING, PFORM @p, SUBTYPE PVERB_OR/OE, ORDER PRENP)
+   XTAG gap / v_empty_prep_intrans_le
+   they_PPHS2 worried_VVD about_II him_PPHO1 drinking_VVG
+   (VSUBCAT PP) about (PSUBCAT SING)
+   (ncsubj worry they _)
+   (ccomp _ worry about)
+   (ncsubj drinking him _)
+
+; ignore OC_PP_ING, PVERB_OE, PRENP -- look at them working, since
+; minor realisation diffs
+
+   66. P-NP-TO-INF(-SC) / 6
+   (SUBCAT SC_PP_INF, PFORM @p, SUBTYPE EQUI)
+   XTAG gap / v_oeq_pp_inf_le
+   he_PPHS1 conspired_VVD with_IW them_PPHO2 to_TO do_VV0 it_PPH1
+   (VSUBCAT PP_VPINF) with (PSUBCAT NP)
+   (ncsubj conspire he _)
+   (iobj conspire with)
+   (xcomp to conspire do)
+   *(ncsubj do them _)
+   
+   67. P-NP-TO-INF-OC / 29
+   (SUBCAT OC_PP_INF, PFORM @p, SUBTYPE PVERB_OE/OR/EQUI)
+   XTAG gap / v_oeq_pp_inf_le
+   he_PPHS1 beckoned_VVD to_II him_PPHO1 to_TO come_VV0
+   (VSUBCAT PP_VPINF) to (PSUBCAT NP)
+   (ncsubj beckon he _)
+   (iobj beckon to)
+   (xcomp to beckon come)
+   *(ncsubj come him _)
+
+; ignore OC_PP_INF PVERB_OR = allow for there to be traffic jams
+   
+   68. P-NP-TO-INF-VC / ??
+   ANLT gap
+   XTAG gap / v_pp_inf_seq_le
+   she_PPHS1 appealed_VVD to_II him_PPHO1 to_TO go_VV0
+   she_PPHS1 appealed_VVD to_II him_PPHO1 to_TO be_VB0 freed_JJ
+   (VSUBCAT PP_VPINF) to  (PSUBCAT NP)
+   (ncsubj appeal she _)
+   (iobj appeal to)
+   (xcomp to appeal be)
+   *(ncsubj be Pro _)
+
+(SUBCAT SC_PP_INF, SUBTYPE PVERB_OE) -> (SUBCAT SC_INF, SUBTYPE
+EQUI) (PP deletion)
+
+   69. P-POSSING / 10
+   (SUBCAT OC_PP_ING, PFORM @p, SUBTYPE PVERB_OR, ORDER PRENP)
+   XTAG gap / v_empty_prep_intrans_le
+   they_PPHS2 argued_VVD about_II his_PP$ coming_VVG
+   (VSUBCAT PP) about (PSUBCAT SING)
+   (ncsubj argue they _)
+   (ccomp _ argue about)
+   (ncsubj come his _)
+
+(SUBCAT OC_PP_ING, PFORM @X) -> (SUBCAT PP, PFORM @X) also SUBCAT VING
+
+   70. P-WH-S / 37
+   (SUBCAT WHS, PRT/PREP @p)
+   XTAG gap / v_empty_prep_intrans_le
+   he_PPHS1 thought_VVD about_II whether_CSW he_PPHS1 wanted_VVD to_TO go_VV0
+   (VSUBCAT PP) about (PSUBCAT PP) WHETHER/IF (PSUBCAT SFIN)
+   (ncsubj think he _)
+   (pcomp think about)
+   (ccomp _ about whether)
+
+   71. P-WHAT-S / 37
+   (SUBCAT WHS, PRT/PREP @p)
+   XTAG gap / v_empty_prep_intrans_le
+   he_PPHS1 thought_VVD about_II what_DDQ he_PPHS1 wanted_VVD 
+   (VSUBCAT WHPP) about (PSUBCAT WHS) WHAT
+   (ncsubj think he _)
+   (ccomp _ think about)
+   (obj wanted what _)
+
+   72. P-WH-TO-INF / 27
+   (SUBCAT WHVP, PREP @p)
+   XTAG gap / ERG gap
+   he_PPHS1 thought_VVD about_II whether_CSW to_TO go_VV0
+   (VSUBCAT PP) about (PSUBCAT PP) whether (PSUBCAT VPINF)
+   (ncsubj think he _)
+   (pcomp think about)
+   (xcomp _ about whether)
+
+
+   73. P-WHAT-TO-INF / 27
+   (SUBCAT WHVP, PREP @p)
+   XTAG gap / v_empty_prep_intrans_le
+   he_PPHS1 thought_VVD about_II what_DDQ to_TO do_VV0
+   (VSUBCAT WHPP) about (PSUBCAT NP)
+   (ncsubj think he _)
+   (iobj think about)
+   (dobj about what _)
+
+(SUBCAT WHS) -> (SUBCAT WHVP)
+
+   74. PART / 3219
+   (SUBCAT NULL, PRT) 
+   XTAG:Tnx0Vpl / v_particle_le
+   she_PPHS1 gave_VVD up_RL
+   (VSUBCAT NONE, PRT +) up
+   she_PPHS1 gave_VVD up_II
+   (VSUBCAT PP) up (PSUBCAT NONE)
+   (ncsubj give she _)
+   (ncmod prt give up)
+
+   75. PART-ING-SC / 7
+   (SUBCAT SC_ING, SUBTYPE EQUI, PRT/PREP)
+   XTAG gap / v_particle_np_le
+   he_PPHS1 ruled_VVD out_II paying_VVG her_AT debts_NN2
+   (VSUBCAT PP) out (PSUBCAT VPING)
+   he_PPHS1 ruled_VVD out_RP paying_VVG her_AT debts_NN2   
+   (VSUBCAT VPING, PRT +) out
+   (ncsubj rule he _)
+   (xcomp _ rule out / pay)
+   (xcomp _ out pay) / (ncmod prt ruled out)
+   *(ncsubj pay he _)
+
+   76. PART-NP/NP-PART / 2134
+   (SUBCAT NP, PRT) (ORDER FREE) 
+   XTAG:Tnx0Vplnx1 / v_particle_np_le
+   I_PPHS1 looked_VVD up_RL the_AT entry_NN1
+   (VSUBCAT NP, PRT +) up *
+   I_PPHS1 looked_VVD the_AT entry_NN1 up_RL
+   (VSUBCAT NP, PRT +) * up 
+   (ncsubj look I _)
+   (dobj look entry _)
+   (ncmod prt look up)
+
+; all ORDER FREE, PRT predicted to undergo Particle Shift
+; (note different location for PRT in patternset)
+
+   77. PART-NP-PP / 312
+   (SUBCAT NP_PP, PFORM, PRT, SUBTYPE NONE/PVERB?)  (ORDER FREE)
+   XTAG gap / v_particle_np_pp_from_le
+   I_PPHS1 separated_VVD out_II the_AT three_JJ boys_NN2 from_II the_AT crowd_NN1
+   (VSUBCAT PP_PP) out (PSUBCAT NP) from (PSUBCAT NP)
+   I_PPHS1 separated_VVD out_RP the_AT three_JJ boys_NN2 from_II the_AT crowd_NN1
+   (VSUBCAT NP_PP, PRT +) out  from (PSUBCAT NP)
+   (ncsubj separate I _)
+   (iobj separate from)
+   (iobj separate out) / (ncmod prt separate out) + (dobj separate boys _)
+
+   78. PART-PP / 234 
+   (SUBCAT PP, PFORM, PRT, SUBTYPE PVERB)
+   XTAG gap / v_particle_pp_le
+   she_PPHS1 looked_VVD in_II on_II her_AT friend_NN1
+   (VSUBCAT PP) in (PSUBCAT PP) on (PSUBCAT NP)
+   she_PPHS1 looked_VVD in_RL on_II her_AT friend_NN1
+   (VSUBCAT PP, PRT +) in on (PSUBCAT NP)
+   (ncsubj look she _)
+   (pcomp look in) / (ncmod prt look in)
+   (iobj in on) / (iobj look on)
+   
+   79. PART-WH-S / 20
+   (SUBCAT WHS, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_cp_le
+   they_PPHS2 figured_VVD out_II whether_CSW she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1
+   (VSUBCAT PP) out (PSUBCAT PP) WHETHER/IF (PSUBCAT SFIN)
+   they_PPHS2 figured_VVD out_RP whether_CSW she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1
+   (VSUBCAT PP, PRT +) out WHETHER/IF (PSUBCAT SFIN)
+   (ncsubj figured they _)
+   (pcomp figured out) / (ncmod prt figured out)
+   (ccomp _ out whether) / (ccomp _ figured whether)
+
+(SUBCAT PP, PRT @x) -> (SUBCAT NULL, PRT @x) (PP deletion)
+   
+   80. PART-WHAT-S / 20
+   (SUBCAT WHS, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_cp_le
+   they_PPHS2 figured_VVD out_II what_DDQ she_PPHS1 had_VHD n't_XX done_VVD
+   (VSUBCAT WHPP) out (PSUBCAT WHS)
+   they_PPHS2 figured_VVD out_RP what_DDQ she_PPHS1 had_VHD n't_XX done_VVD
+   (VSUBCAT SCOMP, PRT +) out S(WH +)
+   (ncsubj figure they _)
+   (ccomp _ figure out / do)
+   (ccomp _ out do) / (ncmod prt figure out)
+   (obj do what _)
+   
+   81. PART-WH-TO-INF / 22
+   (SUBCAT WHVP, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_cp_le
+   they_PPHS2 figured_VVD out_II whether_CSW to_TO go_VV0
+   (VSUBCAT PP) out (PSUBCAT PP) whether (PSUBCAT VPINF)
+   they_PPHS2 figured_VVD out_RP whether_CSW to_TO go_VV0
+   (VSUBCAT PP, PRT +) out whether (PSUBCAT VPINF)
+   (ncsubj figure they _)
+   (pcomp figure out)
+   (xcomp _ out / figure whether)
+   (xcomp to whether go)
+   0 / (ncmod prt figure out)
+
+   82. PART-WHAT-TO-INF / 22
+   (SUBCAT WHVP, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_cp_le
+   they_PPHS2 figured_VVD out_II what_DDQ to_TO do_VV0
+   (VSUBCAT WHPP) out (PSUBCAT NP)
+   they_PPHS2 figured_VVD out_RP what_DDQ to_TO do_VV0
+   (VSUBCAT NP, PRT +) WHAT/WHICH/WHO
+   (ncsubj figure they _)
+   (iobj figure out) / (ncmod prt figure out)
+   (dobj out what _) / (dobj figure what _)
+   (xcomp to what do)
+
+   83. PART-THAT-S / 48
+   (SUBCAT SFIN, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_cp_le
+   they_PPHS2 figured_VVD out_II that_CST she_PPHS1 had_VHD n't_XX done_VVD her_AT job_NN1
+   (VSUBCAT PP_SCOMP) out (PSUBCAT NONE) _VVG/Z/D
+   (VSUBCAT SCOMP, PRT +) out _VVG/Z/D
+   (ncsubj figure they _)
+   (ccomp _ figure out) / (ncmod prt figure out)
+   (ccomp that out do)  / (ccomp that figure do)
+     
+   84. POSSING / 27
+   (SUBCAT OC_ING, SUBTYPE RAIS)
+   XTAG gap / v_np_trans_le
+   he_PPHS1 dismissed_VVD their_PP$ writing_VVG novels_NN2   
+   (VSUBCAT SING)
+   (ncsubj dismiss he _)
+   (ncsubj write their _)
+   (xcomp _ dismiss write)
+
+   85. POSSING-PP / ??
+   ANLT gap ; shld be (SUBCAT OC_ING_PP)
+   XTAG gap / v_empty_to_trans_le
+   she_PPHS1 attributed_VVD his_PP$ drinking_VVG too_RG much_DA1 to_II his_AT anxiety_NN1
+   (VSUBCAT SING_PP) to (PSUBCAT NP)
+   (ncsubj attribute she _)
+   (iobj attribute to)
+   (xcomp _ attribute drink)
+   (ncsubj drink his _)
+
+   86. ING-PP / ??
+   ANLT gap 
+   XTAG gap / v_empty_to_trans_le
+   they_PPHS2 limited_VVD smoking_VVG a_AT pipe_NN1 to_II the_AT lounge_NN1
+   (VSUBCAT VPING_PP) to (PSUBCAT NP)
+   (ncsubj limit they _)
+   (iobj limit to)
+   (xcomp _ limit smoking)
+
+; heavy-vp-shift PP-(POSS)ING categories, no ANLT categories, TSG10vs V/pp_ing
+
+   87. PP / 2465 (366 LOC)
+   (SUBCAT PP/LOC, PFORM, SUBTYPE NONE/PVERB)
+   XTAG:Tnx0Vpnx1 / v_empty_prep_intrans_le
+   they_PPHS2 apologized_VVD to_II him_PPHO1
+   (VSUBCAT PP) to (PSUBCAT NP)
+   (ncsubj apologized they _)
+   (iobj apologized to)
+
+(SUBCAT PP) -> (SUBCAT NULL) (PP deletion)   
+
+   88. PP-FOR-TO-INF / 1
+   (SUBCAT PP_SINF, PFORM)
+   XTAG gap / v_double_pp_le
+   they_PPHS2 contracted_VVD with_IW him_PPHO1 for_IF the_AT man_NN1 to_TO go_VV0
+   (VSUBCAT PP_PP) with (PSUBCAT NP) for (PSUBCAT SINF)
+   (ncsubj contract they _)
+   (ccomp _ contract for)
+   (iobj contract with)
+   
+(SUBCAT PP_SINF) -> (SUBCAT SINF) (PP deletion)
+
+   89. PP-HOW-S / 7
+   (SUBCAT PP_WHS, PFORM) 
+   XTAG gap / v_pp_cp_le
+   he_PPHS1 explained_VVD to_II her_PPHO1 how_RGQ she_PPHS1 did_VDD it_PPH1
+   (VSUBCAT PP_WHS) to (PSUBCAT NP) HOW/WHY/WHERE/WHEN 
+   (ncsubj explain he _)
+   (ccomp _ explain do)
+   (iobj explain to)
+   (arg_mod _ do how)
+
+   90. PP-HOW-TO-INF / 3
+   (SUBCAT PP_WHVP, PFORM)
+   XTAG gap / v_pp_cp_le
+   he_PPHS1 explained_VVD to_II them_PPHO2 how_RGQ to_TO do_VV0 it_PPH1
+   (VSUBCAT PP_WHPP) to (PSUBCAT NP) HOW/WHERE/WHEN 
+   (ncsubj explain he _)
+   (iobj explain how)
+   (iobj explain to)
+
+(SUBCAT PP_WHVP) -> (SUBCAT WHVP) (PP deletion)
+(SUBCAT PP_WHS) -> (SUBCAT WHS) (PP deletion)
+   
+   91. PP-P-WH-S / ??
+   ANLT gap ; shld be (SUBCAT PP_WHS, PFORM, PRT)
+   XTAG gap / ERG gap
+   I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II whether_CSW he_PPHS1 should_VM kill_VV0 the_AT peasants_NN2
+   (VSUBCAT PP_PP) with (PSUBCAT NP) about (PSUBCAT PP) WHETHER (PSUBCAT SFIN)
+   (ncsubj agree I _)
+   (pcomp agree about)
+   (iobj agree with)
+   (ccomp _ about whether)
+
+   92. PP-P-WHAT-S / ??
+   ANLT gap
+   XTAG gap / v_double_pp_le
+   I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II what_DDQ he_PPHS1 should_VM do_VV0
+   (VSUBCAT PP_WHPP) with (PSUBCAT NP) about (PSUBCAT WHS)
+   (ncsubj agree I _)
+   (ccomp _ agree about)   
+   (iobj agree with)
+   (obj do what _)
+
+   93. PP-P-WHAT-TO-INF / ??
+   ANLT gap
+   XTAG gap / v_double_pp_le
+   I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II what_DDQ to_TO do_VV0
+   (VSUBCAT PP_WHPP) with (PSUBCAT NP) about (PSUBCAT NP)
+   (ncsubj agree I _)
+   (dobj about what _)
+   (iobj agree about)
+   (iobj agree with)
+
+   94. PP-P-WH-TO-INF / ??
+   ANLT gap
+   XTAG gap / v_double_pp_le
+   I_PPHS1 agreed_VVD with_IW him_PPHO1 about_II whether_CSW to_TO go_VV0
+   (VSUBCAT PP_PP) with (PSUBCAT NP) about (PSUBCAT PP) whether (PSUBCAT VPINF)
+   (ncsubj agree I _)
+   (pcomp agree about)
+   (iobj agree with)
+   (xcomp _ about whether)
+
+   95. PP-PP / 64 (22 PVERB)
+   (SUBCAT PP_PP)
+   XTAG gap / v_double_pp_le
+   they_PPHS2 flew_VVD from_II London_NP1 to_II Rome_NP1
+   (VSUBCAT PP_PP) from (PSUBCAT NP) to (PSUBCAT NP)
+   (ncsubj flew they _)
+   (iobj flew to)
+   (iobj flew from)
+
+(SUBCAT PP_WHVP, PRT @x) -> (SUBCAT WHVP, PRT @x) (PP deletion)
+(SUBCAT PP_WHS, PRT @x) -> (SUBCAT WHS, PRT @x) (PP deletion)
+(SUBCAT PP_PP, PFORM @X_@Y) -> (SUBCAT PP, PFORM @X/Y) (PP deletion)
+; not ANLT (VSUBCAT PP_WHPP, PFORM (NOT WH)) -> (SUBCAT PP) (PP deletion) 
+
+   96. PP-PRED-RS / 0 (not in vppp)
+   (SUBCAT PP, SUBTYPE RAIS)
+   XTAG gap / v_prdp_pp_ssr_a_or_p_le
+   the_AT matter_NN1 seems_VVZ in_II dispute_NN1
+   (VSUBCAT PP) in (PSUBCAT NP)
+   (ncsubj seem matter *rais)
+   (iobj seem in)
+   
+   97. PP-THAT-S / 22
+   (SUBCAT PP_SFIN, SUBTYPE NONE, PFORM)
+   XTAG gap / v_pp_cp_fin_le
+   they_PPHS2 admitted_VVD to_II the_AT authorities_NN2 that_CST they_PPHS2 had_VHD entered_VVD illegally_RR
+   (VSUBCAT PP_SCOMP) to (PSUBCAT NP)  _VVD/Z/G
+   (ncsubj admit they _)
+   (ccomp that admit enter)
+   (iobj admit to)
+
+(SUBCAT PP_SFIN) -> (SUBCAT SFIN) (PP deletion)
+
+   98. PP-THAT-S-SUBJUNCT / 2
+   (SUBCAT PP_SBSE, PFORM, S[BSE, that])
+   XTAG gap / v_pp_cp_le
+   they_PPHS2 suggested_VVD to_II him_PPHO1 that_CST he_PPHS1 go_VV0
+   (VSUBCAT PP_SCOMP) to (PSUBCAT NP)  _VV0
+   (ncsubj suggest they _)
+   (ccomp that suggest go)
+   (iobj suggest to)   
+
+(SUBCAT PP_SBSE) -> (SUBCAT SBSE) (PP deletion)
+
+   99. PP-TO-INF-RS / 1
+   (SUBCAT SC_PP_INF, SUBTYPE RAIS, PFORM, VP[to])
+   XTAG gap / v_pp_inf_ssr_le or v_prdp_pp_ssr_adj_le
+   he_PPHS1 appeared_VVD to_II her_PPHO1 to_TO be_VB0 ill_JJ
+   (VSUBCAT PP_VPINF) to (PSUBCAT NP) BE
+   (ncsubj appear he *rais)
+   (iobj appear to)
+   (xcomp to appear be)
+   *(ncsubj be he _)
+   
+(SUBCAT SC_PP_INF, SUBTYPE RAIS) -> (SUBCAT SC_INF, SUBTYPE RAIS) (PP deletion)
+(SUBCAT SC_PP_INF, SUBTYPE RAIS) -> (SUBCAT PP_SFIN, AGR IT) (Raising-to-Subj)
+
+   100. PP-WH-S / 7
+   (SUBCAT PP_WHS, PFORM)
+   XTAG gap / ERG gap
+   they_PPHS2 asked_VVD about_II everybody_NP1 whether_CSW they_PPHS2 had_VHD enrolled_VVN
+   (VSUBCAT PP_PP) about (PSUBCAT NP) WHETHER/IF (PSUBCAT SFIN)
+   (ncsubj ask they _)
+   (ccomp _ ask whether)
+   (iobj ask about)
+
+   101. PP-WHAT-S / 7
+   (SUBCAT PP_WHS, PFORM)
+   XTAG gap / ERG gap
+   they_PPHS2 asked_VVD about_II everybody_NP1 what_DDQ they_PPHS2 had_VHD done_VVN
+   (VSUBCAT PP_WHS) about (PSUBCAT NP) 
+   (ncsubj ask they _)
+   (ccomp _ ask done)
+   (iobj ask about)
+   (obj done what _)
+
+   102. PP-WH-TO_INF / 3
+   (SUBCAT PP_WHVP)
+   XTAG gap / v_pp_cp_le
+   they_PPHS2 deduced_VVD from_II kim_NP1 whether_CSW to_TO go_VV0 
+   (VSUBCAT PP_PP) from (PSUBCAT NP) whether (PSUBCAT VPINF)
+   (ncsubj deduce they _)
+   (xcomp _ deduce whether)
+   (iobj deduce from)
+
+   103. PP-WHAT-TO-INF / 3
+   (SUBCAT PP_WHVP)
+   XTAG gap / v_pp_cp_le
+   they_PPHS2 deduced_VVD from_II kim_NP1 what_DDQ to_TO do_VV0 
+   (VSUBCAT PP_WHVP) from (PSUBCAT NP) WHAT/WHO/WHICH
+   (ncsubj deduce they _)
+   (iobj deduce from)
+   (dobj deduce what _)
+
+   104. S / 296
+   (SUBCAT SFIN, SUBTYPE NONE) 
+   XTAG:Tnx0Vs1 / v_cp_prop_non_trans_le
+   they_PPHS2 thought_VVD that_CST he_PPHS1 was_VBZ always_RR late_JJ
+   (VSUBCAT SCOMP) _VVD/Z/G
+   (ncsubj think they _)
+   (ccomp that think be)
+
+   105. S-SUBJ-S-OBJ / 9
+   (SUBCAT SFIN, SUBTYPE EXTRAP, AGR S[FIN -])
+   XTAG gap / v_cp_prop_non_trans_le
+   to_TO report_VV0 the_AT theft_NN1 indicates_VVD that_CST he_PPHS1 was_VBZ n't_XX guilty_JJ
+   _VV0 (VSUBCAT SCOMP)  _VVD/Z/G
+   (xsubj indicate report _)
+   (ccomp that indicate be)
+ 
+
+(SUBCAT SFIN, AGR S[FIN -]) -> (SUBCAT SFIN, AGR VP[FIN -])
+
+   106. S-SUBJUNCT / 27        
+   (SUBCAT SBSE)
+   XTAG gap / v_cp_subj_le
+   She_PPHS1 demanded_VVD that_CST he_PPHS1 leave_VV0
+   (VSUBCAT SCOMP) _VV0
+   (ncsubj demand She _)
+   (ccomp that demand leave)
+
+   107. SEEM-S / 9 
+   (SUBCAT SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT])
+   XTAG gap / v_expl_it_subj_pp_cp_le or v_expl_it_subj_like_le ; like_CST
+   it_PPH1 seems_VVZ that_CST they_PPHS2 left_VVD
+   IT (VSUBCAT SCOMP) _VVD/Z/G
+   (ncsubj seem it _)
+   (ccomp that seem left)
+
+(Dropped cf 12
+   108. SEEM-TO-NP-S / 1
+   (SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM, AGR N2[NFORM IT])
+   XTAG gap / v_expl_it_subj_pp_cp_le or v_expl_it_subj_like_le  ; like_CST
+   it_PPH1 seems_VVZ to_II her_PPHO1 that_CST they_PPHS2 were_VBDR wrong_JJ
+   IT (VSUBCAT PP_SCOMP) to (PSUBCAT NP) _VVD/Z/G
+   (ncsubj seem it _)
+   (ccomp that seem be)
+   (iobj seem to))
+
+   109. THAT-S / 296 (with 104)
+   (SUBCAT SFIN, SUBTYPE NONE) 
+   XTAG:Tnx0Vs1 / v_expl_it_subj_pp_cp_le
+   he_PPHS1 complained_VVD that_CST they_PPHS2 were_VBDR coming_VVG
+   (VSUBCAT SCOMP) _VVD/Z/G
+   (ncsubj complain he _)
+   (ccomp that complain come)
+
+   110. TO-INF-AC  / ??                     
+   ANLT gap ; shld be (SUBCAT VC_INF)
+   XTAG gap / v_subj_equi_le
+   He_PPHS1 helped_VVD to_TO save_VV0 the_AT child_NN1
+   (VSUBCAT VPINF)
+   (ncsubj help He _)
+   (xcomp to help save)
+   *(ncsubj save Pro _)
+
+   111. TO-INF-RS / 27                 
+   (SUBCAT SC_INF, SUBTYPE RAIS)
+   XTAG gap / v_ssr_le
+   he_PPHS1 seemed_VVD to_TO come_VV0
+   (VSUBCAT VPINF) be
+   (ncsubj seem he _)
+   (xcomp to seem come)
+   *(ncsubj come he _)
+
+(SUBCAT SC_INF, SUBTYPE RAIS) -> (SUBCAT SFIN, SUBTYPE NONE, AGR N2[NFORM IT])
+   
+   112. TO-INF-SC / 179                  
+   (SUBCAT SC_INF, SUBTYPE EQUI)
+   XTAG gap / v_subj_equi_le
+   I_PPHS1 wanted_VVD to_TO come_VV0
+   (VSUBCAT VPINF)
+   (ncsubj want I _)
+   (xcomp to want come)
+
+   113.WH-S / 133
+   (SUBCAT WHS) 
+   XTAG:Tnx0Vs1 / v_cp_ques_fin_inf_non_trans_le
+   he_PPHS1 asked_VVD whether_CSW he_PPHS1 should_VM come_VV0
+   (VSUBCAT PP) WHETHER/IF (PSUBCAT SFIN)
+   (ncsubj ask he _)
+   (ccomp _ ask whether)
+
+   114. WHAT-S / 133
+   (SUBCAT WHS) 
+   XTAG:Tnx0Vs1 / v_cp_ques_fin_inf_non_trans_le
+   he_PPHS1 asked_VVD what_DDQ he_PPHS1 should_VM do_VV0
+   (VSUBCAT SCOMP) S(WH +)
+   (ncsubj ask he _)
+   (ccomp _ ask do)
+   (obj do what _)
+
+   115. WH-TO-INF / 78
+   (SUBCAT WHVP) 
+   XTAG:Tnx0Vs1 / v_cp_ques_fin_inf_non_trans_le
+   he_PPHS1 asked_VVD whether_CSW to_TO clean_VV0 the_AT house_NN1
+   (VSUBCAT PP) whether (PSUBCAT VPINF)
+   (ncsubj ask he _)
+   (xcomp _ ask whether)
+
+   116. WHAT-TO-INF / 78
+   (SUBCAT WHVP) 
+   XTAG:Tnx0Vs1 / v_cp_ques_fin_inf_non_trans_le
+   he_PPHS1 asked_VVD what_DDQ to_TO do_VV0
+   (VSUBCAT NP) WHAT/WHO/WHICH
+   (ncsubj asked he _)
+   (dobj asked what _)
+
+   117. Comlex gap / 45
+   (SUBCAT NP_NP, PRT) 
+   XTAG:Tnx0Vplnx1nx2 / ERG gap
+   I_PPHS1 opened_VVD him_PPHO1 up_RP a_AT new_JJ bank_NN1 account_NN1
+   (VSUBCAT NP_NP, PRT +) up
+   (ncsubj open I _)
+   (ncmod prt open up)
+   (obj2 open account)
+   (dobj open him _)
+
+   118. Comlex gap / ??
+   ANLT gap ; (not a genuine class as subclasses of 49/50)
+   XTAG:Light-verbs / v_np_prep_trans_le
+   he_PPHS1 made_VVD comments_NN2 on_II the_AT paper_NN1
+   (VSUBCAT NP_PP) (make comment) on (PSUBCAT NP)
+   (ncsubj make he _)
+   (iobj make on)
+   (dobj make comment _)
+
+(Dropped cf 78
+   119. Comlex gap / 881 (LOC 45)
+   (SUBCAT PP/LOC, PFORM, PRT, SUBTYPE NONE)
+   XTAG gap / v_particle_pp_le
+   he_PPHS1 breaks_VVZ away_RP from_II the_AT abbey_NN1
+   (VSUBCAT PP, PRT +) away from (PSUBCAT NP)
+   (ncsubj break he _)
+   (iobj break from)
+   (ncmod prt break away))
+
+(Dropped cf 77
+   120. Comlex gap / 25
+   (SUBCAT NP_PP, PFORM, PRT, SUBTYPE DMOVT)
+   XTAG gap / v_np_particle_pp_for_le
+   he_PPHS1 brought_VVD a_AT book_NN1 back_RP for_IF me_PPHO1
+   (VSUBCAT NP_PP, PRT +) back for (PSUBCAT NP)
+   (ncsubj bring he _)
+   (iobj bring for)
+   (ncmod prt bring back))
+
+   121. Comlex gap / 3
+   (SUBCAT PP_PP, PFORM, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 came_VVD down_RP on_II him_PPHO1 for_IF his_AT bad_JJ behaviour_NN1
+   (VSUBCAT PP_PP, PRT +) down on (PSUBCAT NP) for (PSUBCAT NP)
+   (ncsubj come he _)
+   (iobj come for)
+   (iobj come on)
+   (ncmod prt come down)
+
+   122. Comlex gap / 16
+   (SUBCAT NP_PP_PP, PFORM)
+   XTAG gap / v_np_trans_double_pp*_le 
+   he_PPHS1 turned_VVD it_PPHO1 from_II a_AT disaster_NN1 into_II a_AT victory_NN1
+  (VSUBCAT NP_PP_PP) from (PSUBCAT NP) into (PSUBCAT NP)
+  (ncsubj turn he _)
+  (iobj turn into)
+  (iobj turn from)
+  (dobj turn it _)
+
+(SUBCAT NP_PP_PP, PFORM @X_@Y) -> (SUBCAT NP_PP, PFORM @X/Y) (PP deletion)
+
+   123. Comlex gap / 29
+   (SUBCAT MP)
+   XTAG gap / v_np_non_trans_le  (but cf v_expl_it_subj_np_np_cp_inf_le)
+   it_PPHS1 cost_VVD ten_MC pounds_NNU2
+   (VSUBCAT NP) _NNU
+   (ncsubj cost it _)
+   (dobj cost pounds _)
+
+   124. Comlex gap / 6
+   (SUBCAT NP_MP)
+   XTAG gap / v_ditrans_only_le (but cf v_expl_it_subj_np_np_cp_inf_le)
+   it_PPHS1 cost_VVD him_PPHO1 ten_MC pounds_NNU2
+   (VSUBCAT NP_NP) * _NNU
+   (ncsubj cost it _)
+   (obj2 cost pounds)
+   (dobj cost him _)
+
+(SUBCAT NP_MP) -> (SUBCAT MP)
+
+   125. Comlex gap / 1
+   (SUBCAT NP_MP, PRT)
+   XTAG gap / ERG gap
+   it_PPHS1 set_VVD him_PPHO1 back_RP ten_MC pounds_NNU2
+   (VSUBCAT NP_NP, PRT +) back _NNU/(NTYPE MEAS)
+   (ncsubj set it _)
+   (ncmod prt set back)
+   (obj2 set pounds)
+   (dobj set him _)
+
+   126. Comlex gap / 13
+   (SUBCAT ADL, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 came_VVD off_RP badly_RP
+   (VSUBCAT NONE, PRT +) off (...PRT +) badly
+   (ncsubj come he _)
+   (ncmod prt come badly)
+   (ncmod prt come off)
+
+(Dropped cf 78
+   127. Comlex gap / 2
+   (SUBCAT ADV_PP, PFORM)
+   XTAG gap / ERG gap
+   things_NN2 augur_VV0 well_RP for_IF him_PPHO1
+   (VSUBCAT PP, PRT +) well for (PSUBCAT NP)
+   (ncsubj augur things _)
+   (iobj augur for)
+   (ncmod prt augur well))
+
+(SUBCAT ADV_PP) -> (SUBCAT ADV) (PP deletion)
+
+   128. Comlex gap / 3
+   (SUBCAT SFIN, AGR N2[NFORM IT], PRT)
+   XTAG gap / v_expl_it_subj_prtcl_cp_le
+   it_PPHS1 turns_VVZ out_RP that_CST he_PPHS1 did_VVD it_PPHO1
+   IT (VSUBCAT SCOMP, PRT +) out _VVD/Z/G
+   (ncsubj turns it _)
+   (ccomp that turns did)
+   (ncmod prt turns out)
+
+   129. Comlex gap / 9
+   (SUBCAT SFIN, AGR S[FIN +], SUBTYPE EXTRAP)
+   XTAG gap / v_unerg_le
+   that_CST he_PPHS1 came_VVD matters_VVZ
+   _VVD/G/Z (VSUBCAT NONE)
+   (csubj matters came _)
+   (ncsubj came he _)
+
+   130. Comlex gap / 4
+   (SUBCAT NP_SFIN, SUBTYPE NONE, PRT) 
+   XTAG gap / ERG gap
+   he_PPHS1 had_VVD her_PPHO1 on_RP that_CST he_PPHO1 attended_VVD
+   (VSUBCAT NP_SCOMP, PRT +) on _VVD/Z/G ; doesn't work with VHD
+   (ncsubj had he _)
+   (ccomp that had attended)
+   (ncmod prt had on)
+
+   131. Comlex gap / 4
+   (SUBCAT PP_SFIN, SUBTYPE NONE, PRT)
+   XTAG gap / ERG gap
+   she_PPHS1 gets_VVZ through_RP to_II him_PPHO1 that_CST he_PPHS1 came_VVD
+   (VSUBCAT PP_SCOMP, PRT +) through to (PSUBCAT NP) _VVD/Z/G
+   (ncsubj get she _)
+   (ccomp that get came)
+   (iobj get to)
+   (ncmod prt get through)
+
+   132. Comlex gap / 4
+   (SUBCAT NP_NP_SFIN)
+   XTAG gap / v_np_np_cp_le
+   he_PPHS1 bet_VVD her_PPHO1 ten_MC pounds_NNU2 that_CST he_PPHS1 came_VVD
+   (VSUBCAT NP_NP_SCOMP) _NNU*/(NTYPE MEAS) _VVD/Z/G
+   (ncsubj bet he _)
+   (ccomp that bet came)
+   (obj2 bet pounds)
+   (dobj bet her _)
+
+(SUBCAT NP_NP_SFIN) -> (SUBCAT NP_SFIN)
+
+   133. Comlex gap / 1
+   (SUBCAT NP_SBSE)
+   XTAG gap / ERG gap
+   he_PPHS1 petitioned_VVD them_PPHO2 that_CST he_PPHS1 be_VB0 freed_VVN
+   (VSUBCAT NP_SCOMP) * _VB0/VV0
+   (ncsubj petition he _)
+   (ccomp that petition freed)
+   (dobj petition them _)
+
+   134. Comlex gap / 1
+   (SUBCAT IT_WHS, SUBTYPE IF, AGR N2[NFORM IT])
+   XTAG gap / v_expl_obj_cp_le
+   I_PPHS1 would_VM appreciate_VV0 it_PPHO1 if_CF he_PPHS1 came_VVD
+   (VSUBCAT NP_PP) if (PSUBCAT SFIN)
+   (ncsubj appreciate I _)
+   (ccomp _ appreciate if)
+   (dobj appreciate it _)
+
+   135. Comlex gap / 1
+   (SUBCAT PP_WHS, PFORM, AGR N2[NFORM IT])
+   XTAG gap / v_expl_it_subj_pp_cp_le
+   it_PPHS1 dawned_VVD on_II him_PPHO1 what_DDQ he_PPHS1 should_VM do_VV0
+   IT (VSUBCAT PP_WHS) on (PSUBCAT NP) 
+   (ncsubj dawn it _)
+   (ccomp _ dawn do)
+   (iobj dawn on)
+   (obj do what _)
+
+   136. Comlex gap / 2
+   (SUBCAT SC_NP, PRT, SUBTYPE RAIS/EQUI, PRD +)
+   XTAG gap / ERG gap
+   he_PPHS1 turned_VVD out_RP a_AT fool_NN1
+   (VSUBCAT NP, PRT +) out
+   (ncsubj turn he *rais)
+   (dobj turn fool _) ; xcomp really
+   (ncmod prt turn out)
+
+; ANLT also codes SC_NP (PRT) SUBTYPE EQUI look/end up, but only imp
+; for other realisations -- it turned out / *ended up he was fool
+
+   137. Comlex gap / 22 (RAIS 3)
+   (SUBCAT SC_AP, PRT, SUBTYPE EQUI/RAIS)
+   XTAG gap / v_particle_prd_le
+   he_PPHS1 started_VVD out_RP poor_JJ
+   (VSUBCAT AP, PRT +) out
+   (ncsubj start he _)
+   (xcomp _ start poor)
+   (ncmod prt start out)
+   *(ncsubj poor he _)
+
+   138. Comlex gap / 6
+   (SUBCAT SC_INF, PRT, SUBTYPE RAIS)
+   XTAG gap / v_particle_inf_le
+   he_PPHS1 turned_VVD out_RP to_TO be_VB0 a_AT crook_NN1
+   (VSUBCAT VPINF, PRT +) out BE
+   (ncsubj turned he *rais)
+   (xcomp to turned be)
+   (ncmod prt turned out)
+   *(ncsubj be he _)
+
+   139. Comlex gap / 12
+   (SUBCAT SC_INF, PRT, SUBTYPE EQUI)
+   XTAG gap / v_particle_inf_le
+   he_PPHS1 set_VVD out_RP to_TO win_VV0
+   (VSUBCAT VPINF, PRT +) out
+   he_PPHS1 set_VVD out_II to_TO win_VV0
+   (VSUBCAT PP_VPINF) out (PSUBCAT NONE)
+   (ncsubj set he _)
+   (xcomp to set win)
+   (ncmod prt set out)
+   *(ncsubj win he _)
+
+   140. Comlex gap / 32
+   (SUBCAT SC_ING, PREP, PRT, SUBTYPE EQUI)
+   XTAG gap / v_particle_inf_le
+   he_PPHS1 got_VVD around_RP to_II leaving_VVG
+   (VSUBCAT PP, PRT +) around to (PSUBCAT VPING)
+   (ncsubj got he _)
+   (xcomp _ got to)   
+   (ncmod prt got around)
+   *(ncsubj leave he _)
+
+(Dropped -- get now VB tags
+   141. Comlex gap / 4 
+   (SUBCAT SC_PASS, SUBTYPE RAIS)
+   XTAG gap / v_subj_equi_prd_le
+   he_PPHS1 got_VVD given_VVN a_AT book_NN1
+   (VSUBCAT VPPRT)
+   (ncsubj get he *rais)
+   (xcomp _ get give)
+   *(ncsubj give he _))
+
+   142. Comlex gap / 3
+   (SUBCAT SC_BSE, SUBTYPE EQUI)
+   XTAG gap / va_modal_pos_le or v_subj_equi_bse_go_le (I will go read)
+   he_PPHS1 dared_VVD dance_VV0
+   (VSUBCAT VPBSE)
+   (ncsubj dare he _)
+   (xcomp _ dare dance)
+   *(ncsubj dance he _)
+
+   143. Comlex gap / 3
+   (SUBCAT SC_NP_AP, SUBTYPE RAIS, PREP as)
+   XTAG gap / v_np_obj_comp_le
+   he_PPHS1 strikes_VVZ me_PPHO1 as_CSA foolish_JJ
+   (VSUBCAT NP_PP) AS (PSUBCAT AP)
+   (ncsubj strike he *rais)
+   (iobj strike as)
+   (dobj strike me _)
+   *(ncsubj foolish he _)
+
+(SUBCAT SC_NP_AP, SUBTYPE RAIS, PREP as) -> (SUBCAT SC_NP_NP, SUBTYPE
+RAIS, PREP as) 
+
+(Dropped cf 38
+   144. Comlex gap / 35
+   (SUBCAT OC_NP, SUBTYPE RAIS)
+   XTAG gap / v_ditrans_only_le
+   he_PPHS1 considers_VVZ Fido_NP1 a_AT fool_NN1
+   (VSUBCAT NP_NP)
+   (ncsubj considers he _)
+   (obj2 considers fool)
+   (dobj considers Fido *rais)
+   *(ncsubj fool Fido _))
+
+   145. Comlex gap / 3
+   (SUBCAT OC_AP, SUBTYPE RAIS, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 makes_VVD him_PPHO1 out_RP crazy_JJ
+   (VSUBCAT NP_AP, PRT +) out 
+   (ncsubj make he _)
+   (ncmod prt make out)
+   (ncsubj crazy him _)
+   (dobj make him *rais)
+
+(SUBCAT OC_AP, SUBTYPE RAIS, PRT @x) -> (SUBCAT OC_NP, SUBTYPE RAIS, PRT @x)
+
+   146. Comlex gap / 4
+   (SUBCAT OC_AP, SUBTYPE EQUI, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 sands_VVZ it_PPHO1 down_RP smooth_JJ
+   (VSUBCAT NP_AP, PRT +) down
+   (ncsubj sand he _)
+   (ncmod prt sand down)
+   (ncsubj smooth it _)
+   (dobj sand it _)
+
+   147. Comlex gap / 5
+   (SUBCAT OC_AP, SUBTYPE EQUI, PREP as)
+   XTAG gap / v_np_obj_comp_le
+   he_PPHS1 condemned_VVD him_PPHO1 as_CSA stupid_JJ
+   (VSUBCAT NP_PP) AS (PSUBCAT AP)
+   (ncsubj condemn he _)
+   (iobj condemn as)
+   (dobj condemn him _)
+   *(ncsubj stupid him _)
+
+   148. Comlex gap / 6
+   (SUBCAT OC_AP, SUBTYPE EQUI, PREP as, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 put_VVD him_PPHO1 down_RP as_CSA stupid_JJ
+   (VSUBCAT NP_PP, PRT +) down AS (PSUBCAT AP)
+   (ncsubj put he _)
+   (iobj put as)
+   (ncmod prt put down)
+   (dobj put him _)
+   *(ncsubj stupid him _)
+
+; as always CSA?? also get as_II random_JJ/NN1 = (PSUBCAT NP) ie 29
+
+(SUBCAT OC_AP, SUBTYPE EQUI, PRT @y) -> (SUBCAT NP, SUBTYPE EQUI, PRT @y)
+
+   149. Comlex gap / 3
+   (SUBCAT OC_INF, SUBTYPE RAIS, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 made_VVD him_PPHO1 out_RP to_TO be_VV0 crazy_JJ
+   (VSUBCAT SINF, PRT +) out BE
+   (ncsubj make he _)
+   (ncmod prt make out)
+   (xcomp to make be)
+   (dobj make him *rais)
+   (ncsubj be him _)
+
+(SUBCAT OC_INF, SUBTYPE RAIS, PRT @x) -> (SUBCAT SFIN, SUBTYPE RAIS,
+PRT @x)
+
+   150. Comlex gap / 19
+   (SUBCAT OC_INF, SUBTYPE EQUI, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 spurred_VVD him_PPHO1 on_RP to_TO try_VV0
+   (VSUBCAT SINF, PRT +) on
+   (ncsubj spur he _)   
+   (ncmod prt spur on)
+   (xcomp to spur try)
+   (dobj spur him _)
+   (ncsubj try him _)
+
+   151.Comlex gap / 6
+   (SUBCAT OC_PP_INF, SUBTYPE PVERB_OE, PFORM, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 kept_VVD on_RP at_II him_PPHO1 to_TO join_VV0
+   (VSUBCAT PP_VPINF, PRT +) on at (PSUBCAT NP)
+   (ncsubj keep he _)
+   (iobj keep at)
+   (xcomp to keep join)
+   (ncmod prt keep on)
+   *(ncsubj join him _)
+
+   152. Comlex gap / 4
+   (SUBCAT OC_PP_ING, SUBTYPE PVERB_OE, PFORM, PRT)
+   XTAG gap / ERG gap
+   he_PPHS1 talked_VVD him_PPHO1 around_RP into_II leaving_VVG
+   (VSUBCAT NP_PP, PRT +) around into (PSUBCAT VPING)
+   (ncsubj talk he _)
+   (xcomp _ talk into)
+   (ncmod prt talk around)
+   (dobj talk him _)
+   *(ncsubj leave him _)
+
+   153. Comlex gap / 1
+   (SUBCAT OC_PP_BSE, PFORM, SUBTYPE PVERB_OE)
+   XTAG gap / ERG gap
+   he_PPHS1 looked_VVD at_II him_PPHO1 leave_VV0
+   (VSUBCAT PP) at (PSUBCAT SFIN) _VV0 
+   (ncsubj look he _)
+   (ccomp _ look at)
+   (ccomp _ at leave)
+   (ncsubj leave him _)
+
+   154. Comlex gap / 4
+   (SUBCAT VPINF, SUBTYPE EXTRAP, AGR VP[FIN-]) 
+   XTAG gap / v_unerg_le
+   to_TO see_VV0 them_PPHO2 hurts_VVZ
+   _VV0 (VSUBCAT NONE)
+   (xsubj hurt see _)
+   (dobj see them _)
+
+   155. (SUBCAT NP_ADL) / 39
+   XTAG gap / ERG gap
+   he_PPHS1 stood_VVD it_PPHO1 alone_RL
+   (VSUBCAT NP, PRT +) * _RL/A/P
+   (ncsubj stand he _)
+   (dobj stand it _)
+   (ncmod prt stand alone)
+
+   156. Comlex gap ; shld be NP-HOW-S / ??
+   ANLT gap
+   XTAG gap / v_np_trans_cp_ques_le
+   he_PPHS1 asked_VVD him_PPHO1 how_RGQ he_PPHS1 came_VVD
+   (VSUBCAT NP_PP) HOW/WHY/WHERE/WHEN (PSUBCAT SFIN)
+   (ncsubj ask he _)
+   (ccomp _ ask came)
+   (dobj ask him _)
+   (arg_mod _ come how)
+
+   157. Comlex gap ; shld be NP-FOR-TO-INF / ? 
+   ANLT gap   ; in order for ... adjunct??
+   XTAG gap / ERG gap
+   he_PPHS1 gave_VVD money_NN2 for_IF him_PPHO1 to_TO go_VV0
+   (VSUBCAT NP_PP FOR (PSUBCAT SINF)
+   (ncsubj gave he _)
+   (ccomp _ gave for)
+   (dobj gave money _)
+   (ncsubj go him _)
+
+   158. Comlex gap ; shld be IT-PASS-SFIN / ? 
+   ANLT gap ; reg passive??
+   XTAG gap / ERG gap
+   it_PPHS1 is_VBZ believed_VVN that_CST he_PPHS1 came_VVD
+   IT PASS (VSUBCAT SCOMP)
+   (ncsubj believe it _)
+   (passive believe)
+   (ccomp that believe came)
+
+   159. Comlex gap ; shld be AS-IF-SFIN / ?
+   ANLT gap
+   XTAG gap / ERG gap
+   he_PPHS1 seems_VVZ as_CSA if_CS he_PPHS1 is_VBZ clever_JJ
+   (VSUBCAT PP) AS (PSUBCAT PP) IF (PSUBCAT SFIN)
+   (ncsubj seem he _)
+   (pcomp seem as)
+   (ccomp _ as if)
+
+;;; similar class for that_CST if_CS + others? 
+
+   160. Comlex gap / ?
+   ANLT gap ; shld be (SUBCAT ADL)
+   XTAG gap / v_adv_le
+   it_PPHS1 carves_VVZ easily_RP
+   (VSUBCAT NONE) _RP/A
+   (ncsubj carves it _)
+   (ncmod prt carves easily) / (ncmod _ carves easily)
+
+   161. Comlex gap / ?
+   ANLT gap ; shld be (SUBCAT SC_NP SUBTYPE EQUI)
+   XTAG gap / ERG gap
+   he_PPHS1 felt_VVD a_AT fool_NN1
+   (VSUBCAT NP)
+   (ncsubj feel he _)
+   (dobj feel fool _) ; xcomp?
+   *(ncsubj fool he _)
+
+   162. Comlex gap ; shld be AS-VPPRT / ?
+   ANLT gap
+   XTAG gap / v_np_comp_le
+   he_PPHS1 accepted_VVD him_PPHO1 as_II/CSA associated_VVN
+   (VSUBCAT NP_PP) AS  (PSUBCAT VPPRT)
+   (ncsubj accepted he _)
+   (xcomp _ accept as)
+   (dobj accept him _)
+   (xcomp _ as associate)
+   *(ncsubj associate him _)
+
+   163. Comlex gap ; shld be AS-VPING / ?
+   ANLT gap
+   XTAG gap / v_np_comp_le
+   he_PPHS1 accepted_VVD him_PPHO1 as_CSA being_VBG normal_JJ
+   (VSUBCAT NP_PP) AS  (PSUBCAT VPING)
+   (ncsubj accepted he _)
+   (xcomp _ accept as)
+   (dobj accept him _)
+   (xcomp _ as be)
+   *(ncsubj be him _)
+
+   164. Comlex gap / ??
+   ANLT gap
+   XTAG gap / v_atrans_le
+   it_PPH1 rains_VVZ
+   IT (VSUBCAT NONE)
+   (ncsubj rains it _)
+
+   165. Comlex gap / ??
+   ANLT gap
+   XTAG gap / v_expl_pp_inf_seq_le
+   I_PPHS1 arranged_VVD it_PPH1 with_IW Kim_NP1 to_TO meet_VV0
+   (VSUBCAT NP_PP) IT with/for (PSUBCAT SINF)
+   (ncsubj arranged I _)
+   (ccomp _ arranged with)
+   (dobj arranged it _)
+   (ncsubj meet Kim _) ; wrong -- joint control?
+   
+   166. Comlex gap / ?? ; idiom?
+   ANLT gap
+   XTAG gap / v_expl_obj_cp_prop_le
+   I_PPHS1 take_VV0 it_PPH1 that_CST Kim_NP1 left_VVD
+   (VSUBCAT NP_SCOMP) IT _VVD/Z/G
+   (ncsubj take I _)
+   (ccomp that take leave)
+   (dobj take it *expl)
+
+   167. Comlex gap / ?? ; see class 124, but also extrap
+   ANLT gap
+   XTAG gap / v_expl_it_subj_np_np_cp_inf_le
+   It_PPH1 cost_VVD Kim_NP1 a_AT1 pound_NNU1 for_IF us_PPIO2 to_TO go_VV0
+   IT (VSUBCAT NP_NP_PP) _NNU/NNT for (PSUBCAT SINF) 
+   (ncsubj cost It _)
+   (ccomp _ cost for)
+   (obj2 cost pound)
+   (dobj cost Kim _)
+
+(SUBCAT NP_MP_PP) -> (SUBCAT NP_MP) 
+
+   168. Comlex gap / ?? ; see 157, but also equi, extrap, `it' not always expl.
+   ANLT gap
+   XTAG gap / v_expl_it_subj_np_np_vp_inf_le
+   It_PPH1 took_VVD us_PPIO2 an_AT1 hour_NNT1 to_TO find_VV0
+   IT (VSUBCAT NP_NP_VPINF) _NNT/NNU  
+   (ncsubj take It _)
+   (ncsubj find us _)
+   (xcomp to take find)
+   (obj2 take hour)
+   (dobj take us _)
+
+(SUBCAT NP_MP_VPINF) -> (SUBCAT NP_MP)
+
+**************
+
+Alternation Rules (repeated) + Number = `productivity' = 
+no. of vbs coded with antecedent / no. of vbs coded with consequent
+(in ANLT v.le, 0/0 gaps, 1 = fully productive)
+
+****** Extraposition related
+
+(SUBCAT NP_SFIN, SUBTYPE EXTRAP, AGR N2[NFORM IT]) -> (SUBCAT NP, AGR
+S[FIN +]) (Extraposition) 1
+
+(SUBCAT OC_INF, SUBTYPE EQU_EXTRAP, AGR VP[FIN -]) -> (SUBCAT 
+OC_INF, SUBTYPE EQU_EXTRAP, AGR N2[NFORM IT])  (Extraposition) 1
+
+(SUBCAT PP_SFIN, SUBTYPE EXTRAP, PFORM to,  AGR N2[NFORM IT]) ->
+(SUBCAT PP, PFORM to, AGR S[FIN +]) (Extraposition) 1
+
+(SUBCAT SFIN, AGR S[FIN -]) -> (SUBCAT SFIN, AGR VP[FIN -]) 1
+
+****** PP deletions
+
+(SUBCAT NP_LOC) -> (SUBCAT NP) (PP deletion) 214/249
+
+(SUBCAT SINF) -> (SUBCAT SC_INF) (PP deletion) 16/16
+
+(SUBCAT OC_NP, SUBTYPE RAIS, PREP as) -> (SUBCAT NP) (PP deletion) 0/0 
+
+(SUBCAT NP_PP) -> (SUBCAT NP) (PP deletion) 1370/1435
+
+(SUBCAT SC_NP_NP, SUBTYPE RAIS, PREP as) -> (SUBCAT NP) (PP
+deletion) 1
+
+(SUBCAT SINF, SUBTYPE EXTRAP, AGR N2[NFORM IT]) -> (SUBCAT OC_INF,
+SUBTYPE EXTRAP, AGR N2[NFORM IT]) (PP deletion) 0/0
+
+(SUBCAT SC_PP_INF, SUBTYPE PVERB_OE) -> (SUBCAT SC_INF, SUBTYPE
+EQUI) (PP deletion) 0/0
+
+(SUBCAT PP, PRT @x) -> (SUBCAT NULL, PRT @x) (PP deletion) ?/? (see below)
+
+(SUBCAT PP) -> (SUBCAT NULL) (PP deletion) 1244 / 1412
+
+(SUBCAT PP_SINF) -> (SUBCAT SINF) (PP deletion)  1
+
+(SUBCAT PP_WHVP) -> (SUBCAT WHVP) (PP deletion) 2/3
+
+(SUBCAT PP_WHS) -> (SUBCAT WHS) (PP deletion) 3/7
+
+(SUBCAT PP_WHVP, PRT @x) -> (SUBCAT WHVP, PRT @x) (PP deletion) ?/? (see above)
+
+(SUBCAT PP_WHS, PRT @x) -> (SUBCAT WHS, PRT @x) (PP deletion) ?/? (see above)
+
+(SUBCAT PP_PP, PFORM @X_@Y) -> (SUBCAT PP, PFORM @X/Y) (PP deletion) 1
+
+; not ANLT (VSUBCAT PP_WHPP, PFORM (NOT WH)) -> (SUBCAT PP) (PP deletion) 
+
+(SUBCAT PP_SFIN) -> (SUBCAT SFIN) (PP deletion) 24/29
+
+(SUBCAT PP_SBSE) -> (SUBCAT SBSE) (PP deletion) 1
+   
+(SUBCAT SC_PP_INF, SUBTYPE RAIS) -> (SUBCAT SC_INF, SUBTYPE RAIS) (PP deletion) 1
+
+(SUBCAT NP_PP_PP, PFORM @X_@Y) -> (SUBCAT NP_PP, PFORM @X/Y) (PP deletion) 1
+ 
+(SUBCAT ADV_PP) -> (SUBCAT ADV) (PP deletion) 0/0
+
+(SUBCAT NP_MP_PP) -> (SUBCAT NP_MP)  0/0
+
+***** Equi deletions
+
+(SUBCAT OC_BSE, SUBTYPE EQUI) -> (SUBCAT BSE, SUBTYPE EQUI) 0/0
+
+(SUBCAT OC_BSE, SUBTYPE EQUI) -> (SUBCAT NP) 1
+
+(SUBCAT OC_ING, SUBTYPE EQUI) -> (SUBCAT NP) 1
+
+(SUBCAT SC_ING, SUBTYPE EQUI) -> (SUBCAT NP) 161/177
+
+(SUBCAT OC_NP, SUBTYPE EQUI) -> (SUBCAT NP)  
+
+(SUBCAT OC_INF, SUBTYPE EQUI) -> (SUBCAT NP_SFIN) (Equi-NP-deletion) 21/179
+
+(SUBCAT OC_AP, SUBTYPE EQUI, PRT @y) -> (SUBCAT NP, SUBTYPE EQUI, PRT @y) 0/92
+
+(SUBCAT NP_MP_VPINF) -> (SUBCAT NP_MP) 0/0
+
+***** Other deletions
+
+(SUBCAT SC_AP) -> (SUBCAT ADVP) 11/76
+
+(SUBCAT NP) -> (SUBCAT NULL) (Reciprocal, Causative etc) 2412/5216
+
+(SUBCAT NP_ADVP) -> (SUBCAT NP) 5/7
+
+(SUBCAT OC_PP_ING, PFORM @X, ORDER POSTNP) -> (SUBCAT NP_PP, PFORM @X) 39/57
+
+(SUBCAT NP_MP) -> (SUBCAT MP) 2/3
+
+(SUBCAT NP_MP_VPINF) -> (SUBCAT NP_MP) 0/0
+
+****** Category Alternations
+
+(SUBCAT WHS) -> (SUBCAT WHVP)  80/132
+
+(SUBCAT NP_WHS, PREP @x) -> (SUBCAT NP_WHVP, PREP @x) ?/? (see below)
+
+(SUBCAT NP_WHS) -> (SUBCAT NP_WHVP) 1 
+
+%(SUBCAT NP_PP, SUBTYPE DMOVT, PFORM FOR) -> (SUBCAT NP_NP) (Dative Mvt) 1 
+
+%(SUBCAT NP_PP, PFORM TO, SUBTYPE DMOVT) -> (SUBCAT NP_NP)  (Dative Mvt) 1 
+
+(SUBCAT SC_ING, SUBTYPE EQUI, PREP @X) -> (SUBCAT PP, PFORM @X) 113/177
+
+****** Raising Alternations
+
+(SUBCAT OC_AP, SUBTYPE RAIS) -> (SUBCAT OC_NP, SUBTYPE RAIS) 31/39
+
+(SUBCAT OC_AP, SUBTYPE RAIS, PRT @x) -> (SUBCAT OC_NP, SUBTYPE RAIS,
+PRT @x) ?/? (see above)
+
+(SUBCAT OC_AP, SUBTYPE RAIS) -> (SUBCAT NP) 37/39
+   
+(SUBCAT NP_PP, PFORM @x, SUBTYPE NONE) -> (SUBCAT OC_AP, PFORM @x,
+SUBTYPE RAIS) 0/0
+
+(SUBCAT SC_AP, SUBTYPE RAIS) -> (SUBCAT SC_NP, SUBTYPE RAIS) ?/?
+     
+(SUBCAT OC_INF, SUBTYPE RAIS) -> (SUBCAT OC_AP, SUBTYPE RAIS) 32/84
+
+(SUBCAT OC_INF, SUBTYPE RAIS) -> (SUBCAT SFIN) (Raising-to-Obj) 67/84
+
+(SUBCAT SC_PP_INF, SUBTYPE RAIS) -> (SUBCAT PP_SFIN, AGR IT) (Raising-to-Subj) 1
+
+(SUBCAT SC_INF, SUBTYPE RAIS) -> (SUBCAT SFIN, SUBTYPE NONE, AGR
+N2[NFORM IT]) 0
+
+(SUBCAT SC_NP_AP, SUBTYPE RAIS, PREP as) -> (SUBCAT SC_NP_NP, SUBTYPE
+RAIS, PREP as) 1
+
+(SUBCAT OC_INF, SUBTYPE RAIS, PRT @x) -> (SUBCAT SFIN, SUBTYPE RAIS,
+PRT @x) 0
+
+********************
+
+ADJECTIVES
+
+Format (see Intro text at top of file)
+   
+   No. Comlex-class / Freq-ANLT                  
+   (SUBCAT anlt, SUBTYPE anlt)
+   XTAG  / LingoERG
+   Eg
+   (ASUBCAT tsg)
+   GRs
+
+   1. PRED / 
+      Kim_ NP1 is_VBZ silly_JJ     
+      (ASUBCAT NONE)
+      (xcomp _ is silly)
+
+   2. ATTRIB /
+      The_AT silly_JJ man_NN1 smoked_VVD
+      (ASUBCAT NONE)
+      (ncmod _ man:n+m silly:n)
+
+;;; current rules don't get 3 (vs. 2)
+
+   3. POST /
+      The_AT man_NN1 silly_JJ (with_IW drink_NN) smoked_VVD
+      (ASUBCAT X)
+      (ncmod _ man:n silly:n+m) 
+
+   4. INF-SC /
+      (SUBCAT SC_INF) (SUBTYPE EQUI)
+      Kim_NP1 is_VBZ likely_JJ to_TO go_VV0
+      (ASUBCAT VPINF)
+      (xcomp to likely go)
+
+   5. INF-OC /
+      (SUBCAT SC_INF) (SUBTYPE TOUGH/SILLY/READY)
+      Kim_NP1 is_VBZ easy_JJ to_TO please_VV0
+      (ASUBCAT VPINF)
+
+   6. INF-SR /
+      (SUBCAT SC_INF) (SUBTYPE RAISING)
+      Kim_NP1 is_VBZ kind_JJ to_TO invite_VV0 Sandy_NP1
+      (ASUBCAT VPINF)
+    
+   7. FOR-TO-INF /
+      (SUBCAT PP_VPINF)
+      Kim_NP1 is_VBZ anxious_JJ for_IF Sandy_NP1 to_TO go_VV0
+      (ASUBCAT PP) (PSUBCAT SINF)
+      (ccomp _ anxious_JJ for_IF)
+      (ccomp _ for_IF Sandy_NP1)
+      (ncsubj go_VV0 Sandy_NP1 _)
+
+   8. FOR-TO-INF-OC /
+      Kim_NP1 is_VBZ easy_JJ for_IF Sandy_NP1 to_TO please_VV0
+      (ASUBCAT PP) (PSUBCAT SINF)
+      (ccomp _ easy_JJ for_IF)
+      (ccomp _ for_IF Sandy_NP1)
+      (ncsubj please_VV0 Sandy_NP1 _)
+      *(dobj please Kim)
+
+   9. S /
+      Kim_NP1 is_VBZ certain_JJ Sandy_NP1 came_VVD
+      (ASUBCAT SFIN)
+      (ccomp _ certain came)
+
+  10. S-THAT /
+      Kim_NP1 is_VBZ certain_JJ that_CST Sandy_NP1 came_VVD
+      (ASUBCAT SFIN)
+      (ccomp that certain came)
+
+  11. S-SUBJ /
+      Kim_NP1 is_VBZ insistent_JJ that_CST Sandy_NP1 leave_VV0
+      (ASUBCAT SFIN) VV0
+      (ccomp that_CST insistent_JJ leave_VV0)
+      (ncsubj leave_VV0 Sandy_NP1 _)
+
+;;; tsg15 sets ASUBCAT to PP for as/than equatives/comparatives --
+;;; change to NONE?
+      
+  12. PP /
+      Kim_NP1 is_VBZ certain_JJ about_II Sandy_NP1
+      (ASUBCAT PP)
+      (iobj certain_JJ about_II)
+      (dobj about_II Sandy_NP1)
+
+;;; change tsg15 to make Ymod into Ycomp below and subseq?
+
+  13. WHINF /
+      Kim_NP1 is_VBZ uncertain_JJ whether_CSW to_TO go_VV0 
+      / what to do / how to go
+      (ASUBCAT PP / WHPP) (PSUBCAT VPINF)
+      (xmod _ uncertain_JJ whether_CSW)
+      (xcomp to whether_CSW go_VV0)
+or
+      (xmod _ uncertain_JJ how_RGQ)
+      (xcomp to how_RGQ go_VV0)
+or
+      what/who -- no correct parse:
+(T/txt-sc1/--
+ (S/np_vp (NP/n1-name (N1/n-name Kim_NP1))
+  (V1/be_np/---- is_VBZ
+   (NP/np-whpro_inf
+    (NP/ap_np-pro-r (AP/a1 (A1/a uncertain_JJ)) what_DDQ)
+    (V1/to_bse/- to_TO (V1/v leave_VV0))))))
+
+
+  14. WHS /
+      Kim_NP1 is_VBZ uncertain_JJ whether_CSW Sandy_NP1 smokes_VVZ 
+      / what / how
+      (ASUBCAT PP) (PSUBCAT SFIN)
+      (cmod _ uncertain_JJ whether_CSW)
+      (ccomp _ whether_CSW smokes_VVZ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+      Also matches class 1 cos no argrel
+or
+      (ccomp _ uncertain_JJ smokes_VVZ)
+      (arg_mod _ smokes_VVZ how_RGQ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+or
+      (ccomp _ uncertain_JJ smokes_VVZ)
+      (obj smokes_VVZ what_DDQ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+
+;;; all it/extrap cases cld also be `considers it probable...'
+
+  15. IT-S /
+      It_PPH1 is_VBZ probable_JJ Kim_NP1 left_VVD
+      (ASUBCAT SFIN)
+      (ccomp _ probable_JJ left_VVD)
+      (ncsubj left_VVD Kim_NP1 _)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ probable_JJ)
+or
+      (ncsubj probable_JJ it_PPH1 _)  
+
+  16. IT-S-THAT /
+      It_PPH1 is_VBZ probable_JJ that_CST Kim_NP1 left_VVD
+      (ASUBCAT SFIN)
+      (ccomp that_CST probable_JJ left_VVD)
+      (ncsubj left_VVD Kim_NP1 _)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ probable_JJ)
+      
+  17. IT-S-SUBJ /
+      It_PPH1 is_VBZ imperative_JJ that_CST Sandy_NP1 leave_VV0
+      (ASUBCAT SFIN) VV0
+      (ccomp that_CST imperative_JJ leave_VV0)
+      (ncsubj leave_VV0 Sandy_NP1 _)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ imperative_JJ)
+
+  18. IT-WHINF /
+      It_PPH1 is_VBZ unclear_JJ whether_CSW to_TO go_VV0 
+      / what to do / how to go
+      (ASUBCAT PP / WHPP) (PSUBCAT VPINF)
+      (xmod _ unclear_JJ whether_CSW)
+      (xcomp to whether_CSW go_VV0)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+or
+      (ncsubj is_VBZ It_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+      (xmod _ unclear_JJ how_RGQ)
+      (xcomp to how_RGQ go_VV0)
+or
+      what -- no correct parse
+
+  19. IT-WHS /
+      It_PPH1 is_VBZ unclear_JJ whether_CSW Sandy_NP1 smokes_VVZ 
+      / what / how
+      (ASUBCAT PP / WHPP) (PSUBCAT SFIN)
+      (cmod _ unclear_JJ whether_CSW)
+      (ccomp _ whether_CSW smokes_VVZ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+or
+      (ncsubj is_VBZ It_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+      (ccomp _ unclear_JJ smokes_VVZ)
+      (arg_mod _ smokes_VVZ how_RGQ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+
+or
+      (ncsubj is_VBZ It_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+      (ccomp _ unclear_JJ smokes_VVZ)
+      (obj smokes_VVZ what_DDQ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+
+  20. IT-INF /
+      It_PPH1 is_VBZ practical_JJ to_TO go_VV0
+      (ASUBCAT VPINF)
+      (xcomp to practical go)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ practical_JJ)
+
+  21. IT-FOR-TO-INF /  
+      It_PPH1 is_VBZ practical_JJ for_IF Sandy_NP1 to_TO go_VV0
+      (SUBCAT PP_VPINF) (SUBTYPE EXTRAP)
+      (ASUBCAT PP) (PSUBCAT SINF)
+      (ccomp _ practical for)
+      (ccomp _ for Sandy)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ practical_JJ)
+
+  22. SUBJ-S /
+      that_CST Sandy_NP1 came_VVD is_VBZ certain_JJ 
+      (ASUBCAT NONE)
+      (csubj is_VBZ came_VVD that)
+      (xcomp _ is_VBZ certain_JJ)
+      (ncsubj came_VVD Sandy_NP1 _)
+
+
+  23. SUBJ-S-SUBJ /
+      that_CST Sandy_NP1 leave_VV0 is_VBZ imperative_JJ 
+      (ASUBCAT NONE)
+      (csubj is_VBZ leave_VV0 that)
+      (xcomp _ is_VBZ imperative_JJ)
+      (ncsubj leave_VV0 Sandy_NP1 _)
+
+  24. SUBJ-WHS /
+      whether_CSW Sandy_NP1 came_VVD is_VBZ uncertain_JJ 
+      / what S wanted / how S came
+      (ASUBCAT NONE)
+      (csubj is_VBZ whether_CSW inv)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (ccomp _ whether_CSW came_VVD)
+      (ncsubj came_VVD Sandy_NP1 _)
+or
+      (csubj is_VBZ wanted_VVD _)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (obj wanted_VVD what_DDQ)
+      (ncsubj wanted_VVD Sandy_NP1 _)
+or
+      (csubj is_VBZ came_VVD _)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (arg_mod _ came_VVD how_RGQ)
+      (ncsubj came_VVD Sandy_NP1 _)
+
+  25. SUBJ-WHINF /
+      whether_CSW to_TO go_VV0 is_VBZ uncertain_JJ 
+      / what to do / how to go
+      (ASUBCAT NONE)
+      (xsubj is_VBZ whether_CSW inv)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (xcomp to whether_CSW go_VV0)
+or
+      (xsubj is_VBZ how_RGQ inv)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (xcomp to how_RGQ go_VV0)
+or
+      (ncsubj is_VBZ what_DDQ _)
+      (xcomp _ is_VBZ uncertain_JJ)
+      (obj do_VV0 what_DDQ)
+      (xmod to what_DDQ do_VV0)
+
+;;; ignoring cases of extrap with 26/27 `that S lve is imp to K'
+  
+  26. Comlex gap / 
+      (SUBCAT PP_SBE) (SUBTYPE EXTRAP)
+      It_PPH1 is_VBZ imperative_JJ to_II Kim_NP1 that_CST Sandy_NP1 leave_VV0
+      (ASUBCAT SFIN) (PSUBCAT NP) VV0
+      (ccomp that_CST imperative_JJ leave_VV0)
+      (ncsubj leave_VV0 Sandy_NP1 _)
+      (pcomp imperative_JJ to_II)
+      (dobj to_II Kim_NP1)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ imperative_JJ)
+
+  27. Comlex gap /
+      (SUBCAT PP_SFIN) (SUBTYPE EXTRAP)
+      It_PPH1 is_VBZ clear_JJ to_II Kim_NP1 that_CST Sandy_NP1 left_VVD
+      (ASUBCAT SFIN) (PSUBCAT NP) VV0
+      (ccomp that_CST clear_JJ left_VVD)
+      (ncsubj left_VVD Sandy_NP1 _)
+      (pcomp clear_JJ to_II)
+      (dobj to_II Kim_NP1)
+      (ncsubj is_VBZ it_PPH1 _)
+      (xcomp _ is_VBZ clear_JJ)
+      
+  28. Comlex gap / 
+      (SUBCAT SC_ING)
+      Kim_NP1 is_VBZ busy_JJ helping_VVG Sandy_NP1
+      (ASUBCAT VPING)
+      (xcomp _ busy helping)
+
+  29. Comlex gap /
+      (SUBCAT SC_AP)
+      Kim_NP1 is_VBZ scared_JJ silly_JJ
+      No parse
+
+  30. Comlex gap /
+      (SUBCAT PP_VPINF) (SUBTYPE EXTRAP) not `for'
+      It_PPH1 is_VBZ kind_JJ of_IO Kim_NP1 to_TO invite_VV0 Sandy_NP1
+      No correct parse
+
+  31. Comlex gap /
+      (SUBCAT PPING) 
+      Kim_NP1 is_VBZ confident_JJ about_II winning_VVG 
+      (ASUBCAT PP) (PSUBCAT VPING) / PPOF
+      (ncsubj is_VBZ Kim_NP1 _)
+      (xcomp _ is_VBZ confident_JJ)
+      (xcomp _ confident_JJ about_II)
+      (xcomp _ about_IO winning_VVG)
+
+  32. Comlex gap /
+      (SUBCAT PPSING) 
+      Kim_NP1 is_VBZ confident_JJ about_II Sandy_NP1 winning_VVG 
+      (ASUBCAT PPOF) (PSUBCAT SING) / PPOF
+      (ncsubj is_VBZ Kim_NP1 _)
+      (xcomp _ is_VBZ confident_JJ)
+      (ccomp _ confident_JJ about_II)
+      (ccomp _ about_IO Sandy_NP1)
+      (ncsubj winning_VVG Sandy_NP1 _)
+      
+  33. Comlex gap /
+      (SUBCAT PP_PP)
+      Kim_NP1 is_VBZ accountable_JJ to_II Sandy_NP1 for_IF Fido_NP1
+      (ASUBCAT PP_PP)
+      (ncsubj is_VBZ Kim_NP1 _)
+      (xcomp _ is_VBZ accountable_JJ)
+      (iobj accountable_JJ for_IF)
+      (iobj accountable_JJ to_II)
+      (dobj for_IF Fido_NP1)
+      (dobj to_II Sandy_NP1)
+
+  34. Comlex gap /
+      (SUBCAT SINF) (SUBTYPE EXTRAP)
+      For_IF Kim_NP1 to_TO go_VV0 is_VVZ unnecessary_JJ
+      (ASUBCAT NONE)
+      (csubj is_VVZ For_IF inv)
+      (xcomp _ is_VVZ unnecessary_JJ)
+      (ccomp _ For_IF Kim_NP1)
+      (ncsubj go_VV0 Kim_NP1 _)
+
+  35. Comlex gap /
+      (SUBCAT VPINF) (SUBTYPE EXTRAP)
+      to_TO go_VV0 is_VVZ unnecessary_JJ
+      (ASUBCAT NONE)
+      (xsubj is_VVZ go_VV0 inv)
+      (xcomp _ is_VVZ unnecessary_JJ)
+
+  36. Comlex gap /
+      (SUBCAT PP_VPINF) (SUBTYPE EXTRAP)
+      to_TO go_VV0 is_VVZ unnecessary_JJ of_IO Kim_NP1
+      (ASUBCAT PP) / PPOF
+      (xsubj is_VVZ go_VV0 inv)
+      (xcomp _ is_VVZ unnecessary_JJ)
+      (iobj unnecessary_JJ of_IO)
+      (dobj of_IO Kim_NP1)
+
+;;; top parses with what/how using a_pp_pp-wh etc not correct so
+;;; current rules drop ccomp rel btwn adj and v
+
+  37. Comlex gap /
+      (SUBCAT PP_WHS) (SUBTYPE EXTRAP)
+      It_PPH1 is_VBZ unclear_JJ to_II Kim_NP1 whether_CSW Sandy_NP1 smokes_VVZ 
+      / what / how
+      (ASUBCAT PP_PP / PP_WHPP) (PSUBCAT NP) (PSUBCAT SFIN)
+      (ncsubj is_VBZ It_PPH1 _)
+      (xcomp _ is_VBZ unclear_JJ)
+      (ccomp _ whether_CSW smokes_VVZ)
+      (ncsubj smokes_VVZ Sandy_NP1 _)
+      (dobj to_II Kim_NP1)
+
+**************************
+
+Adj alternations -- useful for smoothing??
+
+eg PP opt, Extrap, etc
+
+
+**************************
+
+Format (see Intro text at top of file)
+   
+   No. Nomlex-class / Freq-ANLT                  
+   (SUBCAT anlt, SUBTYPE anlt)
+   XTAG  / LingoERG
+   Eg
+   (ASUBCAT tsg)
+   GRs
+
+NOUNS
+
+  0. NONE / 
+     (SUBCAT NONE)
+     The_AT car_NN1 broke_VVD
+     (NSUBCAT X)
+     None -- all nouns have this class by default (`fondness' only
+     known exception??; unless model (non)count??)
+
+  1. NP / 
+     (SUBCAT PP, PFORM OF)
+     A_AT1 part_NN1 of_IO the_AT car_NN1 broke_VVD
+     (NSUBCAT PPOF, PSUBCAT NP)
+     (iobj part_NN1 of_IO)
+     (dobj of_IO car_NN1)
+  
+  2. PP /
+     (SUBCAT PP, PFORM Prep, PSUBCAT NP)
+     An_AT1 idea_NN1 about_II Kim_NP1 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT NP)
+     (ncmod _ idea_NN1 about_II)
+     (dobj about_II Kim_NP1)
+
+  3. PP-ING-SC|AC /
+     ANLT gap
+     Kim_NP1 's_$ admission_NN1 to_II accepting_VVG bribes_NN2 surfaced_VVD
+     The_AT1 idea_NN1 of_II kissing_VVG Kim_NP1 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT VPING)
+     (ncsubj surfaced_VVD admission_NN1 _)
+     (ncmod poss admission_NN1 Kim_NP1)
+     (xmod _ admission_NN1 to_II)
+     (xcomp _ to_II accepting_VVG)
+     (dobj accepting_VVG bribes_NN2)
+
+  4. PP-POSSING /
+     ANLT gap
+     The_AT1 idea_NN1 of_II Sandy_NP1 's_$ kissing_VVG Kim_NP1 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT SING)
+     (ncsubj surfaced_VVD idea_NN1 _)
+     (det idea_NN1 The_AT1)
+     (cmod _ idea_NN1 of_II)
+     (ccomp _ of_II Sandy_NP1)
+     (ncsubj kissing_VVG Sandy_NP1 _)
+     (dobj kissing_VVG Kim_NP1)
+
+  5. PP-SING /
+     ANLT gap
+     Jo_NP1 's_$ idea_NN1 of_II Sandy_NP1 kissing_VVG Kim_NP1 worked_VVD
+     (NSUBCAT X) (PSUBCAT SING)
+     (ncsubj surfaced_VVD idea_NN1 _)
+     (ncmod poss idea_NN1 Jo_NP1)
+     (cmod _ idea_NN1 of_II)
+     (ccomp _ of_II Sandy_NP1)
+     (ncsubj kissing_VVG Sandy_NP1 _)
+     (dobj kissing_VVG Kim_NP1)
+
+  6. INF-SC|AC /
+     (SUBCAT SCINF)
+     Jo_NP1 's_$ need_NN1 to_TO go_VV0 surfaced_VVD
+     (NSUBCAT X)
+     (ncsubj surfaced_VVD need_NN1 _)
+     (ncmod poss need_NN1 Jo_NP1)
+     (xmod to need_NN1 go_VV0)
+
+  7. PP-INF-OC /
+     (SUBCAT NP_OCINF)
+     Jo_NP1 's_$ reliance_NN1 on_II Kim_NP1 to_TO go_VV0 surfaced_VVD
+     Jo_NP1 's_$ eagerness_NN1 for_IF Kim_NP1 to_TO go_VV0 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT SINF)
+     (ncsubj surfaced_VVD reliance_NN1 _)
+     (ncmod poss reliance_NN1 Jo_NP1)
+     (cmod _ reliance_NN1 on_II)
+     (ccomp _ on_II Kim_NP1)
+     (ncsubj go_VV0 Kim_NP1 _)
+
+  8. PP-INF-SC /
+     (SUBCAT NP_SCINF)
+     Jo_NP1 's_$ promise_NN1 to_II Kim_NP1 to_TO go_VV0 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT SINF)
+     (ncsubj surfaced_VVD promise_NN1 _)
+     (ncmod poss promise_NN1 Jo_NP1)
+     (cmod _ promise_NN1 to_II)
+     (ccomp _ to_II Kim_NP1)
+     (ncsubj go_VV0 Kim_NP1 _)
+
+  9. S /
+     (SUBCAT SFIN)
+     The_AT claim_NN1 Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+     (NSUBCAT SFIN)
+     (ncsubj surfaced_VVD claim_NN1 _)
+     (det claim_NN1 The_AT)
+     (ccomp _ claim_NN1 is_VBZ)
+     (ncsubj is_VBZ Kim_NP1 _)
+     (xcomp _ is_VBZ silly_JJ)
+
+ 10. S-THAT /
+     (SUBCAT SFIN)
+     The_AT claim_NN1 that_CST Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+     (NSUBCAT SFIN)
+     (ncsubj surfaced_VVD claim_NN1 _)
+     (det claim_NN1 The_AT)
+     (ccomp that_CST claim_NN1 is_VBZ)
+     (ncsubj is_VBZ Kim_NP1 _)
+     (xcomp _ is_VBZ silly_JJ)
+    
+ 11. S_SUBJ /
+     (SUBCAT SBSE)
+     Jo_NP1 's_$ preference_NN1 that_CST Kim_NP1 be_VB0 sacked_VVN surfaced_VVD  
+     (NSUBCAT SFIN)
+     (ncsubj surfaced_VVD preference_NN1 _)
+     (ncmod poss preference_NN1 Jo_NP1)
+     (ccomp that_CST preference_NN1 sacked_VVN)
+     (ncsubj sacked_VVN Kim_NP1 _)
+     (aux sacked_VVN be_VB0)
+     (passive sacked_VVN)
+
+ 12. P-WHS /
+     ANLT gap
+     Jo_NP1 's_$ knowledge_NN1 of_IO / about_II whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+     (NSUBCAT PPOF|X) (PSUBCAT PP+SFIN)
+     (ncsubj surfaced_VVD knowledge_NN1 _)
+     (ncmod poss knowledge_NN1 Jo_NP1)
+     (pcomp knowledge_NN1 of_IO) / (pmod knowledge_NN1 about_II)
+     (ccomp _ of_IO whether_CSW)
+     (ccomp _ whether_CSW smiled_VVD)
+     (ncsubj smiled_VVD Kim_NP1 _)
+or
+     (ncsubj surfaced_VVD knowledge_NN1 _)
+     (ncmod poss knowledge_NN1 Jo_NP1)
+     (cmod _ knowledge_NN1 about_II)
+     (ccomp _ about_II said_VVD)
+     (obj said_VVD what_DDQ) / (arg_mod _ smiled_VVD how_RGQ)
+     (ncsubj said_VVD Kim_NP1 _)
+or
+     (ncsubj surfaced_VVD knowledge_NN1 _)
+     (ncmod poss knowledge_NN1 Jo_NP1)
+     (cmod _ knowledge_NN1 said_VVD)
+     (arg_mod _ said_VVD of_IO) / (arg_mod _ smiled_VVD how_RGQ)
+     (ncsubj said_VVD Kim_NP1 _)
+     (dobj of_IO what_DDQ)
+
+ 13. P-WHINF /
+     ANLT gap
+     Jo_NP1 's_$ knowledge_NN1 of_IO / about_II whether_CSW to_TO go_VV0 surfaced_VVD     
+     (NSUBCAT PPOF|X) (PSUBCAT PP+VPINF)
+     (ncsubj surfaced_VVD knowledge_NN1 _)
+     (ncmod poss knowledge_NN1 Jo_NP1)
+     (pcomp knowledge_NN1 of_IO) / (pmod knowledge_NN1 about_II)
+     (xcomp _ of_IO whether_CSW)
+     (xcomp to whether_CSW go_VV0)
+or
+     (ncsubj surfaced_VVD knowledge_NN1 _)
+     (ncmod poss knowledge_NN1 Jo_NP1)
+     (ncmod _ knowledge_NN1 about_II) / (iobj knowledge_NN1 of_IO)
+     (dobj about_II what_DDQ)
+     (obj do_VV0 what_DDQ)
+     (xmod to what_DDQ do_VV0)
+
+ 14. NP-PP-PP /
+     ANLT gap
+     Jo_NP1 's_$ gift_NN1 of_IO a_AT1 pen_NN1 to_II Kim_NP1 surfaced_VVD
+     Jo_NP1 's_$ argument_NN1 with_IW Kim_NP1 about_II Fido_NP1 surfaced_VVD
+     (NSUBCAT PPOF|X)
+     (ncsubj surfaced_VVD gift_NN1 _)
+     (ncmod poss gift_NN1 Jo_NP1)
+     (ncmod _ gift_NN1 to_II)
+     (dobj to_II Kim_NP1)
+     (iobj gift_NN1 of_IO) / (ncmod _ argument_NN1 with_IW)
+     (dobj of_IO pen_NN1)
+     (det pen_NN1 a_AT1)
+or (low attchmt pref)?
+     (ncsubj surfaced_VVD gift_NN1 _)
+     (ncmod poss gift_NN1 Jo_NP1)
+     (iobj gift_NN1 of_IO)
+     (dobj of_IO pen_NN1)
+     (det pen_NN1 a_AT1)
+     (ncmod _ pen_NN1 to_II)
+     (dobj to_II Kim_NP1)
+
+ 15. PP-PP /
+     ANLT gap
+     The_AT appearance_NN1 of_IO Kim_NP1 with_IW Jo_NP1 surfaced_VVD
+     The_AT inquiry_NN1 about_II Kim_NP1 by_II Jo_NP1 surfaced_VVD
+     (NSUBCAT PPOF|X)
+     (ncsubj surfaced_VVD inquiry_NN1 _)
+     (det inquiry_NN1 The_AT)
+     (ncmod _ inquiry_NN1 by_II) / (iobj appearance_NN1 of_IO)
+     (dobj by_II Jo_NP1)
+     (ncmod _ inquiry_NN1 about_II)
+     (dobj about_II Kim_NP1)
+or (low attchmt pref)?
+     (ncsubj surfaced_VVD appearance_NN1 _)
+     (det appearance_NN1 The_AT)
+     (iobj appearance_NN1 of_IO)
+     (dobj of_IO Kim_NP1)
+     (ncmod _ Kim_NP1 with_IW)
+     (dobj with_IW Jo_NP1)
+
+ 16. PPOF-PP-PP /
+     ANLT gap
+     The_AT gift_NN1 of_IO a_AT1 pen_NN1 to_II Kim_NP1 by_II Jo_NP1 surfaced_VVD
+     The_AT argument_NN1 of_IO Jo_NP1 with_IW Kim_NP1 about_II Fido_NP1 surfaced_VVD
+     (NSUBCAT PPOF) (PSUBCAT NP+NP)
+     (ncsubj surfaced_VVD gift_NN1 _)
+     (det gift_NN1 The_AT)
+     (ncmod _ gift_NN1 by_II)
+     (dobj by_II Jo_NP1)
+     (ncmod _ gift_NN1 to_II)
+     (dobj to_II Kim_NP1)
+     (iobj gift_NN1 of_IO)
+     (dobj of_IO pen_NN1)
+     (det pen_NN1 a_AT1)
+
+ 17. PP-PP-INF-OC /
+     ANLT gap
+     The_AT argument_NN1 with_IW Kim_NP1 for_IF Fido_NP1 to_TO go_VV0 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT NP+SINF)
+     (ncsubj surfaced_VVD argument_NN1 _)
+     (det argument_NN1 The_AT)
+     (cmod _ argument_NN1 for_IF)
+     (ccomp _ for_IF Fido_NP1)
+     (ncsubj go_VV0 Fido_NP1 _)
+     (ncmod _ argument_NN1 with_IW)
+     (dobj with_IW Kim_NP1)
+
+
+ 18. PP-PP-POSSING /
+     ANLT gap
+     The_AT argument_NN1 with_IW Jo_NP1 about_II Sandy_NP1 's_$ kissing_VVG Kim_NP1 surfaced_VVD
+    (NSUBCAT X) (PSUBCAT NP+SING)
+    (ncsubj surfaced_VVD argument_NN1 _)
+    (det argument_NN1 The_AT)
+    (cmod _ argument_NN1 about_II)
+    (ccomp _ about_II Sandy_NP1)
+    (ncsubj kissing_VVG Sandy_NP1 _)
+    (dobj kissing_VVG Kim_NP1)
+    (ncmod _ argument_NN1 with_IW)
+    (dobj with_IW Jo_NP1)
+
+ 19. PP-PP-SING /
+     ANLT gap
+     The_AT argument_NN1 with_IW Jo_NP1 about_II Sandy_NP1 kissing_VVG Kim_NP1 surfaced_VVD
+    (NSUBCAT X) (PSUBCAT NP+SING)
+    (ncsubj surfaced_VVD argument_NN1 _)
+    (det argument_NN1 The_AT)
+    (cmod _ argument_NN1 about_II)
+    (ccomp _ about_II Sandy_NP1)
+    (ncsubj kissing_VVG Sandy_NP1 _)
+    (dobj kissing_VVG Kim_NP1)
+    (ncmod _ argument_NN1 with_IW)
+    (dobj with_IW Jo_NP1)
+
+ 20. PP-P-WHS /
+     ANLT gap
+     Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 about_II whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+     (NSUBCAT X) (PSUBCAT NP+SFIN) 
+     (ncsubj surfaced_VVD explanation_NN1 _)
+     (ncmod poss explanation_NN1 Jo_NP1)
+     (pmod explanation_NN1 about_II)
+     (ccomp _ about_II whether_CSW)
+     (ccomp _ whether_CSW smiled_VVD)
+     (ncsubj smiled_VVD Kim_NP1 _)
+     (ncmod _ explanation_NN1 to_II)
+     (dobj to_II Sandy_NP1)
+or variants as WHS above
+     
+ 21. PP-P-WHINF /
+     ANLT gap
+     Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 about_II whether_CSW to_TO go_VV0 surfaced_VVD
+     (NSUBCAT X) (PSUBCAT NP+VPINF) 
+     (ncsubj surfaced_VVD explanation_NN1 _)
+     (ncmod poss explanation_NN1 Jo_NP1)
+     (pmod explanation_NN1 about_II)
+     (xcomp _ about_II whether_CSW)
+     (xcomp to whether_CSW go_VV0)
+     (ncmod _ explanation_NN1 to_II)
+     (dobj to_II Sandy_NP1)
+or variants as WHINF above
+
+ 22. PP-WHS /
+     ANLT gap
+     Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 whether_CSW Kim_NP1 smiled_VVD surfaced_VVD
+     No parses
+
+
+ 23. PP-WHINF /
+     ANLT gap
+     Jo_NP1 's_$ explanation_NN1 to_II Sandy_NP1 whether_CSW to_TO smile_VV0 surfaced_VVD
+     No parses
+
+ 24. PP-S-THAT /
+     ANLT gap
+     Jo_NP1 's_$ reminder_NN1 to_II Sandy_NP1 that_CST Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+     No parses
+
+ 25. PP-S /
+     ANLT gap
+     Jo_NP1 's_$ reminder_NN1 to_II Sandy_NP1 Kim_NP1 is_VBZ silly_JJ surfaced_VVD
+     No correct parse
+
+ 26. PP-AS
+     ANLT gap     
+     Jo_NP1 's_$ mention_NN1 of_IO Fido_NP1 as_CSA dying_VVG surfaced_VVD 
+     (NSUBCAT X|PPOF) (PFORM AS) (PSUBCAT VPING|VPPRT|NP|AP)
+     (ncsubj surfaced_VVD mention_NN1 _)
+     (ncmod poss mention_NN1 Jo_NP1)
+     (xmod _ mention_NN1 as_CSA)
+     (xcomp _ as_CSA dying_VVG)
+     (iobj mention_NN1 of_IO)
+     (dobj of_IO Fido_NP1)
+
+ 27. PP-PP-AS
+     ANLT gap
+     Jo_NP1 's_$ mention_NN1 to_II Sandy_NP1 of_IO Fido_NP1 as_CSA problematic_JJ surfaced_VVD 
+     No correct parse
+
+ 28. AdvP
+     ANLT gap
+     Jo_NP1 's_$ arrival_NN1 there_RL surfaced_VVD
+     (NSUBCAT X)
+     (ncsubj surfaced_VVD arrival_NN1 _)
+     (ncmod _ arrival_NN1 there_RL)
+     (ncmod poss arrival_NN1 Jo_NP1)
+
+ 29. PP-AdvP
+     ANLT gap
+     The_AT movement_NN1 of_IO the_AT statue_NN1 here_RL surfaced_VVD
+     (NSUBCAT PPOF)
+     (ncsubj surfaced_VVD movement_NN1 _)
+     (ncmod _ movement_NN1 here_RL)
+     (det movement_NN1 The_AT)
+     (iobj movement_NN1 of_IO)
+     (dobj of_IO statue_NN1)
+     (det statue_NN1 the_AT)
+
+ 30. PP-PP-ING
+     ANLT gap
+     Jo_NP1 's_$ argument_NN1 with_IW Kim_NP1 about_II going_VVG surfaced_VVD
+     (NSUBCAT X) (PSUBCAT NP+VPING)
+     (ncsubj surfaced_VVD argument_NN1 _)
+     (ncmod poss argument_NN1 Jo_NP1)
+     (xmod _ argument_NN1 about_II)
+     (xcomp _ about_II going_VVG)
+     (ncmod _ argument_NN1 with_IW)
+     (dobj with_IW Kim_NP1)
+
+

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Calculez le coût d’un départ à la retraite - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Calculez le coût d’un départ à la retraite - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:12:00.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=1405&amp;titre=Calculez+le+co%C3%BBt+d%E2%80%99un+d%C3%A9part+%C3%A0+la+retraite</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/5400.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Calculez le coût d’un départ à la retraite</p>
+			<p id="p2">Un de vos salariés vous informe qu’il a engagé les démarches pour partir à la retraite. D’ici quelques mois, il vous sollicitera donc pour mettre fin à son contrat de travail. Vous souhaitez faire le point sur les conséquences financières de ce départ, en particulier sur l’indemnité de départ à la retraite ? Suivez le guide !</p>
+			<p id="p3">Mots clés de l'article :</p>
+			<p id="p4">Publicité</p>
+			<p id="p5">Le salarié peut prendre l'initiative de mettre fin à son contrat de travail pour bénéficier de son droit à pension de vieillesse. Dans ce cas, on parle de « départ à la retraite ». Attention, si c’est vous, employeur, qui décidez de mettre un terme au contrat de travail, il s’agira d’une « mise à la retraite » dont les conséquences sont différentes de celles traitées dans cet article.</p>
+			<p id="p6">Quel est le montant de l’indemnité de départ à la retraite ?</p>
+			<p id="p7">Le montant minimum de l’indemnité de départ à la retraite est fixé par la loi :</p>
+			<p id="p8">aucune indemnité avant 10 ans d’ancienneté dans l’entreprise ;</p>
+			<p id="p9">0,5 mois de salaire après 10 ans d'ancienneté ;</p>
+			<p id="p10">1 mois de salaire après 15 ans ;</p>
+			<p id="p11">1,5 mois de salaire après 20 ans ;</p>
+			<p id="p12">2 mois de salaire à partir de 30 ans d’ancienneté.</p>
+			<p id="p13">Attention : un grand nombre de conventions collectives fixe un mode de calcul différent. Il est donc très important que vous consultiez la vôtre pour savoir si des dispositions spécifiques y sont prévues.</p>
+			<p id="p14">Par exemple, dans la convention de la charcuterie de détail :</p>
+			<p id="p15">l’indemnité est due quelle que soit l’ancienneté du salarié ;</p>
+			<p id="p16">elle est égale à 1/20e de mois par année de présence dans l’entreprise ;</p>
+			<p id="p17">l’indemnité minimum est de 0,5 mois de salaire ;</p>
+			<p id="p18">en cas d‘année incomplète, l'indemnité sera proportionnelle au nombre de mois effectués.</p>
+			<p id="p19">Quand l’indemnité de départ à la retraite est-elle due ?</p>
+			<p id="p20">L’indemnité doit être versée à l’issue du contrat. Celle-ci intervient à la fin du préavis, effectué ou non.</p>
+			<p id="p21">Le salarié peut faire sa demande de départ à la retraite dès 60 ans, que celle-ci soit à taux plein ou à taux réduit. Il peut anticiper sa demande et vous la faire avant ses 60 ans, mais l’issue du contrat ne doit pas intervenir avant cette échéance.</p>
+			<p id="p22">Attention : pour partir avant 60 ans, le salarié doit pouvoir bénéficier d'un dispositif de préretraite ou d'une retraite anticipée. A défaut, il est considéré comme démissionnaire et n'a droit à aucune indemnité.</p>
+			<p id="p23">Pour éviter toute contestation, demandez au salarié de vous faire sa demande par écrit (LRAR ou courrier remis en mains propres contre décharge).</p>
+			<p id="p24">Quel est le salaire à prendre en compte pour calculer le montant de l’indemnité ? Le salaire de référence servant de base au calcul de l'indemnité est égal, selon la formule la plus avantageuse pour le salarié :</p>
+			<p id="p25">soit à 1/3 de la rémunération brute des 3 derniers mois. Le montant des primes (annuelles ou exceptionnelles) versées durant cette période doit être calculé au prorata (voir notre exemple « Hypothèse A ») ;</p>
+			<p id="p26">soit à 1/12e de la rémunération brute totale (primes comprises) des 12 derniers mois (voir notre exemple « Hypothèse B » ).</p>
+			<p id="p27">Cette fois encore, votre convention collective peut prévoir des règles différentes : pensez à la consulter !</p>
+			<p id="p28">Cette indemnité est-elle soumise à cotisations ?</p>
+			<p id="p29">Dans le cas d’un départ à la retraite à la seule initiative du salarié, l’indemnité est :</p>
+			<p id="p30">non imposable en ce qui concerne l’impôt sur le revenu, à condition qu’elle ne dépasse pas 3.050 euros ;</p>
+			<p id="p31">assujettie à l’ensemble des cotisations de Sécurité sociale, y compris CSG et CRDS.</p>
+			<p id="p32">Pour les cas plus spécifiques où le départ à la retraite a lieu à l’occasion d’un plan de sauvegarde de l’emploi (PSE) ou d'un accord collectif de gestion prévisionnelle des emplois et des compétences (GPEC), la situation est la suivante :</p>
+			<p id="p33">Impôt sur le revenu</p>
+			<p id="p34">Exonérée en totalité</p>
+			<p id="p35">Assujettie pour la fraction excédant l'indemnité légale ou conventionnelle</p>
+			<p id="p36">Indemnité de départ volontaire versée à l'occasion de départs volontaires portant sur des emplois menacés, dans le cadre d'un accord collectif de GPEC</p>
+			<p id="p37">Exonérée dans la limite de 4 fois le plafond annuel de Sécurité sociale (soit 128.736 € pour 2007)</p>
+			<p id="p38">Assujettie pour la fraction excédant l'indemnité légale ou conventionnelle</p>
+			<p id="p39">Partagez cet article :</p>
+			<p id="p40">Mots clés de l'article :</p>
+			<p id="p41">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

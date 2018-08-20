@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>U.S. Office of Personnel Management</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>U.S. Office of Personnel Management</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:22:52.0</pubDate>
+							<eAddress>http://www.opm.gov/oca/pay/html/comp.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>OPM</keyTerm>
+					<keyTerm>Office of Personnel Management</keyTerm>
+					<keyTerm>opm.gov</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/3656.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Compensatory Time Off</p>
+			<p id="p2">Compensatory time off is --</p>
+			<p id="p3">Time off with pay in lieu of overtime pay for irregular or occasional overtime work, or</p>
+			<p id="p4">When permitted under agency flexible work schedule programs, time off with pay in lieu of overtime pay for regularly scheduled or irregular or occasional overtime work.</p>
+			<p id="p5">Employee Coverage</p>
+			<p id="p6">Compensatory time off may be approved in lieu of overtime pay for irregular or occasional overtime work for both FLSA exempt and nonexempt employees who are covered by the definition of "employee" at 5 U.S.C. 5541(2).</p>
+			<p id="p7">Compensatory time off can also be approved for a "prevailing rate employee," as defined at 5 U.S.C. 5342(2), but there is no authority to require that any prevailing rate (wage) employee be compensated for irregular or occasional overtime work by granting compensatory time off.</p>
+			<p id="p8">Compensatory time off may be approved (not required) in lieu of regularly scheduled overtime work only for employees, including wage employees, who are ordered to work overtime hours under flexible work schedules. See 5 U.S.C. 6123(a)(1).</p>
+			<p id="p9">Mandatory</p>
+			<p id="p10">Agencies may require that an FLSA exempt employee (as defined at 5 U.S.C. 5541(2)) receive compensatory time off in lieu of overtime pay for irregular or occasional overtime work, but only for an FLSA exempt employee whose rate of basic pay is above the rate for GS-10, step 10. No mandatory compensatory time off is permitted for wage employees or in lieu of FLSA overtime pay.</p>
+			<p id="p11">Time Limits</p>
+			<p id="p12">FLSA-exempt employees</p>
+			<p id="p13">An FLSA-exempt employee must use accrued compensatory time off by the end of the 26th pay period after the pay period during which it was earned.</p>
+			<p id="p14">An agency may provide that an FLSA-exempt employee who (1) fails to take earned compensatory time off within 26 pay periods or (2) transfers to another agency or separates from Federal service before the expiration of the 26 pay period time limit-</p>
+			<p id="p15">Receive payment for the unused compensatory time off at the overtime rate in effect when earned or</p>
+			<p id="p16">Forfeit the unused compensatory time off, unless failure to use the compensatory time off is due to an exigency of the service beyond the employee's control. (An FLSA-exempt employee whose earned compensatory time off would otherwise be forfeited due to an exigency of service beyond the employee's control must receive payment for the unused compensatory time off at the overtime rate in effect when earned.)</p>
+			<p id="p17">FLSA-nonexempt employees</p>
+			<p id="p18">An FLSA-nonexempt employee must use accrued compensatory time off by the end of the 26th pay period after the pay period during which it was earned.</p>
+			<p id="p19">If accrued compensatory time off is not used by an FLSA-nonexempt employee within 26 pay periods or if the FLSA-nonexempt employee transfers to another agency or separates from Federal service before the expiration of the 26 pay period time limit, the employee must be paid for the earned compensatory time off at the overtime rate in effect when earned.</p>
+			<p id="p20">Separation or leave without pay status due to service in the uniform service or on-the-job injury</p>
+			<p id="p21">An FLSA-exempt or nonexempt employee must be paid for compensatory time off not used by the end of the 26th pay period after the pay period during which it was earned at the overtime rate in effect when earned if the employee is unable to use the compensatory time off because of separation or placement in a leave without pay status (1) to perform service in the uniformed services or (2) because of an on-the-job injury with entitlement to injury compensation under 5 U.S.C. chapter 81.</p>
+			<p id="p22">Compensatory time off to an employee's credit as of May 14, 2007</p>
+			<p id="p23">See 5 CFR 550.114(e) and 551.531(e) for special rules regarding the administration of compensatory time off to an employee's credit as of May 14, 2007.</p>
+			<p id="p24">Amount</p>
+			<p id="p25">References</p>
+			<p id="p26">5 CFR 550.114 and 551.531</p>
+			<p id="p27">Comptroller General opinions: B-183751, October 3, 1975, and</p>
+			<p id="p28">October 19, 1976; 58 Comp. Gen. 1 (1978)</p>
+			<p id="p29">Section 1610 of Public Law 104-201, the National Defense Authorization Act, 1997</p>
+			<p id="p30">This page can be found on the web at the following url: http://www.opm.gov/oca/pay/html/comp.htm</p>
+			<p id="p31">U.S. Office of Personnel Management 1900 E Street, NW, Washington, DC 20415 | (202) 606-1800 | TTY (202) 606-2532</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,28 @@
+progressing	advmod	9	After some time , the affection between them is progressing well .
+moved	dobj_N	4	John 's personality deeply moved Isabella .
+decided	xcomp_VBARE=>aux_TO	2	So Isabella decided to break up with Tom and fell in love with John .
+break	prep=>pobj:prt	4	So Isabella decided to break up with Tom and fell in love with John .
+fell	prep=>pobj	9	So Isabella decided to break up with Tom and fell in love with John .
+feeled	ccomp_VTENSED=>mark-that	2	John also feeled that Isabella was the woman he loved deeply .
+was	xcomp_N	5	John also feeled that Isabella was the woman he loved deeply .
+loved	advmod:dobj_N	9	John also feeled that Isabella was the woman he loved deeply .
+find	dobj_N:prep=>pobj	6	To his joy , he could find his true love during his travel .
+married	advmod	5	In the end , they married together .
+is	xcomp_N	2	An e-ticket is a provement that you bought the ticket .
+bought	dobj_N	7	An e-ticket is a provement that you bought the ticket .
+print	dobj_N:prep=>pobj	2	You can print it from you computer .
+'s	acomp	1	It 's important that you must take your passport .
+take	dobj_N	6	It 's important that you must take your passport .
+get	prep=>pobj	2	Before you get on the airplane , the customs office will ask you some questions , such as `` where are you from '' and `` what 's your purpose to the USA '' etc .
+ask	dobj_N:iobj	11	Before you get on the airplane , the customs office will ask you some questions , such as `` where are you from '' and `` what 's your purpose to the USA '' etc .
+are	su	20	Before you get on the airplane , the customs office will ask you some questions , such as `` where are you from '' and `` what 's your purpose to the USA '' etc .
+'s	xcomp_N	27	Before you get on the airplane , the customs office will ask you some questions , such as `` where are you from '' and `` what 's your purpose to the USA '' etc .
+check	prep=>pobj	5	Then the security office will check in your luggage .
+bring	dobj_N	3	You ca n't bring things like knives and liquids etc .
+am	acomp	26	From : xxx @ 1234.com To : Herman xxx @ 1234.com Date : Friday , Nov25 , 2009 10 : 00AM Dear Herman Walpool , I am very glad to accept and successfully completed the task .
+accept	su	30	From : xxx @ 1234.com To : Herman xxx @ 1234.com Date : Friday , Nov25 , 2009 10 : 00AM Dear Herman Walpool , I am very glad to accept and successfully completed the task .
+completed	dobj_N	33	From : xxx @ 1234.com To : Herman xxx @ 1234.com Date : Friday , Nov25 , 2009 10 : 00AM Dear Herman Walpool , I am very glad to accept and successfully completed the task .
+drew	dobj_N:prt	6	According to your request , I drew up the company 's dress code , the concrete content as follows : Men can only wear a suit and tie , the color of a suit must be blue and black .
+follows	ccomp_VTENSED	18	According to your request , I drew up the company 's dress code , the concrete content as follows : Men can only wear a suit and tie , the color of a suit must be blue and black .
+wear	dobj_N	23	According to your request , I drew up the company 's dress code , the concrete content as follows : Men can only wear a suit and tie , the color of a suit must be blue and black .
+be	acomp	35	According to your request , I drew up the company 's dress code , the concrete content as follows : Men can only wear a suit and tie , the color of a suit must be blue and black .

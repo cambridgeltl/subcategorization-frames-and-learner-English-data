@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Parks.it - Cinque Terre: arriva la differenziata "porta a porta" </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Parks.it - Cinque Terre: arriva la differenziata "porta a porta" </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 20:13:47.0</pubDate>
+							<eAddress>http://www.parks.it/news/dettaglio.php?id=4730</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/9676.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Cinque Terre: arriva la differenziata "porta a porta"</p>
+			<p id="p2">La Regione Liguria ha varato un primo stanziamento di 1 milione e 800 mila euro per avviare il servizio di raccolta differenziata domiciliare: le Cinque Terre tra le "aree campione" individuate dalla giunta regionale.</p>
+			<p id="p3">Ogni cittadino produce in media 1,5 kg di rifiuti al giorno, una tendenza in costante aumento. Gli impianti tradizionali per lo smaltimento sono ormai giunti all'esaurimento. Il conferimento del rifiuto indifferenziato in discarica non è più accettabile né da un punto di vista economico, né tanto meno ambientale. La raccolta differenziata tradizionale - con i cassonetti stradali per la plastica, il vetro, la carta, le lattine e l'organico - si è dimostrata inadeguata per il raggiungimento degli standard previsti dal Decreto Ronchi.</p>
+			<p id="p4">Savona al 7° posto, La Spezia al 9°, Genova all'11° e Imperia al 78°: si classificano in questo modo i capoluoghi liguri nell'Ecosistema urbano 2009, il rapporto annuale sulla sostenibilità delle città capoluogo di provincia italiane, redatto da Legambiente assieme al Sole 24 Ore con la consulenza scientifica dell'Istituto Ambiente Italia. Dati che dimostrano come la Liguria arranchi, con il suo 16,6% di raccolta differenziata dei rifiuti urbani, nel difficile cammino verso l'obiettivo ultimo dei Rifiuti Zero.</p>
+			<p id="p5">E' necessario correre ai ripari al più presto. E la Regione lo fa puntando con decisione sul "porta a porta", un sistema di raccolta differenziata molto efficace che ha nella comodità per i cittadini e nella qualità dei materiali recuperati le sue caratteristiche peculiari. Il primo stanziamento prevede un impegno economico di 1 milione e 800 mila euro per avviare questa moderna e flessibile modalità di gestione dei rifiuti in alcuni comuni e territori decisi ad abbandonare la raccolta differenziata stradale.</p>
+			<p id="p6">Le Cinque Terre e il territorio della Val di Magra, ma anche i comuni della Spezia, Santo Stefano Magra, Sestri Levante, Pietra Ligure, Noli, Vado Ligure, Camporosso, Sanremo e Taggia avvieranno nei prossimi mesi - sulla base delle proprie caratteristiche demografiche e urbane – un sistema di raccolta domiciliare periodico capace di raggiungere in poco tempo la ragguardevole quota del 65% di rifiuti da avviare agli impianti di riciclaggio.</p>
+			<p id="p7">«E' un'esperienza innovativa e, come tale, all'inizio richiederà un impegno per adeguarsi ai nuovi metodi - osserva Franco Bonanini, presidente del Parco Cinque Terre - ma in breve tempo differenziare diventerà una cosa naturale. Per aiutare i cittadini a capire come sarà organizzato questo nuovo sistema di raccolta - aggiunge - punteremo su una capillare campagna d'informazione e sensibilizzazione capace di raggiungere tutti i membri delle nostre piccole comunità: dalle scuole agli esercenti, sino ai singoli utenti».</p>
+			<p id="p8">Un sistema ecologico e virtuoso perché capace di rafforzare la coscienza individuale per la riduzione dei rifiuti, il recupero, il riuso e il riutilizzo delle risorse, ma soprattutto una scelta di buonsenso e civiltà.</p>
+		</body>
+	</text>
+</cesDoc>

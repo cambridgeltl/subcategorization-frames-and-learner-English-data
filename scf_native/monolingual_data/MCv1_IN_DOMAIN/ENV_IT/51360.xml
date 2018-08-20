@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> » Archivio » Rifiuti elettronici: è boom nei paesi in via di sviluppo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> » Archivio » Rifiuti elettronici: è boom nei paesi in via di sviluppo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 09:57:21.0</pubDate>
+							<eAddress>http://www.modusvivendi.it/2010/02/24/rifiuti-elettronici-e-boom-nei-paesi-in-via-di-sviluppo/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>modus</keyTerm>
+					<keyTerm>modus vivendi</keyTerm>
+					<keyTerm>vivendi</keyTerm>
+					<keyTerm>rivista</keyTerm>
+					<keyTerm>scienza</keyTerm>
+					<keyTerm>natura</keyTerm>
+					<keyTerm>stili di vita</keyTerm>
+					<keyTerm>italia</keyTerm>
+					<keyTerm>internazionale</keyTerm>
+					<keyTerm>scienziati</keyTerm>
+					<keyTerm>studi scientifici</keyTerm>
+					<keyTerm>scoperte scientifiche</keyTerm>
+					<keyTerm>notizie</keyTerm>
+					<keyTerm>notizie scientifiche</keyTerm>
+					<keyTerm>mensile</keyTerm>
+					<keyTerm>rivista mensile</keyTerm>
+					<keyTerm>natura</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/51360.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Il feed-RSS ti terrà aggiornato sulle novità di Modus. Iscriviti!</p>
+			<p id="p2">Entro dieci anni i rifiuti da apparecchiature elettroniche aumenteranno in modo esponenziale nei Paesi in via di sviluppo. In India solo i rottami provenienti dai computer cresceranno del 500 per cento entro il 2020 rispetto ai livelli del 2007 e fino al 400 per cento in Cina e in Sud Africa. A rivelarlo è un rapporto pubblicato dall’Unep , il Programma delle Nazioni Unite per l’ambiente, che lancia l’allarme: l’e-waste, e cioè telefonini, stampanti, televisori, frigoriferi e altri elettrodomestici non più in uso, aumenta al ritmo di 40 milioni di tonnellate all’anno. E quando viene smaltita in modo inappropriato, bruciata alla ricerca di materiali pregiati come rame e oro, produce pericolose tossine.</p>
+			<p id="p3">Il più grande produttore di spazzatura tecnologica del mondo sono gli Stati Uniti con 3 milioni di tonnellate annue, subito seguiti dalla Cina, con 2,3 milioni di tonnellate. «Questo rapporto mostra quanto sia urgente stabilire processi ambiziosi e regolamentati per la raccolta e la gestione dei rifiuti da apparecchiature elettroniche - ha dichiarato Achim Steiner, direttore esecutivo dell’Unep - attraverso la creazione di grandi strutture efficienti in Cina. Ma la Cina non è l’unica ad affrontare una sfida seria. Per evitare i danni ambientali e i problemi di salute conseguenti, India, Brasile, Messico e altri non devono lasciare che il riciclaggio dei rifiuti finisca nelle mani del settore illegale». La relazione raccomanda anche di trasportare alcune tipologie di rifiuti, come i circuiti e le batterie, nei paesi più sviluppati, che sono meglio attrezzati per smaltirle correttamente.</p>
+			<p id="p4">PP</p>
+			<p id="p5">E nessuno che ha risposte convincenti.</p>
+			<p id="p6">2. umberto ha scritto:</p>
+			<p id="p7">Se è vero che il riciclaggio è alla base del sistema naturale, dove non esistono scarti, è sconfortante vedere come l’Uomo, ignorando i processi naturali, stia rovinando il Mondo con una grande quantità di rifiuti.</p>
+			<p id="p8">Commenta l'articolo</p>
+			<p id="p9">I campi contrassegnati dall'asterisco * sono obligatori.</p>
+			<p id="p10">Per inserire il Commento scrivi i 5 caratteri riportati nell'immagine. Possono essere numeri da 0..9 o lettere A..F, alla fine click sul tasto Invia.</p>
+			<p id="p11">Se non riesci a leggere l'immagine generane un'altra</p>
+		</body>
+	</text>
+</cesDoc>

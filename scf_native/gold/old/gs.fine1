@@ -1,0 +1,2137 @@
+place
+
+dobj_N:iobj_PREP=>dobj_N:su 0.843
+dobj_N:su 0.140
+dobj_N:iobj_PREP:ncmodprt:su 0.006
+su 0.006
+dobj_N:iobj-as=>dobj_N:su 0.003
+dobj_N:su:xcomp_VING 0.003
+
+lay
+ 
+dobj_N:iobj_PREP=>dobj_N:su 0.238
+iobj_PREP:su 0.228
+dobj_N:ncmodprt:su 0.203
+dobj_N:su 0.112
+su 0.066
+su:xcomp_ADJ 0.053
+dobj_N:iobj_PREP:ncmodprt:su 0.031
+su:xcomp_VING 0.022
+ncmodprt:su 0.022
+iobj_PREP:ncmodprt:su 0.016
+dobj_N:iobj_PREP:iobj_PREP:su 0.003
+ccomp_I=>ccomp_VING:su 0.003
+su:ncmodprt 0.003
+
+drop
+
+dobj_N:su 0.266
+dobj_N:iobj_PREP=>dobj_N:su 0.219
+iobj_PREP:su 0.157
+su 0.123
+iobj_PREP:ncmodprt:su 0.073
+ncmodprt:su 0.073
+dobj_N:ncmodprt:su 0.026
+su:ncmodprt 0.026
+dobj_N:iobj_PREP:ncmodprt:su 0.012
+iobj_PREP:iobj_PREP:su 0.012
+su:xcomp_ADJ 0.009
+dobj_N:iobj_PREP:iobj_PREP:su 0.003
+
+pour
+
+dobj_N:iobj_PREP=>dobj_N:su 0.250
+dobj_N:ncmodprt:su 0.189
+iobj_PREP:su 0.141
+dobj_N:su 0.096
+dobj_N:obj2_N:su 0.093
+ncmodprt:su 0.061
+dobj_N:iobj_PREP:ncmodprt:su 0.051
+iobj_PREP:ncmodprt:su 0.051
+su 0.029
+iobj_PREP:iobj_PREP:su 0.016
+dobj_N:iobj_PREP:iobj_PREP:su 0.013
+dobj_N:iobj-for=>dobj_N:su 0.013
+
+load
+
+dobj_N:iobj_PREP=>dobj_N:su 0.437
+dobj_N:su 0.339
+su 0.083
+iobj_PREP:su 0.043
+dobj_N:ncmodprt:su 0.035
+dobj_N:iobj_PREP:ncmodprt:su 0.024
+ncmodprt:su 0.020
+iobj_PREP:ncmodprt:su 0.010
+su:ncmodprt 0.008
+
+fill
+
+dobj_N:iobj_PREP=>dobj_N:su 0.365
+dobj_N:su 0.335
+dobj_N:ncmodprt:su 0.139
+iobj_PREP:su 0.043
+iobj_PREP:ncmodprt:su 0.035
+dobj_N:iobj_PREP:ncmodprt:su 0.030
+su 0.026
+ncmodprt:su 0.026
+
+remove
+
+dobj_N:su 0.661
+dobj_N:iobj_PREP=>dobj_N:su 0.315
+dobj_N:iobj_PREP:iobj_PREP:su 0.010
+iobj_PREP:su 0.010
+su 0.003
+
+withdraw
+
+dobj_N:su 0.487
+dobj_N:iobj_PREP=>dobj_N:su 0.189
+su 0.160
+iobj_PREP:su 0.156
+dobj_N:iobj_PREP:ncmodprt:su 0.004
+iobj_PREP:ncmodprt:su 0.004
+
+banish
+
+dobj_N:su 0.580
+dobj_N:iobj_PREP=>dobj_N:su 0.420
+
+wipe
+
+dobj_N:ncmodprt:su 0.399
+dobj_N:iobj_PREP=>dobj_N:su 0.278
+dobj_N:su 0.198
+dobj_N:iobj_PREP:ncmodprt:su 0.069
+dobj_N:su:xcomp_ADJ 0.017
+dobj_N:iobj_PREP:iobj_PREP:su 0.014
+ncmodprt:su 0.014
+su 0.010
+
+brush
+
+dobj_N:ncmodprt:su 0.286
+dobj_N:su 0.278
+dobj_N:iobj_PREP=>dobj_N:su 0.220
+iobj_PREP:su 0.094
+su 0.045
+dobj_N:iobj_PREP:ncmodprt:su 0.037
+ncmodprt:su 0.020
+iobj_PREP:ncmodprt:su 0.012
+dobj_N:su:xcomp_ADJ 0.004
+
+filter
+
+dobj_N:su 0.245
+dobj_N:ncmodprt:su 0.189
+dobj_N:iobj_PREP=>dobj_N:su 0.175
+iobj_PREP:ncmodprt:su 0.133
+iobj_PREP:su 0.126
+ncmodprt:su 0.056
+dobj_N:iobj_PREP:ncmodprt:su 0.035
+su 0.021
+dobj_N:iobj_PREP:iobj_PREP:su 0.007
+dobj_N:su:xcomp_ADJ 0.007
+
+grab
+
+dobj_N:su 0.692
+dobj_N:iobj_PREP=>dobj_N:su 0.170
+iobj_PREP:su 0.063
+su 0.051
+dobj_N:ncmodprt:su 0.020
+iobj_PREP:iobj_PREP:su 0.004
+
+steal
+
+dobj_N:su 0.536
+dobj_N:iobj_PREP=>dobj_N:su 0.218
+su 0.111
+iobj_PREP:su 0.100
+dobj_N:iobj_PREP:ncmodprt:su 0.011
+dobj_N:ncmodprt:su 0.011
+ncmodprt:su 0.011
+
+rob
+
+dobj_N:su 0.503
+dobj_N:iobj_PREP=>dobj_N:su 0.411
+su 0.086
+dobj_N:su:xcomp_ADJ 0.001
+
+peel
+
+dobj_N:su 0.362
+dobj_N:ncmodprt:su 0.287
+su 0.138
+ncmodprt:su 0.117
+iobj_PREP:su 0.042
+dobj_N:iobj_PREP:ncmodprt:su 0.021
+dobj_N:iobj_PREP=>dobj_N:su 0.021
+iobj_PREP:ncmodprt:su 0.010
+
+attract
+
+dobj_N:su 0.697
+dobj_N:iobj_PREP=>dobj_N:su 0.222
+dobj_N:su:xcompto_VBARE 0.027
+dobj_N:ncmodprt:su 0.021
+dobj_N:su:xcomp_I=>xcomp_VING 0.012
+dobj_N:iobj_PREP:ncmodprt:su 0.008
+su 0.004
+dobj_N:iobj_PREP:iobj_PREP:su 0.002
+iobj_PREP:su 0.002
+dobj_N:iobj-as=>dobj_N:su 0.002
+dobj_N:su:xcomp_VING 0.002
+
+bring
+
+dobj_N:ncmodprt:su 0.357
+dobj_N:iobj-to_N:su 0.247
+dobj_N:su 0.189
+dobj_N:iobj_PREP:ncmodprt:su 0.085
+dobj_N:iobj-for=>dobj_N:su 0.041
+dobj_N:iobj_PREP=>dobj_N:su 0.034
+dobj_N:iobj_PREP:iobj_PREP:su 0.031
+ncmodprt:su 0.010
+ccomp_I=>ccomp_VING:su 0.003
+
+carry
+
+dobj_N:ncmodprt:su 0.437
+dobj_N:su 0.328
+dobj_N:iobj_PREP=>dobj_N:su 0.152
+dobj_N:iobj_PREP:ncmodprt:su 0.033
+iobj_PREP:ncmodprt:su 0.017
+dobj_N:iobj_PREP:iobj_PREP:su 0.009
+iobj_PREP:su 0.009
+dobj_N:iobj-as=>dobj_N:su 0.006
+su 0.003
+ncmodprt:su 0.003
+
+drag
+
+dobj_N:ncmodprt:su 0.286
+dobj_N:iobj_PREP=>dobj_N:su 0.257
+dobj_N:su 0.163
+dobj_N:iobj_PREP:ncmodprt:su 0.143
+ncmodprt:su 0.061
+iobj_PREP:su 0.045
+dobj_N:iobj_PREP:iobj_PREP:su 0.020
+su 0.020
+iobj_PREP:ncmodprt:su 0.010
+
+push
+
+dobj_N:ncmodprt:su 0.325
+dobj_N:iobj_PREP=>dobj_N:su 0.240
+dobj_N:su 0.150
+su 0.069
+dobj_N:iobj_PREP:ncmodprt:su 0.065
+iobj_PREP:su 0.057
+iobj_PREP:ncmodprt:su 0.028
+ncmodprt:su 0.028
+dobj_N:su:xcomp_ADJ 0.016
+dobj_N:su:xcompto_VBARE 0.012
+dobj_N:iobj_PREP:iobj_PREP:su 0.004
+su:xcompto_VBARE 0.004
+
+pull
+
+dobj_N:ncmodprt:su 0.432
+dobj_N:iobj_PREP=>dobj_N:su 0.136
+dobj_N:su 0.096
+dobj_N:iobj_PREP:ncmodprt:su 0.088
+iobj_PREP:ncmodprt:su 0.088
+su 0.060
+iobj_PREP:su 0.060
+ncmodprt:su 0.040
+
+send
+
+dobj_N:iobj_PREP=>dobj_N:su 0.226
+dobj_N:iobj-to_N:su 0.136
+dobj_N:su 0.132
+dobj_N:obj2_N:su 0.113
+dobj_N:iobj_PREP:ncmodprt:su 0.102
+dobj_N:ncmodprt:su 0.102
+dobj_N:su:xcompto_VBARE 0.053
+dobj_N:iobj_PREP:iobj_PREP:su 0.038
+dobj_N:ncmodprt:su:xcompto_VBARE 0.034
+iobj_PREP:su 0.030
+dobj_N:su:xcomp_VING 0.023
+dobj_N:iobj-as=>dobj_N:su 0.004
+
+ship
+      
+dobj_N:iobj_PREP=>dobj_N:su 0.349
+dobj_N:iobj_PREP:ncmodprt:su 0.169
+dobj_N:su 0.120
+dobj_N:iobj_PREP:iobj_PREP:su 0.108
+iobj_PREP:su 0.096
+su 0.048
+iobj_PREP:ncmodprt:su 0.036
+dobj_N:ncmodprt:su 0.024
+dobj_N:obj2_N:su 0.024
+dobj_N:iobj-to_N:su 0.012
+iobj_PREP:iobj_PREP:su 0.012
+
+submit
+
+dobj_N:su 0.326
+dobj_N:iobj_PREP=>dobj_N:su 0.263
+iobj_PREP:su 0.174
+su 0.096
+ccomp_VTENSED:su 0.052
+dobj_N:iobj-to_N:su 0.043
+su:xcompto_VBARE 0.013
+dobj_N:iobj-as=>dobj_N:su 0.008
+dobj_N:iobj_PREP:iobj_PREP:su 0.004
+
+transport
+
+dobj_N:iobj_PREP=>dobj_N:su 0.412
+dobj_N:su 0.346
+dobj_N:iobj_PREP:iobj_PREP:su 0.151
+dobj_N:iobj_PREP:ncmodprt:su 0.059
+iobj_PREP:su 0.011
+dobj_N:ncmodprt:su 0.005
+dobj_N:iobj-as=>dobj_N:su 0.005
+
+give
+
+dobj_N:obj2_N:su 0.354
+dobj_N:iobj-to_N:su 0.353
+dobj_N:su 0.160
+dobj_N:ncmodprt:su 0.028
+dobj_N:iobj-for=>dobj_N:su 0.005
+iobj_PREP:su 0.005
+ncmodprt:su 0.005
+dobj_N:iobj-as=>dobj_N:su 0.005
+dobj_N:pc-for=>xcompto_VBARE:su 0.005
+
+lend
+
+dobj_N:iobj-to_N:su 0.479
+dobj_N:su 0.206
+dobj_N:obj2_N:su 0.165
+iobj_PREP:su 0.049
+su 0.030
+dobj_N:ncmodprt:su 0.030
+dobj_N:iobj-for=>dobj_N:su 0.030
+dobj_N:iobj_PREP:ncmodprt:su 0.007
+iobj_PREP:iobj_PREP:su 0.007
+
+contribute
+
+iobj_PREP:su 0.659
+dobj_N:su 0.156
+dobj_N:iobj-to_N:su 0.156
+su 0.029
+
+dobjnate
+
+dobj_N:iobj-to_N:su 0.417
+dobj_N:su 0.413
+iobj_PREP:su 0.109
+dobj_N:iobj-for=>dobj_N:su 0.050
+dobj_N:iobj-as=>dobj_N:su 0.010
+
+offer
+
+dobj_N:su 0.524
+dobj_N:iobj_PREP=>dobj_N:su 0.176
+dobj_N:obj2_N:su 0.172
+dobj_N:iobj-for=>dobj_N:su 0.047
+dobj_N:iobj-as=>dobj_N:su 0.030
+su:xcompto_VBARE 0.026
+su 0.021
+
+provide
+
+dobj_N:su 0.480
+dobj_N:iobj_PREP=>dobj_N:su 0.396
+iobj_PREP:su 0.039
+dobj_N:su:xcompto_VBARE 0.035
+cc[t]_VBARE:su 0.018
+ccomp_VTENSED:su 0.018
+dobj_N:iobj_PREP:ncmodprt:su 0.003
+dobj_N:iobj-for=>dobj_N:su 0.003
+ccompthat_VTENSED:su 0.003
+ccomp_I=>ccomp_VING:su 0.003
+
+supply
+
+dobj_N:su 0.529
+dobj_N:iobj_PREP=>dobj_N:su 0.210
+dobj_N:iobj-for=>dobj_N:su 0.130
+dobj_N:iobj-to_N:su 0.070
+iobj_PREP:su 0.030
+su 0.025
+
+acquire
+
+dobj_N:su 0.968
+dobj_N:iobj_PREP=>dobj_N:su 0.032
+
+buy
+
+dobj_N:su 0.704
+dobj_N:iobj_PREP=>dobj_N:su 0.074
+dobj_N:ncmodprt:su 0.067
+dobj_N:obj2_N:su 0.054
+iobj_PREP:su 0.035
+su 0.018
+ncmodprt:su 0.014
+dobj_N:iobj-for=>dobj_N:su 0.011
+dobj_N:iobj-as=>dobj_N:su 0.011
+dobj_N:iobj_PREP:ncmodprt:su 0.007
+dobj_N:su:xcomp_ADJ 0.007
+
+grasp
+
+dobj_N:su 0.757
+dobj_N:iobj_PREP=>dobj_N:su 0.087
+su 0.070
+dobj_WH:su 0.026
+iobj_PREP:su 0.026
+su:xcomp_WHADV=>xcompto_VBARE 0.017
+ccomp_VTENSED:su 0.017
+dobj_N:iobj-as=>dobj_N:su 0.004
+
+keep
+
+dobj_N:iobj_PREP=>dobj_N:su 0.255
+dobj_N:su 0.165
+dobj_N:su:xcomp_ADJ 0.140
+dobj_N:ncmodprt:su 0.106
+su:xcomp_VING 0.097
+dobj_N:iobj_PREP:ncmodprt:su 0.034
+dobj_N:su:xcomp_VING 0.034
+dobj:ncmodprt:su 0.034
+iobj_PREP:su 0.031
+su:xcomp_ADJ 0.025
+iobj_PREP:ncmodprt:su 0.019
+ncmodprt:su 0.019
+dobj_N:obj2_N:su 0.012
+ncmodprt:su:xcomp_VING 0.012
+dobj_N:su:xcomp_I=>xcomp_VING 0.006
+dobj_N:iobj-as=>dobj_N:su 0.006
+su 0.003
+
+store
+
+dobj_N:su 0.453
+dobj_N:iobj_PREP=>dobj_N:su 0.448
+dobj_N:ncmodprt:su 0.030
+dobj_N:iobj_PREP:ncmodprt:su 0.013
+iobj_PREP:su 0.013
+su 0.009
+dobj_N:iobj_PREP:iobj_PREP:su 0.009
+dobj_N:su:xcomp_ADJ 0.009
+iobj_PREP:ncmodprt:su 0.009
+
+block
+
+dobj_N:su 0.792
+dobj_N:ncmodprt:su 0.094
+dobj_N:iobj_PREP=>dobj_N:su 0.065
+su 0.020
+dobj_N:iobj_PREP:ncmodprt:su 0.012
+dobj_N:su:xcomp_I=>xcomp_VING 0.012
+ncmodprt:su 0.004
+
+hide
+
+dobj_N:su 0.337
+dobj_N:iobj_PREP=>dobj_N:su 0.243
+iobj_PREP:su 0.239
+su 0.102
+dobj_N:iobj_PREP:ncmodprt:su 0.023
+ncmodprt:su 0.023
+dobj_N:ncmodprt:su 0.019
+iobj_PREP:ncmodprt:su 0.008
+su:xcomp_ADJ 0.004
+
+hit
+
+dobj_N:su 0.699
+dobj_N:iobj_PREP=>dobj_N:su 0.159
+su 0.051
+dobj_N:ncmodprt:su 0.042
+iobj_PREP:su 0.023
+ncmodprt:su 0.009
+dobj_N:iobj_PREP:ncmodprt:su 0.006
+iobj_PREP:ncmodprt:su 0.003
+iobj_PREP:iobj_PREP:su 0.003
+
+throw
+
+dobj_N:iobj_PREP=>dobj_N:su 0.433
+dobj_N:ncmodprt:su 0.339
+dobj_N:su 0.100
+dobj_N:iobj_PREP:ncmodprt:su 0.077
+dobj_N:obj2_N:su 0.012
+su 0.009
+iobj_PREP:su 0.009
+ncmodprt:su 0.009
+iobj_PREP:ncmodprt:su 0.006
+dobj:ncmodprt:su 0.006
+
+toss
+
+dobj_N:iobj_PREP=>dobj_N:su 0.313
+dobj_N:su 0.240
+dobj_N:ncmodprt:su 0.190
+su 0.073
+dobj_N:iobj_PREP:ncmodprt:su 0.050
+iobj_PREP:su 0.043
+dobj_N:iobj-to_N:su 0.043
+dobj_N:obj2_N:su 0.012
+dobj:ncmodprt:su 0.006
+
+bang
+
+dobj_N:iobj_PREP=>dobj_N:su 0.246
+iobj_PREP:su 0.210
+su 0.198
+dobj_N:su 0.144
+dobj_N:ncmodprt:su 0.102
+ncmodprt:su 0.042
+iobj_PREP:ncmodprt:su 0.030
+iobj_PREP:iobj_PREP:su 0.024
+dobj_N:iobj_PREP:ncmodprt:su 0.006
+
+knock
+
+dobj_N:ncmodprt:su 0.372
+dobj_N:iobj_PREP=>dobj_N:su 0.192
+iobj_PREP:su 0.183
+su 0.072
+dobj_N:su:xcomp_ADJ 0.050
+dobj_N:iobj_PREP:ncmodprt:su 0.048
+dobj_N:su 0.042
+iobj_PREP:ncmodprt:su 0.018
+ncmodprt:su 0.018
+su:ncmodprt 0.006
+iobj_PREP:iobj_PREP:su 0.003
+
+punch
+
+dobj_N:su 0.368
+dobj_N:iobj_PREP=>dobj_N:su 0.244
+dobj_N:ncmodprt:su 0.160
+su 0.122
+iobj_PREP:su 0.069
+dobj_N:iobj_PREP:ncmodprt:su 0.023
+iobj_PREP:ncmodprt:su 0.015
+
+pierce
+
+dobj_N:su 0.685
+dobj_N:iobj_PREP=>dobj_N:su 0.205
+iobj_PREP:su 0.055
+ncmodprt:su 0.027
+su 0.014
+iobj_PREP:ncmodprt:su 0.014
+
+poke
+
+dobj_N:iobj_PREP=>dobj_N:su 0.466
+dobj_N:ncmodprt:su 0.144
+ncmodprt:su 0.123
+iobj_PREP:su 0.089
+dobj_N:su 0.069
+dobj_N:iobj_PREP:ncmodprt:su 0.034
+iobj_PREP:ncmodprt:su 0.034
+su 0.028
+iobj_PREP:iobj_PREP:su 0.014
+
+shoot
+
+dobj_N:su 0.328
+iobj_PREP:su 0.140
+su 0.127
+dobj_N:su:xcomp_ADJ 0.109
+dobj_N:iobj_PREP=>dobj_N:su 0.106
+dobj_N:ncmodprt:su 0.087
+ncmodprt:su 0.053
+iobj_PREP:ncmodprt:su 0.030
+dobj_N:iobj_PREP:ncmodprt:su 0.011
+iobj_PREP:iobj_PREP:su 0.007
+
+stroke
+
+dobj_N:su 0.697
+su 0.138
+dobj_N:iobj_PREP=>dobj_N:su 0.064
+dobj_N:ncmodprt:su 0.046
+iobj_PREP:su 0.028
+dobj_N:su:xcomp_ADJ 0.009
+iobj_PREP:ncmodprt:su 0.009
+ncmodprt:su 0.009
+
+touch
+
+dobj_N:su 0.713
+iobj_PREP:su 0.133
+dobj_N:iobj_PREP=>dobj_N:su 0.065
+su 0.062
+dobj_N:ncmodprt:su 0.019
+ncmodprt:su 0.008
+
+lick
+
+dobj_N:su 0.750
+dobj_N:ncmodprt:su 0.077
+dobj_N:iobj_PREP=>dobj_N:su 0.067
+dobj_N:iobj_PREP:ncmodprt:su 0.038
+iobj_PREP:su 0.019
+ncmodprt:su 0.019
+su 0.009
+dobj_N:su:xcomp_ADJ 0.009
+iobj_PREP:ncmodprt:su 0.009
+
+cut
+
+dobj_N:su 0.299
+dobj_N:ncmodprt:su 0.228
+dobj_N:iobj_PREP=>dobj_N:su 0.167
+iobj_PREP:su 0.096
+dobj_N:iobj_PREP:ncmodprt:su 0.078
+su 0.048
+ncmodprt:su 0.048
+dobj_N:su:xcomp_ADJ 0.030
+dobj_N:iobj_PREP:iobj_PREP:su 0.006
+
+clip
+
+dobj_N:su 0.416
+dobj_N:iobj_PREP=>dobj_N:su 0.232
+dobj_N:ncmodprt:su 0.136
+iobj_PREP:su 0.064
+su 0.048
+dobj_N:iobj_PREP:iobj_PREP:su 0.032
+dobj_N:iobj_PREP:ncmodprt:su 0.032
+iobj_PREP:ncmodprt:su 0.032
+ncmodprt:su 0.008
+
+carve
+
+dobj_N:su 0.341
+dobj_N:iobj_PREP=>dobj_N:su 0.332
+dobj_N:ncmodprt:su 0.150
+su 0.075
+dobj_N:iobj_PREP:ncmodprt:su 0.033
+ncmodprt:su 0.019
+iobj_PREP:ncmodprt:su 0.014
+dobj:ncmodprt:su 0.014
+iobj_PREP:su 0.009
+su:xcomp_ADJ 0.005
+dobj_N:obj2_N:su 0.005
+dobj_N:iobj-for=>dobj_N:su 0.005
+
+chop
+
+dobj_N:su 0.333
+dobj_N:ncmodprt:su 0.333
+dobj_N:iobj_PREP=>dobj_N:su 0.118
+su 0.076
+dobj_N:iobj_PREP:ncmodprt:su 0.056
+dobj:ncmodprt:su 0.042
+iobj_PREP:su 0.021
+dobj_N:su:xcomp_ADJ 0.014
+ncmodprt:su 0.007
+
+slice
+
+dobj_N:su 0.343
+dobj_N:ncmodprt:su 0.225
+dobj_N:iobj_PREP=>dobj_N:su 0.206
+su 0.088
+iobj_PREP:su 0.078
+dobj_N:su:xcomp_ADJ 0.020
+ncmodprt:su 0.020
+dobj_N:iobj_PREP:iobj_PREP:su 0.009
+iobj_PREP:ncmodprt:su 0.009
+ 
+add
+
+su 0.332
+dobj_N:iobj_PREP=>dobj_N:su 0.257
+dobj_N:su 0.163
+ccompthat_VTENSED:su 0.121
+iobj_PREP:su 0.087
+iobj_PREP:ncmodprt:su 0.016
+dobj_N:ncmodprt:su 0.010
+dobj_WH:su 0.007
+ncmodprt:su 0.007
+
+mix
+
+dobj_N:iobj_PREP=>dobj_N:su 0.391
+dobj_N:su 0.228
+iobj_PREP:su 0.143
+dobj_N:ncmodprt:su 0.088
+su 0.064
+dobj_N:iobj_PREP:ncmodprt:su 0.044
+ncmodprt:su 0.027
+iobj_PREP:ncmodprt:su 0.014
+
+compare
+
+dobj_N:iobj_PREP=>dobj_N:su 0.841
+dobj_N:su 0.077
+iobj_PREP:su 0.064
+su 0.009
+
+attach
+
+dobj_N:iobj_PREP=>dobj_N:su 0.829
+dobj_N:su 0.088
+iobj_PREP:su 0.060
+dobj_N:iobj_PREP:iobj_PREP:su 0.019
+iobj_PREP:iobj_PREP:su 0.005
+
+lock
+
+dobj_N:su 0.311
+dobj_N:ncmodprt:su 0.279
+dobj_N:iobj_PREP=>dobj_N:su 0.212
+dobj_N:iobj_PREP:ncmodprt:su 0.088
+ncmodprt:su 0.056
+su 0.021
+iobj_PREP:su 0.018
+su:ncmodprt 0.007
+iobj_PREP:ncmodprt:su 0.007
+
+cling
+
+iobj_PREP:su 0.860
+su 0.052
+ncmodprt:su 0.041
+iobj_PREP:ncmodprt:su 0.026
+su:ncmodprt 0.010
+iobj_PREP:iobj_PREP:su 0.010
+
+distinguish
+
+dobj_N:iobj_PREP=>dobj_N:su 0.390
+iobj_PREP:su 0.318
+dobj_N:su 0.255
+dobj_N:iobj-as=>dobj_N:su 0.017
+dobj_WH:su 0.013
+ccomp_VTENSED:su 0.006
+
+tear
+
+dobj_N:ncmodprt:su 0.364
+dobj_N:iobj_PREP=>dobj_N:su 0.265
+dobj_N:su 0.162
+iobj_PREP:su 0.060
+dobj_N:iobj_PREP:ncmodprt:su 0.053
+su 0.049
+ncmodprt:su 0.020
+dobj_N:su:xcomp_ADJ 0.013
+iobj_PREP:ncmodprt:su 0.009
+dobj_N:iobj_PREP:iobj_PREP:su 0.003
+
+detach
+
+dobj_N:iobj_PREP=>dobj_N:su 0.696
+dobj_N:su 0.248
+su 0.032
+iobj_PREP:su 0.024
+
+differ
+
+iobj_PREP:su 0.683
+su 0.313
+pc=>ccomp_WHCOMP:su 0.004
+
+build
+
+dobj_N:su 0.469
+dobj_N:iobj_PREP=>dobj_N:su 0.247
+dobj_N:ncmodprt:su 0.106
+dobj_N:iobj-for=>dobj_N:su 0.066
+dobj_N:su:xcompto_VBARE 0.045
+iobj_PREP:ncmodprt:su 0.020
+dobj_N:iobj_PREP:ncmodprt:su 0.010
+ncmodprt:su 0.010
+dobj_N:su:xcomp_I=>xcomp_VING 0.005
+dobj_N:iobj-as=>dobj_N:su 0.005
+
+fix
+
+dobj_N:su 0.700
+dobj_N:iobj_PREP=>dobj_N:su 0.300
+
+cause
+
+dobj_N:su 0.680
+dobj_N:su:xcompto_VBARE 0.246
+dobj_N:obj2_N:su 0.027
+su:xcomp_VING 0.027
+dobj_N:su:xcomp_ADJ 0.007
+su:xcomp_VING=>su 0.007
+dobj_N:iobj_PREP=>dobj_N:su 0.007
+
+consider
+
+dobj_N:su 0.454
+dobj_N:su:xcomp_ADJ 0.115
+dobj_N:obj2_N:su 0.086
+ccompthat_VTENSED:su 0.082
+dobj_N:iobj_PREP=>dobj_N:su 0.067
+dobj_N:iobj-as=>dobj_N:su 0.059
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.033
+dobj_N:su:xcompto_VBARE-be 0.026
+dobj_N:su:xc-as=>xcomp_J 0.022
+ccomp_VTENSED:su 0.019
+dobj_WH:su 0.015
+su:xcomp_VING 0.014
+cc[t]_VBARE:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+
+choose
+
+dobj_N:su 0.567
+su:xcompto_VBARE 0.149
+dobj_N:iobj-for=>dobj_N:su 0.109
+dobj_N:iobj_PREP=>dobj_N:su 0.085
+dobj_N:iobj-as=>dobj_N:su 0.040
+iobj_PREP:su 0.025
+su 0.015
+dobj_WH:su 0.005
+ccomp_VTENSED:su 0.005
+
+call
+
+dobj_N:obj2_N:su 0.362
+dobj_N:su 0.296
+iobj_PREP:su 0.171
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.043
+su 0.033
+dobj_N:iobj_PREP=>dobj_N:su 0.033
+dobj_N:ncmodprt:su 0.030
+dobj_N:su:xcomp_ADJ 0.020
+iobj_PREP:ncmodprt:su 0.020
+dobj_N:iobj_PREP:iobj_PREP:su 0.003
+ccomp_I=>ccomp_VING:su 0.003
+
+find
+
+dobj_N:su 0.314
+dobj_N:su:xcomp_ADJ 0.158
+dobj_N:iobj_PREP=>dobj_N:su 0.144
+ccompthat_VTENSED:su 0.117
+dobj_N:su:xcomp_VING 0.069
+dobj_N:su:ccomp_VEN 0.044
+dobj_N:iobj-for=>dobj_N:su 0.039
+dobj_N:su:xcompto_VBARE 0.037
+ccomp_WHCOMP=>ccomp_VTENSED:ncmodprt:su 0.023
+dobj_N:ncmodprt:su 0.014
+dobj_N:obj2_N:su 0.013
+iobj_PREP:ncmodprt:su 0.009
+ccompthat_VTENSED:ncmodprt:su 0.005
+ncmodprt:su 0.005
+ccomp_VTENSED:dobj_WH:ncmodprt:su 0.005
+dobj_WH:su 0.002
+ccomp_VTENSED:su 0.002
+
+allow
+
+dobj_N:su:xcompto_VBARE 0.605
+dobj_N:su 0.125
+dobj_N:iobj_PREP=>dobj_N:su 0.105
+dobj_N:obj2_N:su 0.080
+su 0.020
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.015
+iobj_PREP:iobj_PREP:su 0.015
+dobj_N:pc-for=>xcompto_VBARE:su 0.015
+dobj_N:ncmodprt:su 0.010
+ccomp_VTENSED:su 0.005
+ccomp_I=>ccomp_VING:su 0.005
+
+feel
+
+su 0.257
+ccompthat_VTENSED:su 0.233
+dobj_N:su 0.152
+su:xcomp_ADJ 0.086
+ccomp_VTENSED:su 0.078
+dobj_N:iobj_PREP=>dobj_N:su 0.051
+iobj_PREP:su 0.043
+dobj_N:su:xcomp_ADJ 0.023
+ncmodprt:su 0.023
+dobj_N:su:xcompto_VBARE 0.023
+dobj_N:su:xcomp_VING 0.016
+dobj_N:obj2_N:su 0.008
+dobj_N:su:xcompto_VBARE-be 0.004
+iobj_PREP:ncmodprt:su 0.004
+
+react
+
+iobj_PREP:su 0.551
+su 0.259
+iobj_PREP:ncmodprt:su 0.086
+xcomp_I=>xcomp_VING:su 0.040
+iobj_PREP:iobj_PREP:su 0.040
+su:ncmodprt 0.016
+dobj_N:iobj_PREP=>dobj_N:su 0.004
+
+analyse
+
+dobj_N:su 0.899
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.037
+dobj_WH:su 0.032
+su 0.020
+dobj_N:iobj-as=>dobj_N:su 0.004
+ccomp_VTENSED:su 0.004
+dobj_N:iobj_PREP=>dobj_N:su 0.004
+
+fish
+
+su 0.413
+iobj_PREP:su 0.261
+dobj_N:su 0.217
+dobj_N:iobj-as=>dobj_N:su 0.039
+dobj_N:ncmodprt:su 0.035
+iobj_PREP:ncmodprt:su 0.017
+su:ncmodprt 0.009
+iobj_PREP:iobj_PREP:su 0.009
+
+explore
+
+dobj_N:su 0.900
+su 0.076
+dobj_WH:su 0.012
+ccomp_VTENSED:su 0.008
+dobj_N:iobj_PREP=>dobj_N:su 0.004
+
+investigate
+
+dobj_N:su 0.882
+su 0.061
+ccomp_VTENSED:su 0.020
+dobj_N:iobj_PREP=>dobj_N:su 0.014
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.012
+dobj_N:iobj-as=>dobj_N:su 0.006
+dobj_WH:su 0.006
+
+agree
+
+iobj_PREP:su 0.255
+ccompthat_VTENSED:su 0.206
+su 0.181
+su:xcompto_VBARE 0.144
+dobj_N:su 0.049
+ccompthat_VTENSED:iobj_PREP:su 0.049
+iobj_PREP:iobj_PREP:su 0.033
+cc[t]_VBARE:su 0.025
+dobj_N:iobj_PREP=>dobj_N:su 0.025
+ccomp_I=>ccomp_VING:su 0.012
+dobj_WH:iobj_PREP:su 0.008
+pc=>ccomp_WHCOMP:su 0.004
+iobj_PREP:pc=>ccomp_WHCOMP:su 0.004
+
+communicate
+
+iobj_PREP:su 0.398
+dobj_N:su 0.341
+dobj_N:iobj_PREP=>dobj_N:su 0.130
+su 0.074
+iobj_PREP:iobj_PREP:su 0.024
+dobj_WH:iobj_PREP:su 0.008
+ccomp_VTENSED:su 0.008
+ccompthat_VTENSED:iobj_PREP:su 0.008
+xcomp_I=>xcomp_VING:su 0.008
+
+interact
+
+iobj_PREP:su 0.666
+su 0.333
+
+struggle
+
+su:xcompto_VBARE 0.402
+su 0.236
+iobj_PREP:su 0.174
+ncmodprt:su 0.116
+dobj_N:ncmodprt:su 0.040
+iobj_PREP:ncmodprt:su 0.030
+iobj_PREP:iobj_PREP:su 0.013
+dobj_N:iobj_PREP=>dobj_N:su 0.002
+
+marry
+
+dobj_N:su 0.500
+su 0.424
+iobj_PREP:su 0.055
+dobj_N:ncmodprt:su 0.010
+dobj_N:iobj_PREP=>dobj_N:su 0.010
+ncmodprt:su 0.003
+
+meet
+
+dobj_N:su 0.757
+su 0.148
+iobj_PREP:su 0.052
+dobj_N:iobj_PREP=>dobj_N:su 0.017
+iobj_PREP:ncmodprt:su 0.009
+su:ncmodprt 0.006
+su:xcompto_VBARE 0.006
+ncmodprt:su 0.006
+
+visit
+
+dobj_N:su 0.867
+su 0.093
+dobj_N:iobj_PREP=>dobj_N:su 0.022
+iobj_PREP:su 0.018
+
+ask
+
+dobj_N:su:xcompto_VBARE 0.224
+su 0.215
+dobj_N:su 0.212
+iobj_PREP:su 0.147
+dobj_N:iobj_PREP=>dobj_N:su 0.034
+dobj_N:su:xcomp_WHMOD=>xcomp_VTENSED 0.029
+dobj_N:obj2_N:su 0.022
+ccomp_WHCOMP=>ccomp_VTENSED:dobj_N:su 0.017
+ccomp_VTENSED:dobj_N:obj2_WH:su 0.017
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.017
+cc[t]_VBARE:su 0.011
+dobj_WH:su 0.005
+dobj_N:iobj_PREP:ncmodprt:su 0.003
+su:xcompto_VBARE 0.003
+iobj-for=>dobj_N:su:xcompto_VBARE 0.002
+dobj_N:ncmodprt:su 0.002
+ccomp_I=>ccomp_VING:su 0.002
+
+murder
+
+dobj_N:su 0.851
+su 0.096
+dobj_N:iobj_PREP=>dobj_N:su 0.053
+
+kill
+
+dobj_N:su 0.815
+su 0.099
+dobj_N:iobj_PREP=>dobj_N:su 0.046
+dobj_N:ncmodprt:su 0.023
+iobj_PREP:su 0.007
+dobj_N:obj2_N:su 0.007
+
+demolish
+
+dobj_N:su 0.968
+su 0.032
+
+destroy
+
+dobj_N:su 0.996
+su 0.004
+
+ruin
+
+dobj_N:su 0.994
+dobj_N:iobj_PREP=>dobj_N:su 0.006
+
+change
+
+dobj_N:su 0.421
+su 0.281
+dobj_N:iobj_PREP=>dobj_N:su 0.117
+iobj_PREP:su 0.099
+su:ncmodprt 0.041
+su:xcompto_VBARE 0.018
+iobj_PREP:iobj_PREP:su 0.018
+dobj_WH:su 0.006
+
+hang
+
+iobj_PREP:su 0.425
+ncmodprt:su 0.157
+dobj_N:su 0.128
+dobj_N:iobj_PREP=>dobj_N:su 0.078
+dobj_N:ncmodprt:su 0.074
+su 0.073
+iobj_PREP:ncmodprt:su 0.046
+dobj_N:iobj_PREP:ncmodprt:su 0.018
+iobj_PREP:iobj_PREP:su 0.014
+su:xcomp_ADJ 0.005
+
+sit
+
+iobj_PREP:su 0.440
+su 0.262
+ncmodprt:su 0.157
+iobj_PREP:ncmodprt:su 0.084
+dobj_N:iobj_PREP=>dobj_N:su 0.042
+dobj_N:su 0.026
+dobj_N:ncmodprt:su 0.016
+iobj_PREP:iobj_PREP:su 0.016
+
+arise
+
+iobj_PREP:su 0.640
+su 0.360
+
+emerge
+
+su 0.552
+iobj_PREP:su 0.324
+iobj-as=>dobj_N:su 0.092
+ccompthat_VTENSED:dobj_N:su-it 0.024
+su:xcomp_ADJ 0.008
+
+disappear
+
+su 0.732
+iobj_PREP:su 0.268
+
+vanish
+
+su 0.768
+iobj_PREP:su 0.230
+
+happen
+
+su 0.645
+iobj_PREP:su 0.196
+su:xcompto_VBARE 0.131
+su:ncmodprt 0.021
+cc[t]_VTENSED:su-it 0.006
+
+kneel
+
+su 0.392
+iobj_PREP:su 0.292
+ncmodprt:su 0.192
+iobj_PREP:ncmodprt:su 0.107
+su:xcomp_ADJ 0.008
+iobj_PREP:iobj_PREP:su 0.008
+
+lie
+
+iobj_PREP:su 0.740
+su 0.152
+ncmodprt:su 0.047
+su:xcomp_ADJ 0.041
+iobj_PREP:ncmodprt:su 0.009
+iobj_PREP:iobj_PREP:su 0.009
+
+arrive
+
+su 0.486
+iobj_PREP:su 0.486
+iobj_PREP:ncmodprt:su 0.016
+dobj_N:iobj_PREP=>dobj_N:su 0.008
+iobj_PREP:iobj_PREP:su 0.004
+
+depart
+
+su 0.587
+iobj_PREP:su 0.365
+dobj_N:su 0.038
+dobj_N:iobj_PREP=>dobj_N:su 0.005
+iobj_PREP:iobj_PREP:su 0.005
+
+march
+
+iobj_PREP:su 0.412
+su 0.191
+dobj_N:ncmodprt:su 0.110
+iobj_PREP:ncmodprt:su 0.103
+ncmodprt:su 0.088
+dobj_N:su 0.037
+iobj_PREP:iobj_PREP:su 0.037
+dobj_N:iobj_PREP=>dobj_N:su 0.015
+su:ncmodprt 0.007
+
+move
+
+su 0.346
+iobj_PREP:su 0.180
+ncmodprt:su 0.127
+iobj_PREP:ncmodprt:su 0.116
+dobj_N:su 0.113
+iobj_PREP:iobj_PREP:su 0.042
+dobj_N:ncmodprt:su 0.028
+dobj_N:iobj_PREP=>dobj_N:su 0.021
+dobj_N:iobj_PREP:ncmodprt:su 0.018
+dobj_N:iobj_PREP:iobj_PREP:su 0.007
+
+slide
+
+iobj_PREP:su 0.296
+ncmodprt:su 0.222
+dobj_N:ncmodprt:su 0.157
+dobj_N:iobj_PREP=>dobj_N:su 0.093
+iobj_PREP:ncmodprt:su 0.083
+su 0.074
+iobj_PREP:iobj_PREP:su 0.046
+dobj_N:iobj_PREP:ncmodprt:su 0.009
+dobj_N:su 0.009
+dobj:ncmodprt:su 0.009
+
+swing
+
+dobj_N:su 0.244
+dobj_N:iobj_PREP=>dobj_N:su 0.200
+su 0.127
+iobj_PREP:su 0.110
+su:xcomp_ADJ 0.089
+dobj_N:ncmodprt:su 0.089
+iobj_PREP:ncmodprt:su 0.089
+dobj_N:iobj_PREP:ncmodprt:su 0.017
+ncmodprt:su 0.017
+iobj_PREP:iobj_PREP:su 0.017
+
+travel
+
+iobj_PREP:su 0.386
+su 0.307
+iobj_PREP:iobj_PREP:su 0.107
+dobj_N:su 0.093
+ncmodprt:su 0.050
+iobj_PREP:ncmodprt:su 0.021
+dobj_N:iobj_PREP=>dobj_N:su 0.014
+su:ncmodprt 0.007
+dobj_N:ncmodprt:su 0.007
+dobj:ncmodprt:su 0.007
+
+walk
+
+su 0.310
+iobj_PREP:su 0.275
+iobj_PREP:ncmodprt:su 0.112
+ncmodprt:su 0.101
+dobj_N:su 0.093
+dobj_N:ncmodprt:su 0.043
+dobj_N:iobj_PREP=>dobj_N:su 0.027
+iobj_PREP:iobj_PREP:su 0.023
+dobj_N:iobj_PREP:ncmodprt:su 0.008
+su:ncmodprt 0.008
+
+fly
+
+su 0.325
+iobj_PREP:su 0.236
+dobj_N:su 0.187
+iobj_PREP:ncmodprt:su 0.074
+ncmodprt:su 0.064
+dobj_N:iobj_PREP=>dobj_N:su 0.044
+iobj_PREP:iobj_PREP:su 0.030
+su:ncmodprt 0.020
+dobj_N:ncmodprt:su 0.020
+
+sail
+
+iobj_PREP:su 0.396
+su 0.349
+dobj_N:su 0.079
+ncmodprt:su 0.063
+dobj_N:ncmodprt:su 0.048
+iobj_PREP:ncmodprt:su 0.048
+iobj_PREP:iobj_PREP:su 0.016
+
+dance
+
+su 0.608
+iobj_PREP:su 0.201
+dobj_N:su 0.151
+ncmodprt:su 0.030
+dobj_N:ncmodprt:su 0.007
+su:ncmodprt 0.004
+
+begin
+
+su:xcompto_VBARE 0.527
+su 0.132
+iobj_PREP:su 0.132
+dobj_N:su 0.090
+su:xcomp_VING 0.044
+ncmodprt:su 0.029
+xcomp_I=>xcomp_VING:su 0.026
+iobj-as=>dobj_N:su 0.007
+dobj_N:iobj_PREP=>dobj_N:su 0.007
+dobj_N:su:xcomp_I=>xcomp_VING 0.004
+ccomp_I=>ccomp_VING:su 0.002
+
+end
+
+su 0.348
+dobj_N:su 0.270
+iobj_PREP:su 0.174
+iobj_PREP:ncmodprt:su 0.061
+dobj_N:iobj_PREP=>dobj_N:su 0.052
+xcomp_I=>xcomp_VING:su 0.035
+ncmodprt:su:xcomp_VING 0.026
+dobj_N:iobj-as=>dobj_N:su 0.017
+dobj_N:su:xcomp_I=>xcomp_VING 0.009
+ccomp_I=>ccomp_VING:su 0.009
+
+start
+
+su 0.206
+dobj_N:su 0.186
+su:xcompto_VBARE 0.183
+iobj_PREP:su 0.171
+su:xcomp_VING 0.156
+ncmodprt:su 0.021
+dobj_N:ncmodprt:su 0.018
+dobj_N:iobj_PREP=>dobj_N:su 0.018
+dobj_N:obj2_N:su 0.015
+iobj_PREP:ncmodprt:su 0.015
+
+terminate
+
+dobj_N:su 0.519
+iobj_PREP:su 0.241
+su 0.148
+dobj_N:iobj_PREP=>dobj_N:su 0.093
+
+complete
+
+dobj_N:su 0.992
+iobj_PREP:su 0.004
+dobj_N:iobj_PREP=>dobj_N:su 0.004
+
+drown
+
+su 0.435
+dobj_N:su 0.255
+iobj_PREP:su 0.155
+dobj_N:iobj_PREP=>dobj_N:su 0.081
+dobj_N:ncmodprt:su 0.056
+ncmodprt:su 0.019
+
+execute
+
+dobj_N:su 0.813
+dobj_N:iobj_PREP=>dobj_N:su 0.130
+su 0.049
+dobj_N:iobj-as=>dobj_N:su 0.008
+
+present
+
+dobj_N:su 0.578
+dobj_N:iobj_PREP=>dobj_N:su 0.339
+dobj_N:iobj-as=>dobj_N:su 0.076
+dobj_N:obj2_N:su 0.004
+su:xcomp_VING 0.004
+
+result
+
+ccomp_I=>ccomp_VING:su 0.700
+iobj_PREP:su 0.240
+su 0.060
+
+comprise
+
+dobj_N:su 1.000
+
+ignore
+
+dobj_N:su 1.000
+
+implement
+
+dobj_N:su 1.000
+
+solve
+
+dobj_N:su 1.000
+
+believe
+
+ccompthat_VTENSED:su 0.335
+dobj_N:su 0.171
+ccomp_VTENSED:su 0.144
+iobj_PREP:su 0.137
+su 0.094
+dobj_N:su:xcompto_VBARE-be 0.066
+dobj_N:su:xcomp_ADJ 0.025
+su:pc-as=>cc-if 0.019
+xcomp_I=>xcomp_VING:su 0.016
+dobj_WH:su 0.006
+dobj_N:obj2_N:su 0.003
+
+charge
+
+dobj_N:iobj_PREP=>dobj_N:su 0.383
+dobj_N:su 0.283
+dobj_N:su:xcomp_I=>xcomp_VING 0.133
+su 0.067
+ccompthat_VTENSED:su 0.050
+iobj_PREP:su 0.033
+dobj_N:su:xcompto_VBARE 0.033
+dobj_N:obj2_N:su 0.017
+
+decide
+
+su:xcompto_VBARE 0.427
+ccompthat_VTENSED:su 0.130
+ccomp_VTENSED:su 0.122
+dobj_N:su 0.075
+iobj_PREP:su 0.068
+su 0.048
+xcomp_WHCOMP=>xcompto_VBARE:su 0.048
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.044
+su:xcomp_WHADV=>xcompto_VBARE 0.017
+dobj_N:iobj_PREP=>dobj_N:su 0.014
+ccomp_I=>dobj_WH:su 0.003
+dobj_N:su:xcomp_I=>xcomp_VING 0.003
+xcomp_I=>xcomp_VING:su 0.003
+
+establish
+
+dobj_N:su 0.516
+dobj_N:iobj_PREP=>dobj_N:su 0.384
+ccompthat_VTENSED:su 0.057
+dobj_N:iobj-as=>dobj_N:su 0.025
+dobj_WH:su 0.006
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.006
+ccomp_VTENSED:su 0.006
+
+expect
+
+dobj_N:su:xcompto_VBARE 0.385
+dobj_N:su 0.268
+dobj_N:iobj_PREP=>dobj_N:su 0.121
+su:xcompto_VBARE 0.085
+ccompthat_VTENSED:su 0.046
+ccomp_VTENSED:su 0.046
+su 0.036
+cc[t]_VBARE:su 0.010
+su:xcomp_ADJ 0.003
+
+help
+
+dobj_N:su 0.292
+su:xcompto_VBARE 0.179
+dobj_N:su:xcompto_VBARE 0.116
+su 0.085
+dobj_N:iobj_PREP=>dobj_N:su 0.079
+su:xcomp_VING 0.063
+iobj_PREP:su 0.060
+ccomp_VBARE=>su_N:su 0.044
+su:xcomp_VBARE 0.041
+dobj_N:ncmodprt:su 0.019
+dobj_N:iobj_PREP:ncmodprt:su 0.006
+ccompthat_VTENSED:dobj_N:su-it 0.006
+iobj_PREP:ncmodprt:su 0.003
+su-it:xcompto_VBARE 0.003
+xcomp_I=>xcomp_VING:su 0.003
+
+like
+
+dobj_N:su 0.452
+su:xcompto_VBARE 0.370
+su 0.071
+dobj_N:su:xcompto_VBARE 0.044
+su:xcomp_VING 0.027
+dobj_N:su:xcomp_ADJ 0.016
+dobj_N:su:ccomp_VEN 0.005
+dobj_N:su:xcomp_VING 0.005
+iobj-for=>dobj_N:su:xcompto_VBARE 0.003
+ccompthat_VTENSED:su 0.003
+dobj_WH:su 0.003
+
+produce
+
+dobj_N:su 0.884
+dobj_N:iobj_PREP=>dobj_N:su 0.100
+dobj_N:su:xcomp_I=>xcomp_VING 0.008
+dobj_N:su:xcompto_VBARE 0.008
+
+seem
+
+su:xcompto_VBARE 0.361
+su:xcomp_ADJ 0.261
+dobj_N:su 0.158
+cc[t]_VTENSED:su-it 0.082
+ccompthat_VTENSED:iobj-to=>dobj_N:su-it 0.052
+su 0.036
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.024
+iobj_PREP:su 0.020
+su:pc-as=>cc-if 0.006
+
+achieve
+
+dobj_N:su 1.000
+
+speak
+
+iobj_PREP:su 0.449
+su 0.327
+dobj_N:su 0.123
+iobj_PREP:iobj_PREP:su 0.038
+ncmodprt:su 0.021
+iobj_PREP:ncmodprt:su 0.017
+dobj_N:iobj_PREP=>dobj_N:su 0.013
+dobj_N:ncmodprt:su 0.008
+ccomp_I=>ccomp_VING:su 0.004
+
+settle
+
+iobj_PREP:su 0.258
+su 0.201
+dobj_N:su 0.183
+ncmodprt:su 0.100
+iobj_PREP:ncmodprt:su 0.093
+ncmodprt:su:xcompto_VBARE 0.036
+dobj_N:iobj_PREP=>dobj_N:su 0.029
+xcomp_I=>xcomp_VING:su 0.029
+dobj_N:iobj_PREP:ncmodprt:su 0.011
+dobj_N:ncmodprt:su 0.011
+su:xcompto_VBARE 0.011
+ccomp_VTENSED:su 0.008
+ccomp_I=>dobj_WH:su 0.004
+su:xcomp_WHADV=>xcompto_VBARE 0.004
+dobj_WH:su 0.004
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.004
+xcomp_WHCOMP=>xcompto_VBARE:su 0.004
+
+absorb
+
+dobj_N:su 0.794
+dobj_N:iobj_PREP=>dobj_N:su 0.131
+su 0.025
+dobj_WH:su 0.020
+ccomp_VTENSED:su 0.010
+su:xcomp_WHADV=>xcompto_VBARE 0.005
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.005
+xcomp_WHCOMP=>xcompto_VBARE:su 0.005
+
+learn
+
+dobj_N:su 0.267
+su:xcompto_VBARE 0.175
+su 0.126
+iobj_PREP:su 0.109
+ccomp_VTENSED:su 0.095
+dobj_N:iobj_PREP=>dobj_N:su 0.091
+ccomp_I=>ccomp_VING:su 0.022
+su:xcomp_WHADV=>xcompto_VBARE 0.021
+dobj_WH:su 0.018
+ccomp_I=>dobj_WH:su 0.007
+su:xcomp_VING 0.007
+ccompthat_VTENSED:iobj_PREP:su 0.007
+ccomp_WHCOMP=>ccomp_VTENSED:iobj_PREP:su 0.004
+iobj_PREP:su:xcomp_WHMOD=>xcompto_VBARE 0.004
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.004
+xcomp_WHCOMP=>xcompto_VBARE:su 0.004
+ccomp_VTENSED:iobj_PREP=>N:su 0.004
+iobj_PREP:iobj_PREP:su 0.004
+
+strike
+
+dobj_N:su 0.410
+su 0.213
+iobj_PREP:su 0.066
+dobj_N:ncmodprt:su 0.061
+dobj_N:su:xc-as=>xcomp_J 0.053
+ncmodprt:su 0.045
+dobj_N:su-it:xcompto_VBARE 0.035
+ccompthat_VTENSED:dobj_N:su-it 0.029
+iobj_PREP:ncmodprt:su 0.020
+dobj_N:su:xc-as=>xcomp_VING 0.020
+dobj_N:iobj_PREP=>dobj_N:su 0.020
+su:xcomp_ADJ 0.016
+dobj_N:iobj_PREP:ncmodprt:su 0.008
+pc=>xcomp_WHCOMP:dobj_N:su 0.004
+
+mark
+
+dobj_N:su 0.780
+dobj_N:ncmodprt:su 0.083
+dobj_N:iobj_PREP=>dobj_N:su 0.057
+dobj_N:ncmodprt:su:xc-as=>xcomp_J 0.019
+dobj_N:iobj_PREP:ncmodprt:su 0.011
+dobj_N:su:xcomp_ADJ 0.011
+dobj_N:iobj-as=>dobj_N:su 0.008
+dobj_N:su:ccomp_VEN 0.004
+su 0.004
+dobj_WH:su 0.004
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.004
+ccompthat_VTENSED:ncmodprt:su 0.004
+ncmodprt:su 0.004
+ccomp_VTENSED:su 0.004
+xcomp_WHCOMP=>xcompto_VBARE:su 0.004
+
+paint
+
+dobj_N:su 0.578
+dobj_N:su:xcomp_ADJ 0.108
+su 0.097
+dobj_N:iobj_PREP=>dobj_N:su 0.089
+iobj_PREP:su 0.049
+dobj_N:iobj-as=>dobj_N:su 0.033
+dobj_N:obj2_N:su 0.007
+dobj_N:su:xcomp_VING 0.007
+dobj_WH:su 0.007
+dobj_N:ncmodprt:su 0.007
+su:xcomp_ADJ 0.004
+dobj_N:su:xc-as=>xcomp_J 0.004
+dobj_N:iobj-for=>dobj_N:su 0.004
+su:xcomp_VING=>su 0.004
+dobj_N:ncmodprt:su:xcomp_J 0.004
+
+compose
+
+dobj_N:su 0.500
+dobj_N:iobj_PREP=>dobj_N:su 0.442
+su 0.022
+dobj_N:iobj-to_N:su 0.018
+dobj_N:iobj-for=>dobj_N:su 0.013
+dobj_N:iobj-as=>dobj_N:su 0.004
+iobj_PREP:iobj_PREP:su 0.004
+
+write
+
+dobj_N:su 0.288
+iobj_PREP:su 0.207
+su 0.114
+dobj_N:iobj_PREP=>dobj_N:su 0.071
+ccomp_VTENSED:su 0.065
+dobj_N:iobj-for=>dobj_N:su 0.038
+dobj_N:iobj-to_N:su 0.038
+dobj_N:ncmodprt:su 0.033
+iobj_PREP:iobj_PREP:su 0.016
+dobj_N:iobj-as=>dobj_N:su 0.011
+dobj_WH:su 0.010
+dobj_N:iobj_PREP:ncmodprt:su 0.005
+su:xcomp_WHADV=>xcompto_VBARE 0.005
+pc=>ccomp_WHCOMP:su 0.005
+su:xcompto_VBARE 0.005
+iobj_PREP:ncmodprt:su 0.005
+ncmodprt:su 0.005
+
+invent
+
+dobj_N:su 0.910
+dobj_N:su:xcompto_VBARE 0.048
+dobj_N:iobj_PREP=>dobj_N:su 0.037
+dobj_N:iobj-as=>dobj_N:su 0.010
+dobj_WH:su 0.003
+
+induce
+dobj_N:su 0.585
+dobj_N:su:xcompto_VBARE 0.301
+dobj_N:iobj_PREP=>dobj_N:su 0.057
+su 0.016
+su:xcomp_VING 0.016
+dobj_N:su:xcomp_I=>xcomp_VING 0.010
+dobj_N:ncmodprt:su 0.010
+dobj_N:su:xcompto_VBARE-be 0.005
+su:xcompto_VBARE 0.005
+
+proclaim
+
+dobj_N:su 0.480
+ccomp_VTENSED:su 0.240
+dobj_N:obj2_N:su 0.077
+dobj_N:iobj-as=>dobj_N:su 0.056
+dobj_N:su:xcomp_ADJ 0.026
+dobj_N:iobj_PREP=>dobj_N:su 0.026
+su 0.021
+dobj_N:su:xcompto_VBARE-be 0.021
+dobj_WH:su 0.009
+ccompthat_VTENSED:iobj_PREP:su 0.009
+su:xcomp_WHADV=>xcompto_VBARE 0.004
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.004
+su:xcompto_VBARE 0.004
+dobj_N:su:xcompto_VBARE 0.004
+
+specify
+
+dobj_N:su 0.723
+ccomp_VTENSED:su 0.116
+dobj_WH:su 0.061
+dobj_N:iobj-as=>dobj_N:su 0.031
+dobj_N:iobj-for=>dobj_N:su 0.010
+dobj_N:su:xc-as=>xcomp_VING 0.010
+dobj_N:su:xcompto_VBARE 0.010
+dobj_N:su:xcomp_I=>xcomp_VING 0.007
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.007
+dobj_N:obj2_N:su 0.003
+iobj_PREP:su:xcomp_WHMOD=>xcompto_VBARE 0.003
+su:xcomp_WHADV=>xcompto_VBARE 0.003
+cc[t]_VBARE:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+
+name
+
+dobj_N:su 0.545
+dobj_N:iobj_PREP=>dobj_N:su 0.290
+dobj_N:obj2_N:su 0.102
+dobj_N:su:xc-as=>xcomp_VING 0.017
+dobj_N:su:xcompto_VBARE 0.017
+ccomp_VTENSED:su 0.006
+dobj_N:iobj-as=>dobj_N:su 0.003
+
+confirm
+
+dobj_N:su 0.547
+ccomp_VTENSED:su 0.327
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.040
+dobj_N:iobj-as=>dobj_N:su 0.033
+dobj_WH:su 0.031
+ccompthat_VTENSED:iobj_PREP:su 0.010
+su 0.007
+dobj_N:su:xcompto_VBARE-be 0.007
+iobj_PREP:su:xcomp_WHMOD=>xcompto_VBARE 0.001
+su:xcomp_WHADV=>xcompto_VBARE 0.001
+xcomp_WHCOMP=>xcompto_VBARE:su 0.001
+
+watch
+
+dobj_N:su 0.426
+ccomp_VBARE=>su_N:su 0.194
+su 0.128
+dobj_N:su:xcomp_VING 0.052
+iobj_PREP:su 0.043
+iobj_PREP:ncmodprt:su 0.030
+ncmodprt:su 0.020
+dobj_N:ncmodprt:su 0.016
+ccomp_VTENSED:su 0.016
+su:xcomp_VING=>su 0.013
+dobj_WH:su 0.010
+su:xcomp_VING 0.010
+dobj_N:su:ccomp_VEN 0.007
+dobj_N:iobj_PREP:ncmodprt:su 0.007
+ccomp_I=>ccomp_VBARE:su 0.007
+dobj_N:iobj_PREP=>dobj_N:su 0.007
+su:xcomp_WHADV=>xcompto_VBARE 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+
+discover
+
+dobj_N:su 0.497
+ccomp_VTENSED:su 0.324
+dobj_WH:su 0.055
+dobj_N:su:xcomp_VING 0.024
+su 0.017
+dobj_N:su:xcompto_VBARE-be 0.017
+su:xcomp_WHADV=>xcompto_VBARE 0.014
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.010
+dobj_N:su:xcompto_VBARE 0.010
+dobj_N:su:ccomp_VEN 0.007
+iobj_PREP:su 0.007
+su-it:cc[t] 0.007
+dobj_N:su:xcomp_ADJ 0.007
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+
+tolerate
+
+dobj_N:su 0.915
+su:xcomp_VING 0.032
+su 0.013
+su:xcomp_VING=>su 0.011
+dobj_N:su:xcomp_VING 0.006
+dobj_N:iobj_PREP=>dobj_N:su 0.006
+ccomp_VTENSED:su 0.006
+ccomp_WHCOMP=>ccomp_VTENSED:dobj-it:su 0.006
+su:xcompto_VBARE 0.003
+
+annoy
+
+dobj_N:su 0.777
+ccompthat_VTENSED:dobj_N:su-it 0.073
+dobj_N:su:xcomp_I=>xcomp_VING 0.039
+su 0.034
+dobj_N:su-it:xcompto_VBARE 0.028
+dobj_N:iobj_PREP=>dobj_N:su 0.017
+iobj_PREP:su 0.011
+dobj_N:xs_VBARE 0.006
+xst 0.006
+dobj_N:csubjthat_VTENSED 0.006
+csubjthat 0.006
+
+concentrate
+
+iobj_PREP:su 0.558
+xcomp_I=>xcomp_VING:su 0.161
+dobj_N:iobj_PREP=>dobj_N:su 0.132
+su 0.054
+dobj_N:su 0.049
+ccomp_I=>dobj_WH:su 0.025
+ccomp_I=>ccomp_VING:su 0.008
+
+focus
+
+iobj_PREP:su 0.752
+dobj_N:iobj_PREP=>dobj_N:su 0.098
+dobj_N:su 0.052
+su 0.030
+xcomp_I=>xcomp_VING:su 0.026
+ccomp_I=>dobj_WH:su 0.025
+ccomp_I=>ccomp_VING:su 0.017
+
+matter
+
+su 0.580
+cc[t]_VTENSED:su-it 0.254
+iobj_PREP:su 0.095
+ccompthat_VTENSED:iobj-to=>dobj_N:su-it 0.030
+csubjthat 0.030
+ccomp_I=>dobj_WH:su 0.006
+xcomp_I=>xcomp_VING:su 0.006
+
+search
+
+iobj_PREP:su 0.588
+dobj_N:su 0.245
+su 0.047
+dobj_N:ncmodprt:su 0.047
+dobj_N:iobj_PREP=>dobj_N:su 0.043
+iobj_PREP:ncmodprt:su 0.029
+dobj_N:iobj_PREP:ncmodprt:su 0.022
+dobj_N:iobj_PREP:iobj_PREP:su 0.007
+su:xcomp_ADJ 0.007
+iobj_PREP:iobj_PREP:su 0.007
+ncmodprt:su 0.004
+
+seek
+
+dobj_N:su 0.505
+su:xcompto_VBARE 0.366
+dobj_N:ncmodprt:su 0.053
+iobj_PREP:su 0.020
+su 0.013
+dobj_N:iobj_PREP=>dobj_N:su 0.010
+ncmodprt:su:xcomp_VING 0.007
+su:xcomp_VING 0.007
+ccomp_VTENSED:su 0.007
+ncmodprt:su:xcompto_VBARE 0.007
+iobj_PREP:ncmodprt:su 0.003
+ncmodprt:su 0.003
+
+roar
+
+su 0.264
+iobj_PREP:su 0.260
+ncmodprt:su 0.146
+iobj_PREP:ncmodprt:su 0.103
+dobj_N:su 0.057
+ccomp_VTENSED:su 0.057
+dobj_N:ncmodprt:su 0.053
+dobj_N:iobj_PREP=>dobj_N:su 0.028
+dobj_N:iobj_PREP:ncmodprt:su 0.012
+iobj_PREP:iobj_PREP:su 0.012
+dobj_N:su:xcomp_ADJ 0.004
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.004
+su:xcompto_VBARE 0.004
+ccompthat_VTENSED:ncmodprt:su 0.004
+
+shout
+
+su 0.340
+ccomp_VTENSED:su 0.240
+dobj_N:su 0.104
+iobj_PREP:su 0.104
+ncmodprt:su 0.056
+dobj_N:iobj_PREP=>dobj_N:su 0.036
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.028
+dobj_N:ncmodprt:su 0.028
+iobj_PREP:ncmodprt:su 0.020
+ccompthat_VTENSED:ncmodprt:su 0.020
+dobj_N:su:xcomp_ADJ 0.008
+su:xcompto_VBARE 0.008
+dobj_N:iobj_PREP:ncmodprt:su 0.004
+iobj_PREP:iobj_PREP:su 0.004
+
+say
+
+ccomp_VTENSED:su 0.563
+su 0.182
+dobj_N:su 0.142
+dobj_N:iobj-to_N:su 0.036
+ccompthat_VTENSED:iobj_PREP:su 0.017
+dobj_WH:su 0.016
+dobj_N:iobj-for=>dobj_N:su 0.013
+pc=>dobj_WH:dobj_N:su 0.007
+dobj_N:iobj_PREP=>dobj_N:su 0.007
+su:xcompto_VBARE 0.006
+iobj-for=>dobj_N:su:xcompto_VBARE 0.003
+su:xcomp_WHADV=>xcompto_VBARE 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.003
+ncmodprt:su 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:dobj-it:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+
+open
+
+dobj_N:su 0.468
+su 0.293
+dobj_N:ncmodprt:su 0.076
+ncmodprt:su 0.050
+dobj_N:iobj_PREP=>dobj_N:su 0.023
+iobj_PREP:su 0.017
+dobj:ncmodprt:su 0.017
+dobj_N:iobj_PREP:ncmodprt:su 0.014
+dobj_N:su:xcomp_ADJ 0.013
+dobj_N:obj2_N:su 0.007
+dobj_N:iobj-for=>dobj_N:su 0.007
+iobj_PREP:ncmodprt:su 0.007
+dobj_N:iobj-to_N:su 0.007
+ncmodprt:su:xcompto_VING 0.007
+dobj_N:ncmodprt:obj2_N:su 0.007
+
+exist
+
+su 0.874
+su:xcompto_VBARE 0.049
+iobj_PREP:su 0.045
+iobj-as=>dobj_N:su 0.024
+su:xcomp_ADJ 0.007
+
+persist
+
+su 0.552
+xcomp_I=>xcomp_VING:su 0.217
+iobj_PREP:su 0.153
+ccomp_VTENSED:su 0.034
+iobj-as=>dobj_N:su 0.020
+cc[t]_VBARE:su 0.010
+su:xcomp_VING 0.005
+su:xcompto_VBARE 0.005
+
+wait
+
+su 0.365
+iobj_PREP:su 0.237
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.154
+su:xcompto_VBARE 0.142
+dobj_N:su 0.026
+ccomp_I=>ccomp_VBARE:su 0.011
+ncmodprt:su 0.011
+ncmodprt:su:xcompto_VBARE 0.011
+ccomp_VTENSED:su 0.008
+ccomp_I=>ccomp_VING:su 0.007
+cc[t]_VBARE:su 0.004
+iobj_PREP:ncmodprt:su 0.004
+dobj_N:su:xcompto_VBARE 0.004
+dobj_N:iobj_PREP=>dobj_N:su 0.004
+
+descend
+
+iobj_PREP:su 0.541
+su 0.255
+dobj_N:su 0.103
+dobj_N:iobj_PREP=>dobj_N:su 0.041
+iobj_PREP:iobj_PREP:su 0.034
+su:ncmodprt 0.010
+su:xcompto_VBARE 0.007
+
+continue
+
+su:xcompto_VBARE 0.372
+su 0.283
+dobj_N:su 0.126
+su:xcomp_VING 0.055
+iobj_PREP:su 0.034
+iobj_PREP:ncmodprt:su 0.020
+dobj_N:ncmodprt:su 0.014
+dobj_N:iobj_PREP=>dobj_N:su 0.014
+su:xcomp_ADJ 0.010
+iobj_PREP:su:xcomp_VING 0.010
+iobj-as=>dobj_N:su 0.010
+dobj_N:iobj_PREP:iobj_PREP:su 0.003
+dobj_N:iobj-as=>dobj_N:su 0.003
+dobj_WH:su 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.003
+ccomp_VTENSED:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+xcomp_I=>xcomp_VING:su 0.003
+
+embrace
+
+dobj_N:su 0.879
+su 0.047
+dobj_N:iobj-as=>dobj_N:su 0.019
+dobj_N:iobj_PREP=>dobj_N:su 0.019
+
+force
+
+dobj_N:su:xcompto_VBARE 0.583
+dobj_N:iobj_PREP=>dobj_N:su 0.170
+dobj_N:su 0.095
+dobj_N:ncmodprt:su 0.061
+dobj_N:iobj_PREP:ncmodprt:su 0.027
+dobj_N:su:xcomp_I=>xcomp_VING 0.015
+dobj_N:su:xcomp_ADJ 0.015
+iobj_PREP:ncmodprt:su 0.015
+iobj_PREP:su 0.011
+su 0.008
+dobj_N:su:xcompto_VBARE-be 0.008
+su:xcompto_VBARE 0.008
+ncmodprt:su 0.004
+
+want
+
+su:xcompto_VBARE 0.537
+dobj_N:su 0.264
+dobj_N:iobj_PREP=>dobj_N:su 0.115
+dobj_N:su:xcompto_VBARE 0.075
+dobj_N:su:xcompto_VBARE-be 0.034
+dobj_N:ncmodprt:su 0.016
+dobj_N:su:xcomp_VING 0.009
+dobj_N:su:ccomp_VEN 0.006
+dobj_N:su:xcomp_ADJ 0.006
+dobj_WH:su 0.006
+su 0.003
+iobj-for=>dobj_N:su:xcompto_VBARE 0.003
+iobj_PREP:su 0.003
+ncmodprt:su 0.003
+su:xcomp_VING=>su 0.003
+
+try
+
+su:xcompto_VBARE 0.653
+dobj_N:su 0.175
+su 0.074
+dobj_N:ncmodprt:su 0.037
+su:xcomp_VING 0.030
+iobj_PREP:su 0.007
+dobj_N:iobj_PREP=>dobj_N:su 0.007
+ncmodprt:su:xcomp_VING 0.004
+iobj_PREP:ncmodprt:su 0.004
+ncmodprt:su 0.004
+ccomp_VTENSED:su 0.004
+ncmodprt:su:xcompto_VBARE 0.004
+
+propose
+
+dobj_N:su 0.477
+su:xcompto_VBARE 0.118
+ccomp_VTENSED:su 0.093
+dobj_N:iobj_PREP=>dobj_N:su 0.056
+cc[t]_VBARE:su 0.053
+su:xcomp_VING 0.046
+dobj_N:su:xcompto_VBARE 0.039
+dobj_N:iobj-as=>dobj_N:su 0.036
+su 0.020
+iobj_PREP:su 0.010
+dobj_N:su:xcompto_VBARE-be 0.010
+dobj_WH:su 0.010
+iobj-for=>dobj_N:su:xcompto_VBARE 0.007
+dobj_N:su:xcomp_I=>xcomp_VING 0.007
+dobj_N:obj2_N:su 0.003
+su:xcomp_WHADV=>xcompto_VBARE 0.003
+cc[t]_VTENSED:dobj_N:su 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.003
+su:xcomp_VING=>su 0.003
+ccompthat_VTENSED:iobj_PREP:su 0.003
+
+understand
+
+dobj_N:su 0.472
+ccomp_VTENSED:su 0.221
+su 0.119
+dobj_WH:su 0.072
+dobj_N:iobj-as=>dobj_N:su 0.020
+ccomp_WHCOMP=>ccomp_VTENSED:su 0.017
+dobj_N:su:xcompto_VBARE 0.017
+su:xcomp_WHADV=>xcompto_VBARE 0.013
+dobj_N:iobj_PREP=>dobj_N:su 0.012
+dobj_WH:iobj_PREP:su 0.010
+dobj_N:su:ccomp_VEN 0.009
+iobj_PREP:su 0.007
+dobj_N:su:xcomp_VING 0.007
+dobj_N:su:xc-as=>xcomp_VING 0.007
+su:xcomp_VING=>su 0.007
+dobj_N:su:xcompto_VBARE-be 0.003
+dobj_N:su:xc-as=>xcomp_J 0.003
+su:xcomp_VING 0.003
+ccomp_WHCOMP=>ccomp_VTENSED:dobj-it:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:su 0.003
+xcomp_WHCOMP=>xcompto_VBARE:iobj_PREP:su 0.003
+
+conceive
+
+dobj_N:su 0.432
+dobj_N:iobj-as=>dobj_N:su 0.161
+iobj_PREP:su 0.093
+su 0.072
+ccomp_VTENSED:su 0.064
+dobj_N:su:xcompto_VBARE-be 0.034
+dobj_WH:su 0.021
+dobj_N:su:xc-as=>xcomp_VING 0.021
+dobj_N:su:xcompto_VBARE 0.021
+dobj_N:su:xcomp_ADJ 0.017
+dobj_N:iobj_PREP=>dobj_N:su 0.017
+dobj_N:su:xcomp_VING 0.013
+dobj_N:su:xc-as=>xcomp_J 0.008
+xcomp_WHCOMP=>xcompto_VBARE:su 0.004
+
+bear
+
+dobj_N:su 0.523
+iobj_PREP:su 0.108
+dobj_N:ncmodprt:su 0.092
+su 0.085
+su:xcompto_VBARE 0.069
+dobj_N:iobj_PREP=>dobj_N:su 0.061
+su:xcomp_VING 0.046
+dobj_N:su:xcomp_VING 0.023
+iobj_PREP:ncmodprt:su 0.023
+dobj_N:iobj_PREP:ncmodprt:su 0.015
+ncmodprt:su 0.008
+ccomp_VTENSED:su 0.001
+ccomp_WHCOMP=>ccomp_VTENSED:dobj-it:su 0.001
+
+possess
+
+dobj_N:su 0.975
+dobj_N:iobj_PREP=>dobj_N:su 0.014
+dobj_N:su:xcompto_VBARE 0.011
+
+count
+
+dobj_N:su 0.358
+su 0.188
+iobj_PREP:su 0.135
+dobj_N:su:xc-as=>xcomp_J 0.066
+dobj_N:su:xcomp_ADJ 0.043
+dobj_N:ncmodprt:su 0.035
+dobj_N:obj2_N:su 0.031
+iobj_PREP=>dobj_N:su:xcompto_VBARE 0.022
+dobj_N:iobj_PREP=>dobj_N:su 0.017
+xcomp_I=>xcomp_VING:su 0.013
+ccompthat_VTENSED:iobj-to=>dobj_N:su-it 0.009
+iobj_PREP:ncmodprt:su 0.004
+cc[t]_VTENSED:su-it 0.004
+ncmodprt:su 0.004
+iobj_PREP:iobj_PREP:su 0.004
+
+number
+
+dobj_N:su 0.729
+dobj_N:iobj_PREP=>dobj_N:su 0.127
+dobj_N:obj2_N:su 0.070
+dobj_N:ncmodprt:su 0.031
+iobj_PREP:su 0.022
+iobj_PREP:ncmodprt:su 0.009
+iobj_PREP:iobj_PREP:su 0.009
+ncmodprt:su 0.004
+
+form
+
+dobj_N:su 0.922
+dobj_N:iobj_PREP=>dobj_N:su 0.041
+su 0.017
+dobj_N:ncmodprt:su 0.007
+iobj_PREP:su 0.003
+dobj_N:iobj-as=>dobj_N:su 0.003
+iobj_PREP:ncmodprt:su 0.003
+ncmodprt:su 0.003
+

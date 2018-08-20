@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Clause de non-concurrence dans une transaction : quelles conditions de validité ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Clause de non-concurrence dans une transaction : quelles conditions de validité ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:39:31.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=359&amp;titre=Clause+de+non-concurrence+dans+une+transaction+%3A+quelles+conditions+de+validit%C3%A9+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/12481.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Clause de non-concurrence dans une transaction : quelles conditions de validité ?</p>
+			<p id="p2">Dans la plupart des cas, la clause de non-concurrence est insérée directement dans le contrat de travail. Mais elle peut également l’être juste après la rupture du contrat de travail, si l’employeur et le salarié signent une transaction. Quelles en sont alors les conditions de validité ?</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">La clause de non-concurrence est une clause par laquelle l’employeur interdit à son salarié de travailler pour une entreprise concurrente ou d’exercer lui-même une activité concurrente lorsqu’il quitte l’entreprise.</p>
+			<p id="p5">Pour être valable, elle doit contenir une contrepartie financière à la charge de l’employeur. Cette contrepartie a pour objectif de « compenser » la contrainte que représente, pour le salarié, le fait de voir sa liberté de travail limitée.</p>
+			<p id="p6">Une clause de non-concurrence peut faire l’objet d’une transaction entre l’employeur et le salarié, après la rupture du contrat de travail.</p>
+			<p id="p7">Or, une transaction doit comporter des concessions réciproques des deux parties.</p>
+			<p id="p8">Si la concession faite par le salarié est celle d’accepter une clause de non-concurrence non prévue initialement, celle de l’employeur doit correspondre au versement d’une somme d’argent au moins équivalente à la contrepartie financière.</p>
+			<p id="p9">Encore faut-il que la transaction soit rédigée de façon suffisamment explicite.</p>
+			<p id="p10">Il est essentiel que la transaction soit signée après la rupture effective du contrat de travail. Dans le cas contraire, elle sera annulée par les juges.</p>
+			<p id="p11">Exemple</p>
+			<p id="p12">Dans une affaire jugée récemment, la transaction mentionnait que l’employeur s’engageait à verser la somme de 160.000 euros à son ancien salarié « en réparation du préjudice moral et professionnel allégué ainsi que pour compenser la perte d’emploi alléguée ». « En contrepartie », ce dernier s’interdisait d’entrer au service d’une entreprise concurrente pendant une durée de 2 ans.</p>
+			<p id="p13">Les termes « en contrepartie » ont toute leur importance, puisqu’ils ont permis aux juges de considérer que la somme versée par l’employeur valait indemnité compensatrice de la clause de non-concurrence.</p>
+			<p id="p14">Ils ont ainsi refusé l’argument du salarié qui réclamait une contrepartie financière en plus de la somme versée par son ancien employeur.</p>
+			<p id="p15">A. Ninucci</p>
+			<p id="p16">(Cour de cassation, chambre sociale, arrêt n° 08-40252 du 1er juillet 2009 : une transaction peut contenir une clause de non-concurrence)</p>
+			<p id="p17">Pour plus de précisions sur la clause de non-concurrence et disposer de modèles téléchargeables, les Editions Tissot vous proposent leur ouvrage « Modèles commentés pour la gestion du personnel ».</p>
+			<p id="p18">Article publié le 20 août 2009</p>
+			<p id="p19">Partagez cet article :</p>
+			<p id="p20">Actualités de la semaine pour les PME</p>
+			<p id="p21">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

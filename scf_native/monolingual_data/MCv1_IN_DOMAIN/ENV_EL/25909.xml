@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Στο Δήμο Μεσσαπίων πίνουν ακόμα βρώμικο νερό</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Στο Δήμο Μεσσαπίων πίνουν ακόμα βρώμικο νερό</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-07 08:13:53.0</pubDate>
+							<eAddress>http://www.servitoros.gr/news/view.php/28388/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="el"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>δήμος</keyTerm>
+					<keyTerm>μεσσαπίων</keyTerm>
+					<keyTerm>νερό</keyTerm>
+					<keyTerm>δημοσκόπηση</keyTerm>
+					<keyTerm>δίκτυο</keyTerm>
+					<keyTerm>ύδρευση</keyTerm>
+					<keyTerm>τοξικά</keyTerm>
+					<keyTerm>βόμβα</keyTerm>
+					<keyTerm>μόλυνση</keyTerm>
+					<keyTerm>μέταλλα</keyTerm>
+					<keyTerm>χρώμιο</keyTerm>
+					<keyTerm>νιτρικά</keyTerm>
+					<keyTerm>αρτάκη</keyTerm>
+					<keyTerm>πισσώνας</keyTerm>
+					<keyTerm>ρύπανση</keyTerm>
+					<keyTerm>υγεία</keyTerm>
+					<keyTerm>έργο</keyTerm>
+					<keyTerm>ασφάλιση</keyTerm>
+					<keyTerm>επιχείρηση</keyTerm>
+					<keyTerm>αποχέτευση</keyTerm>
+					<keyTerm>περιβάλλον</keyTerm>
+					<keyTerm>πόσιμο</keyTerm>
+					<keyTerm>γεώτρηση</keyTerm>
+					<keyTerm>ασφάλεια</keyTerm>
+					<keyTerm>κατανάλωση</keyTerm>
+					<keyTerm>μαθητής</keyTerm>
+					<keyTerm>γυμνάσιο</keyTerm>
+					<keyTerm>ψαχνά</keyTerm>
+					<keyTerm>βρύση</keyTerm>
+					<keyTerm>οικογένεια</keyTerm>
+					<keyTerm>μαγείρεμα</keyTerm>
+					<keyTerm>ενέργεια</keyTerm>
+					<keyTerm>οικονομία</keyTerm>
+					<keyTerm>σπίτι</keyTerm>
+					<keyTerm>εύβοια</keyTerm>
+					<keyTerm>υδροφορία</keyTerm>
+					<keyTerm>μελέτη</keyTerm>
+					<keyTerm>ορυχείο</keyTerm>
+					<keyTerm>ορεινά</keyTerm>
+					<keyTerm>πανεπιστήμιο</keyTerm>
+					<keyTerm>αθήνα</keyTerm>
+					<keyTerm>απόβλητα</keyTerm>
+					<keyTerm>νομαρχία</keyTerm>
+					<keyTerm>αυτοδιοίκηση</keyTerm>
+					<keyTerm>έγκλημα</keyTerm>
+					<keyTerm>πρόστιμο</keyTerm>
+					<keyTerm>παράβαση</keyTerm>
+					<keyTerm>βρυσάκια</keyTerm>
+					<keyTerm>σιδηρονικέλιο</keyTerm>
+					<keyTerm>μετάλλευμα</keyTerm>
+					<keyTerm>μεταλλείο</keyTerm>
+					<keyTerm>σφαγείο</keyTerm>
+					<keyTerm>dimos</keyTerm>
+					<keyTerm>messapion</keyTerm>
+					<keyTerm>nero</keyTerm>
+					<keyTerm>dimoskopisi</keyTerm>
+					<keyTerm>diktio</keyTerm>
+					<keyTerm>idreysi</keyTerm>
+					<keyTerm>toksika</keyTerm>
+					<keyTerm>bomba</keyTerm>
+					<keyTerm>molinsi</keyTerm>
+					<keyTerm>metalla</keyTerm>
+					<keyTerm>xromio</keyTerm>
+					<keyTerm>nitrika</keyTerm>
+					<keyTerm>artaki</keyTerm>
+					<keyTerm>pissonas</keyTerm>
+					<keyTerm>ripansi</keyTerm>
+					<keyTerm>igeia</keyTerm>
+					<keyTerm>ergo</keyTerm>
+					<keyTerm>asfalisi</keyTerm>
+					<keyTerm>epixeirisi</keyTerm>
+					<keyTerm>apoxeteysi</keyTerm>
+					<keyTerm>periballon</keyTerm>
+					<keyTerm>posimo</keyTerm>
+					<keyTerm>geotrisi</keyTerm>
+					<keyTerm>asfaleia</keyTerm>
+					<keyTerm>katanalosi</keyTerm>
+					<keyTerm>mathitis</keyTerm>
+					<keyTerm>gimnasio</keyTerm>
+					<keyTerm>psaxna</keyTerm>
+					<keyTerm>brisi</keyTerm>
+					<keyTerm>oikogeneia</keyTerm>
+					<keyTerm>mageirema</keyTerm>
+					<keyTerm>energeia</keyTerm>
+					<keyTerm>oikonomia</keyTerm>
+					<keyTerm>spiti</keyTerm>
+					<keyTerm>eyboia</keyTerm>
+					<keyTerm>idroforia</keyTerm>
+					<keyTerm>meleti</keyTerm>
+					<keyTerm>orixeio</keyTerm>
+					<keyTerm>oreina</keyTerm>
+					<keyTerm>panepistimio</keyTerm>
+					<keyTerm>athina</keyTerm>
+					<keyTerm>apoblita</keyTerm>
+					<keyTerm>nomarxia</keyTerm>
+					<keyTerm>aftodioikisi</keyTerm>
+					<keyTerm>egklima</keyTerm>
+					<keyTerm>prostimo</keyTerm>
+					<keyTerm>parabasi</keyTerm>
+					<keyTerm>brisakia</keyTerm>
+					<keyTerm>sidironikelio</keyTerm>
+					<keyTerm>metalleyma</keyTerm>
+					<keyTerm>metalleio</keyTerm>
+					<keyTerm>sfageio</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EL/25909.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Δευτέρα, 17 Μαΐου 2010, 16:26</p>
+			<p id="p2">Περισσότερα νέα από την τοπική επικαιρότητα</p>
+			<p id="p3">- - -</p>
+			<p id="p4">Στο άρθρο της Ελευθεροτυπίας, χρησιμοποιούνται στοιχεία της δημοσκόπησης για την καταλληλότητα και τη χρήση του νερού του δικτύου ύδρευσης του δήμου Μεσσαπίων, που πραγματοποίησε η "Παρρησία" και δημοσιεύεται στο καινούργιο τεύχος της με τίτλο "Ο μαθητό-κοσμος το έχει τούμπανο".</p>
+			<p id="p5">* * * *</p>
+			<p id="p6">Στα όρια μιας τοξικής βόμβας έχει φτάσει πλέον το πρόβλημα του μολυσμένου νερού με βαρέα μέταλλα, εξασθενές χρώμιο, αλλά και νιτρικά, στην περιοχή Μεσσαπίας - Νέας Αρτάκης - Πισσώνα.</p>
+			<p id="p7">Παρά το γεγονός ότι η ρύπανση του νερού είναι γνωστή εδώ και τουλάχιστον έναν χρόνο, οι κάτοικοι συνεχίζουν να πίνουν εμφιαλωμένα προσπαθώντας να διαφυλάξουν την υγεία τους, αφού ουσιαστικά μέτρα δεν έχουν ληφθεί και οι ρυπαντές συνεχίζουν ανενόχλητοι το έργο τους.</p>
+			<p id="p8">Αίτηση ασφαλιστικών μέτρων κατά της Δημοτικής Αρχής Μεσσαπίων και του δημάρχου ως προέδρου της ΔΕΥΑΜ (Δημοτική Επιχείρηση Υδρευσης - Αποχέτευσης Μεσσαπίων) έχουν καταθέσει ο περιβαλλοντικός σύλλογος ΓΑΙΑ και ακόμη 7 κινήσεις πολιτών, προκειμένου να μεταφερθεί υγιεινό και πόσιμο νερό στον δήμο. Η υπόθεση εκδικάστηκε στις 10 Φεβρουαρίου και η απόφαση ακόμη αναμένεται.</p>
+			<p id="p9">Από τη μεριά τους, οι επιθεωρητές περιβάλλοντος, αν και έχουν ελέγξει την περιοχή τρεις φορές μέσα σ' έναν χρόνο, δεν έχουν συμπεράνει «ποιος μολύνει» ώστε να προβούν σε ενέργειες.</p>
+			<p id="p10">«Περιμένουμε εξαγγελίες μέτρων για το πόσιμο νερό από την αρμόδια υπουργό, όπως είχε υποσχεθεί. Στο μεταξύ, ο κόσμος δεν ξέρει από πού να πίνει», καταγγέλλει ο Νίκος Χασάνδρας, πρόεδρος του συλλόγου ΓΑΙΑ.</p>
+			<p id="p11">Ο δήμος έχει προχωρήσει σε νέες γεωτρήσεις μέσω ΙΓΜΕ και διαβεβαιώνει για την ασφάλεια του νερού, όμως λίγοι είναι οι πολίτες που πείθονται να το καταναλώσουν. Την ίδια στιγμή, κινήσεις πολιτών υποστηρίζουν ότι «αν και επανειλημμένως έχουμε ζητήσει γραπτώς μετρήσεις για ανίχνευση εξασθενούς χρωμίου και άλλων βαρέων μετάλλων, δεν τις χορηγεί».</p>
+			<p id="p12">Πρόσφατη δημοσκόπηση σε δείγμα 265 μαθητών του Γυμνασίου Ψαχνών -διενεργήθηκε υπό την επίβλεψη του καθηγητή Δημ. Μπαρσάκη από δημοσιογραφική ομάδα- έδειξε ότι το 84,5% θεωρεί το νερό του δικτύου ακατάλληλο και το 78,5% δεν πίνει ποτέ ή πίνει σπάνια νερό βρύσης.</p>
+			<p id="p13">Το 62,2% των μαθητικών οικογενειών δεν χρησιμοποιεί ποτέ ή σπάνια χρησιμοποιεί νερό της βρύσης στο μαγείρεμα. Οι υπόλοιπες οικογένειες χρησιμοποιούν νερό δικτύου για μαγείρεμα, ενέργεια που πρέπει να αποδοθεί και σε λόγους οικονομίας και σε λόγους άγνοιας, διότι είναι αναμενόμενο να μη γνωρίζουν οι πάντες πως ο βρασμός δεν αφαιρεί τα βαρέα μέταλλα από το νερό. Τέλος, σε ποσοστό 76,6% οι μαθητές στο σπίτι τους πίνουν μόνο νερό εμφιαλωμένο ή από άλλη περιοχή-πηγή.</p>
+			<p id="p14">Οπως καταγγέλλει το Δίκτυο Συλλόγων Περιβάλλοντος και Κινήσεων Πολιτών Εύβοιας, «η ΛΑΡΚΟ με την εξορυκτική της δραστηριότητα μολύνει τον υδροφόρο ορίζοντα με βαρέα μέταλλα και εξασθενές χρώμιο, δεν εφαρμόζει καμία μελέτη περιβαλλοντικών επιπτώσεων, δεν προχωράει σε καμία αποκατάσταση ορυχείων, με αποτέλεσμα το ορεινό τμήμα τη Μεσσαπίας να έχει μετατραπεί σε σεληνιακό τοπίο».</p>
+			<p id="p15">Οι τελευταίες μελέτες και αναλύσεις του ΙΓΜΕ και του Γεωπονικού Πανεπιστημίου Αθηνών «δείχνουν» -αν και δεν το αναφέρουν ευθέως- τη ΛΑΡΚΟ ως τον κύριο ρυπαντή της περιοχής σε βαρέα μέταλλα και εξασθενές χρώμιο, όπως υποστηρίζει το Δίκτυο.</p>
+			<p id="p16">Οι μεγάλες συγκεντρώσεις βαρέων μετάλλων που ανιχνεύονται στην περιοχή δεν μπορούν να δικαιολογηθούν από τα μεταφερόμενα τοξικά απόβλητα, που υπάρχουν διάσπαρτα σε πολλά σημεία της κεντρικής Εύβοιας.</p>
+			<p id="p17">«Μπορεί να αποτελούν μία από τις αιτίες, αλλά όχι τη βασική. Ενα σύστημα δυνάμεων διαπλεκόμενων με την κεντρική εξουσία, την τοπική και νομαρχιακή αυτοδιοίκηση αλλά και την τοπική κοινωνία, χρόνια τώρα καλύπτει την εγκληματική για το περιβάλλον δραστηριότητα της ΛΑΡΚΟ», καταγγέλλει ο Κ. Χαϊνάς, εκπρόσωπος του Δικτύου.</p>
+			<p id="p18">Τον περασμένο Οκτώβριο, ύστερα από έλεγχο της Διεύθυνσης Περιβάλλοντος της νομαρχίας, επιβλήθηκε στη ΛΑΡΚΟ το... εξοντωτικό πρόστιμο των 30.000 ευρώ, για σειρά παραβάσεων της εταιρείας στα «Βρυσάκια» του Δήμου Μεσσαπίων, όπου γίνονται εμπλουτισμός και επεξεργασία σιδηρονικελιούχου μεταλλεύματος.</p>
+			<p id="p19">Σημειώνεται ότι έλεγχος έγινε μόνο στις εγκαταστάσεις εμπλουτισμού και σε κανένα από τα ανοιχτά μεταλλεία της ΛΑΡΚΟ.</p>
+			<p id="p20">Αλυτο παραμένει για περισσότερα από δύο χρόνια και το -προερχόμενο από τα σφαγεία της περιοχής Πισσώνα- σοβαρότατο πρόβλημα νιτρορύπανσης του υδροφορέα.</p>
+			<p id="p21">Σχετικό θέμα:</p>
+			<p id="p22">μετά ή άνευ επεξεργασίας, χωρίς γραπτή άδεια του εκδότη.</p>
+		</body>
+	</text>
+</cesDoc>

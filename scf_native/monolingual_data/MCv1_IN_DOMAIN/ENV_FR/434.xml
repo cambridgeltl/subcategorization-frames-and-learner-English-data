@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Des entreprises s’engagent pour réduire les émissions de gaz à effet de serre - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Des entreprises s’engagent pour réduire les émissions de gaz à effet de serre - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:17:53.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/Des-entreprises-s-engagent-pour.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/434.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">4 décembre 2009 (mis à jour le 7 juillet 2010) - Énergie et climat</p>
+			<p id="p3">En 2002, plusieurs entreprises industrielles et du secteur de l’énergie s’étaient engagées dans le cadre de l’association des entreprises pour la réduction de l’effet de serre. Le dispositif visait à mobiliser le plus largement possible dans le cadre actuel les entreprises françaises pour la réduction des émissions de gaz à effet de serre. Il reposait sur douze principes fondamentaux et un engagement-cadre. Il était géré par une entité associative constituée par les entreprises volontaires, chacune prenant un engagement individuel, vérifié de façon indépendante.</p>
+			<p id="p4">Ces engagements ont permis aux entreprises de se préparer au système d’échange de quotas d’émission de gaz à effet de serre en apprenant à déceler les potentiels de réduction d’émission de ces gaz et à quantifier leurs émissions de manière adéquate.</p>
+			<p id="p5">En 2009, une série d’accords volontaires ont vu le jour, avec les entreprises de déshydratation de luzerne. Ces accords sont plus robustes que les précédents car ils contiennent des sanctions et permettent, s’ils sont signés par les pouvoirs publics, l’exonération de la taxe sur le charbon. En effet, l’article 266 quinquiès B du code des douanes taxe vise les houilles, lignites et les cokes destinés à être utilisés comme combustibles. Il prévoit notamment un cas d’exemption, dont un qui concerne les entreprises de valorisation de la biomasse. Celles-ci pour bénéficier de l’exemption doivent :</p>
+			<p id="p6">soit relever du système d’échange de quotas d’émission de gaz à effet de serre ;</p>
+			<p id="p7">soit « appliquer des accords volontaires de réduction de gaz à effet de serre permettant d’atteindre des objectifs environnementaux équivalents ou d’accroître leur rendement énergétique. »</p>
+			<p id="p8">Toutefois, l’exonération est assortie de conditions. En effet, si certains engagements ne sont pas respectés, l’État peut dénoncer l’accord volontaire et l’entreprise perd alors le bénéfice de l’exonération.</p>
+			<p id="p9">Ces accords ont en commun de viser une réduction de 12 % des émissions de CO2 et de 10 % de la consommation d’énergie par tonne produite entre 2006 et 2012. Ils prévoient également le recours à des énergies renouvelables (biomasse) dans la combustion.</p>
+			<p id="p10">Mais ils ne se limitent pas aux gaz à effet de serre car il est également exigé que les cocontractants maîtrisent et réduisent la pollution de l’air (notamment en ce qui concerne les poussières et les composés organiques volatils). Une étude d’impact sur l’évaluation environnementale des pratiques agricoles et des itinéraires techniques mis en œuvre pour la production de la luzerne destinée à la filière déshydratation devra être menée.</p>
+			<p id="p11">Un premier accord a été signé en juin 2009 avec Coop de France - Déshydratation qui regroupe les industriels de la déshydratation de fourrages (luzerne, herbe, pulpe de betterave …) et d’œillette. D’autres accords ont suivi pendant le second semestre 2009.</p>
+			<p id="p12">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

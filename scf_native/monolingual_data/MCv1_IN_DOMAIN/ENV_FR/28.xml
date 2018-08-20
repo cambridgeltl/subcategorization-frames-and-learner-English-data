@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Open Directory - World: Français: Sciences: Biologie: Ecologie</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Open Directory - World: Français: Sciences: Biologie: Ecologie</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:11:49.0</pubDate>
+							<eAddress>http://www.dmoz.org/World/Fran%C3%A7ais/Sciences/Biologie/Ecologie/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/28.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Balades Naturalistes - Centré sur les abeilles et guêpes solitaires, ce site raconte également les aventures naturalistes de l'auteur dans les domaines de la microscopie, les plantes carnivores et également avec un rouge gorge.</p>
+			<p id="p2">Beaulaton, Laurent - CV d'un ingénieur en halieutique préparant un doctorat sur l'évaluation des stocks des poissons amphihalins. Quelques photographies sont accessibles.</p>
+			<p id="p3">Bois amazonien - Informations sur l’exploitation forestière en Amazonie brésilienne et les causes de la déforestation.</p>
+			<p id="p4">Ecologie Nature - Dossiers sur l'environnement, l'eau, la forêt, le réchauffement de la planète, les pollutions, la mondialisation, les OGM et la gestion de nos déchets.</p>
+			<p id="p5">Ecologie sans frontière - Association d'écologistes qui utilise la justice pour peser sur les pollueurs et les politiques. Paris (75), France.</p>
+			<p id="p6">Ecosystème - Nolwenn, Coïc : CV. Carnets de voyages naturalistes en Nouvelle Calédonie, Nouvelle Zélande, Bretagne et Corse. Dossiers d'actualité concernant la biodiversité et ses enjeux.</p>
+			<p id="p7">Elater - Association d'étude, de présentation, et d'illustration des biodiversités. Présentation, prestations, adhésion, biens, photographies et glossaire.</p>
+			<p id="p8">Histoire de l'écologie et de l'écologisme - Annuaire de liens sur l'histoire et de biographies de scientifiques ayant au une influence sur cette discipline .</p>
+			<p id="p9">Hydrobiologie et écologie souterraines - Laboratoire d'écologie des eaux douces et des grand fleuves de l'Université Claude Bernard Lyon1. Travaux de recherches et publications.</p>
+			<p id="p10">Invasions Biologiques - Présentation et étude des risques liés aux macro-invertébrés en Europe. Un inventaire des espèces surveillées est établi et le phénomène est vulgarisé. Laboratoire biodiversité et fonctionnement des écosystèmes (LBFE), Metz, Moselle (57), France.</p>
+			<p id="p11">Laboratoire d'écologie alpine (LECA) - Equipe, thèmes de recherche, travaux et publications de ce laboratoire de l'université de Savoie.</p>
+			<p id="p12">Le Biodôme de Montréal - Musée où sont recréés cinq écosystèmes : l'Arctique, la forêt laurentienne, le Saint-Laurent marin et la forêt tropicale du continent américain ainsi que l'Antarctique.</p>
+			<p id="p13">Le lac Saint André - Présentation d'une étude sur l'écosystème de ce lac situé en Savoie et les différentes espaces végétales et animales qui le peuplent.</p>
+			<p id="p14">Planète-Attitude - Edité par le WWF-France, est un lieu d'échanges et de débats pour la préservation de l'environnement et des espèces.</p>
+			<p id="p15">Projet molignée - Etude de la situation géographique, faune et flore du bassin versant de ce cours d'eau situé en Belgique.</p>
+			<p id="p16">Pôle relais lagunes méditerranéenne - Concerne les lagunes de Languedoc-Roussillon, Provence Alpes Côte d’Azur et Corse. Propose des documents et des informations pour mieux connaître, protéger et gérer ces écosystèmes.</p>
+			<p id="p17">Société française d'écologie (SFE) - Informations générales, actualités, publications, serveur de liste, liens divers, bibliographie, annuaire.</p>
+			<p id="p18">Dernière mise à jour : mardi 1 décembre 2009 22 h 29 EST - éditer</p>
+		</body>
+	</text>
+</cesDoc>

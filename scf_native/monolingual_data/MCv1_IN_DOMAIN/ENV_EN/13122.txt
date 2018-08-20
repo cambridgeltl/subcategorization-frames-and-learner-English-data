@@ -1,0 +1,28 @@
+In just a few weeks, we’ve gone from “Drill, Baby! Drill!” to “Spill, Baby! Spill!” to “Burn, Baby! Burn!” and finally to “Scrub, Baby! Scrub!” Oil spills like the one in the Gulf are not unprecedented , so it should come as no surprise when environmental disasters like this happen at an offshore rig. What’s surprising is that in over twenty years since the Exxon accident, we’re still no better equipped to clean up major oil spills. Let’s consider some of the options by the numbers.
+1. “Burn, Baby! Burn!”
+As the saying goes, “If you can’t beat ‘em, set ‘em on fire and hope they’ll completely combust before they get to you.” This seems to be the most high-tech solution people can come up with to fix the spill, and yet I can’t help but hear Beavis screaming “Fire! Fire!” while giggling maniacally. How much environmental damage does burning all the oil do?
+It’s estimated that 210,000 gallons of oil are spilling out each day. Crude oil has a density of about 800 kg per cubic meter and is about 85% carbon by weight. From this info, we can find the total amount of carbon released:
+If the oil is completely combusted, all this carbon will form the greenhouse gas carbon dioxide. Carbon dioxide weighs about 3.7 times more than elemental carbon, meaning that burning the oil will release about 2.0×10^6 kg (~2,000 tons) of carbon dioxide into the atmosphere each day. This is like having everyone in New Orleans running a 1,000-Watt hair dryer nonstop.
+2. “Scrub, Baby! Scrub”
+Let’s face it. Nothing ruins a perfect beach day more than a disgusting, oily, highly flammable seagull swooping in and trying to steal your French fries. How many seagulls could you cover with the escaping oil each day?
+In 1773, Ben Franklin found that a teaspoon of oil dropped on a calm pond could spread out over an acre. Lord Rayleigh calculated the thickness of this oil film to be about 1.6 nm. Presumably, the layer of oil that covers the seagulls would have a similar thickness. Now consider a spherical seagull with a 1.0 ft diameter¹. This rotund seagull will have a total surface area of about 0.3 m^2. From this information, we can estimate the number of seagulls we could cover with oil each day:
+3. “Blow, Baby! Blow”
+Clearly, the best method for cleaning up an oil spill is to avoid having the spill in the first place. Compared to oil spills, wind spills tend to cause a lot less environmental damage. How much energy could we get each day by lining the Gulf Coast with wind turbines?
+Wind turbines convert the kinetic energy of the wind into electric energy. I’ll assume the turbine’s blades are 45 m long, so that they sweep out an area of 6400 m^2. The Gulf Coast has a total length of 17,141 miles, meaning you could fit about 600,000 wind turbines in a single row. Assuming a fairly mild wind speed of 10 mph, we can estimate the total power absorbed by this array of turbines:
+This is about 600 times larger than the equivalent power we could get out of the oil being dumped into the Gulf Coast by the BP spill².
+So there you have it. For the cost of 1.4 trillion seagulls and enormous environmental damage, you get about 1/600th the energy that you would by installing an environmentally friendly wind farm.
+[1] You’ll have to forgive statements like this. It’s the physicist in me.
+[2] I should emphasize that this comparison only considers the oil that is leaking, not the total amount of oil in the Gulf. The total amount of Gulf oil will be much larger and would likely require many more wind turbines to replace it.
+Comments (4)
+zturpin
+Spherical seagulls make for an awesome image: at first I was skeptical of the 1-foot diameter, but I looked up 'adult human skin surface area' -- we have an average surface area of 20 sq ft -- so we'd be spheres 2.5 ft wide. I buy it.
+anonymous
+> Oil spills like the one in the Gulf are not unprecedented, so it should come as no surprise when environmental disasters like this happen at an offshore rig.
+Wrong. This "spill" is likely to become the worst in the history of the industry, making it by definition "unprecedented." Indeed, anyone with half a brain should be more than "suprised" by the magnitude of the unfolding disaster; he/she should be shocked.
+Aaron Santos
+Aaron Santos is a physicist, author, and blogger. He currently works as a postdoc at the University of Michigan. He is the author of How Many
+Licks, or How to Estimate Damn Near Anything  , a humorous collection of approximations: how many licks does it take to get to the Tootsie Roll center of a Tootsie Pop, how many people are having sex at this instant, how long it would take to dig your way out of jail with a spoon, etc.
+Similar estimations can be found on his blog at diaryofnumbers.blogspot.com. He lives in Ann Arbor with his lovely and highly talented wife Anna Lackaff.
+Archives
+COMPANY
+Branding, website design and development by Kurani Interactive

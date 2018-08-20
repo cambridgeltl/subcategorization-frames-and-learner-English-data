@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Basic Information | Climate Change | U.S. EPA</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Basic Information | Climate Change | U.S. EPA</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-05-20 19:44:49.0</pubDate>
+							<eAddress>http://www.epa.gov/climatechange/basicinfo.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>science</keyTerm>
+					<keyTerm>fossil fuels</keyTerm>
+					<keyTerm>greenhouse gases</keyTerm>
+					<keyTerm>greenhouse gas emissions</keyTerm>
+					<keyTerm>greenhouse effect</keyTerm>
+					<keyTerm>U.S. policy</keyTerm>
+					<keyTerm>emissions</keyTerm>
+					<keyTerm>environmental effects</keyTerm>
+					<keyTerm>impacts</keyTerm>
+					<keyTerm>voluntary programs</keyTerm>
+					<keyTerm>what you can do</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/13368.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Climate Change or Global Warming?</p>
+			<p id="p2">The term climate change is often used interchangeably with the term global warming, but according to the National Academy of Sciences, "the phrase 'climate change' is growing in preferred use to 'global warming' because it helps convey that there are [other] changes in addition to rising temperatures."</p>
+			<p id="p3">Climate change refers to any significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period (decades or longer). Climate change may result from:</p>
+			<p id="p4">natural factors, such as changes in the sun's intensity or slow changes in the Earth's orbit around the sun;</p>
+			<p id="p5">natural processes within the climate system (e.g. changes in ocean circulation);</p>
+			<p id="p6">human activities that change the atmosphere's composition (e.g. through burning fossil fuels) and the land surface (e.g. deforestation, reforestation, urbanization, desertification, etc.)</p>
+			<p id="p7">Global warming is an average increase in the temperature of the atmosphere near the Earth's surface and in the troposphere , which can contribute to changes in global climate patterns. Global warming can occur from a variety of causes, both natural and human induced. In common usage, "global warming" often refers to the warming that can occur as a result of increased emissions of greenhouse gases from human activities.</p>
+			<p id="p8">The Earth's climate has changed many times during the planet's history, with events ranging from ice ages to long periods of warmth. Historically, natural factors such as volcanic eruptions, changes in the Earth's orbit, and the amount of energy released from the Sun have affected the Earth's climate. Beginning late in the 18th century, human activities associated with the Industrial Revolution have also changed the composition of the atmosphere and therefore very likely are influencing the Earth's climate.</p>
+			<p id="p9">Climate Toolbox</p>
+			<p id="p10">The EPA climate change website has four main sections on climate change issues and another section on "What You Can Do" to reduce your contribution. A " Frequent Questions " section is available, and EPA has provided a frequent questions database where users can search for more specific questions and answers on climate change. An eight-page brochure entitled Frequently Asked Questions About Global Warming and Climate Change: Back to Basics (PDF) (8 pp, 1.6MB, About PDF ) provides illustrated answers to frequent questions.</p>
+			<p id="p11">Science</p>
+			<p id="p12">For over the past 200 years, the burning of fossil fuels, such as coal and oil, and deforestation have caused the concentrations of heat-trapping "greenhouse gases" to increase significantly in our atmosphere. These gases prevent heat from escaping to space, somewhat like the glass panels of a greenhouse.</p>
+			<p id="p13">Greenhouse gases are necessary to life as we know it, because they keep the planet's surface warmer than it otherwise would be. But, as the concentrations of these gases continue to increase in the atmosphere, the Earth's temperature is climbing above past levels. According to NOAA and NASA data, the Earth's average surface temperature has increased by about 1.2 to 1.4ºF in the last 100 years. The eight warmest years on record (since 1850) have all occurred since 1998, with the warmest year being 2005. Most of the warming in recent decades is very likely the result of human activities. Other aspects of the climate are also changing such as rainfall patterns, snow and ice cover, and sea level.</p>
+			<p id="p14">If greenhouse gases continue to increase, climate models predict that the average temperature at the Earth's surface could increase from 3.2 to 7.2ºF above 1990 levels by the end of this century. Scientists are certain that human activities are changing the composition of the atmosphere, and that increasing the concentration of greenhouse gases will change the planet's climate. But they are not sure by how much it will change, at what rate it will change, or what the exact effects will be. See the Science and Health and Environmental Effects sections of this site for more detail, or review the answers to some frequent science questions .</p>
+			<p id="p15">The Federal government is using voluntary and incentive-based programs to reduce emissions and has established programs to promote climate technology and science. This strategy incorporates know-how from many federal agencies and harnesses the power of the private sector.</p>
+			<p id="p16">EPA plays a significant role in helping the Federal government reduce greenhouse gas emissions and greenhouse gas intensity. EPA has many current and near-term initiatives that encourage voluntary reductions from a variety of stakeholders. Initiatives, such as ENERGY STAR, Climate Leaders, and our Methane Voluntary Programs, encourage emission reductions from large corporations, consumers, industrial and commercial buildings, and many major industrial sectors. For details on these and other initiatives as well as other aspects of U.S. policy, visit the U.S. Climate Policy section of the site.</p>
+			<p id="p17">Greenhouse Gas Emissions</p>
+			<p id="p18">In the U.S., our energy-related activities account for over 85 percent of our human-generated greenhouse gas emissions, mostly in the form of carbon dioxide emissions from burning fossil fuels. More than half the energy-related emissions come from large stationary sources such as power plants, while about a third comes from transportation. Industrial processes (such as the production of cement, steel, and aluminum), agriculture, forestry, other land use, and waste management are also important sources of greenhouse gas emissions in the United States.</p>
+			<p id="p19">For a better understanding of where greenhouse gas emissions come from, governments at the federal, state and local levels prepare emissions inventories, which track emissions from various parts of the economy such as transportation, electricity production, industry, agriculture, forestry, and other sectors. EPA publishes the official national inventory of US greenhouse gas emissions , and the latest greenhouse gas inventory shows that in 2008 the U.S. emitted slightly less than 7 billon metric tons of greenhouse gases (a million metric tons of CO2 equivalents (MMTCO2e) is roughly equal to the annual GHG emissions of an average U.S. power plant.) Visit the Emissions section of this site to learn more, or review the answers to some frequent emissions questions .</p>
+			<p id="p20">Health and Environmental Effects</p>
+			<p id="p21">Climate change affects people, plants, and animals. Scientists are working to better understand future climate change and how the effects will vary by region and over time.</p>
+			<p id="p22">Scientists have observed that some changes are already occurring. Observed effects include sea level rise, shrinking glaciers, changes in the range and distribution of plants and animals, trees blooming earlier, lengthening of growing seasons, ice on rivers and lakes freezing later and breaking up earlier, and thawing of permafrost. Another key issue being studied is how societies and the Earth's environment will adapt to or cope with climate change.</p>
+			<p id="p23">In the United States, scientists believe that most areas will to continue to warm, although some will likely warm more than others. It remains very difficult to predict which parts of the country will become wetter or drier, but scientists generally expect increased precipitation and evaporation, and drier soil in the middle parts of the country. Northern regions such as Alaska are expected to experience the most warming. In fact, Alaska has been experiencing significant changes in climate in recent years that may be at least partly related to human caused global climate change.</p>
+			<p id="p24">Human health can be affected directly and indirectly by climate change in part through extreme periods of heat and cold, storms, and climate-sensitive diseases such as malaria, and smog episodes. For more information on these and other environmental effects, please visit the Health and Environmental Effects section of this site, or review the answers to some frequent effects questions .</p>
+			<p id="p25">What You Can Do</p>
+			<p id="p26">Greenhouse gases are emitted as a result of the energy we use by driving and using electricity and through other activities that support our quality of life like growing food and raising livestock. Greenhouse gas emissions can be minimized through simple measures like changing light bulbs in your home and properly inflating your tires to improve your car's fuel economy. The What You Can Do section of the climate change site identifies over 25 action steps that individuals can take to decrease greenhouse gas emissions, increase the nation's energy independence and also save money.</p>
+			<p id="p27">State and local governments and businesses play an important role in reducing greenhouse emissions and greenhouse gas intensity. For example, major corporations, states and local organizations are taking action through participation in a wide range of EPA and other federal voluntary programs .</p>
+			<p id="p28">You can start by assessing your own contribution to the problem, by using EPA's Household Emissions Calculator to estimate your household's annual emissions. Once you know about how much you emit, you use the tool to see how simple steps you take at home, at the office, on the road, and at school can reduce your emissions. Visit the What You Can Do section of this site to learn more.</p>
+		</body>
+	</text>
+</cesDoc>

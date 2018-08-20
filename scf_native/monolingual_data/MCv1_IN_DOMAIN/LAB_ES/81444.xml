@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Contrato de trabajo - formación profesional</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Contrato de trabajo - formación profesional</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-10-29 04:41:24.0</pubDate>
+							<eAddress>http://legales.com/Tratados/t/tformacion.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>trabajo</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/81444.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Artículo. La promoción profesional y la formación en el trabajo, en condiciones igualitarias de acceso y trato será un derecho fundamental para todos los trabajadores y trabajadoras.</p>
+			<p id="p2">Artículo. El empleador implementará acciones de formación profesional y/o capacitación con la participación de los trabajadores y con la asistencia de los organismos competentes al Estado .</p>
+			<p id="p3">Artículo. La capacitación del trabajador se efectuará de acuerdo a los requerimientos del empleador, a las características de las tareas, a las exigencias de la organización del trabajo y a los medios que le provea el empleador para dicha capacitación.</p>
+			<p id="p4">Artículo. La organización sindical que represente a los trabajadores de conformidad a la legislación vigente tendrá derecho a recibir info</p>
+			<p id="p5">rmación sobre la evolución de la empresa, sobre innovaciones tecnológicas y organizativas y toda otra que tenga relación con la planificación de acciones de formación y capacitación profesional.</p>
+			<p id="p6">Artículo. La organización sindical que represente a los trabajadores de conformidad a la legislación vigente ante innovaciones de base tecnológica y organizativa de la empresa, podrá solicitar al empleador la implementación de acciones de formación profesional para la mejor adecuación del personal al nuevo sistema.</p>
+			<p id="p7">Artículo. En el certificado de trabajo que el empleador está obligado a entregar a la extinción del contrato de trabajo deberá constar además de lo prescrito en el artículo 80 , la calificación profesional obtenida en el o los puestos de trabajo desempeñados, hubiere o no realizado el trabajador accione regulares de capacitación.</p>
+			<p id="p8">Artículo. El trabajador tendrá derecho a una cantidad de horas del tiempo total anual del trabajo, de acuerdo a lo que se establezca en el convenio colectivo, para realizar, fuera de su lugar de trabajo actividades de formación y/o capacitación que él juzgue de su propio interés. (Capítulo según ley 24.576 )</p>
+		</body>
+	</text>
+</cesDoc>

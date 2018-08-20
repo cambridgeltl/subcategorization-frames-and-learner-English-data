@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Extractores de contaminación para filtrar el aire</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Extractores de contaminación para filtrar el aire</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 13:07:59.0</pubDate>
+							<eAddress>http://www.ecologiaverde.com/extractores-de-contaminacion-para-filtrar-el-aire/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>contaminación</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/9724.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Nyah : A parte de eso, no se que tipo de agricultura se habra estudiado. Si, puede que se catalogue como ecologica,...</p>
+			<p id="p2">Nyah : El dinero, el gran factor limitante del desarrollo humano… limita a la ciencia y limita a cualquier...</p>
+			<p id="p3">Patrocinadores</p>
+			<p id="p4">Sergi | 6 Septiembre 2009 | 1.123 lecturas | Contaminación</p>
+			<p id="p5">La disminución de las emisiones de gases contaminantes se antoja inalcanzable según observamos la tendencia actual. Las grandes potencias mundiales no están dispuestas a reducir la contaminación de sus empresas si eso supone un aumento de sus costes industriales, y por lo tanto una reducción de los beneficios y menor crecimiento económico. Pocos confían en que en 2100 se puede tener controlado el cambio climático, quien sabe si por esa fecha ya será demasiado tarde.</p>
+			<p id="p6">Ante la evidencia de lo imposible, los científicos estudian otros métodos para reducir la contaminación que flota por la atmosfera. Se estudia en el desarrollo de máquinas para extraer el dióxido de carbono del aire, pero su viabilidad sigue siendo un interrogante. Quizás pueda parecer ciencia ficción, pero no lo es. Actualmente ya existen sistemas de limpieza de gases que se usan en la industria, pero lo que se necesitaría es diseñar una máquina que pueda funcionar a gran escala para filtrar el aire.</p>
+			<p id="p7">El proceso no es muy complicado y ya funciona: un extractor tubular que contiene hidróxido de sodio (lejía de sosa) filtra el aire pasando por unos cilindros que convierten el CO2 en carbonato de sodio, finalmente el resto del aire sale limpio de impurezas. Posteriormente, el carbonato de sodio se extrae para mezclarlo con hidróxido de calcio (cal muerta), la combinación se transforma en carbonato de calcio (piedra caliza) que se puede almacenar sin peligro de contaminación.</p>
+			<p id="p8">Señores de Ecología Verde, gracias por su mensaje y por la oportunidad de comentar.</p>
+			<p id="p9">Sobre el tema de los extractores o purificadores; ese es el camino hasta encontrar la solución,aplicar el principio de Lavoisier: “Nada se destruye, todo se transforma”, en buena cuenta se está refiriendo en parte al reciclaje.</p>
+			<p id="p10">La fibra de carbono pronto desplazará al plástico, fibra de vidrio, etc.</p>
+			<p id="p11">Propongo que EcologíaVerde considere un programa, un club, un blog, etc. no para comentarios sino para propuestas de los químicos, físicos, científicos, empresarios, innovadores, etc. para desarrollar varios modelos que logren esta conversión; las empresas de las grandes potencias ahora depredadoras, por la ambición del negocio de la conversión entrarán al cuento.</p>
+			<p id="p12">Estoy haciendo modestos comentarios, por favor remitirme copia de ellos; en esta su ventana están medio encriptados no los puedo o no se cómo copiarlos y pegar.</p>
+			<p id="p13">Atte.</p>
+			<p id="p14">Web/blog (opcional)</p>
+		</body>
+	</text>
+</cesDoc>

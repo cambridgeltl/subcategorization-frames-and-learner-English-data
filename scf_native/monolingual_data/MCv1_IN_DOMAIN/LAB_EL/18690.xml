@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> ΓΣΕΕ, Εθνική Γενική Συλλογική Σύμβαση Εργασίας (Ε.Γ.Σ.Σ.Ε) </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> ΓΣΕΕ, Εθνική Γενική Συλλογική Σύμβαση Εργασίας (Ε.Γ.Σ.Σ.Ε) </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-14 02:07:55.0</pubDate>
+							<eAddress>http://www.gsee.gr/left_menu_files/left_m_p2.php?p_id=7&amp;men_pos=2</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="el"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>ΓΣΕΕ</keyTerm>
+					<keyTerm>ΓΕΝΙΚΗ</keyTerm>
+					<keyTerm>ΣΥΝΟΜΟΣΠΟΝΔΙΑ</keyTerm>
+					<keyTerm>ΕΡΓΑΤΩΝ</keyTerm>
+					<keyTerm>ΕΛΛΑΔΑΣ</keyTerm>
+					<keyTerm>ΓΣΕΕ</keyTerm>
+					<keyTerm>ΕΡΓΑΖΟΜΕΝΟΙ</keyTerm>
+					<keyTerm>ΕΓΣΣΕ</keyTerm>
+					<keyTerm>ΣΥΛΛΟΓΙΚΕΣ ΣΥΜΒΑΣΕΙΣ</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EL/18690.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Εθνική Γενική Συλλογική Σύμβαση Εργασίας (Ε.Γ.Σ.Σ.Ε)</p>
+			<p id="p2">Με τις συλλογικές συμβάσεις εργασίας (σ.σ.ε.), που συμφωνούνται εγγράφως μεταξύ των συνδικαλιστικών οργανώσεων εργαζομένων και εργοδοτών (ή εργοδότη), καθορίζονται οι όροι εργασίας. Με τις σ.σ.ε. εξομοιώνονται και οι διαιτητικές αποφάσεις.</p>
+			<p id="p3">Οι σ.σ.ε. διακρίνονται σε:</p>
+			<p id="p4">τοπικές ομοιοεπαγγελματικές.</p>
+			<p id="p5">Οι Εθνικές Γενικές Συλλογικές Συμβάσεις Εργασίας (Ε.Γ.Σ.Σ.Ε.) καθορίζουν τους ελάχιστους όρους εργασίας, που ισχύουν για τους εργαζόμενους όλης της χώρας. Στους εργαζομένους αυτούς περιλαμβάνονται και οι εργαζόμενοι με σχέση εργασίας ιδιωτικού δικαίου στο Δημόσιο, τα ΝΠΔΔ και τους ΟΤΑ.</p>
+			<p id="p6">Με τις ΕΓΣΣΕ θεσπίζονται οι κατώτεροι υποχρεωτικοί μισθοί - ημερομίσθια και συμπληρώνονται οι γενικοί όροι εργασίας, που ρυθμίζονται από τους σχετικούς νόμους και κατοχυρώνονται από το Σύνταγμα.</p>
+			<p id="p7">Το περιεχόμενο των σ.σ.ε. είναι ευρύτατο και τα θέματα που μπορούν να ρυθμίζονται αναφέρονται στο άρθρο 2 του Ν.1876/90, ο οποίος διέπει τις συλλογικές διαπραγματεύσεις και τις συλλογικές συμβάσεις.</p>
+			<p id="p8">Οι ΕΓΣΣΕ συνάπτονται από την τριτοβάθμια οργάνωση των εργαζομένων, δηλαδή τη ΓΣΕΕ και τις αναγνωριζόμενες σήμερα ως ευρύτερης εκπροσώπησης οργανώσεις των εργοδοτών, δηλαδή τον ΣΕΒ, τη ΓΣΕΒΕΕ και την ΕΣΕΕ.</p>
+		</body>
+	</text>
+</cesDoc>

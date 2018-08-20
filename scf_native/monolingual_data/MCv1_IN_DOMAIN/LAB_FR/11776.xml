@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ai-je le droit de diminuer le salaire de mes salariés pour faire face à des difficultés économiques ? - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ai-je le droit de diminuer le salaire de mes salariés pour faire face à des difficultés économiques ? - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:25:48.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=958&amp;titre=Ai-je+le+droit+de+diminuer+le+salaire+de+mes+salari%C3%A9s+pour+faire+face+%C3%A0+des+difficult%C3%A9s+%C3%A9conomiques+%3F</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11776.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Thème du droit du travail : Rémunération</p>
+			<p id="p2">Ai-je le droit de diminuer le salaire de mes salariés pour faire face à des difficultés économiques ?</p>
+			<p id="p3">baisse du carnet de commandes ;</p>
+			<p id="p4">marge brute d'exploitation nettement inférieure aux charges fixes ;</p>
+			<p id="p5">surendettement bancaire constant ;</p>
+			<p id="p6">baisse durable de l'activité, etc.</p>
+			<p id="p7">Mais attention, le salaire tel qu’il est prévu dans le contrat de travail est un élément essentiel du contrat de travail. Vous avez besoin de l’accord du salarié pour le modifier.</p>
+			<p id="p8">Demander l’accord du salarié</p>
+			<p id="p9">Votre proposition doit être adressée au salarié par lettre recommandée avec accusé de réception (LRAR).</p>
+			<p id="p10">Il est important de préciser la modification envisagée et les raisons économiques de votre décision. Informez également le salarié des conséquences de son refus ou de son acceptation.</p>
+			<p id="p11">Attention : il y a une limite à la baisse de salaire. Vous devez respecter les dispositions des accords « salaires » de votre convention collective et le SMIC. Vous ne pouvez pas diminuer le salaire en-dessous de ces seuils.</p>
+			<p id="p12">Délai de réflexion d’un mois</p>
+			<p id="p13">La modification envisagée ayant une origine économique, le salarié dispose d’un délai d’un mois, à compter de la réception de votre lettre, pour faire connaître son refus éventuel.</p>
+			<p id="p14">Ce délai expire à minuit le jour du mois suivant portant le même quantième que le jour de réception de la proposition.</p>
+			<p id="p15">Exemple :</p>
+			<p id="p16">Le salarié reçoit la proposition de modification le 28 septembre, son délai de réflexion se termine le 28 octobre à minuit.</p>
+			<p id="p17">Attention : même si le salarié rend sa réponse avant l'expiration du délai de réflexion, vous devez attendre la fin du délai pour agir. En effet :</p>
+			<p id="p18">si le salarié accepte et que vous lui faites signer un avenant avant la fin du délai, il pourra demander la nullité de cet avenant et le paiement des salaires antérieurs ;</p>
+			<p id="p19">si le salarié refuse avant la fin du délai et que vous procédez à son licenciement, ce dernier sera sans cause réelle et sérieuse.</p>
+			<p id="p20">Réponse du salarié</p>
+			<p id="p21">Sachez qu’à défaut de réponse dans le délai d'un mois, le salarié est réputé avoir accepté la modification ( Code du travail , art. L. 1222-6).</p>
+			<p id="p22">Si le salarié refuse la modification, vous devrez renoncer à cette modification ou envisager un licenciement pour motif économique .</p>
+			<p id="p23">Notez-le : vous devez consulter les représentants du personnel sur la proposition de modification de l'élément essentiel du contrat de travail. En effet, cette proposition ayant pour origine des difficultés économiques, ils doivent être consultés. Un refus de leur part n'empêche pas de continuer la procédure.</p>
+			<p id="p24">Pour plus de précisions sur les modifications du contrat de travail, les Editions Tissot vous proposent leur ouvrage « Tissot Social Entreprise ».</p>
+			<p id="p25">Article publié le 24 septembre 2009</p>
+			<p id="p26">Partagez cet article :</p>
+			<p id="p27">Actualités de la semaine pour les PME</p>
+			<p id="p28">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

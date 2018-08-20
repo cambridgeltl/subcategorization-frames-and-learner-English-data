@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>El Kala - Parc National</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>El Kala - Parc National</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-01 23:07:48.0</pubDate>
+							<eAddress>http://annaba.net.free.fr/html/kala.parc.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/22236.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Parc National d'El Kala</p>
+			<p id="p2">Le caractère exceptionnel d'El Kala réside dans sa réserve naturelle théoriquement protégée qui laisse le visiteur de cette région admiratif et contemplateur. Crée en 1983, Le Parc National s'étend sur une superficie de 76438 ha. Situé au nord-est de l'Algérie, il est limité à l'est par la frontière algéro-tunisienne, au nord par la mer, à l'ouest par le Cap Rosa, au sud par les contreforts du djebel El Ghorra. Le Parc est composé d'une mosaïque d'écosystèmes forestiers, lacustres, dunaires et marins, lui conférant une haute valeur biologique et écologique dans le bassin méditerranéen. Sa flore, sa faune et son patrimoine culturel lui ont valu son inscription en tant que réserve de la Biosphère par l'UNESCO en 1990.</p>
+			<p id="p3">Ecosystème lacustre</p>
+			<p id="p4">Trois grands lacs d'importance internationale, sont disposés en arc de cercle autour d'El Kala : le lac Mellah (eau salé), réserve intégrale de 860 ha (lagune unique en Algérie), est en contact avec la méditerranée par un chenal ; c'est un écosystème d'une richesse considérable, car il dispose en plus des apports aquatiques marines (poissons, crustacés), des sources de montagne ; le lac Tonga (eau saumâtre) et le lac Oubeïra (eau douce) sont des lacs poissonneux, plus ou moins profonds et d'une superficie respective d'environ 2600 ha et 2200 ha. Ces zones humides sont situées sur la voie de migration de dizaines de milliers d'oiseaux venant d'Europe et d'Asie soit pour hiverner, et certains pour se reproduire, soit pour faire une halte après l'épreuve de la traversée de la Méditerranée avant d'entamer la suivante, la traversée du Sahara. C'est en hiver en effet que la région d'El Kala prend son importance internationale de centre de biodiversité avec ses lacs considérés comme le plus important site d'hivernage ornithologique du bassin méditerranéen. Cet écosystème lacustre constitue le dernier sanctuaire pour la survie de certaines espèces rares et endémiques. A ce titre le lac Tonga et le lac Oubeïra ont été inscrit, en 1982, sur la liste Ramsar relative aux zones humides d'importance internationale. En ratifiant le traité Ramsar (ville iranienne où fut adoptée en 1971 la Convention sur les zones humides) l'Algérie a bénéficié d'une aide internationale pour entretenir ce vaste réseau de migration des oiseaux, à l'échelle du monde.</p>
+			<p id="p5">Richesse faunistique</p>
+			<p id="p6">En raison de la diversité des écosystèmes et des niches écologiques, une importante faune vit dans cette région. Ainsi le groupe des mammifères est représenté par 40 espèces connues et recensées dont 9 chiroptères (chauve-souris) et 2 espèces marines, le phoque moine et le dauphin commun. Mais le mammifère emblématique de la région est le cerf de Barbarie ; c'est une espèce endémique et reste la seule espèce connue de cervidé africain. L'hyène tachetée ou rayée, le renard roux, le chacal doré, le lynx caracal, le chat sauvage, la genette, la mangouste, le porc-épique se font de plus en plus rares. Le sanglier, comme partout en Algérie, prolifère dangereusement. La loutre, espèce protégée à l'échelle mondiale, vit discrètement dans les eaux du lac Oubeïra. Quant aux deux espèces de tortues marines, les plus connues dans la région, la tortue caouane et la tortue verte, florissantes il y a si peu de temps, ont régressé de façon inquiétante à cause de leurs plages de pentes perturbées par la multiplication des routes et le développent inconscient de ces prétendues zones dites " d'expansion touristique ". La majorité de la population est en effet peu soucieuse de la protection de l'environnement et n'est, à ce jour, pas suffisamment sensibilisée au geste écologique. Le Parc abrite également 25 espèces de rapaces, dont le balbuzard pêcheur et le vautour percnoptère ; 9 espèces d'oiseaux marins, dont le cormoran huppé et le goéland argenté ; 64 espèces d'oiseaux d'eau, dont la poule sultane, la sarcelle marbrée et surtout deux espèces de canards, le fuligule nyroca et l'erismature à tête blanche, qui ont contribué au classement international des zones humides d'El Kala parce qu'elles rassemblent chaque hiver une forte proportion de leurs effectifs mondiaux.</p>
+			<p id="p7">Ecosystème forestier</p>
+			<p id="p8">La flore de la réserve d'El Kala compte environ 850 espèces qui représentent le tiers de la flore algérienne. Elle est constituée de plantes aquatiques, d'un ensemble de plantes faisant partie des cortèges floristiques du chêne liège, du chêne zèen et de certaines très rares, la châtaigne d'eau et le nénuphar jaune qui tapissent la surface du lac Oubeïra, dont c'est la seule station dans le Maghreb. L'écosystème forestier est composé principalement de forêts naturelles telles que le chênes zèen et le chênes liège abritant de nombreuses essences comme le châtaignier et le chêne vert, et de forêts de reboisements à savoir le pin maritime et l'eucalyptus. Par endroit grâce à l'action de l'homme, le cèdre a repris sa place dans la région. Les sous-bois sont évidemment très riches. Le chêne vit en symbiose avec la bruyère, qui fournit la matière première pour la petite fabrique locale de pipes. Arbousier, myrte, ciste, romarin, laurier noble... embaument de leurs senteurs enivrantes la montagne quand ce n'est pas les genêts qui dorent les maquis.</p>
+			<p id="p9">L'aulnaie de Aïn Khiar</p>
+			<p id="p10">L'aulnaie de Aïn Khiar (Commune de Berrihane) est une petite zone marécageuse qui se situe au nord de la plaine agricole d'El Tarf. Ce petit écosystème, fragile et original, reçoit en période hivernale les eaux des crues de l'oued El Kebir. C'est un milieu extrêment rare de zone humide naturelle de la région méditerranéenne qui peut être considéré comme un site d'importance internationale. Les formations d'aulnaies se caractérisent par une composition spécifique du peuplement d'oiseaux qui les exploite. Elles se composent d'arbres de grande taille, pouvant atteindre 20 m de hauteur en moyenne.</p>
+			<p id="p11">Le Lac des Oiseaux</p>
+			<p id="p12">A 45 Km à l'ouest d'El Kala, se trouve le Lac des Oiseaux classé également réserve naturelle. C'est un lac d'eau douce d'une superficie de 120 ha en période hivernale et 70 ha en période sèche. Malgré sa taille réduite en été, il abrite toutefois la nidification de nombreuses espèces rares. Sa flore est également très riche, et pour certaines espèces c'est l'unique station.</p>
+			<p id="p13">Le marais de la Mekhada</p>
+			<p id="p14">Le marais de la Mekhada se situe à 20 Km à l'est de la ville de Annaba et à 45 Km à l'ouest de la ville d'El Kala. C'est un immense bassin marécageux, occupant la partie centrale de la plaine de la Mafragh. Lieu de confluence de l'oued El Kébir et de l'oued Bounamoussa, il est séparé de la mer par un cordon dunaire (plage El Battah). D'une profondeur de 0,5 à 1 mètre, sa surface est recouverte à plus de 80% d'une végétation émergente constituée principalement de scirpes. C'est ici que se regroupe la plus grande concentration d'oiseaux d'eau du complexe de zones humides de la région d'El Kala. Le marais abrite habituellement 20000 à 30000 oiseaux d'eau en hiver. En été, le marais héberge la nidification de plusieurs espèces intéressantes, dont au moins une, l'erismature à tête blanche, qui est à un stade critique de son cycle de vie.</p>
+			<p id="p15">Le lac Fetzara</p>
+			<p id="p16">Outre les lacs d'El Kala, on distingue à 18 Km au sud-ouest de la ville d'Annaba, près de la commune de Berrahal, l'un des lacs les plus étendue d'Algérie : le lac Fetzara (Garât Fzara). Sa superficie est estimée à plus de 20000 hectares. Le fond du lac est à 10 mètres au-dessus du niveau de la Méditerranée. Soupçonné par la Compagnie des minerais de fer de Mokta El Hadid d'être la source de fièvres paludéennes durant l'époque coloniale, le lac fut dès 1877 asséché durant de longues années et, de ce fait, a perdu ses qualités de site de nidification le plus important. Ces travaux d'assèchement ont par ailleurs fait découvrir dans son bassin des vestiges d'époque romaine. Ce lac, considérablement réduit en été, est une réserve naturelle d'une richesse ornithologique remarquable et particulièrement en hiver où il constitue un quartier d'hivernage d'une grande importance à l'échelle régionale et internationale.</p>
+			<p id="p17">Ecosystème marin - Ecosystème dunaire</p>
+			<p id="p18">Le littoral d'El Kala s'étend sur environ 50 Km entre le Cap Segleb (ou Cap Roux) et le Cap Rosa. Il est composé de formation corallienne abritant plusieurs espèces de poissons. Bien qu'interdite par une loi de 1998, la pêche du corail rouge prend des proportions alarmantes en Algérie. Les autorités algériennes avaient en effet interdit de pêcher "l'or rouge" pendant dix ans pour lui laisser le temps de se régénérer. Mais lorsqu'on sait que le Kilo de corail rouge se vend environ à 150 000 DA (soit 1 500 €) de nombreuses familles sont attirées par ce braconnage que les gardes-côtes arrivent difficilement à contrôler. Les corailleurs clandestins opèrent en réseaux internationaux, principalement avec la Tunisie. Mais en attendant qu'une mesure drastique soit prise afin d'empêcher la mise à mort de cette richesse, des bancs de corail continuent d'être dilapidés. Les fonds marins sont infiltrés par les courants d'eaux douces riches en nutriments provenant des lacs côtiers et qui, au fil du temps, ont façonné un monde sous-marin d'une incomparable beauté où foisonne une vie aquatique qui singularise les rivages de la réserve d'El Kala. Le littoral est formé également de plages, de dunes, de falaises de grès et de grottes qui sont des lieux de nidification de nombreuses espèces d'oiseaux. La fixation des dunes littorales, d'une altitude variant entre 20 et 120 m, est tributaire d'une végétation abondante et diversifiée.</p>
+			<p id="p19">Patrimoine écologique et historique d'El Kala</p>
+			<p id="p20">Les plages d'El Kala et ses criques naturelles sont d'une beauté exceptionnelles. On y distingue principalement l'étendue poudreuse de la plage de la Messida, réputée pour son sable particulièrement fin. La plage est traversée par l'oued Messida longeant les vestiges d'une ancienne fonderie de plomb argentifère provenant de l'ancienne mine du Kef Oum Tboul datant de 1856 (frontière algéro-tunisienne). La magnifique plage du Cap Rosa, élevée elle aussi au statut de réserve naturelle, est malheureusement souillée en été par les campeurs. Le Cap Rosa marque la limite entre le golfe d'Annaba à l'est et celui d'El Kala à l'ouest. Le promontoire, recouvert principalement de maquis et de chênes, est coiffé d'un phare à peine visible depuis la plage. La couleur ocre de la roche locale réfléchissant une teinte rosé au levé et au couché du soleil lui aurait donné son nom "Cap Rose" ou "Cap Rosa". Le paysage boisé environnant est traversé par des cours d'eau qui descendent jusqu'à la plage où s'abreuvaient il n'y a pas si longtemps les bêtes sauvages tels que les fameux cerfs de Barbaries. D'autres criques vierges, dont on ne soupçonnait pas l'existence, sont aujourd'hui accessibles depuis l'ouverture de la nouvelle route sur le littoral entre Annaba et El Kala (ancien tracé romain).</p>
+			<p id="p21">Le Parc est en outre un site à vocation écotouristique par excellence ; il comprend plusieurs stations d'intérêts visuels dont les plus remarquables sont : le Cap Segleb, le djebel El Ghorra culminant à 1202 m d'altitude, les forêts de chênes-lièges de Bougous, le barrage Meksna ou encore le splendide paysage montagneux d'El Kifane. Le patrimoine historique du Parc d'El Kala remonte au paléolithique inférieur (- 1,8 million d'années à - 100 000 ans). C'est, également la région du pays qui a donné le plus de pièces en volume pour la période puniquo-libyque. Le Parc recense à ce jour plus de 150 sites historiques dont les plus remarquables sont localisés sur les hauteurs de Bougous, la zone d'El Aïoun, celle d'Oum Teboul jusqu'aux Cap Segleb et enfin autour des Lacs jusqu'à la Vielle Calle.</p>
+			<p id="p22">Mais ce fleuron de la biodiversité méditerranéenne est cependant en totale déperdition depuis qu'il a été promulgué officiellement Parc National depuis 1983. Plusieurs aménagements touristiques et routes ont été réalisés, notamment le mégaprojet du tracé de l'autoroute Est-Ouest, démarré en septembre 2006, qui relie Tlemcen à El Kala sur 1216 Km de bitumes.</p>
+			<p id="p23">Copyright © Kamel - Annaba et sa région 2005-2010</p>
+		</body>
+	</text>
+</cesDoc>

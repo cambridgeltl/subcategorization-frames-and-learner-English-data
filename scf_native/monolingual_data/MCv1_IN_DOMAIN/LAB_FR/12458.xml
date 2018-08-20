@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Période d’essai : attention au changement du 1er juillet - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Période d’essai : attention au changement du 1er juillet - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:39:08.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=382&amp;titre=P%C3%A9riode+d%E2%80%99essai+%3A+attention+au+changement+du+1er+juillet</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/12458.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Période d’essai : attention au changement du 1er juillet</p>
+			<p id="p2">Aujourd’hui, si vous fixez une période d’essai dans un contrat de travail, vous vous référez soit au Code du travail, soit à votre convention collective. Mais êtes-vous sûr des dispositions de votre convention collective ? Car certaines durées conventionnelles ne seront plus applicables à compter du 1er juillet 2009.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">La période d'essai permet d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d'apprécier si les fonctions occupées lui conviennent ( Code du travail , art. L. 1221-20).</p>
+			<p id="p5">Il n’est pas obligatoire d’insérer une période d’essai dans le contrat de travail.</p>
+			<p id="p6">Durée maximale de la période d’essai</p>
+			<p id="p7">Le Code du travail fixe des durées maximales de la période d’essai . Elles sont applicables depuis le 27 juin 2008.</p>
+			<p id="p8">Elles varient en fonction de la catégorie professionnelle du salarié.</p>
+			<p id="p9">Catégorie professionnelle</p>
+			<p id="p10">3 mois</p>
+			<p id="p11">4 mois</p>
+			<p id="p12">Vous devez respecter ces durées maximales fixées par le Code du travail. Toutefois, la loi vous autorise à appliquer une durée :</p>
+			<p id="p13">plus longue si elle est fixée par un accord de branche conclu avant la publication de la loi, soit le 26 juin 2008 ;</p>
+			<p id="p14">plus courte si elle est fixée par un accord collectif conclu après la publication de la loi, soit le 26 juin 2008 ;</p>
+			<p id="p15">plus courte fixée dans la lettre d'engagement ou le contrat de travail.</p>
+			<p id="p16">Les accords de branche (convention collective) conclus avant le 26 juin 2008 et fixant des durées d’essai plus courtes que celles fixées par le Code du travail ne s’appliqueront plus à compter du 1er juillet 2009.</p>
+			<p id="p17">Période d’essai plus courte prévue par votre convention collective</p>
+			<p id="p18">Votre convention collective prévoit une période d’essai plus courte que celle du Code du travail ?</p>
+			<p id="p19">Si la réponse est oui : vérifiez si les dispositions de votre convention collective s’appliquent toujours le 1er juillet 2009. Pour cela, il faut connaître la date de signature de l’accord de branche (convention collective) fixant la durée de la période d’essai.</p>
+			<p id="p20">Si l’accord a été conclu avant le 26 juin 2008. Vous ne pouvez plus appliquer les dispositions de votre convention collective. A compter du 1er juillet 2009, vous devez appliquer celles du Code du travail.</p>
+			<p id="p21">Exemple :</p>
+			<p id="p22">C’est le cas des conventions collectives des ouvriers du Bâtiment (plus de 10 et moins de 10 salariés), dans lesquelles la période d’essai est limitée à 3 semaines et qui datent du 8 octobre 1990.</p>
+			<p id="p23">Si l’accord a été conclu après le 26 juin 2008. Vous appliquez votre convention collective.</p>
+			<p id="p24">En résumé :</p>
+			<p id="p25">Plus courte</p>
+			<p id="p26">Applicable</p>
+			<p id="p27">Pas applicable</p>
+			<p id="p28">I. Vénuat</p>
+			<p id="p29">(Loi n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail et circulaire DGT n° 2009-5 du 17 mars 2009)</p>
+			<p id="p30">Pour plus de précisions sur la rédaction du contrat de travail, les Editions Tissot vous proposent leur ouvrage « Modèles commentés pour la gestion du personnel ».</p>
+			<p id="p31">Partagez cet article :</p>
+			<p id="p32">Articles sur le même thème : Embauche</p>
+			<p id="p33">Actualités de la semaine pour les PME</p>
+			<p id="p34">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

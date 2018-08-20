@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Licenciement pendant un arrêt maladie suite à un accident du travail - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Licenciement pendant un arrêt maladie suite à un accident du travail - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 18:45:45.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=238&amp;titre=Licenciement+pendant+un+arr%C3%AAt+maladie+suite+%C3%A0+un+accident+du+travail</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/8347.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Licenciement pendant un arrêt maladie suite à un accident du travail</p>
+			<p id="p2">Un salarié en arrêt maladie suite à un accident du travail ou une maladie professionnelle ne peut pas être licencié. Il existe toutefois des exceptions à cette protection. Et il est nécessaire d’être précis dans la lettre de licenciement si la rupture du contrat est inévitable.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Le contrat de travail du salarié victime d'un accident du travail , autre qu'un accident de trajet, ou d'une maladie professionnelle est suspendu pendant la durée de l'arrêt de travail provoqué par cet accident ou cette maladie professionnelle (AT/MP) ( Code du travail , art. L. 1226-7).</p>
+			<p id="p5">Au cours de cette suspension du contrat de travail, le salarié victime d’un accident du travail ou d’une maladie professionnelle bénéficie d’une protection particulière contre le licenciement.</p>
+			<p id="p6">Cette protection contre le licenciement est limitée. En effet, durant l’arrêt de travail, le salarié peut être licencié, mais les cas prévus par le Code du travail sont limités.</p>
+			<p id="p7">Un motif économique peut justifier un licenciement si le maintien du salarié en arrêt suite à un AT/MP est impossible.</p>
+			<p id="p8">L'employeur ne peut rompre le contrat de travail que s'il justifie :</p>
+			<p id="p9">soit de son impossibilité de maintenir le contrat pour un motif étranger à l'accident ou à la maladie (Code du travail, art. L. 1226-9).</p>
+			<p id="p10">Dans cette seconde hypothèse, la lettre de licenciement doit préciser les motifs qui rendent impossible le maintien du contrat de travail du salarié en arrêt maladie.</p>
+			<p id="p11">Attention, l’existence d’un motif économique de licenciement ne caractérise pas, à elle seule, cette impossibilité de maintien le contrat de travail pour un motif étranger à un AT/MP. Il faut expliquer, dans la lettre de licenciement, en quoi le motif économique justifiait le maintien impossible du contrat.</p>
+			<p id="p12">Exemple :</p>
+			<p id="p13">Un salarié est licencié pendant un arrêt de travail suite à un accident du travail. Sa lettre de licenciement mentionne un motif économique. Elle mentionne également que la cessation de l’activité de la carrière à laquelle le salarié était exclusivement affecté rendait impossible le maintien de son contrat de travail en raison de la disparition de son poste et de l’absence de poste disponible compatible avec sa qualification. Pour la Cour de cassation, la lettre de licenciement est suffisamment motivée et le licenciement est donc justifié.exemple</p>
+			<p id="p14">I. Vénuat</p>
+			<p id="p15">(Cour de cassation, chambre sociale, 17 février 2010, n° 08-45360 : le licenciement d’un salarié en arrêt de travail suite à un AT/MP est très encadré)</p>
+			<p id="p16">Article publié le 4 mars 2010</p>
+			<p id="p17">Partagez cet article :</p>
+			<p id="p18">Articles sur le même thème : Licenciement</p>
+			<p id="p19">Actualités de la semaine pour les PME</p>
+			<p id="p20">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

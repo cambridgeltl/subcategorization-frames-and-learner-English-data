@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Parc national des Ecrins | Botanique : de l'inventaire au suivi</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Parc national des Ecrins | Botanique : de l'inventaire au suivi</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:41:57.0</pubDate>
+							<eAddress>http://www.ecrins-parcnational.fr/dossiers/529/529.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>parc national des ecrins</keyTerm>
+					<keyTerm>parc national</keyTerm>
+					<keyTerm>ecrins</keyTerm>
+					<keyTerm>biodiversité</keyTerm>
+					<keyTerm>patrimoine</keyTerm>
+					<keyTerm>randonnée</keyTerm>
+					<keyTerm>randonner</keyTerm>
+					<keyTerm>faune</keyTerm>
+					<keyTerm>flore</keyTerm>
+					<keyTerm>alpes</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/2340.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Lors de leurs relevés de terrain, les agents du Parc national des Écrins utilisent un ordinateur de poche pour cartographier la flore patrimoniale. Il s'agit désormais de montrer "comment évolue la répartition géographique d'une espèce" et non plus seulement où elle se trouve.</p>
+			<p id="p2">Aux côtés des jumelles et de la radio, un ordinateur de poche va progressivement faire partie des outils du garde-moniteur au Parc national des Écrins. Actuellement, il est utilisé pour le suivi des 169 espèces de la flore patrimoniale.</p>
+			<p id="p3">Cet "outil nomade" avec son application "flore" a été conçue par le Parc national des Écrins, en lien avec Caminéo, un prestataire de développement informatique. Il est expérimenté cet été dans ses sept secteurs. Il contient toutes les cartes IGN (1/25000) et les photographies aériennes (1/5000) des Écrins.</p>
+			<p id="p4">L'agent cartographie l'espèce, mais aussi les zones dans lesquelles elle est absente... en tout cas pour le moment !</p>
+			<p id="p5">L'objectif : connaître les dynamiques d'une espèce (densité, déplacement...) au regard des changements actuels (climat, pratiques pastorales...).</p>
+			<p id="p6">Son extension à d'autres domaines naturalistes est envisagée et son utilisation intéresse d'autres espaces protégés.</p>
+			<p id="p7">D'ores et déjà, le Conservatoire botanique national Alpin (CBNA), associé à la démarche engagée par le Parc national des Écrins, propose cet outil aux partenaires du réseau qu'il anime pour l'étude et la conservation de la flore.</p>
+			<p id="p8">De l'inventaire au suivi</p>
+			<p id="p9">En un peu plus de deux siècles, l'inventaire des plantes à fleurs et des fougères du massif des Ecrins a été réalisé. Il peut être considéré comme quasiment terminé.</p>
+			<p id="p10">Ainsi, le territoire du PNE abrite quelque 1800 espèces dont 120 (6,7%) bénéficient d'un statut de protection régional, national ou européen.</p>
+			<p id="p11">Deux espèces endémiques du Dauphiné</p>
+			<p id="p12">A gauche : la bérardie laineuse (Berardia subacaulis), une des premières, décrite en 1779 par Dominique Villars.</p>
+			<p id="p13">A droite : le cotoneaster de Rabou (Cotoneaster raboutensis) : la dernière décrite en 1998 par Flink, Fryer, Hylmö, Garraud et Zeller</p>
+			<p id="p14">Aujourd'hui, les botanistes sont confrontés à deux orientations complémentaires :</p>
+			<p id="p15">- Elargir leurs inventaires aux plantes sans fleur (mousses), aux lichens, aux champignons...</p>
+			<p id="p16">- Approfondir les relations entre les plantes à fleurs et leur milieu physique (climat, substrat) et biologique (relation avec les plantes, les animaux et l'homme).</p>
+			<p id="p17">C'est cette deuxième option qui est principalement retenue dans les Écrins.</p>
+			<p id="p18">L'usage de l'informatique de poche sur le terrain, associée à la base de données générale sur la flore du Parc national, facilite grandement cette nouvelle démarche de suivi.</p>
+			<p id="p19">Dans le Réseau de protection de la flore</p>
+			<p id="p20">Le Conservatoire botanique national alpin a mis en place, depuis 2008, un regroupement des acteurs de la conservation de son territoire d'agrément, couvrant ainsi 7 départements (01, 04, 05, 26, 38, 73 et 74).</p>
+			<p id="p21">La conservation de la flore sur un territoire aussi vaste ne pouvait en effet s'envisager sans un partenariat fort et pérenne avec l'ensemble des organismes qui interviennent sur tout ou partie des étapes de conservation : gestionnaires d'espaces naturels, universitaires, associations de protection de la nature, voire botanistes amateurs...</p>
+			<p id="p22">Les enjeux partagés par les membres du réseau sont :</p>
+			<p id="p23">1. de créer du lien entre les différents acteurs de la recherche, de la connaissance et de la gestion,</p>
+			<p id="p24">2. d'articuler, de mutualiser et de restituer les actions de suivi et conservation de la flore pour les Alpes françaises et l'Ain,</p>
+			<p id="p25">3. de favoriser la construction de projets communs de connaissance et de gestion conservatoire des espèces et milieux déterminés par le réseau à l'échelle biogéographique du massif alpin,</p>
+			<p id="p26">4. de valoriser les actions communes et d'y sensibiliser les acteurs intervenant sur ces territoires.</p>
+			<p id="p27">Sa démarche a déjà permis d'élaborer une liste commune d'espèces prioritaires en matière de conservation (liste bloquée), de définir des protocoles communs pour le suivi de ces espèces et de réaliser des synthèses sur l'évolution de quelques espèces.</p>
+			<p id="p28">La mise en place d'un outil informatique pour les relevés de terrain, développé au Parc national des Écrins a été réalisée en lien étroit avec le Conservatoire Botanique National Alpin (CBNA). Dans le cadre du réseau qu'il anime, le CBNA propose l'utilisation de ce petit ordinateur de terrain aux partenaires qui assurent le suivi de la flore dans les Alpes et l'Ain.</p>
+			<p id="p29">L'informatique au service des relevés de terrain</p>
+			<p id="p30">Aux Écrins, les données enregistrées dans cet outil nomade viennent alimenter la base de données générale sur la flore du Parc national des Écrins (1800 espèces).</p>
+			<p id="p31">Cette base de données est également abondée par les données anciennes (bibliographie), celles relevées par les agents du Parc national (sur papier depuis plus de 35 ans) et celles transmises par les partenaires, le Conservatoire botanique notamment.</p>
+			<p id="p32">Elle permet des requêtes sur le travail réalisé les années précédentes : répartition, phénologie, perturbations et usages...</p>
+			<p id="p33">Éviter toute dérive méthodologique !</p>
+			<p id="p34">Pour l'instant, cet outil concerne uniquement la flore patrimoniale suivie dans les Écrins. Cette liste bloquée d'espèces fait l'objet d'un menu déroulant. "C'est une contrainte qui évite les effets de mode sur les sites et les espèces.</p>
+			<p id="p35">La précision de la localisation géographique est largement améliorée par le recours au GPS et aux photographies aériennes (1/5000) qui sont intégrées à l'outil" explique Pierre Salomez, botaniste au Parc national qui a suivi la mise en place de l'application.</p>
+			<p id="p36">"Dans le passé, hormis le fait de compter des "pieds" (et quand il n'y en a pas trop !) les relevés botaniques souffraient de l'absence de données quantifiées fiables. Ce nouvel outil permet d'estimer des surfaces et des densités d'occupation".</p>
+			<p id="p37">Plus que tout, il importe d'enregistrer l'étendue d'un territoire prospecté sans le moindre résultat. En effet, noter l'absence de l'espèce recherchée est la seule façon de se ménager la possibilité de déceler l'apparition d'une nouvelle station de cette espèce."</p>
+			<p id="p38">Sur le terrain, l'outil permet de connaître ce que l'on sait de l'histoire d'une station d'espèce patrimoniale : a t-elle déjà été découverte ? par qui ? quand ?...</p>
+			<p id="p39">Il permet à l'observateur de réaliser la saisie immédiatement</p>
+			<p id="p40">⊕ sans erreur sur le nom des espèces</p>
+			<p id="p41">⊕ en se localisant précisément sur carte puis sur photo aérienne, avec (ou sans) le GPS</p>
+			<p id="p42">⊕ en saisissant les zones d'absence constatée...</p>
+			<p id="p43">Des exemples pour mieux comprendre...</p>
+			<p id="p44">Les suivis de certaines espèces patrimoniales permettent de répondre à certaines questions ou de vérifier des hypothèses concernant l'évolution du climat ou la gestion des milieux par l'homme.</p>
+			<p id="p45">Combien de temps une espèce arctico-alpine peut-elle résister au réchauffement climatique en cours ?</p>
+			<p id="p46">Plante-témoin : Carex bicolor</p>
+			<p id="p47">Habitat Ecrins-Dauphiné :</p>
+			<p id="p48">Plante-témoin : Genévrier thurifère</p>
+			<p id="p49">Habitat Ecrins-Dauphiné :</p>
+			<p id="p50">La gestion forestière en futaie jardinée est-elle compatible avec la conservation de la biodiversité des forêts de montagne ?</p>
+			<p id="p51">Plante-témoin : Sabot de Vénus</p>
+			<p id="p52">Habitat Ecrins-Dauphiné :</p>
+			<p id="p53">Le pâturage ovin de printemps et d'été permet-il de garder la diversité floristique des anciennes prairies de fauche ?</p>
+			<p id="p54">Plante-témoin : Reine des Alpes</p>
+			<p id="p55">Habitat Ecrins-Dauphiné :</p>
+			<p id="p56">Prospection avec un outil informatique de terrain : recherche du Carex bicolor près du lac du Goléon (Briançonnais).</p>
+			<p id="p57">Adobe Flash Player non installé ou plus vieux que 9.0.115!</p>
+			<p id="p58">Les rencontres de l'image auront lieu à Bourg d'Oisans les 17 et 18 septembre. Le programme devrait réunir passionnés de photos et de montagne de tous âges !</p>
+		</body>
+	</text>
+</cesDoc>

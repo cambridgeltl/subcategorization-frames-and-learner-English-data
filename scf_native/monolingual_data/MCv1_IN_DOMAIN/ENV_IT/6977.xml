@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Desertificazione :: Legambiente.it</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Desertificazione :: Legambiente.it</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 19:15:05.0</pubDate>
+							<eAddress>http://www.legambiente.it/dettaglio.php?tipologia_id=10&amp;contenuti_id=87</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/6977.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Desertificazione</p>
+			<p id="p2">È un fenomeno di degrado del suolo che avviene nelle zone a clima arido, semiarido e sub umido per una combinazione di fattori climatici e antropici. Il suolo si impoverisce progressivamente delle sue proprietà chimico-fisiche fino al punto di non riuscire a sostenere l’insediamento di comunità animali e vegetali, l’equilibrio stesso dell’ecosistema. Non va confusa con l’espansione dei deserti, la ‘desertizzazione’. la sterilizzazione del terreno che si riscontra si verifica infatti anche in aree fortemente irrigate o situate a latitudini lontane dalle regioni desertiche. Nell’avvio del processo sono rilevanti le conseguenze di un’errata gestione del terreno: l’impiego di sistemi di coltivazione non adeguati alle condizioni climatiche e alle caratteristiche del suolo, lo sfruttamento eccessivo delle risorse idriche, la deforestazione, la presenza di allevamenti intensivi.</p>
+			<p id="p3">Il problema è particolarmente grave in Africa, Asia e America Latina ma anche Stati Uniti, Australia ed Europa sud orientale sono interessati al fenomeno. In Italia è il 27% del territorio ad essere minacciato dai processi di inaridimento, e le regioni più a rischio sono Sicilia, Sardegna, Puglia, Calabria e Basilicata. Il nostro Paese (lo stesso accade in Portogallo, Spagna, Grecia e Turchia) è colpito dalla desertificazione per effetto di fattori climatici, dell’abbandono delle terre, dello sfruttamento delle risorse idriche per usi agricoli, industriali e urbani.</p>
+			<p id="p4">Sono 191, Italia compresa, gli Stati e le organizzazioni internazionali che hanno ratificato la Convenzione Onu per la lotta alla desertificazione (Unccd). Oggi nella ricerca di soluzioni si dà maggior rilievo al ruolo delle comunità rurali per fermare il degrado del territorio. Si tende inoltre ad affrontare la globalità del problema, spesso legato alla crescita demografica e a fattori politici e socioeconomici.</p>
+			<p id="p5">Cod. Fiscale 80458470582 - P. Iva 02143941009</p>
+		</body>
+	</text>
+</cesDoc>

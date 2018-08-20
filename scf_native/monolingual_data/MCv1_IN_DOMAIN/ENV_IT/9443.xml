@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Rete Nazionale Rifiuti Zero: RIFIUTI: ISTAT, ANCORA ALTA QUOTA SMALTITA IN DISCARICA</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Rete Nazionale Rifiuti Zero: RIFIUTI: ISTAT, ANCORA ALTA QUOTA SMALTITA IN DISCARICA</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 08:32:25.0</pubDate>
+							<eAddress>http://rifiutizerotrapani.blogspot.com/2008/05/rifiuti-istat-ancora-alta-quota.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/9443.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Foto Ansa.it</p>
+			<p id="p2">Con un valore di 325 Kg di rifiuti smaltiti in discarica per ciascun abitante l'Italia si colloca, nel 2006, troppo al di sopra della media europea: l'orientamento comunitario in materia di gestione dei rifiuti e', infatti, quello di prevenirne la produzione, promuovendone il riciclo, diminuendo lo smaltimento in discarica. E' quanto emerge dal rapporto dell'Istat, "Cento statistiche per il Paese", presentato oggi in una conferenza stampa a Roma. Analizzando le situazioni di ogni singola regione d'Italia, si rileva un divario piuttosto accentuato tra i valori dell'indicatore al nord (195 chilogrammi pro capite per il nord-ovest e 226 per il nord-est) e nel Mezzogiorno dove si registrano poco meno di 400 chili pro capite di rifiuti smaltiti in discarica. Per questo nell'ambito del Quadro stratetigico nazionale per le politiche regionali e' previsto un meccanismo incentivante a favore delle regioni del Mezzogiorno che raggiungeranno nel 2013 il valore-obiettivo di 230 chili per abitante di rifiuti urbani smaltiti in discarica. Tra le regioni del nord, quattro si collocano gia' al di sotto di tale soglia (Lombardia, Veneto, Friuli Venezia Giulia e provincia autonoma di Bolzano), mentre le restanti sono comunque vicine. Fanno eccezione la Valle d'Aosta e la Liguria, con quote in crescita che nel 2006 superano i 540 chili pro capite. Tutte le regioni del centro presentano tuttora valori elevati dell'indicatore e si collocano nella classe peggiore, piu' di 360 chili per abitante. Nel Mezzogiorno la situazione non e' molto migliore di quella del centro, con l'eccezione della Basilicata che, con 232 chili pro capite si deve tuttavia segnalare l'andamento decrescente di tale forma di smaltimento che caratterizza, oltre alla Basilicata, anche la Calabria e la Campania.</p>
+			<p id="p3">Fonte La repubblica.it</p>
+			<p id="p4">ISCRIVITI ALLA PAGINA DI RIFIUTI ZERO TRAPANI SU FACEBOOK</p>
+			<p id="p5">ISCRIVITI AL GRUPPO RETE RIFIUTI ZERO SICILIA SU FACEBOOK</p>
+			<p id="p6">VERTENZA CONTRO I CIP6</p>
+			<p id="p7">AVVERTENZA</p>
+			<p id="p8">Questo Blog non rappresenta una testata giornalistica in quanto viene aggiornato senza nessuna periodicità, non puo', pertanto, considerarsi un prodotto editoriale ai sensi della legge n. 62 del 7/03/2001. Le immagini inserite in questo blog sono tratte in massima parte da Internet, così come la maggior parte degli articoli. Qualora la loro pubblicazione violasse eventuali diritti d'autore, vogliate comunicarcelo e saranno subito rimossi.</p>
+			<p id="p9">Modello Picture Window. Immagini dei modelli di konradlew . Powered by Blogger .</p>
+		</body>
+	</text>
+</cesDoc>

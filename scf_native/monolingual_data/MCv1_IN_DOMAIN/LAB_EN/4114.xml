@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Allowances, penalty and overtime rates - NSW Industrial Relations</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Allowances, penalty and overtime rates - NSW Industrial Relations</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:25:31.0</pubDate>
+							<eAddress>http://www.industrialrelations.nsw.gov.au/Workers/Getting_paid/Allowances_penalty_overtime_rates.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/4114.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">All NSW private sector employers and their employees are now covered by the Fair Work national workplace relations system.</p>
+			<p id="p2">Allowances</p>
+			<p id="p3">Allowances are additional payments that are made to workers on top of their regular weekly wage for undertaking certain tasks, possessing a particular skill, using their own tools or performing work under adverse conditions. These extra payments are in addition to any penalty rates paid for working additional hours.</p>
+			<p id="p4">You will often receive an allowance if you:</p>
+			<p id="p5">are appointed as first aid officer by your employer</p>
+			<p id="p6">carry out supervisory duties such as being in charge or leading hand</p>
+			<p id="p7">work at heights or in confined places</p>
+			<p id="p8">do work that is excessively dangerous or dirty</p>
+			<p id="p9">are required to have uniforms laundered</p>
+			<p id="p10">use your own car for work purposes.</p>
+			<p id="p11">There are also various disability and qualification allowances.</p>
+			<p id="p12">Shift work</p>
+			<p id="p13">Shift work is usually separated into early morning, afternoon and late night shifts.</p>
+			<p id="p14">Allowances for shift work range from an additional 10% to 30% on top of your normal salary for the entire shift. </p>
+			<p id="p15">Check your award or agreement for details.</p>
+			<p id="p16">Penalty rates</p>
+			<p id="p17">Many awards and agreements allow for workers to work a set number of days within a seven day period. Part of these ordinary hours of work may fall on a Saturday or Sunday or late on certain nights. For instance if you work as a hairdresser or at a restaurant, your normal hours may include weekend or late night work.</p>
+			<p id="p18">If you work a late shift, work on a Saturday or Sunday, or a public holiday you will usually be entitled to additional money or penalty rate. The amount of the penalty rate will depend on which award or agreement covers your work.</p>
+			<p id="p19">Overtime rates are paid for work completed outside your ordinary hours of work.</p>
+			<p id="p20">For example, your award or agreement may not include weekends and late night work in your ordinary hours of work. If this is the case and you are required to work at these times, you will usually be entitled to some extra money on top of your usual salary. This will be paid at the overtime rate detailed in your award or agreement.</p>
+			<p id="p21">In some circumstances, part-time and casual workers may be required to work up to the same hours as a full-time worker before overtime is paid.</p>
+			<p id="p22">It is important to check your award or agreement for the conditions of overtime and penalty rates for your job as these conditions can differ between different types of work.</p>
+			<p id="p23">You may be able to take time off in lieu (instead of receiving penalty or overtime payments) for extra time worked. Once again, check your award or agreement to see if this applies to you.</p>
+		</body>
+	</text>
+</cesDoc>

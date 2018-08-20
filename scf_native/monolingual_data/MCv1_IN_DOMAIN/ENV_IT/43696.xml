@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Rete Regionale Rifiuti del Lazio 
+» Iniziative e campagne 
+
+ » Il mare d’inverno: un censimento dei rifiuti portati dalle mareggiate</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Rete Regionale Rifiuti del Lazio 
+» Iniziative e campagne 
+
+ » Il mare d’inverno: un censimento dei rifiuti portati dalle mareggiate</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 07:06:50.0</pubDate>
+							<eAddress>http://www.reterifiutilazio.it/blog/?p=43</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>riduzione</keyTerm>
+					<keyTerm>campagne</keyTerm>
+					<keyTerm>volontariato</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/43696.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">I rifiuti sono l’altra faccia delle società industrializzate: un vero e proprio mondo complesso e simmetrico a quello delle merci.</p>
+			<p id="p2">Siamo circondati dalle merci e dei relativi rifiuti e li troviamo dappertutto: per le vie delle città e lungo le strade, le autostrade, le ferrovie che attraversano le campagne, nelle aree industriali e nei quartieri residenziali, sulle cime delle montagne e nei boschi, nei prati e sulle spiagge. Galleggiano sulla superficie dei mari e dei laghi e si depositano sui loro fondali. Persino oltre le nubi, decine di migliaia di oggetti abbandonati nello spazio orbitano intorno alla terra: dalle feci e dalle confezioni alimentari lasciate dagli astronauti a frammenti grandi e piccoli di satelliti artificiali che non obbediscono più ai comandi di chi li ha spediti lassù.</p>
+			<p id="p3">(Guido Viale, Un mondo usa e getta, Felrtinelli, 1994).</p>
+			<p id="p4">Il 29 gennaio 2010 parte a Fiumicino (Roma) l’operazione “mare d’inverno”: i volontari di Fare Verde saranno impegnati a pulire diverse spiagge italiane per ricordare a tutti che l’inquinamento dei litorali è un problema che esiste per dodici mesi all’anno e non solo durante il periodo estivo.</p>
+			<p id="p5">L’iniziativa di Fare Verde ha l’obiettivo di riportare al centro dell’attenzione la necessità di ridurre i rifiuti e riciclarli più possibile. Le discariche devono essere considerate per quello che sono: l’ultima soluzione possibile per i rifiuti che non si riescono a eliminare o riciclare. Nuovi inceneritori, in un ciclo virtuoso dei rifiuti, sarebbero addirittura inutili.</p>
+			<p id="p6">Le operazioni di pulizia promosse da Fare Verde saranno l’occasione per informare i cittadini sulle possibilità di riduzione del mare di rifiuti che invade le vie delle nostre città, le strade, le autostrade, le ferrovie che attraversano le campagne, le aree industriali e i quartieri residenziali, le cime delle montagne e i boschi, i prati e, naturalmente, le spiagge.</p>
+			<p id="p7">Ai cittadini sarà distribuito un volantino con informazioni sul ciclo dei rifiuti e alcuni consigli utili per ridurli a partire dall’acquisto.</p>
+			<p id="p8">I volontari di Fare Verde che puliranno le spiagge coglieranno l’occasione per fare anche un censimento dei rifiuti più invadenti. I dati saranno utilizzati per sensibilizzare il Parlamento Italiano sulla necessità di attuare una politica per la riduzione a monte dei rifiuti.</p>
+			<p id="p9">Già nelle scorse edizioni del “mare d’inverno” Fare Verde ha scoperto il flagello dei “bastoncini cotonati” usati che invadevano le spiagge italiane ed ha ottenuto una legge che ne prevede la commercializzazione solo se biodegradabili.</p>
+			<p id="p10">Chiunque voglia partecipare alle giornate di pulizia, può consultare la mappa delle località in cui si svolgerà l’operazione oppure contatare Fare Verde: 06 700 5726 – info(AT)fareverde.it</p>
+			<p id="p11">Argomenti</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Contrato de trabajo</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Contrato de trabajo</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:09:17.0</pubDate>
+							<eAddress>http://html.rincondelvago.com/contrato-de-trabajo_3.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Derecho Laboral español. Eventualidad. Interinidad. ETT (Empresa de trabajo temporal)</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/115.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">1. Contrato de trabajo según su duración.</p>
+			<p id="p2">2. Distintas formas de contratación temporal: elenco, extensión, significado y efectos en el mercado de</p>
+			<p id="p3">trabajo.</p>
+			<p id="p4">4. Contrato de trabajo eventual.</p>
+			<p id="p5">5. Contrato de trabajo interino.</p>
+			<p id="p6">6. Elementos comunes a los contratos temporales.</p>
+			<p id="p7">7. Puesta a disposición de trabajadores por una empresa de trabajo temporal.</p>
+			<p id="p8">1. Contrato de trabajo según su duración.</p>
+			<p id="p9">En general la evolución legal a girado en torno a la llamada estabilidad en el empleo. En Derecho del Trabajo no se permite lo que se permite en Derecho Civil, pactar por el tiempo que decidan las partes. Si este principio existiese en Derecho del Trabajo se simplificaría la contratación, pero iría en perjuicio de los trabajadores.</p>
+			<p id="p10">El esquema que viene manteniendo la Ley es el siguiente: el contrato de trabajo se presume de carácter indefinido, pero existen supuestos tasados en los que su duración puede ser definida.</p>
+			<p id="p11">Si el principio general es que el contrato de trabajo es indefinido, y la excepción es que es definido, en la practica es al revés. En nuestro sistema jurídico se parte de la presunción de indefinición pero la realidad es la definición.</p>
+			<p id="p12">Art 15.1 Estatuto Trabajadores “el contrato de trabajo podrá concertarse por tiempo indefinido o por una duración determinada.” Sino se pacta una duración determinada el contrato de trabajo se presume indefinido.</p>
+			<p id="p13">Los contratos de duración definida son varios, podemos agruparlos en:</p>
+			<p id="p14">- contratos de duración determinada de carácter estructural, se refiere a contratos que se firman</p>
+			<p id="p15">para cubrir determinadas necesidades de las empresas. Este tipo son tradicionales en nuestro sistema. Son el contrato de obra o servicio determinado, contrato de interinidad, y el contrato eventual.</p>
+			<p id="p16">- contratos de duración determinada de carácter coyuntural, se refiere a medidas que se han promulgado, se crean figuras contractuales para promover el empleo. A raíz del pacto de l 97 entre Gobierno y Sindicatos este tipo tiende a desaparecer.</p>
+			<p id="p17">Hay que añadir una tercera categoría, establecida por la Ley, y con otra finalidad, “contratos formativos”, como el contrato en practicas, contrato para la formación, antes llamado de aprendizaje.</p>
+			<p id="p18">La importancia de estas figuras contractuales esta en el mercado de trabajo, refleja también debilidad.</p>
+			<p id="p19">3. Contrato de trabajo para obra o servicio determinado.</p>
+			<p id="p20">Normativa reguladora: Art. 15.1.a ET. 2 y 6 RD 2546/1994, de 29 diciembre.</p>
+			<p id="p21">El contrato para obra o servicio determinado, como su nombre indica tiene por objeto cubrir necesidades de Empresas, como una obra o servicio que de antemano se sabe que va a finalizar, pero no se sabe cuando. Por eso no se fija duración.</p>
+			<p id="p22">Estos contratos plantean como determinar que obra o que servicio pueden ser objeto del mismo, la Ley exige:</p>
+			<p id="p23">obra o servicio determinado con autonomía y sustantividad propias dentro de la actividad de la Eª. Deben tratarse de obras y servicios identificables en el tiempo y en el espacio.</p>
+			<p id="p24">Ejemplo obra determinada: en la construcción, la tarea de carpintería.</p>
+			<p id="p25">Ejemplo de servicio determinado: en Ayuntamiento un trabajo para organizar ficheros.</p>
+			<p id="p26">En un principio no es valida esta formula contractual para obras o servicios que forman parte de la actividad permanente de la Empresa.</p>
+			<p id="p27">El requisito de autonomía y sustanciabilidad propia implica también que no puede contratarse bajo esta forma contractual a un trabajador para realizar una obra, después otra ... no seria una obra determinada sino una obra general.</p>
+			<p id="p28">Requisitos formales: el contrato para obra o servicio determinado debe celebrarse por escrito. Tiene que indicar cual es la obra o servicio. No es valido poner “todos los trabajos propios de su categoría”.</p>
+			<p id="p29">En el caso de la construcción: opción al trabajador para prestar servicios en una misma Empresa pero en distintos centros de trabajo dentro de la Provincia durante un periodo máximo de 3 años sin perder su condición.</p>
+			<p id="p30">Convenio de Madrid de Construcción: el contrato terminara cuando terminen los trabajos de su categoría. Si son varios trabajadores, el cese deberá producirse cuando la realización paulatina de los trabajos de esa categoría vallan terminándose, y se extinguen los contratos tb paulatinamente.</p>
+			<p id="p31">El cese de trabajadores contratados para obra o servicio determinado se produce por simple comunicación de la Empresa. La Empresa debe comunicarlo con antelación a 15 días si el plazo de obra o servicio a sido superior a 1 año, en la construcción siempre plazo de 15 días antes. El no respeto de este plazo supone una indemnización al trabajador por días.</p>
+			<p id="p32">El contrato de trabajo para obra o servicio determinado no tiene prevista indemnización a su finalización, salvo que así se haya estipulado en convenio colectivo o CT individual. En la construcción suele pactarse indemnizaciones, un 4,5% del salario si la duración del contrato ha sido superior a 6 meses, un 7% del salario si ha sido inferior a 6 meses.</p>
+			<p id="p33">La extinción del CT sin que quede acreditada la finalización de la obra, ni siquiera de alguna de sus fases equivale al despido.</p>
+			<p id="p34">Si ejecutada la obra o servicio prosiguen sus prestaciones, el CT se entiende prorrogado por tiempo indefinido, salvo prueba en contrario que acredite la naturaleza temporal de la prestación.</p>
+			<p id="p35">4. Contrato de trabajo eventual</p>
+			<p id="p36">Normativa: Art. 15.1.b ET y 3.6 ss. RD 2546/1994</p>
+			<p id="p37">El contrato de trabajo eventual se diferencia del anterior en que si este tenía una duración incierta, el eventual tiene una limitación temporal por un lado, y por otro una finalidad distinta, atiende a tres factores: circunstancias de mercado, acumulación de tareas, exceso de pedidos .</p>
+			<p id="p38">Aún tratándose de tareas comunes de la Empresa. Es lo que se conoce como que la Empresa sufre un cuello de botella (ejemplo: época de Navidad)</p>
+			<p id="p39">Este contrato tiene una limitación temporal de 6 meses, correlativos o no, dentro de un periodo de 12 meses. Este termino de 6 meses es modificable por Convenio Colectivo Sectorial, hasta un máximo de 18 meses, no pudiendo exceder la duración del CT de las ¾ partes del referido periodo (13.5 meses).</p>
+			<p id="p40">Los Convenios Colectivos determinaran que actividades se puede contratar eventualmente y en porcentaje dentro de la plantilla.</p>
+			<p id="p41">Este contrato debe realizarse por escrito, pero sólo si su duración es superior a 4 semanas.</p>
+			<p id="p42">4. Contrato de trabajo interino</p>
+			<p id="p43">Norma reguladora: Art. 15.1.c) ET y 4 y 6 RD 2546/1994.</p>
+			<p id="p44">Su finalidad es sustituir a un trabajador de la empresa con derecho a reserva de puesto de trabajo en virtud de una norma estatal, convenio colectivo o acuerdo individual, siempre que en el contrato de trabajo se especifique el nombre del sustituido y la causa de sustitución.</p>
+			<p id="p45">Sin embargo, existe cierta disfunción entre lo que marca la ley y el art. 15 Estatuto de Trabajadores. El RD 2546 amplia los supuestos, añade: cubrir temporalmente un puesto de trabajo durante el proceso de selección o promoción para su cobertura definitiva. Ya venía siendo aceptado por la Jurisprudencia.</p>
+			<p id="p46">El régimen del contrato de interinidad es bastante simple, hay que identificar al trabajador sustituido y la causa. En el contrato también hay que indicar si el puesto de trabajo a desempeñar será el del trabajador sustituido o el del trabajador sustituyente.</p>
+			<p id="p47">Es decir, (a) de baja por maternidad (c) contratado para sustituir</p>
+			<p id="p48">También valido, (a) de baja, (b) hace lo de a (c) contratado para hacer lo de b</p>
+			<p id="p49">Su duración es incierta, se sabe que el contrato se extinguirá pero no cuando. En esta materia se plantean numerosas cuestiones. La ley señala que el contrato se extingue cuando el trabajador se reintegra. En el caso de que muera, no hay posible reintegración y en un principio el que sustituye trabajador indefinido. Hay que estar a lo que dice la Jurisprudencia.</p>
+			<p id="p50">Para el segundo supuesto “procesos de promoción o selección”, si hay plazo definido, de 3 meses. Dentro de la Administración Pública no existe plazo.</p>
+			<p id="p51">Causas de extinción del contrato de trabajo de interinidad:</p>
+			<p id="p52">reintegro del trabajador sustituido.</p>
+			<p id="p53">en casos de selección de personal cuando se produce esta.</p>
+			<p id="p54">en la Administración Pública según determine la misma.</p>
+			<p id="p55">6. Elementos comunes a los contratos de trabajo temporales</p>
+			<p id="p56">Forma: deben hacerse por escrito en todo caso el contrato para obra o servicio determinado y contrato de interinidad, y el eventual si su duración es superior a 4 semanas.</p>
+			<p id="p57">El registro de estos contratos debe hacerse en la Oficina de Empleo en un plazo de 10 días desde su celebración. Los trabajadores deben ser dados de alta en la Seguridad Social antes de la iniciación de la actividad.</p>
+			<p id="p58">Estos contratos cuando se han hecho por escrito deben notificarse a los representantes de los trabajadores en la Empresa (Comité de Empresa y delegados). Su finalidad es facilitar el control de estas formulas contractuales.</p>
+			<p id="p59">Las tres modalidades pueden estar sometidas a periodo de prueba. En el eventual si hay periodo de prueba aunque sea inferior a 4 semanas debera realizarse por escrito.</p>
+			<p id="p60">A la extinción de cualquiera de estos 3 contratos la Empresa o empresario tiene dos opciones:</p>
+			<p id="p61">extinción de la relación laboral, basta con enviar una notificación al trabajador comunicandole su decisión. No hay indemnización, salvo sector de la construcción. El empresario debe avisar con 15 dias de antelación si la relación laboral es superior a un año, sino cumple indemnización por días omitidos.</p>
+			<p id="p62">no extinción, se puede prorrogar los contratos temporales del art. 15, siempre que existan razones dentro de los limites que marca la ley.</p>
+			<p id="p63">Cuando se agota el plazo del contrato o se produce la causa extintiva sin denuncia del empresario, la ley da dos posibilidades:</p>
+			<p id="p64">contratos sometidos a plazo se entiende prorrogado hasta el tiempo máximo que marca la ley (6 meses)</p>
+			<p id="p65">si vuelve a transcurrir sin denuncia, se entiende contrato de trabajo indefinido.</p>
+			<p id="p66">Jurisprudencia, se presume iuris tantun que es un contrato de trabajo indefinido, pero la Empresa puede aportar pruebas que se trata de un contrato temporal, sólo un descuido en el aviso.</p>
+			<p id="p67">El contrato puede hacerse en formulario o no, en este último caso deben recogerse todos los elementos que marca la ley. La violación por el empresario de alguno de los requisitos de forma o fondo en los contratos temporales puede dar lugar a que se considere fraude de ley.</p>
+			<p id="p68">El fraude de ley no es un concepto exclusivo del Derecho del Trabajo, sino que se aplica en todo el Ordenamiento Jurídico. El Código Civil, art 6.4 señala “... los actos realizados al amparo de una norma que persigan un resultado prohibido por el Ord. Jurídico o contrario a el se consideraran en fraude de ley ...” Fraude de ley es simular que se cumple una normativa precisamente para violarla.</p>
+			<p id="p69">El fraude de ley no se presume, debe ser probado por quien lo invoca. El encadenamiento de contrato de trabajo temporales supone fraude de ley porque se oculta la temporalidad indefinida con formulas de contratación temporal.</p>
+			<p id="p70">7. Puesta a disposición de trabajadores por Empresas de Trabajo Temporal</p>
+			<p id="p71">Las Empresas de Trabajo Temporal están reguladas por la Ley 14/1994 de 1 de junio, desarrolla por el R. Decreto 4/1995 de 13 de enero.</p>
+			<p id="p72">El Art. 43.1 Estatuto Trabajadores prohibe el prestamismo laboral, es decir contratar a un trabajador temporalmente para cederlo a otra empresa. No obstante reconoce que sólo podrá efectuarse a través de ETT debidamente autorizadas en los términos que legalmente se establezcan.</p>
+			<p id="p73">Las ETT establecen una relación laboral de carácter triangular:</p>
+			<p id="p74">ETT</p>
+			<p id="p75">En esta relación la ETT esta vinculada con la Empresa usuario con carácter comercial</p>
+			<p id="p76">El contrato de puesta a disposición, es el vinculo jurídico entre trabajador y ETT en un contrato de trabajo, pero se diferencia de los normales en que los servicios no los presta a la Empresa contratante, sino a la usuaria, ésta es la que tiene las facultades de control y dirección del trabajador.</p>
+			<p id="p77">El poder disciplinario le corresponde a la ETT porque es con la que tiene el vinculo contractual con el trabajador.</p>
+			<p id="p78">Las ETT están sometidas a una serie de requisitos:</p>
+			<p id="p79">autorización administrativa previa, art. 2 Ley 14/94</p>
+			<p id="p80">garantía o aval equivalente a 25 anualidades del salario minimo interprofesional</p>
+			<p id="p81">registro, art. 4 Ley 14/94</p>
+			<p id="p82">dedicar parte de la masa salarial a la formación de los trabajadores</p>
+			<p id="p83">Contrato de puesta a disposición (Art. 6, 7, 8, y 9 Ley 14/1994):</p>
+			<p id="p84">Art. 6.: Supuesto de utilización.</p>
+			<p id="p85">Art. 7 Duración</p>
+			<p id="p86">1. Obra o servicio. Lo que dure la obra o servicio.</p>
+			<p id="p87">2. Eventual. Hasta 6 meses.</p>
+			<p id="p88">3. Interinidad. 3 meses en la cobertura de una vacante y por otra parte mientras dure la ausencia del trabajador sustituido.</p>
+			<p id="p89">El Art. 8 excluye la celebración de contratos de puesta a disposición en los casos siguientes:</p>
+			<p id="p90">Trabajadores en huelga.</p>
+			<p id="p91">Realización de actividades o trabajos que, por su especial peligrosidad para la seguridad o la salud, se determinen reglamentariamente</p>
+			<p id="p92">Cuando en los 12 meses inmediatamente anteriores a la contratación la empresa haya amortizado los puestos de trabajo que se pretendan cubrir por despido improcedente o por las causas previstas en los artículos 50, 51 y 52, apartado c) del ET.; excepto en los supuestos de fuerza mayor.</p>
+			<p id="p93">Por otra parte, el art. 9 de la Ley 14/1994 reconoce que la empresa usuaria deberá informar a los representantes de los trabajadores sobre cada contrato de puesta a disposición y motivo de utilización, dentro de los 10 días siguientes a la celebración.</p>
+		</body>
+	</text>
+</cesDoc>

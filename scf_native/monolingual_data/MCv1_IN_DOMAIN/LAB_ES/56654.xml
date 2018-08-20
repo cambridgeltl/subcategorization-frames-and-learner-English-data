@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Empresas de Trabajo Temporal | Relación Laboral con una ETT | Regulación de las ETTs. Formación y Orientación Laboral en Tiempos Modernos</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Empresas de Trabajo Temporal | Relación Laboral con una ETT | Regulación de las ETTs. Formación y Orientación Laboral en Tiempos Modernos</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-17 07:07:48.0</pubDate>
+							<eAddress>http://www.tiemposmodernos.eu/fol-etts/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>empresas de trabajo temporal</keyTerm>
+					<keyTerm>empresa de trabajo temporal</keyTerm>
+					<keyTerm>ett</keyTerm>
+					<keyTerm>etts</keyTerm>
+					<keyTerm>regulación de las empresas de trabajo temporal</keyTerm>
+					<keyTerm>regulación de las etts</keyTerm>
+					<keyTerm>contratos de trabajo en las ett</keyTerm>
+					<keyTerm>contratos de trabajo de las ett</keyTerm>
+					<keyTerm>contrato de puesta a disposición</keyTerm>
+					<keyTerm>indemnización en contratos de etts</keyTerm>
+					<keyTerm>tipos de contrato</keyTerm>
+					<keyTerm>fol</keyTerm>
+					<keyTerm>formación y orientación laboral</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/56654.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">0</p>
+			<p id="p2">Actualizado en octubre de 2010</p>
+			<p id="p3">Son aquellas empresas cuya actividad consiste en poner a disposición de otra empresa (empresa usuaria) con carácter temporal trabajadores por ella contratados.</p>
+			<p id="p4">Reguladas por la Ley 14/1994, de 1 de junio, por la que se regulan las Empresas de Trabajo Temporal, el R.D. 4/1995, de 13 de Enero, por el que se desarrolla la Ley 14/1994, Ley 29/1999 de modificación de la Ley 14/1994, R.D. 216/1999. Ley 35/2010, de 17 de septiembre, de medidas urgentes para la reforma del mercado de trabajo.</p>
+			<p id="p5">Para su funcionamiento requiere autorización de la Dirección Provincial de Trabajo o la Dirección General de Trabajo, exigiéndole:</p>
+			<p id="p6">Disponer de estructura organizativa.</p>
+			<p id="p7">No tener obligaciones fiscales o Seguridad Social pendientes.</p>
+			<p id="p8">Garantizar estas obligaciones constituyendo una garantía financiera</p>
+			<p id="p9">No haber sido suspendida por sanción de actividad en dos o mas ocasiones.</p>
+			<p id="p10">Si se reúnen estos requisitos la autoridad competente concederá la autorización para un ámbito geográfico concreto.</p>
+			<p id="p11">La autorización será de un año con posteriores prorrogas anuales durante 3 años, superado este periodo se les concederá una prorroga indefinida.</p>
+			<p id="p12">Se instrumenta una relación compleja de tipo triangular:</p>
+			<p id="p13">Entre la ETT y la empresa usuaria se celebra un contrato de puesta a disposición.</p>
+			<p id="p14">Entre la ETT y los trabajadores se celebrará un contrato de duración determinada o indefinida, por escrito. El poder sancionador y remunerador corresponde a la ETT.</p>
+			<p id="p15">La empresa usuaria responde, respecto a los trabajadores, de la formación en prevención de riesgos y medidas de seguridad e higiene, y ejerce el poder de dirección sobre el trabajador.</p>
+			<p id="p16">Los trabajadores contratados para ser cedidos a empresas usuarias tendrán derecho, durante los períodos de prestación de servicios en las mismas, a la aplicación de las “condiciones esenciales” de trabajo y empleo que les corresponderían de haber sido contratados directamente por la empresa usuaria para ocupar el mismo puesto: remuneración, jornada, horas extras, descanso, trabajo nocturno, vacaciones y festivos.</p>
+			<p id="p17">La empresa usuaria responderá subsidiariamente de las obligaciones salariales y de Seguridad Social contraídas con el trabajador durante la vigencia del contrato de puesta a disposición, así como de la indemnización económica derivada de la extinción del contrato de trabajo.</p>
+			<p id="p18">A la finalización del contrato el trabajador tendrá derecho a recibir una indemnización de 12 días por año de servicio, o la parte proporcional en su caso. La indemnización podrá ser prorrateada durante la vigencia del contrato.</p>
+			<p id="p19">Artículos relacionados ...</p>
+			<p id="p20">Sitio Web</p>
+			<p id="p21">Tabla resumen de las distintas causas de extinción del contrato de trabajo, y su indemnización correspondiente</p>
+			<p id="p22">Publicado el 2 noviembre 2010</p>
+			<p id="p23">El Marketing es una herramienta indispensable, no sólo para que el cliente nos elija sino para que nos sea fiel</p>
+		</body>
+	</text>
+</cesDoc>

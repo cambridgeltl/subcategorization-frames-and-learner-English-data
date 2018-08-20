@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>NOAA - National Oceanic and Atmospheric Administration - NOAA: Past Decade Warmest on Record According to Scientists in 48 Countries</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>NOAA - National Oceanic and Atmospheric Administration - NOAA: Past Decade Warmest on Record According to Scientists in 48 Countries</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:30:22.0</pubDate>
+							<eAddress>http://www.noaanews.noaa.gov/stories2010/20100728_stateoftheclimate.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/10417.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Earth has been growing warmer for more than fifty years</p>
+			<p id="p2">July 28, 2010</p>
+			<p id="p3">The 2009 State of the Climate report released today draws on data for 10 key climate indicators that all point to the same finding: the scientific evidence that our world is warming is unmistakable. More than 300 scientists from 160 research groups in 48 countries contributed to the report, which confirms that the past decade was the warmest on record and that the Earth has been growing warmer over the last 50 years.</p>
+			<p id="p4">Based on comprehensive data from multiple sources, the report defines 10 measurable planet-wide features used to gauge global temperature changes. The relative movement of each of these indicators proves consistent with a warming world. Seven indicators are rising: air temperature over land, sea-surface temperature, air temperature over oceans, sea level, ocean heat, humidity and tropospheric temperature in the “active-weather” layer of the atmosphere closest to the Earth’s surface. Three indicators are declining: Arctic sea ice, glaciers and spring snow cover in the Northern hemisphere.</p>
+			<p id="p5">“For the first time, and in a single compelling comparison, the analysis brings together multiple observational records from the top of the atmosphere to the depths of the ocean,” said Jane Lubchenco, Ph.D., under secretary of commerce for oceans and atmosphere and NOAA administrator. “The records come from many institutions worldwide. They use data collected from diverse sources, including satellites, weather balloons, weather stations, ships, buoys and field surveys. These independently produced lines of evidence all point to the same conclusion: our planet is warming,”</p>
+			<p id="p6">Ten Indicators of a Warming World.</p>
+			<p id="p7">The report emphasizes that human society has developed for thousands of years under one climatic state, and now a new set of climatic conditions are taking shape. These conditions are consistently warmer, and some areas are likely to see more extreme events like severe drought, torrential rain and violent storms.</p>
+			<p id="p8">“Despite the variability caused by short-term changes, the analysis conducted for this report illustrates why we are so confident the world is warming,” said Peter Stott, Ph.D., contributor to the report and head of Climate Monitoring and Attribution of the United Kingdom Met Office Hadley Centre. “When we look at air temperature and other indicators of climate, we see highs and lows in the data from year to year because of natural variability. Understanding climate change requires looking at the longer-term record. When we follow decade-to-decade trends using multiple data sets and independent analyses from around the world, we see clear and unmistakable signs of a warming world.”</p>
+			<p id="p9">While year-to-year changes in temperature often reflect natural climatic variations such as El Niño/La Niña events, changes in average temperature from decade-to-decade reveal long-term trends such as global warming. Each of the last three decades has been much warmer than the decade before. At the time, the 1980s was the hottest decade on record. In the 1990s, every year was warmer than the average of the previous decade. The 2000s were warmer still.</p>
+			<p id="p10">“The temperature increase of one degree Fahrenheit over the past 50 years may seem small, but it has already altered our planet,” said Deke Arndt, co-editor of the report and chief of the Climate Monitoring Branch of NOAA’s National Climatic Data Center. “Glaciers and sea ice are melting, heavy rainfall is intensifying and heat waves are more common. And, as the new report tells us, there is now evidence that over 90 percent of warming over the past 50 years has gone into our ocean.”</p>
+			<p id="p11">More and more, Americans are witnessing the impacts of climate change in their own backyards, including sea-level rise, longer growing seasons, changes in river flows, increases in heavy downpours, earlier snowmelt and extended ice-free seasons in our waters. People are searching for relevant and timely information about these changes to inform decision-making about virtually all aspects of their lives. To help keep citizens and businesses informed about climate, NOAA created the Climate Portal at http://www.climate.gov . The portal features a short video that summarizes some of the highlights of the State of the Climate Report.</p>
+			<p id="p12">State of the Climate is published as a special supplement to the Bulletin of the American Meteorological Society and is edited by D.S. Arndt, M.O. Baringer, and M.R. Johnson. The full report and an online media packet with graphics is available online: http://www.ncdc.noaa.gov/bams-state-of-the-climate .</p>
+			<p id="p13">NOAA’s mission is to understand and predict changes in the Earth's environment, from the depths of the ocean to the surface of the sun, and to conserve and manage our coastal and marine resources. Visit us on Facebook .</p>
+		</body>
+	</text>
+</cesDoc>

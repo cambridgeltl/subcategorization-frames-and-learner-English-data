@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Compte épargne-temps : garantie et consignation des droits épargnés - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Compte épargne-temps : garantie et consignation des droits épargnés - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:17:12.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=301&amp;titre=Compte+%C3%A9pargne-temps+%3A+garantie+et+consignation+des+droits+%C3%A9pargn%C3%A9s</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11132.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Compte épargne-temps : garantie et consignation des droits épargnés</p>
+			<p id="p2">Sur un compte épargne-temps (CET), le salarié cumule de l'argent ou des droits à congés rémunérés, qu’il pourra utiliser plus tard. Un décret précise ce qu’il se passe lorsque les droits accumulés sur le CET dépassent le plafond garanti par l’AGS et comment ces sommes peuvent être consignées en cas de rupture du contrat de travail.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">Garantie des droits épargnés</p>
+			<p id="p5">Les droits épargnés sur un compte épargne-temps (CET) sont garantis par l’ AGS mais cette garantie est plafonnée. Pour 2009, ce montant est fixé à 68.616 euros.</p>
+			<p id="p6">La garantie financière permet le paiement des droits acquis et des cotisations obligatoires dues pour le montant au-delà du plafond garanti.</p>
+			<p id="p7">Dépassement du plafond du CET garanti par l’AGS</p>
+			<p id="p8">Les droits épargnés peuvent excéder ce plafond lorsqu’une convention ou un accord collectif de travail prévoient un dispositif de garantie financière couvrant les sommes supplémentaires épargnées ( Code du travail , art. D. 3154-2). En l’absence d’une telle convention ou accord , l’employeur met en place ce dispositif de garantie.</p>
+			<p id="p9">Dans l’attente de l’établissement d’un tel dispositif, le salarié perçoit une indemnité correspondant à la conversion monétaire de ses droits excédant le plafond.</p>
+			<p id="p10">Rupture du contrat de travail : déblocage et consignation des droits épargnés sur le CET</p>
+			<p id="p11">En cas de rupture du contrat de travail et à défaut de dispositions conventionnelles organisant le transfert des droits au nouvel employeur, le salarié peut :</p>
+			<p id="p12">percevoir une indemnité correspondant à la conversion monétaire de l'ensemble de ses droits acquis ;</p>
+			<p id="p13">demander, en accord avec l'employeur, la consignation de l'ensemble des droits acquis auprès de la Caisse des dépôts et consignations (CDC).</p>
+			<p id="p14">Le déblocage des droits consignés auprès de la CDC se fait au profit du salarié bénéficiaire ou de ses ayants droit. Les conditions de ce déblocage viennent d’être fixées. Il peut intervenir :</p>
+			<p id="p15">à la demande du salarié bénéficiaire, par le transfert de tout ou partie des sommes consignées sur le compte épargne-temps, le plan d’épargne d’entreprise, le plan d’épargne interentreprises ou le plan d’épargne pour la retraite collectif mis en place par son nouvel employeur ;</p>
+			<p id="p16">à la demande du salarié ou de ses ayants droit, par le paiement, à tout moment, de tout ou partie des sommes consignées (Code du travail, art. D. 3154-6).</p>
+			<p id="p17">I. Vénuat</p>
+			<p id="p18">(Décret n° 2009-1184 du 5 octobre 2009 fixant les conditions et les modalités de la garantie et de la consignation des droits épargnés sur un compte épargne-temps)</p>
+			<p id="p19">Pour plus de précisions sur le compte épargne-temps, les Editions Tissot vous proposent leur ouvrage « Tissot social entreprise ».</p>
+			<p id="p20">Article publié le 13 octobre 2009</p>
+			<p id="p21">Partagez cet article :</p>
+			<p id="p22">Actualités de la semaine pour les PME</p>
+			<p id="p23">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>

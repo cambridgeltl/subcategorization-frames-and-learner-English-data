@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Atmosphere, Climate &amp; Environment Information Programme</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2005-04-21 10:44:44.0</pubDate>
+							<eAddress>http://www.ace.mmu.ac.uk/Resources/Fact_Sheets/Key_Stage_4/Air_Pollution/03.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>air pollution</keyTerm>
+					<keyTerm>acid rain</keyTerm>
+					<keyTerm>ozone depletion</keyTerm>
+					<keyTerm>sustainable development</keyTerm>
+					<keyTerm>weather</keyTerm>
+					<keyTerm>transport</keyTerm>
+					<keyTerm>energy</keyTerm>
+					<keyTerm>waste</keyTerm>
+					<keyTerm>environment</keyTerm>
+					<keyTerm>schools</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/2008.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Introduction</p>
+			<p id="p2">In 1905 Dr HA Des Voeux used the term smog to describe conditions of fuliginous or sooty / smoky fogs. Smog occurs as a result of particular meteorological conditions in which smoke particles from the domestic and industrial burning of coal became trapped in fog.</p>
+			<p id="p3">The Early 1900s</p>
+			<p id="p4">Fog and smoke frequencies began to reduce in the UK urban areas during the early 1900s, compared with the latter half of the nineteenth century. Air pollution was still a severe problem but the number of major smogs began to decrease. Several changes helped contribute to this situation, including:</p>
+			<p id="p5">changing social conditions;</p>
+			<p id="p6">changes in fuel type - gas and electricity became alternatives to coal.</p>
+			<p id="p7">The Great London Smog</p>
+			<p id="p8">On December 4th 1952, however, an anticyclone settled over London. The wind dropped and the air grew damp; a thick fog began to form. The great London smog lasted for five days and led to around four thousand more deaths than usual.</p>
+			<p id="p9">The graph shows the average smoke and sulphur dioxide levels for 12 London sites and the relationship with deaths recorded during the smog period in December 1952. The peak in the number of death coincided with the peak in both smoke and sulphur dioxide pollution levels.</p>
+			<p id="p10">Deaths from the Great London Smog</p>
+			<p id="p11">The 1956 Clean Air Act</p>
+			<p id="p12">The Government could not ignore the Great London Smog and so the first Clean Air Act was eventually introduced in 1956, following the Beaver Committee Report. This Act aimed to control domestic sources of smoke pollution by introducing smokeless zones. In these areas, smokeless fuels had to be burnt. The Clean Air Act focused on reducing smoke pollution but the measures taken actually helped to reduce sulphur dioxide levels at the same time. Air pollution in cities dramatically reduced in the following ways.</p>
+			<p id="p13">domestic emissions reduced because of smoke control areas;</p>
+			<p id="p14">electric and gas usage increased and the use of solid fuels decreased;</p>
+			<p id="p15">cleaner coals were burnt which had a lower sulphur content;</p>
+			<p id="p16">use of tall chimney stacks on power stations;</p>
+			<p id="p17">relocation of power stations to more rural areas;</p>
+			<p id="p18">continued decline in heavy industry.</p>
+			<p id="p19">The 1968 Clean Air Act: Tall Chimneys</p>
+			<p id="p20">The Clean Air Act of 1968 brought in the basic principle for the use of tall chimneys for industries burning coal, liquid or gaseous fuels. At the time of this legislation it was recognised that smoke pollution could be controlled, but that sulphur dioxide removal was generally impracticable. Hence, the higher the chimney, the better the dispersal of the air pollution.</p>
+			<p id="p21">Conclusion</p>
+			<p id="p22">Urban air quality improved following the Clean Air Acts. In particular, the smoke, grit and dust that arose from industrial and domestic sources due to coal burning had been controlled through the introduction of smokeless zones and the controls imposed on industries to reduced their particulate emissions.</p>
+		</body>
+	</text>
+</cesDoc>

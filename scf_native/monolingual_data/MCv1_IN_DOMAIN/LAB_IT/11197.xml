@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La lavoratrice gestante, assegnata provvisoriamente ad una mansione diversa e inferiore dalla precedente non ha diritto a mantenere la retribuzione precedente </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La lavoratrice gestante, assegnata provvisoriamente ad una mansione diversa e inferiore dalla precedente non ha diritto a mantenere la retribuzione precedente </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 16:50:54.0</pubDate>
+							<eAddress>http://www.laprevidenza.it/news/famiglia-e-minori/la-lavoratrice-gestante-assegnata-provvisoriamente-ad-una-mansione-diversa-e/4781</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Cgce</keyTerm>
+					<keyTerm>1.7.2010 C-471/08</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/11197.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">(Cgce, 1.7.2010 C-471/08)</p>
+			<p id="p2">«Politica sociale – Direttiva 92/85/CEE − Protezione della sicurezza e della salute sul lavoro delle lavoratrici gestanti, puerpere o in periodo di allattamento − Artt. 5, n. 2, e 11, punto 1 − Lavoratrice provvisoriamente assegnata ad un altro posto per il periodo della gravidanza − Assegnazione obbligatoria a causa dell’esistenza di un rischio per la sua sicurezza e per la sua salute o per quella del bambino − Retribuzione inferiore alla retribuzione media percepita prima di tale assegnazione − Precedente retribuzione composta da uno stipendio di base e da diverse integrazioni − Calcolo dello stipendio cui la lavoratrice gestante ha diritto per la durata della provvisoria assegnazione»</p>
+			<p id="p3">Newsletter informativa!</p>
+			<p id="p4">Registrati subito e ricevi, ogni lunedì, il sommario delle news pubblicate nella settimana, direttamente nella tua casella e-mail!</p>
+		</body>
+	</text>
+</cesDoc>

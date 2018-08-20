@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Instituto Nacional de Ecología</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Instituto Nacional de Ecología</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:35:47.0</pubDate>
+							<eAddress>http://www2.ine.gob.mx/publicaciones/libros/437/prologo.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/18256.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Título</p>
+			<p id="p2">Prólogo</p>
+			<p id="p3">El cambio climático es un problema con características únicas, ya que es de naturaleza global, sus impactos mayores serán en el largo plazo e involucra interacciones complejas entre procesos naturales (fenómenos ecológicos y climáticos) y procesos sociales, económicos y políticos a escala mundial.</p>
+			<p id="p4">Dada la importancia del tema, el Instituto Nacional de Ecología, como parte de su misión de generar y difundir información científica y técnica sobre problemas ambientales prioritarios solicitó a un grupo de especialistas de diversas disciplinas que contribuyeran a este libro aportando y compartiendo sus conocimientos y experiencias sobre los aspectos científicos, sociales, económicos e institucionales del cambio climático.</p>
+			<p id="p5">Lo anterior con el fin de tener un documento que abordara desde la teoría del cambio climático hasta la ratificación del Protocolo de Kyoto, incluyendo estudios realizados de México. En textos eclécticos y heterogéneos, los autores sitúan a nuestro país como emisor de gases de efecto invernadero en el contexto mundial; analizan la vulnerabilidad de diferentes sectores; evalúan opciones de mitigación y adaptación al cambio climático; describen negociaciones internacionales; y abordan los aspectos educacionales y de comunicación al público del tema.</p>
+			<p id="p6">Agradecemos a los autores de los capítulos su paciencia y apoyo en la revisión de diferentes versiones de los textos, tarea que por la amplitud del contenido del libro y por las saturadas agendas tanto de los escritores como de los editores se llevó casi dos años de trabajo.</p>
+			<p id="p7">El libro se presenta en un momento clave del concierto internacional de negociaciones, la Décima Reunión de la Conferencia de las Partes, que se llevará a cabo en Buenos Aires, Argentina, del 6 al 17 de diciembre del año 2004. Con la reciente ratificación del Protocolo de Kyoto por parte de Rusia, este instrumento entrará en vigor el 16 de febrero del año 2005.</p>
+			<p id="p8">Esto implica que la mayoría de los países industrializados del mundo tiene ahora el compromiso de realizar un esfuerzo vinculante multilateral en referencia al cambio climático. A medida que avancen en lograr sus compromisos, tendrán que demostrar que se trata de un reto que se puede superar.</p>
+			<p id="p9">Lo más importante es que la entrada en vigor del Protocolo de Kyoto también conllevará una nueva ronda de negociaciones que pueden producir acuerdos novedosos de espectros más amplios y durables. El texto del Protocolo contiene en su diseño muchos aspectos valiosos que conservar, especialmente el uso de mecanismos flexibles para reducir emisiones de la manera más costo-efectiva.</p>
+			<p id="p10">Sin embrago, se necesitarán nuevos enfoques para movilizar a un mayor número de países, tanto desarrollados como en desarrollo para que participen activamente contribuyendo de manera justa, equitativa y oportuna a la mitigación de emisiones de gases de efecto invernadero.</p>
+			<p id="p11">El cambio climático no se considera más como un problema que compete sólo a los países desarrollados. La última década de análisis, discusiones y negociaciones nos muestra con claridad el estrecho vínculo entre cambio climático y desarrollo sustentable. Es tarea de países como México, identificar las múltiples oportunidades que representa la participación en el Mecanismo de Desarrollo Limpio del Protocolo, pero sobre todo instrumentar en el corto plazo aquellas acciones de política que simultáneamente nos brinden beneficios en la mejoría de la calidad de vida de nuestros habitantes a la vez que contribuimos reduciendo nuestras emisiones de gases de efecto invernadero.</p>
+			<p id="p12">Existen numerosas acciones para mejorar la eficiencia energética en el sector industrial, de generación de electricidad, doméstico y de transporte que permiten reducir la contaminación del aire en nuestras grandes ciudades a la vez que mitigamos el cambio climático.</p>
+			<p id="p13">La calidad y amplitud con que los especialistas mexicanos abordan cada uno de los temas del libro es muestra clara del gran potencial humano que nuestro país tiene, tanto en el ámbito de la investigación, como en el del análisis social y político del cambio climático.</p>
+			<p id="p14">Finalmente, esperamos que este libro logre estimular a estudiosos de otras disciplinas para que se acerquen al tema, al ciudadano común para que al comprender el fenómeno pueda contribuir a su solución, a los legisladores para que impulsen las iniciativas de ley que promuevan las energías renovables en México y a los tomadores de decisiones para que destinen los recursos institucionales y financieros necesarios para atender con seriedad y eficacia el problema.</p>
+			<p id="p15">Adrián Fernández Bremauntz y Julia Martínez Fernández</p>
+			<p id="p16">Periférico 5000, Col. Insurgentes Cuicuilco, C.P. 04530, Delegación Coyoacán, México D.F.</p>
+			<p id="p17">Última Actualización: 15/11/2007</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>26 julio 2010 13:47:00 Integración ambiental alcanza 89 por ciento del tejido productivo andaluz / Noticias / Empleo Verde / Contenidos / Inicio - EFEverde. El periodismo del medio ambiente</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>26 julio 2010 13:47:00 Integración ambiental alcanza 89 por ciento del tejido productivo andaluz / Noticias / Empleo Verde / Contenidos / Inicio - EFEverde. El periodismo del medio ambiente</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 14:56:12.0</pubDate>
+							<eAddress>http://www.efeverde.com/esl/contenidos/empleo-verde/noticias/26-julio-2010-13-47-00-integracion-ambiental-alcanza-89-por-ciento-del-tejido-productivo-andaluz</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/15763.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Integración ambiental alcanza 89 por ciento del tejido productivo andaluz</p>
+			<p id="p2">Valoración:</p>
+			<p id="p3">Tu nombre</p>
+			<p id="p4">Tu comentario*</p>
+			<p id="p5">Sevilla, 26 jul (EFE).- Andalucía ha alcanzado la Autorización de Integración Ambiental para el 89 por ciento de las empresas que forman parte del tejido productivo de la comunidad, mientras que el 9 por ciento se encuentra en trámites y un dos por ciento no han sido autorizadas o no han puesto en marcha los trámites.</p>
+			<p id="p6">Durante la presentación del Informe de Medio Ambiente, el consejero de Medio Ambiente, José Juan Díaz Trillo, ha dado a conocer los datos en materia medioambiental relativos a 2009 y ha destacado la importancia del "empleo verde" como "médula del proyecto Andalucía Sostenible".</p>
+			<p id="p7">El consejero ha resaltado que más de cien empresas se han "incorporado" a la marca Parque Natural de Andalucía, que disponen de 1.200 productos agroalimentarios, de artesanía y servicios de turismo, en su mayoría.</p>
+			<p id="p8">Por su parte, la directora general de Desarrollo Sostenible e Información Ambiental, Esperanza Perea, ha resaltado las principales líneas de la edición número 23 del informe medioambiental que se centra en la evolución de los datos estadísticos, la situación actual del medio natural y la "prospectiva" de la calidad ambiental de Andalucía.</p>
+			<p id="p9">Así ha señalado como "hitos" en 2009 la transferencia de la Cuenca del Guadalquivir a Andalucía, la firma del Acuerdo Andaluz del Agua -que ha dado lugar a la actual Ley de Aguas- o los "logros" en materia de conservación de especies, como las nueve parejas de águila imperial contabilizadas el año pasado en Doñana.</p>
+			<p id="p10">En cuento a residuos urbanos, la directora de Desarrollo Sostenible ha aportado que el pasado año se autorizaron 435 gestoras de este tipo de residuos que recogieron, aproximadamente, cinco millones de toneladas, y ha manifestado que el 98 por ciento de los vertidos y residuos se han realizado de forma controlada.</p>
+			<p id="p11">Perea ha subrayado que Andalucía es la región europea "más importante" en la protección de espacios naturales, ya que cerca de doscientas mil hectáreas pertenecen a la Red de Espacios Naturales Protegidos y que representan el veinte por ciento del territorio andaluz.</p>
+			<p id="p12">En el documento se incluyen 542 tablas y gráficos, que incluyen los datos estadísticos de los informes predecesores, y 93 indicadores ambientales que analizan, entre otras materias, los residuos peligrosos, el suelo o la biodiversidad, y es la primera vez que se publica en "ecoedición", ya que se imprimirán los ejemplares que demanden a la Consejería de Medio Ambiente. EFE</p>
+			<p id="p13">¡compártelo!</p>
+			<p id="p14">Estáis interesados en ...</p>
+			<p id="p15">Cambio climático</p>
+			<p id="p16">01.12.2010 - 15:52</p>
+			<p id="p17">Territorio ONG</p>
+			<p id="p18">Cambio climático</p>
+			<p id="p19">Enrédate</p>
+			<p id="p20">El medio ambiente necesita que nos "en-red-emos". Únete a EFEverde y participa con nosotros. Tus noticias, vídeos y denuncias,...</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Comitato Rifiuti Zero Valle d'Aosta</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 21:07:48.0</pubDate>
+							<eAddress>http://rifiutizerovda.altervista.org/politica/129/la-posizione-ufficiale-dell-arcobaleno-vallee-daoste/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/13624.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La Giunta regionale, al termine di una legislatura con un bilancio fallimentare nella gestione dei rifiuti solidi urbani (siamo l’ultima fra le Regioni dell’arco Alpino nella percentuale di raccolta differenziata!) ha deciso di fare il grande annuncio: verrà realizzato a Brissogne un inceneritore che risolverà tutti i problemi!</p>
+			<p id="p2">L’annuncio pre-elettorale della Giunta serve solo a cercare di coprire il fallimento di questi 5 anni. Di concreto non c’è nulla perché per realizzare un inceneritore bisogna modificare l’ impostazione del Piano regionale dei rifiuti approvato dal Consiglio regionale nel 2003 ( che non prevede l’inceneritore) e bisogna attivare una procedura pubblica di Valutazione dell’impatto ambientale il cui esito non è affatto scontato in partenza.</p>
+			<p id="p3">Certo è che la Giunta, e l’attuale maggioranza, intendono imboccare una strada sbagliata e pericolosa.</p>
+			<p id="p4">L’Arcobaleno Vallée d’Aoste esprime il suo netto dissenso nei confronti dell’ipotesi di costruire un inceneritore a Brissogne e ribadisce che il problema dello smaltimento dei rifiuti in Valle d’Aosta si risolve con tre precise scelte: 1)elevando all’80% la raccolta differenziata ed il recupero; 2) riducendo a monte i quantitativi di rifiuti; 3) sostituendo l’attuale Tassa comunale sui rifiuti ( calcolata al metroquadro) con una Tariffa regionale in base ai quantitativi effettivamente conferiti che permetta di premiare i comportamenti dei cittadini virtuosi.</p>
+			<p id="p5">La Valle d’Aosta può dare un buon esempio, e risolvere subito il problema, senza subire la penalizzazione di impianti sovradimensionati,costosi ed inquinanti.</p>
+			<p id="p6">Aosta 27 marzo 2008</p>
+			<p id="p7">Articolo scritto il lunedì 12 maggio 2008 alle 00:06</p>
+			<p id="p8">Scrivi un Commento</p>
+			<p id="p9">Sitoweb</p>
+		</body>
+	</text>
+</cesDoc>

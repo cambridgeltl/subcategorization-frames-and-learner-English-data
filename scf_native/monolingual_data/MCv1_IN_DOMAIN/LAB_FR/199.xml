@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Élections professionnelles</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Élections professionnelles</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:13:12.0</pubDate>
+							<eAddress>http://fr.academic.ru/dic.nsf/frwiki/1774806</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Élections professionnelles</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/199.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Vous pouvez partager vos connaissances en l’améliorant (comment ?) selon les recommandations des projets correspondants.</p>
+			<p id="p2">Relations individuelles</p>
+			<p id="p3">Portail Droit du travail</p>
+			<p id="p4">Les principales élections professionnelles en France sont celles qui permettent d'élire à bulletins secrets les délégués du personnel et les membres des comités d'entreprise dans le secteur privé.</p>
+			<p id="p5">Une part croissante des élections professionnelles s'effectue par vote électronique , ce qui suscite des débats dans le monde de l'entreprise, en particulier dans les plus petites entreprises [1] .</p>
+			<p id="p6">Dans la fonction publique et certaines entreprises du secteur para-public, il existe aussi des élections à des commission paritaires ou des commissions techniques paritaires.</p>
+			<p id="p7">La participation aux élections professionnelles (63,8 % en moyenne dans les entreprises de plus de 50 salariés [2] ) est un baromètre de représentativité qui permet aux délégués du personnel de peser dans les négociations avec les employeurs.</p>
+			<p id="p8">Les élections professionnelles sont effectuées à bulletins secrets et donnent des résultats jugés plus fiables que les chiffres d'adhésions des différents syndicats, pour lesquels n'existent aucun moyen de vérification.</p>
+			<p id="p9">La participation aux élections professionnelles est de plus en plus suivie en raison du débat sur la réglementation du droit de grève lancée lors de la campagne présidentielle par Nicolas Sarkozy , qui regrettait que des grèves soient lancées par des syndicats ne représentant pas une majorité de salariés.</p>
+			<p id="p10">Sommaire</p>
+			<p id="p11">Déclenchement du processus électoral</p>
+			<p id="p12">Dans tous les établissements visés par l'obligation, qu'il y ait ou non des demandes en ce sens,l' employeur doit informer tous les quatre ans le personnel par affichage de l'organisation des élections [3] .</p>
+			<p id="p13">Toutefois, que l'employeur ait ou non respecté ses obligations vis-à-vis du déclenchement périodique des élections, leur organisation peut être demandée à tout moment, sous réserve que le seuil minimum d'effectif soit atteint, par une organisation syndicale ou même par un salarié de l'établissement [4] .</p>
+			<p id="p14">Protocole électoral</p>
+			<p id="p15">Lors du lancement de la procédure des élections, l'employeur doit inviter les organisations syndicales intéressées à négocier le protocole d'accord préélectoral et à établir les listes de leurs candidats [5] , [6] .</p>
+			<p id="p16">La Loi du 20 août 2008 distingue 2 types d'organisations syndicales:</p>
+			<p id="p17">les organisations "instituées"</p>
+			<p id="p18">les autres organisations en voie d'implantation</p>
+			<p id="p19">Sont ainsi visées les organisations syndicales qui, conjointement:</p>
+			<p id="p20">satisfont aux critères de respect des valeurs républicaines et d'indépendance</p>
+			<p id="p21">sont légalement constituées depuis au moins deux ans;</p>
+			<p id="p22">dont le champ professionnel et géographique couvre l'entreprise ou l'établissement concernés.</p>
+			<p id="p23">Ces syndicats sont informés par voie d'affichage et peuvent ainsi se manifester auprès de l'employeur.</p>
+			<p id="p24">Validité du protocole</p>
+			<p id="p25">Electorat</p>
+			<p id="p26">Salariés mis à disposition</p>
+			<p id="p27">Modalités de l'élection</p>
+			<p id="p28">L'élection a lieu pendant le temps de travail dans un bureau de vote conforme au droit électoral.</p>
+			<p id="p29">Le scrutin est secret, sous enveloppe ou par voie électronique si un accord d'entreprise le prévoit.</p>
+			<p id="p30">C'est un scrutin de liste se déroulant suivant deux tours, à représentation proportionnelle.</p>
+			<p id="p31">Premier tour: Antérieurement réservé aux seules listes de candidats proposées par les organisations syndicales représentatives , il a été élargi par la loi du 20 août 2008 à l'ensemble des organisations syndicales invitées à la négociation du protocole électoral.</p>
+			<p id="p32">Second tour: Si le quorum n'est pas atteint, le nombre de votants devant être supérieur ou égal à la moitié des électeurs inscrits pour valider l'élection, il est procédé à un second tour où, cette fois, les candidatures sont libres (ouvertes à tous, syndiqués ou non).</p>
+			<p id="p33">Les élus sont rééligibles.</p>
+			<p id="p34">Ces élections des délégués du personnel et celles des membres du Comité d'entreprise doivent avoir lieu à la même date.</p>
+			<p id="p35">Tendance des élections professionnelles dans quelques grands secteurs économiques</p>
+			<p id="p36">Élections professionnelles dans la fonction publique hospitalière</p>
+			<p id="p37">Élections professionnelles à la Régie des transports marseillais</p>
+			<p id="p38">Élections professionnelles au groupe CEA</p>
+			<p id="p39">Élections professionnelles chez Capgemini</p>
+			<p id="p40">Élections professionnelles chez Alstom</p>
+			<p id="p41">Élections professionnelles chez Arcelor</p>
+			<p id="p42">Élections professionnelles chez Eurodisney</p>
+			<p id="p43">Notes et références</p>
+			<p id="p44">↑ Brochure représentativité des syndicats : mode d’emploi du 09/01/09 éditée par le Ministre du travail, des relations sociales, de la famille et de la solidarité</p>
+			<p id="p45">↑ les organisations syndicales représentatives sur le plan national sont intéressées à la négociation du protocole d'accord préélectoral au sens de la loi et doivent y être invitées, peu important qu'elles n'aient aucun adhérent dans l'entreprise. L'affichage d'une note d'information, mode de publicité, ne constitue pas une forme de l'invitation que le chef d'entreprise est tenu d'adresser aux organisations syndicales intéressées: en conséquence, en l'absence d'invitation et s'il n'est pas établi que le syndicat ait eu connaissance de l'affichage de la note d'information, ce dernier peut demander l'annulation des élections (Cass. Soc. N° 96-60433 du 01/04/98)</p>
+			<p id="p46">Ce document provient de « %C3%89lections professionnelles ».</p>
+			<p id="p47">Catégories : Élection française | Syndicalisme en France</p>
+			<p id="p48">Catégories cachées : Wikipédia:ébauche droit du travail français | Portail:Droit français/Droit du travail/Articles liés</p>
+			<p id="p49">Regardez d'autres dictionnaires:</p>
+			<p id="p50">Participation aux élections professionnelles — Électios professioelles Cet article est ue ébauche cocerat le droit du travail fraçais. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. Droit du travail e Frace… (Français Wikipedia)</p>
+			<p id="p51">Élections Professionnelles à la SNCF — Électios professioelles à la SNCF Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. La participatio aux… (Français Wikipedia)</p>
+			<p id="p52">Élections professionnelles chez France Télécom — Électios professioelles chez Frace Télécom Les électios professioelles à Frace Télécom se sot déroulés le 22 javier 2009. La participatio a été de 73,46%, e baisse de 0,69 poits par rapport à l'électio précédete. Il y a eu 84… (Français Wikipedia)</p>
+			<p id="p53">Élections professionnelles dans l'Éducation nationale — Électios professioelles das l'Éducatio atioale Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. Les… (Français Wikipedia)</p>
+			<p id="p54">Élections professionnelles dans l'éducation nationale — Électios professioelles das l'Éducatio atioale Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. Les… (Français Wikipedia)</p>
+			<p id="p55">Élections professionnelles de 2004 à la SNCF — Électios professioelles à la SNCF Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. La participatio aux… (Français Wikipedia)</p>
+			<p id="p56">Élections professionnelles de 2006 à la SNCF — Électios professioelles à la SNCF Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. La participatio aux… (Français Wikipedia)</p>
+			<p id="p57">Élections professionnelles à La Poste — Électios professioelles à La Poste Tous les trois as (mais l'itervalle peut atteidre quatre as) , comme das l'esemble de la foctio publique fraçaise, des électios ot lieu à La Poste, afi que le persoel désige ses… (Français Wikipedia)</p>
+			<p id="p58">Élections professionnelles à la RATP — Électios professioelles à la RATP Les électios professioelles à la RATP se sot déroulées le 6 décembre 2006 (les prochaies aurot lieu e décembre 2010). La participatio a été de 67,5%, e baisse de 2,0 poits par rapport à 2004. Il y… (Français Wikipedia)</p>
+			<p id="p59">Élections professionnelles à la SNCF — Électios professioelles à la SNCF Cet article est ue ébauche cocerat le sydicalisme. Vous pouvez partager vos coaissaces e l’améliorat ( commet ?) selo les recommadatios des projets correspodats. La participatio aux… (Français Wikipedia)</p>
+		</body>
+	</text>
+</cesDoc>

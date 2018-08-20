@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Ark: Climate Change Overview</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Ark: Climate Change Overview</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 09:29:59.0</pubDate>
+							<eAddress>http://www.climateark.org/overview/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>news</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>Climate Change</keyTerm>
+					<keyTerm>Global Warming</keyTerm>
+					<keyTerm>CLIMATE CHANGE</keyTerm>
+					<keyTerm>GLOBAL WARMING</keyTerm>
+					<keyTerm>climate change news</keyTerm>
+					<keyTerm>climate change newsfeed</keyTerm>
+					<keyTerm>carbon dioxide</keyTerm>
+					<keyTerm>climate policy</keyTerm>
+					<keyTerm>climate science</keyTerm>
+					<keyTerm>deforestation</keyTerm>
+					<keyTerm>drought</keyTerm>
+					<keyTerm>energy</keyTerm>
+					<keyTerm>energy conservation</keyTerm>
+					<keyTerm>extreme weather</keyTerm>
+					<keyTerm>glaciers</keyTerm>
+					<keyTerm>global ecology</keyTerm>
+					<keyTerm>hot</keyTerm>
+					<keyTerm>hot weather</keyTerm>
+					<keyTerm>hurricanes</keyTerm>
+					<keyTerm>renewable snergy</keyTerm>
+					<keyTerm>rising seas</keyTerm>
+					<keyTerm>warming</keyTerm>
+					<keyTerm>water</keyTerm>
+					<keyTerm>ecology</keyTerm>
+					<keyTerm>environmental conservation</keyTerm>
+					<keyTerm>environment</keyTerm>
+					<keyTerm>advocacy</keyTerm>
+					<keyTerm>activism</keyTerm>
+					<keyTerm>portal</keyTerm>
+					<keyTerm>search</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/1978.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Featuring Customized Search and News Feed of Reviewed, Authoritative Content</p>
+			<p id="p2">A planet's climate is decided by its mass, its distance from the sun and the composition of its atmosphere. Mars is too small to keep a thick atmosphere. Its atmosphere consists mainly of carbon dioxide, but the atmosphere is very thin. The atmosphere of the Earth is a hundred times thicker.</p>
+			<p id="p3">Over the last 400,000 years the Earth's climate has been unstable, with very significant temperature changes, going from a warm climate to an ice age in as rapidly as a few decades. These rapid changes suggest that climate may be quite sensitive to internal or external climate forcings and feedbacks.</p>
+			<p id="p4">2</p>
+			<p id="p5">concentrations in the atmosphere have been measured at an altitude of about 4,000 meters on the peak of Mauna Loa mountain in Hawaii since 1958.</p>
+			<p id="p6">2</p>
+			<p id="p7">has increased from a pre-industrial concentration of about 280 ppmv to about 367 ppmv at present (ppmv= parts per million by volume).</p>
+			<p id="p8">The rich countries of the world historically has emitted most of the anthropogenic greenhouse gases since the start of the industrial revolution in the latter half of the 1700s. Per capita, the significant emissions still are produced by the OECD countries</p>
+			<p id="p9">In 1988, UNEP and WMO jointly established the Intergovernmental Panel on Climate Change (IPCC) as concern over climate change became a political issue. The purpose of the IPCC was to assess the state of knowledge on the various aspects of climate change including science, environmental and socio-economic impacts and response strategies.</p>
+			<p id="p10">The potential impacts of climate change on the environment and socio-economic systems can be understood in terms of sensitivity, adaptability and vulnerability of the system.</p>
+			<p id="p11">A special thanks to the United Nations Environment Programme &amp; GRID-Arendal for making these climate graphics freely available to the public. Any further use must credit these sources for their production.</p>
+		</body>
+	</text>
+</cesDoc>

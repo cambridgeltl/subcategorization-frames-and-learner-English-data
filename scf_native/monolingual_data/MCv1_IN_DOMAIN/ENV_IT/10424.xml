@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Ghana Contamination</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Ghana Contamination</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-11-29 12:44:58.0</pubDate>
+							<eAddress>http://www.greenpeace.org/italy/news/ghana-contamination</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Africa</keyTerm>
+					<keyTerm>Chimica</keyTerm>
+					<keyTerm>Inquinamento</keyTerm>
+					<keyTerm>Rifiuti</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/10424.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">International —   Un’analisi condotta da Greenpeace su suolo e sedimenti prelevati da due aree di smantellamento di rifiuti elettronici in Ghana rivela una forte contaminazione ambientale a causa dell’improprio riciclo e smaltimento di questi rifiuti. Il rapporto "Ghana contamination – Pericolo chimico nei siti di riciclo e smaltimento dei rifiuti elettronici” viene diffuso oggi in tutto il mondo.</p>
+			<p id="p2">Il team scientifico di Greenpeace ha visitato due aree di smantellamento e di riciclaggio illegale, una al mercato di Agboblogshie, nella capitale Accra, e l’altra nella citta’ di Korforidua. I campioni, prelevati sia da aree dove i rifiuti vengono bruciati all’aperto che da una laguna superficiale ad Abogblogshie, contengono metalli tossici come il piombo anche in quantita’ cento volte superiore ai livelli trovati in campioni di suolo e sedimenti non contaminati. Nella maggior parte dei test sono stati trovati gli ftalati, sostanze conosciute per interferire con il sistema riproduttivo. Presenti in un solo campione in concentrazioni molto elevate le diossine clorurate, noti composti cancerogeni.</p>
+			<p id="p3">La natura e l’estensione della contaminazione chimica dei siti africani e’ simile a quella trovata in un’altra indagine di Greenpeace condotta in aree di smantellamento di rifiuti elettronici in Cina e India.</p>
+			<p id="p4">In Ghana, Cina e India, i lavoratori, molto spesso bambini, sono esposti a livelli consistenti di composti chimici pericolosi.</p>
+			<p id="p5">Container pieni di vecchi computer spesso rotti, monitor e TV di varie marche come Philips, Sony, Microsoft, Nokia, Dell, Canon e Siemens arrivano in Ghana da Germania, Corea, Svizzera, Olanda e Italia sotto la falsa veste di “beni di seconda mano”. Ma la maggior parte del contenuto di questi container finisce nei cantieri africani dove i rifiuti vengono trattati e bruciati a mani nude dai giovani lavoratori.</p>
+			<p id="p6">Questo “riciclo”, fatto in modo molto grossolano, ha lo scopo di estrarre parti metalliche, principalmente alluminio e rame, che poi vengono rivendute per circa 2 dollari ogni 5 chili.</p>
+			<p id="p7">Un metodo che non solo inquina l’ambiente ma che espone gli operai a fumi e ceneri potenzialmente tossiche. I Paesi ricchi continueranno ad avvelenare i Paesi più poveri del mondo fino a quando le aziende non elimineranno le sostanze pericolose dai loro prodotti elettronici e non si assumeranno la responsabilità di gestire l’intero ciclo di vita di un articolo di consumo.</p>
+		</body>
+	</text>
+</cesDoc>

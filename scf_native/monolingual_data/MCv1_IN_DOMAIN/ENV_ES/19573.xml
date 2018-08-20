@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>COMEGEI</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>COMEGEI</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 16:12:29.0</pubDate>
+							<eAddress>http://cambio_climatico.ine.gob.mx/sectprivcc/comegei.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/19573.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El Comité Mexicano para proyectos de reducción de emisiones y captura de gases de efecto invernadero, COMEGEI</p>
+			<p id="p2">El Comité Mexicano para Proyectos de Reducción de Emisiones y Captura de Gases de Efecto Invernadero (COMEGEI), creado el 23 de enero de 2004, es un grupo de trabajo dentro de la estructura de la Comisión Intersecretarial de Cambio Climático.</p>
+			<p id="p3">Esta Comisión, creada mediante un decreto presidencial el 24 de abril de 2005, funge como Autoridad Nacional Designada de México ante la Convención. Entre sus atribuciones figura la responsabilidad de identificar oportunidades, facilitar y aprobar la realización de proyectos de reducción de emisiones y captura de gases de efecto invernadero en los Estados Unidos Mexicanos, para lo cual cuenta con el Comité Mexicano para Proyectos de Reducción de Emisiones y Captura de Gases de Efecto Invernadero.</p>
+			<p id="p4">La Comisión cuenta con un Secretariado Técnico a cargo de la Subsecretaría de Planeación y Política Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales. La Comisión está integrada además por representantes de las siguientes dependencias:</p>
+			<p id="p5">•</p>
+			<p id="p6">•</p>
+			<p id="p7">Emitir la carta de aprobación para proyectos de reducción y captura de emisiones de gases de efecto invernadero, dando constancia de que los mismos promueven el desarrollo sustentable del país.</p>
+			<p id="p8">•</p>
+			<p id="p9">•</p>
+			<p id="p10">Desarrollar funciones de registro de proyectos, así como de reducciones y captura de gases de efecto invernadero.</p>
+			<p id="p11">•</p>
+			<p id="p12">Promover la suscripción de memorandos de entendimiento y acuerdos de colaboración en asuntos relativos a proyectos de reducción de emisiones de gases de efecto invernadero y de captura de carbono.</p>
+			<p id="p13">En función de su naturaleza y atribuciones, la Comisión es el principal vínculo en el país entre las entidades interesadas en desarrollar un proyecto, el gobierno federal, y la Convención. En su Decreto de Creación se reconoce que los proyectos MDL “podrían aportar el ingreso de fondos adicionales a sectores estratégicos y actividades prioritarias del país, así como constituir vías para la transferencia de tecnologías adecuadas”.</p>
+			<p id="p14">Contactos:</p>
+			<p id="p15">M. en C. Miguel Ángel Cervantes Sánchez</p>
+			<p id="p16">Coordinador del Comité Mexicano para Proyectos de Reducción de Emisiones y Captura de Gases de Efecto Invernadero</p>
+			<p id="p17">Tel. (52-55) 5490 0987</p>
+			<p id="p18">Fax: (52-55) 5628 0794</p>
+			<p id="p19">Subdirectora de Cambio Climático</p>
+			<p id="p20">Sitio de la Dirección de la SEMARNAT que tiene a su cargo el Comité Mexicano de Reducción y Captura de Emisiones de Gases de Efecto Invernadero. Su sitio contiene información sobre los seminarios en el tema de Mecanismo de Desarrollo Limpio realizados por dicha dependencia. Se pueden bajar las presentaciones impartidas en dichos seminarios.</p>
+			<p id="p21">Última Actualización: 08/06/2010</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Conflictos laborales</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Conflictos laborales</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 17:09:14.0</pubDate>
+							<eAddress>http://html.rincondelvago.com/conflictos-laborales_1.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Derecho Laboral español. Conflicto colectivo de trabajo. Resolución: heterocomposición extrajudicial. Huelga y cierre patronal</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/104.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">El conflicto colectivo laboral.</p>
+			<p id="p2">Concepto.</p>
+			<p id="p3">El conflicto colectivo laboral se define como la controversia manifiesta entre un conjunto de trabajadores y un empresario o empresarios en el seno de las relaciones laborales. De esta definición se extraen tres notas fundamentales:</p>
+			<p id="p4">Elemento subjetivo: consiste en la existencia de una pluralidad de sujetos en la posición del trabajador. Esta presencia permite distinguir lo que es un conflicto individual (empresario-trabajador) de un conflicto colectivo. Este último no consiste en la mera agrupación de trabajadores singularmente considerados, sino que es necesario la concurrencia de otros elementos (los que se van a ver a continuación).</p>
+			<p id="p5">Elemento objetivo: se refiere a la presencia de un interés colectivo. Es lo que nos permite distinguir entre un conflicto plural y uno colectivo. El primero, es aquel conflicto que afecta a trabajadores singularmente y simultáneamente en atención a las peculiaridades individuales de cada uno de los trabajadores. El segundo, afecta a un conjunto de trabajadores como tal y sólo de forma refleja incide individualmente en cada uno de los trabajadores. Se habla en este sentido de un interés general, abstracto e indivisible. Esta definición del conflicto colectivo hace difícil su identificación en la práctica, ello se debe a dos causas principales:</p>
+			<p id="p6">- la frecuente superposición entre los planos individual y colectivo: el conflicto colectivo cubre la existencia de conflictos pseudoindividuales, se trata de conflictos que aparentemente sólo afectan a un individuo cuando en la realidad subyace un interés colectivo (ejemplo: sistema de atribución de un puesto de trabajo).</p>
+			<p id="p7">- El establecimiento de criterios instrumentales que permiten una</p>
+			<p id="p8">identificación del interés colectivo: han existido distintos esfuerzos</p>
+			<p id="p9">doctrinales que han tratado de definir la existencia de conflicto colectivo. En</p>
+			<p id="p10">este sentido se ha acudido a multitud de criterios como la naturaleza del</p>
+			<p id="p11">objeto de controversia, la naturaleza misma de la controversia, etc. De entre</p>
+			<p id="p12">todos ellos el criterio que verdaderamente nos indica cuando nos hallamos</p>
+			<p id="p13">ante un conflicto colectivo es la presencia de un sujeto colectivo.</p>
+			<p id="p14">Ambito laboral: se refiere a la ubicación del conflicto. Los conflictos colectivos no son mas que manifestaciones diversas de un conflicto subyacente al sistema de producción capitalista en el que se distinguen dos partes fundamentales: empresario y trabajador. Este conflicto subyacente, ha ido evolucionando a lo largo del tiempo. En una primera etapa (siglo XIX) el enfrentamiento era mucho más radical, existía una aspiración por parte de los trabajadores en hacerse con la propiedad de los medios de producción. En una segunda etapa (siglo XX), el enfrentamiento no es tan grande, existe un cierto consenso entre empresario y trabajadores, se ha perdido esa aspiración a la conquista de los medios de producción.</p>
+			<p id="p15">Tipología.</p>
+			<p id="p16">1º criterio: objeto del conflicto colectivo. Se distingue entre:</p>
+			<p id="p17">- conflictos jurídicos o de aplicación o de interpretación: se refieren a discrepancias en la interpretación de normas preexistentes.</p>
+			<p id="p18">- Conflicto económico o de interés o de reglamentación: es el conflicto que</p>
+			<p id="p19">se origina por la pretensión de alguna de las partes de crear o modificar</p>
+			<p id="p20">normas.</p>
+			<p id="p21">2º criterio: procedimiento de solución del conflicto. Se distingue entre:</p>
+			<p id="p22">- procedimiento de autocomposición: son las propias partes las que tratan de encontrar una solución al conflicto planteado (ejemplo: intervención de la comisión paritaria del CCT para solucionar sus problemas de aplicación).</p>
+			<p id="p23">- Procedimiento de heterocomposición: implican a un tercero en la solución</p>
+			<p id="p24">del conflicto (ejemplo: árbitro, órgano administrativo u órgano judicial).</p>
+			<p id="p25">3º criterio: causas del conflicto colectivo. Clases:</p>
+			<p id="p26">- conflicto laboral: la causa del conflicto es de naturaleza laboral.</p>
+			<p id="p27">- Conflicto extralaboral: la causa del conflicto es ajena al ámbito laboral.</p>
+			<p id="p28">4º Criterio: medidas de conflicto adoptadas. Clases: dentro de las que pueden adoptar los trabajadores se distingue la huelga, piquetes, etc. Como manifestación del ejercicio de determinados derechos constitucionales la manifestación, reunión, cierre patronal, etc.</p>
+			<p id="p29">19.2. Marco normativo de los conflictos colectivos en España.</p>
+			<p id="p30">Los conflictos colectivos desde la perspectiva constitucional.</p>
+			<p id="p31">La Ce recoge dos preceptos referidos a esta cuestión:</p>
+			<p id="p32">art. 28.2: se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.</p>
+			<p id="p33">Art. 37.2: se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.</p>
+			<p id="p34">El art. 28.2 CE se encuentra dentro de la sección 1ª Capítulo II y por tanto, a diferencia del art. 37.2CE genera el derecho al recurso de amparo.</p>
+			<p id="p35">El art. 53.1 CE señala que el contenido esencial de los derechos incluidos en el Capítulo II deben ser respetados por el legislador cuando los desarrolle por ley.</p>
+			<p id="p36">Con relación al art. 37.2 CE se planteó un problema: se desconocía con exactitud qué medidas de conflicto colectivo debían ser incluidas. La controversia principal se suscitaba respecto el cierre patronal. En este sentido se distinguían dos tesis:</p>
+			<p id="p37">aquellos que entendían que el reconocimiento constitucional del cierre patronal como medida represiva no había sido incluida por ningún ordenamiento vecino y que por ello no debía ser considerada como tal.</p>
+			<p id="p38">Aquellos que consideraban que el cierre patronal debían incluirse dentro de las medidas de conflicto colectivo.</p>
+			<p id="p39">La STC 11/1981 de 8 de abril zanjó esta cuestión estableciendo que el cierre patronal se incluye dentro de las medidas de conflicto colectivo a las que hace referencia el art., 37.2CE.</p>
+			<p id="p40">Aparte del cierre patronal, de entre las medidas de conflicto colectivo destaca la huelga, ya que esta no sólo aparece incluida dentro del art. 37.2 Ce sino que además existe un precepto dentro de la Ce que la regula expresamente (art. 28).</p>
+			<p id="p41">El derecho a la adopción de medidas de conflicto colectivo se circunscribe al ámbito laboral y no al extralaboral.</p>
+			<p id="p42">Respecto al contenido de este derecho también está claro que se refiere a las medidas que adoptan las propias partes implicadas en el conflicto, quedando excluidas los procedimientos heterónomos de conflicto colectivo.</p>
+			<p id="p43">Esquema de las diversas normas legales sobre conflictos colectivos.</p>
+			<p id="p44">Las normas legales que regulan los conflictos colectivos son:</p>
+			<p id="p45">Decreto-ley 17/1977 de 4 de marzo sobre relaciones de trabajo: regula la huelga, el cierre patronal y el procedimiento administrativo de solución de conflictos laborales. Se trata de una norma preconstitucional en la varios de sus artículos fueron declarados inconstitucionales por STC 11/1981. El resto del articulado se encuentra en vigor.</p>
+			<p id="p46">Decreto legislativo 2 /1995 de 7 de abril que aprueba el texto refundido de la Ley de procedimiento laboral: el capítulo VIII regula el proceso especial de conflicto colectivo.</p>
+			<p id="p47">19.3. Los procedimientos de solución extrajudicial del conflicto colectivo.</p>
+			<p id="p48">Caracterización general: conciliación, mediación y arbitraje.</p>
+			<p id="p49">Los procedimientos de solución extrajudicial del conflicto colectivo hacen referencia a las instancias o instrumentos técnicos específicamente establecidos por el ordenamiento que sirven para la solución de los conflictos colectivos. En este sentido es necesario distinguir los procesos de autocomposición de los de heterocomposición.</p>
+			<p id="p50">La heterocomposición puede ser de dos clases: judicial y extrajudicial. Dentro de la heterocomposición extrajudicial se distingue:</p>
+			<p id="p51">el arbitraje: consiste en la resolución por parte de un tercero dl conflicto colectivo. Se instrumenta a través de laudo, vinculante para ambas partes.</p>
+			<p id="p52">La mediación: el tercero que interviene ofrece soluciones, careciendo estas de valor decisorio. Es necesaria la aceptación por ambas partes.</p>
+			<p id="p53">La conciliación: el tercero que interviene trata de facilitar la búsqueda de una solución entre las partes afectadas.</p>
+			<p id="p54">Naturaleza y régimen jurídico del procedimiento administrativo.</p>
+			<p id="p55">Aparece regulado en los artículos 17 y siguientes del Decreto-ley 17/1977 sobre relaciones de trabajo. Este procedimiento se divide en dos fases:</p>
+			<p id="p56">Iniciación: pueden instar la iniciación del procedimiento los representantes de los trabajadores en el ámbito correspondiente al conflicto, por iniciativa o a instancia de sus representados; y los empresarios o sus representantes según el ámbito de conflicto.</p>
+			<p id="p57">Este procedimiento se insta ante el órgano administrativo correspondiente (estatal o autonómico)(art. 18 y 19). El planteamiento del conflicto colectivo de trabajo se formalizará por escrito, firmado y fechado debiendo constar los sujetos que instan el procedimiento, los hechos sobre los que versa el conflicto y las peticiones concretas. De la regulación de este procedimiento puede advertirse el temor que tiene el legislador respecto de la huelga. Ello se refleja en varias previsiones como en el art. 17.2 que indica que una vez instado el procedimiento por los trabajadores no podrá ejercerse el derecho de huelga o el art. 17.3 que establece que declarada la huelga, podrán los trabajadores desistir de la misma y someterse al procedimiento administrativo de conflicto colectivo de trabajo.</p>
+			<p id="p58">Substanciación: una vez formalizado el escrito se remitirá copia del mismo a la otra parte. Posteriormente las partes deberán comparecer ante el órgano competente para resolver el conflicto, el cual podrá adoptar dos soluciones (art. 24):</p>
+			<p id="p59">- la conciliación: el órgano administrativo laboral tratará de que las partes adopten un acuerdo, que requiere la mayoría de los representantes de una y otra parte. En caso de que se adopte el acuerdo, este tiene eficacia personal general.</p>
+			<p id="p60">- el arbitraje: las partes designarán a un tercero para que conozca y resuelva</p>
+			<p id="p61">el conflicto. Este dictará un laudo que tiene eficacia personal general.</p>
+			<p id="p62">En caso de no adoptarse acuerdo o bien las partes rechacen someterse a un</p>
+			<p id="p63">árbitro se distinguen dos supuestos:</p>
+			<p id="p64">- si el conflicto es jurídico, se dará apertura al procedimiento judicial de</p>
+			<p id="p65">solución de conflictos colectivos.</p>
+			<p id="p66">que en estos casos la autoridad administrativa debía dictar un auto resolviendo</p>
+			<p id="p67">la controversia. Era de obligado cumplimiento por ambas partes. Sin embargo</p>
+			<p id="p68">esta solución fue declarada inconstitucional por STC 11 /1981 que entendía</p>
+			<p id="p69">que ello entrañaba una violación al derecho a la negociación colectiva.</p>
+			<p id="p70">El acuerdo sobre solución extrajudicial de conflictos (ASEC).</p>
+			<p id="p71">Se trata de un acuerdo suscrito el 25 de enero de 1996 por UGT y CCOO, de una parte, y de las organizaciones empresariales CEOE y CEPYME donde se prevé la creación de un sistema de solución de conflictos colectivos que se inspira en otras experiencias autonómicas preexistentes.</p>
+			<p id="p72">Con posterioridad, el 16 de julio del mismo año, se firmó un acuerdo tripartito entre sindicatos, empresarios y gobierno por el que se creó el Servicio Interconferencial de Mediación y Arbitraje (SIMA). Constituye una fundación encaminada a la administración o gestión de este procedimiento de solución de conflictos.</p>
+			<p id="p73">La naturaleza del ASEC puede encuadrarse dentro del ámbito del art. 83.3 ET que prevé que las organizaciones de empresarios y trabajadores puedan celebrar acuerdos sobre materias concretas. Estuvo vigente hasta 31 de diciembre de 2000 y fue prorrogado por un periodo de 5 años al no existir denuncia por ninguna de las partes.</p>
+			<p id="p74">Este acuerdo debe ser ratificado en los sectores y empresas afectadas, es decir, aunque se trata de un acuerdo firmado entre las organizaciones más representativas en el ámbito estatal y posee eficacia general, sin embargo se exige ratificación, de faltar esta, no se aplicará el acuerdo. Los conflictos colectivos que quedan sujetos por este procedimiento son:</p>
+			<p id="p75">Conflictos colectivos que superen el ámbito de una CA.</p>
+			<p id="p76">Conflictos colectivos de trabajo, quedan excluidos los conflictos individuales de trabajo, los de S. Social y los conflictos colectivos planteados ante la Administración Pública.</p>
+			<p id="p77">Este tipo de conflictos pueden versar sobre las siguientes cuestiones:</p>
+			<p id="p78">interpretación de normas o cláusulas de un CCT.</p>
+			<p id="p79">Discrepancias en la negociación de un CCT que genera una situación de bloqueo durante una situación determinada en el tiempo.</p>
+			<p id="p80">Los que den lugar a una huelga.</p>
+			<p id="p81">Seguridad y mantenimiento.</p>
+			<p id="p82">Conflictos planteados durante los periodos de consulta (movilidad geográfica, modificaciones sustanciales de contratos de trabajo y despido colectivo).</p>
+			<p id="p83">Este procedimiento de solución de conflictos colectivos es doble:</p>
+			<p id="p84">Mediación: se produce normalmente a instancia de parte. En Algún supuesto esta mediación es obligatoria, concretamente antes de someter el conflicto planteado ante la jurisdicción laboral.</p>
+			<p id="p85">Arbitraje: es necesario el acuerdo de ambas partes. El laudo es de obligado cumplimiento.</p>
+			<p id="p86">19.4 La modalidad procesal especial de conflictos colectivos.</p>
+			<p id="p87">Aparece regulada en el art. 8 de la Ley del Procedimiento Laboral. A través de este proceso se tramitan las demandas que afecten a los intereses generales de un grupo de trabajadores que versan sobre la aplicación e interpretación de una norma estatal, o de un CCT cualquiera que sea su eficacia o de una decisión o práctica de empresa.</p>
+			<p id="p88">Este proceso puede iniciarse de dos formas:</p>
+			<p id="p89">de oficio: se produce cuando la autoridad laboral, después de la tramitación de procedimiento administrativo y ante la falta de acuerdo lo insta siempre y cuando lo solicite una de las partes.</p>
+			<p id="p90">A raíz de la interposición de una demanda por parte de los sindicatos cuyo ámbito de actuación se corresponda o sea más amplio que el conflicto; las asociaciones empresariales cuyo ámbito de actuación se corresponda o sea más amplio que el del conflicto, siempre que se trate de conflictos de ámbito supraempresarial; los empresarios y órganos de representación legal o sindical de los trabajadores, cuando se trate de conflictos de empresa o de ámbito inferior.</p>
+			<p id="p91">Los requisitos que se exigen en la substanciación del proceso son:</p>
+			<p id="p92">intento de conciliación ante el servicio administrativo.</p>
+			<p id="p93">El desarrollo de este tipo de procesos se produce por vía de urgencia y con carácter preferente salvo los procesos que puedan afectar a la libertad sindical o a derechos fundamentales de los trabajadores.</p>
+			<p id="p94">Después de la celebración del juicio, el juez o magistrado, dictará una sentencia ejecutoria sin perjuicio de que se interponga ulterior recurso. El fallo tiene naturaleza declarativa y cuasinormativa (interpreta o aplica una norma preexistente).</p>
+			<p id="p95">La sentencia tiene efectos de cosa juzgada sobre los procesos individuales que pudieran existir. Si se planteó un procedimiento individual y con posterioridad uno colectivo, el procedimiento individual quedará suspenso hasta que no se dicte sentencia sobre el conflicto colectivo.</p>
+			<p id="p96">Lección 20: Huelga y Cierre Patronal.</p>
+			<p id="p97">20.1. La huelga.</p>
+			<p id="p98">Concepto y función.</p>
+			<p id="p99">La huelga ha sido entendida vulgarmente como una medida de presión que emplean los trabajadores consistente en la perturbación del proceso productivo del empresario para el que se presta el trabajo, a través de la realización de determinados comportamientos posibles (la abstención o cesación del trabajo), tendentes a la consecución de un fin.</p>
+			<p id="p100">Este concepto no es el que impera en nuestro ordenamiento. El art. 7 del RD 7/1977 sobre relaciones de trabajo entiende que el ejercicio del derecho de huelga habrá de realizarse mediante la cesación temporal de la prestación de servicios por los trabajadores afectados y sin ocupación por los mismos del centro de trabajo o de cualquiera de sus dependencias.</p>
+			<p id="p101">Características del derecho de huelga:</p>
+			<p id="p102">se trata de una medida de conflicto colectivo: constituye la principal medida de autotutela que tienen los trabajadores. Es ejercida cuando existe un conflicto colectivo de cualquier clase en la relación empresario-trabajador.</p>
+			<p id="p103">No toda perturbación en la relación laboral es huelga, sólo la cesación temporal de prestación de trabajo constituye huelga en nuestro ordenamiento en nuestro sistema (las huelgas de celo en principio están prohibidas en nuestro ordenamiento).</p>
+			<p id="p104">El derecho de huelga debe ser acordado por los trabajadores, entendidos estos en el sentido del art. 1.1. ET, es decir, como trabajadores por cuenta ajena. Es concertada a través de la Asamblea de trabajadores, sindicatos o representantes de los trabajadores (sindicales o unitarios).</p>
+			<p id="p105">Tipología.</p>
+			<p id="p106">los trabajadores por cuenta ajena.</p>
+			<p id="p107">Los trabajadores asalariados.</p>
+			<p id="p108">Los funcionarios: de acuerdo con lo que entiende el art. 1.1 ET los funcionarios no podrían ejercer este derecho al no tratarse de trabajadores por cuenta ajena, sin embargo, la jurisprudencia y las normas de derecho internacional los ha legitimado para el ejercicio de este derecho. El ejercicio de este derecho por parte de los funcionarios es restringido en la medida en la que están obligados a prestar servicios a la comunidad.</p>
+			<p id="p109">Quedan excluidos del ejercicio del derecho de huelga los miembros de las</p>
+			<p id="p110">Fuerzas Armadas y Cuerpos de Seguridad del Estado.</p>
+			<p id="p111">Según las causas que motivan la huelga: se distingue entre:</p>
+			<p id="p112">Huelga laboral: es la que tiene lugar por causas derivadas de la propia relación de trabajo.</p>
+			<p id="p113">Huelga extralaboral: es la que se lleva acabo por motivos políticos o con cualquier otra finalidad ajena al interés profesional de los trabajadores afectados. En la medida en que la causa no se debe a intereses profesionales, estas huelgas son ilegales. Sin embargo, en la práctica en la medida en que los trabajadores demuestren que esta clase de huelga afecta a intereses profesionales, los tribunales las considerarán legales.</p>
+			<p id="p114">Huelgas de solidaridad o simpatía: los trabajadores defienden un interés ajeno a su relación contractual, actuando sin embargo en apoyo de otros trabajadores en conflicto, con los que se solidarizan. Estas huelgas son consideradas en principio ilegales, sin embargo en la medida en que se demuestre a los tribunales que afectan indirectamente a un interés profesional serán consideradas legales.</p>
+			<p id="p115">Según el comportamiento que se lleve a cabo en la huelga: cabe distinguir:</p>
+			<p id="p116">huelga turnante o rotatoria: es la que se realiza de modo sucesivo en las distintas unidades productivas de una empresa o centro de trabajo, o sectores de la actividad económica en un ámbito geográfico determinado, alternándose sucesivamente en la cesación en el trabajo con la finalidad de afectar a la coordinación de la producción.</p>
+			<p id="p117">Huelga estratégica, tapón o trombosis: es aquella que afecta tan sólo de modo directo a la actividad productiva básica de la empresa, o a los sectores estratégicos del sistema económico, pero que comunica sus efectos en cadena a los demás ámbitos, consiguiendo la paralización de todo el proceso productivo.</p>
+			<p id="p118">Huelga de celo o reglamento: consisten en una ejecución minuciosa y reglamentarista del trabajo, con el consiguiente retraso en el mismo.</p>
+			<p id="p119">Huelga intermitente: son aquellas en la que se alterna momentos de normalidad laboral y de cesación del trabajo. Posee una tipología bastante variada: alternancia de horas de trabajo y huelga a lo largo del día, de días de trabajo y huelga a lo largo de la semana o periodos más amplios.</p>
+			<p id="p120">c) El marco constitucional del derecho de huelga y la legislación</p>
+			<p id="p121">preconstitucional vigente.</p>
+			<p id="p122">El derecho fundamental de huelga se encuentra contenida en:</p>
+			<p id="p123">Art. 28.2 CE: se reconoce el derecho de huelga para los trabajadores para la defensa de sus intereses. La Ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad. Al estar este precepto encuadrado dentro de la Sección 1ª del Capítulo II del título I, en caso de que se atente contra este derecho, se podrá acudir a dos vías (art. 53.2 CE):</p>
+			<p id="p124">- procedimiento de preferencia y sumariedad.</p>
+			<p id="p125">- Recurso de amparo.</p>
+			<p id="p126">trabajadores, entendiendo por trabajador lo dispuesto en el art. 1.1 ET.</p>
+			<p id="p127">RD legislativo 17/1977 de 4 de marzo sobre relaciones de trabajo: se trata de una norma de la Transición y por tanto es una norma restrictiva que fue elaborada para regular el derecho de huelga de manera transitoria. Sin embargo, lo cierto es que por motivos políticos ha quedado estable. Tras la promulgación de la CE se adoptaron dos posturas distintas respecto a este RD:</p>
+			<p id="p128">- Los que abogan por la desaparición del RD: motivos que alegan:</p>
+			<p id="p129">- es una norma preconstitucional y de acuerdo con la disposición</p>
+			<p id="p130">derogatoria 3ª de la CE las normas que sean contrarias a la CE quedarán</p>
+			<p id="p131">derogadas.</p>
+			<p id="p132">y este RD carece de tal rango.</p>
+			<p id="p133">- Los que abogan por la conservación del RD: motivos que alegan:</p>
+			<p id="p134">- La disposición final del ET indica expresamente que quedan derogados</p>
+			<p id="p135">los Capítulos III, IV, V y VI; el resto se mantiene en vigor.</p>
+			<p id="p136">- Los juzgados y tribunales han sido partidarios de la conservación de este</p>
+			<p id="p137">RD.</p>
+			<p id="p138">STC 11/1981 de 8 de abril: se trata de una sentencia que indica como ha de ser interpretado el RD legislativo 7/1977. Caracteres de esta sentencia:</p>
+			<p id="p139">- Configura la huelga como un derecho ejercitable en el marco del conflicto</p>
+			<p id="p140">colectivo.</p>
+			<p id="p141">no solo de otros derechos constitucionales sino también de otros bienes</p>
+			<p id="p142">constitucionalmente protegidos. Por ello son posibles diversos modos</p>
+			<p id="p143">de regulación del derecho de huelga todos ellos compatibles con la CE</p>
+			<p id="p144">en la medida en la que no vulneren el contenido esencial de este derecho.</p>
+			<p id="p145">En este sentido, el TC distingue dos manifestaciones del derecho de huelga:</p>
+			<p id="p146">- consiste en la cesación del trabajo, en cualquiera de sus</p>
+			<p id="p147">manifestaciones o modalidades que pueda revestir.</p>
+			<p id="p148">- Como derecho subjetivo de los trabajadores consiste en colocar el</p>
+			<p id="p149">contrato de trabajo en una fase de sumisión y de ese modo</p>
+			<p id="p150">limitar la libertad del empresario a quién se le veda contratar a otro</p>
+			<p id="p151">tipo de trabajadores.</p>
+			<p id="p152">20.2. Titularidad del derecho de huelga.</p>
+			<p id="p153">El art. 28.2 Ce establece que los titulares del derecho de huelga son los trabajadores. La STC 11/1981 afirma que la titularidad del derecho de huelga es individual, sin embargo su ejercicio es colectivo, es decir, el contenido esencial del derecho de huelga está integrado por dos clases de contenidos:</p>
+			<p id="p154">titularidad colectiva: corresponde a los sindicatos, representantes unitarios de los trabajadores, representantes sindicales de los trabajadores y a los propios trabajadores reunidos en asamblea de acuerdo con las normas para el ejercicio del derecho de reunión (arts. 71-81 ET).</p>
+			<p id="p155">Constituyen contenidos colectivos: la convocatoria de huelga, la elección de la modalidad de huelga a realizar, la adopción de medidas de presión o desarrollo de la misma y la desconvocatoria.</p>
+			<p id="p156">Titularidad individual: es el trabajador considerado individualmente.</p>
+			<p id="p157">Constituye contenido individual: la adhesión o no del trabajador a la huelga ya convocada, la participación del mismo en las medidas de desarrollo de la huelga y la decisión de abandonar la huelga.</p>
+			<p id="p158">Un problema que se plantea en relación con la titularidad es la situación de los funcionarios. En principio el art. 28.2 CE entiende que los titulares del derecho de huelga son los trabajadores, entendidos como los que trabajan por cuenta ajena, por lo que los funcionarios no serían titulares de este derecho. Sin embargo a través de una interpretación conjunta de los artículos 7, 28.1 y 103.3 CE se desprende que los funcionarios son titulares del derecho a sindicarse e inherente al mismo está el derecho de huelga.</p>
+			<p id="p159">Existen además una serie de normas internacionales que los funcionarios tienen derecho a huelga: el art. 6.4 de la Carta Social Europea y el art. 8 Pacto Internacional de derechos sociales, económicos y culturales de las Naciones Unidas.</p>
+			<p id="p160">20.3. Ejercicio del derecho de huelga.</p>
+			<p id="p161">A la hora de ejercitar el derecho de huelga, deben seguirse los siguientes pasos:</p>
+			<p id="p162">Declaración de huelga: le corresponde ejercitar este contenido del derecho de huelga a través de un acuerdo a quienes están legitimados para ello, es decir a la colectividad de los trabajadores, a través de sus representantes (representación unitaria o sindical de los trabajadores en el centro de trabajo y a los sindicatos de los trabajadores) o bien directamente por los propios trabajadores del centro de trabajo afectados por el conflicto, de acuerdo con las normas que regulan el ejercicio del derecho de reunión o asamblea.</p>
+			<p id="p163">Preaviso o publicidad de la declaración de huelga: es necesario preavisar a los empresarios afectados por la huelga y a la autoridad laboral (Ministerio de Trabajo en el ámbito estatal y Conserjería de Trabajo en el ámbito autonómico).</p>
+			<p id="p164">La STC 11/1981 perfilando en que sentido se podía entender preavisados los empresarios entendía que con sólo preavisar a los representantes de los empresarios bastaba. La razón de ello radica en el hecho de que si se convocase una huelga de ámbito nacional y se tuviese que preavisar a todos los empresarios, debido a lo lento que sería este proceso finalmente la huelga no se convocaría.</p>
+			<p id="p165">El órgano encargado de preavisar es el Comité de Huelga (está formado por los representantes de todos los trabajadores. Existen dos plazos para preavisar:</p>
+			<p id="p166">General: 5 días antes del inicio de la huelga.</p>
+			<p id="p167">Especial: 10 días antes del inicio de la huelga.</p>
+			<p id="p168">Los trabajadores que presten servicios públicos deben preavisar no sólo a los empresarios sino también a los usuarios de los servicios públicos.</p>
+			<p id="p169">En caso de que no se preavise la huelga se considerará sorpresa y como consecuencia de ello será calificada por los tribunales como huelga ilegal o abusiva.</p>
+			<p id="p170">Constitución de un Comité de huelga: el Comité de huelga realiza las siguientes funciones:</p>
+			<p id="p171">defender los intereses de los trabajadores huelguistas. Esta defensa se manifiesta a través de un deber de negociación.</p>
+			<p id="p172">Mantener la seguridad de las personas y las instalaciones del centro de trabajo.</p>
+			<p id="p173">El Comité de huelga se compone de 12 trabajadores como máximo. Ser miembro del comité de huelga no implica asumir mayor responsabilidad que el resto de trabajadores sino representarlos.</p>
+			<p id="p174">En relación a la huelga, cabe hablar de dos figuras:</p>
+			<p id="p175">- Esquirolaje: supone la contratación por parte del empresario de personal</p>
+			<p id="p176">ajeno a la empresa con la intención de que suplan a los trabajadores</p>
+			<p id="p177">huelguistas. El objetivo que se persigue es neutralizar la huelga. Se trata de</p>
+			<p id="p178">una práctica ilegal que puede ser sancionada con multas de hasta 15</p>
+			<p id="p179">millones de pesetas, en la medida en la que atentan contra un derecho</p>
+			<p id="p180">fundamental.</p>
+			<p id="p181">Una misma empresa por otros (no huelguistas) será en principio legal, salvo</p>
+			<p id="p182">que se demuestre que con ello lo que se persigue es la eliminación de los</p>
+			<p id="p183">efectos de la huelga en cuyo caso será considerada ilegal (esquirolaje</p>
+			<p id="p184">interno).</p>
+			<p id="p185">informativos, es decir, grupos de trabajadores que ejercen el derecho</p>
+			<p id="p186">singular a requerir a otros la adhesión a la huelga y a participar, dentro del</p>
+			<p id="p187">marco legal, en acciones conjuntas dirigidas a tal fin. Los piquetes coactivos</p>
+			<p id="p188">consistentes en la amenaza son ilegales. La coacción aparece tipificada</p>
+			<p id="p189">como delito por el art. 496.2 y 3 CP.</p>
+			<p id="p190">Existen dos obligaciones fundamentales durante la huelga:</p>
+			<p id="p191">- Establecer servicios de seguridad y mantenimiento en el centro de trabajo:</p>
+			<p id="p192">la seguridad se refiere a las personas y a las cosas; y el mantenimiento a</p>
+			<p id="p193">las instalaciones del centro. El TC entiende que el derecho de huelga</p>
+			<p id="p194">supone ejercer presión sobre el empresario, colocándose los trabajadores</p>
+			<p id="p195">fuera del contrato de trabajo, pero no es, ni debe ser en momento alguno,</p>
+			<p id="p196">una vía para producir daños o deterioros en los bienes del capital. Estos</p>
+			<p id="p197">servicios se establecen:</p>
+			<p id="p198">mantenimiento concretas. La razón de que sea él el competente radica en</p>
+			<p id="p199">que el empresario tiene un poder de dirección del que se deriva un poder</p>
+			<p id="p200">de policía.</p>
+			<p id="p201">designan a los trabajadores que van a llevar a cabo estas medidas. En</p>
+			<p id="p202">caso de no llegar a un acuerdo, el Comité de huelga podrá acudir a los</p>
+			<p id="p203">tribunales o a un procedimiento extrajudicial que se suele prever en los</p>
+			<p id="p204">convenios colectivos como mecanismo regulador de desacuerdos.</p>
+			<p id="p205">3º Al Comité de huelga le corresponde garantizar el cumplimiento de</p>
+			<p id="p206">estos servicios. En caso contrario, la huelga será considerada ilegal o se</p>
+			<p id="p207">procederá al cierre patronal.</p>
+			<p id="p208">diferencia de los servicios de seguridad y mantenimiento que se predica</p>
+			<p id="p209">en todos los centros de trabajo, esta obligación solo es exigible en</p>
+			<p id="p210">aquellas empresas que presten servicios públicos. Frente a los servicios de</p>
+			<p id="p211">seguridad y mantenimiento que tienen por finalidad que la prestación o</p>
+			<p id="p212">producción de la empresa pueda reanudarse después de la huelga, el</p>
+			<p id="p213">mantenimiento de los servicios esenciales para la comunidad trata de</p>
+			<p id="p214">garantizar los derechos fundamentales de los usuarios o destinatarios de</p>
+			<p id="p215">esos servicios.</p>
+			<p id="p216">ejercicio del derecho de huelga. La STC 26/1981 de 17 de julio entiende</p>
+			<p id="p217">que se trata de todo tipo de actividad cuyo producto está destinado a</p>
+			<p id="p218">satisfacer necesidades vitales de la comunidad. Afectan a derechos</p>
+			<p id="p219">fundamentales y bienes constitucionalmente protegidos de los ciudadanos.</p>
+			<p id="p220">En la práctica son consideradas como actividades esenciales para la</p>
+			<p id="p221">comunidad (servicios que presta RENFE, los aeropuertos, las empresas</p>
+			<p id="p222">eléctricas...)</p>
+			<p id="p223">concepto indeterminado. En este sentido, El TC entiende que se deberá</p>
+			<p id="p224">determinar caso por caso que servicio mínimo es el que se deba</p>
+			<p id="p225">establecer en una empresa.</p>
+			<p id="p226">gubernativa, es decir, el gobierno, los Consejos de gobierno de las CCAA</p>
+			<p id="p227">y sus respectivos presidentes. Cabe la delegación de estos órganos a uno</p>
+			<p id="p228">inferior, en ningún caso se admite la subdelegación.</p>
+			<p id="p229">Los servicios mínimos son establecidos de la siguiente forma: el gobierno</p>
+			<p id="p230">a través de RD establece de forma genérica en un determinado sector una</p>
+			<p id="p231">actividad esencial para la comunidad y encomienda al ministerio sectorial</p>
+			<p id="p232">correspondiente (Ministerio de Trabajo o Conserjería de Trabajo) la</p>
+			<p id="p233">determinación de los servicios mínimos para una huelga concreta, es</p>
+			<p id="p234">decir, lleva a cabo la operación jurídica de determinación de las</p>
+			<p id="p235">prestaciones esenciales no susceptibles de interrupción. Ello se</p>
+			<p id="p236">instrumenta a través de Orden Ministerial.</p>
+			<p id="p237">Los trabajadores que van a realizar estos servicios mínimos son elegidos</p>
+			<p id="p238">Indiscriminadamente de acuerdo a lo previsto en el RD. En estas</p>
+			<p id="p239">designaciones se exige el respeto de dos principios:</p>
+			<p id="p240">- Proporcionalidad: responde al equilibrio entre el perjuicio que sufre el</p>
+			<p id="p241">derecho de huelga y el beneficio que obtienen de los derechos</p>
+			<p id="p242">fundamentales de los usuarios.</p>
+			<p id="p243">huelguistas y usuarios. En caso de que falte esta motivación el acto</p>
+			<p id="p244">administrativo será nulo. A través de la motivación se puede acudir a los</p>
+			<p id="p245">tribunales en defensa de derechos.</p>
+			<p id="p246">Finalización de la huelga: se puede producir por varias causas: el desistimiento de la huelga, el acuerdo entre empresarios y trabajadores y la solución extrajudicial del conflicto (se fija en convenio colectivo).</p>
+			<p id="p247">20.4. Huelgas ilegales y huelgas abusivas.</p>
+			<p id="p248">La huelga ilegal es aquella en la que se produce un daño grave e intencionado de tal naturaleza que sobrepasa la mera presión en que consiste la huelga. De acuerdo con lo dispuesto en el ET son huelgas ilegales (art. 11 y art. 7.1 RDRT):</p>
+			<p id="p249">las huelgas políticas cuando se inicien o sostengan por motivos políticos o con cualquier otra finalidad ajena al interés profesional de los trabajadores afectados.</p>
+			<p id="p250">Las huelgas de solidaridad o apoyo salvo que afecte directamente al interés profesional de quienes la promuevan o sostengan.</p>
+			<p id="p251">Las huelgas novatorias que tengan por objeto alterar dentro de su periodo de vigencia, lo pactado en un convenio colectivo. No serán ilegales cuando la huelga tenga por objeto un aspecto de la relación de trabajo que venga regulado por otras fuentes y que no impliquen una alteración del convenio, tampoco en los casos de incumplimiento del convenio por parte del empresario y en aquellos otros en los que sea aplicable la llamada cláusula “rebus sic stantibus”, ni la que tuviera por objeto la reclamación de una interpretación del mismo o exigir reivindicaciones que no impliquen modificaciones del convenio.</p>
+			<p id="p252">Las huelgas con ocupación de lugares de trabajo: son aquellas que suponen un ilegal ingreso en los locales o una ilegal negativa de desalojo frente a una legítima orden de abandono, implicando ello un notorio peligro de violación de los bienes y personas dentro de la empresa. En caso de que no exista riesgo de atentar contra los bienes y personas de la empresa, se considerará como una medida de policía.</p>
+			<p id="p253">Las huelgas irregulares en su procedimiento de ejercicio que se produzcan en general contraviniendo lo establecido en el RD o lo expresamente pactado en un convenio colectivo para la solución de conflictos.</p>
+			<p id="p254">Las huelgas abusivas son aquellas que provocan una descordinación absoluta en la producción de la empresa, de tal forma que se produce un perjuicio que va más allá de la mera presión. El criterio diferenciador entre huelga abusiva y huelga ilegal es el de la intencionalidad. Son consideradas como huelgas abusivas (art. 7.2 RDRT):</p>
+			<p id="p255">las huelgas rotatorias.</p>
+			<p id="p256">Las huelgas tapón o estratégicas efectuadas por los trabajadores que presten servicios en sectores estratégicos con la finalidad de interrumpir el proceso productivo.</p>
+			<p id="p257">Las huelgas de celo o reglamento.</p>
+			<p id="p258">Las huelgas atípicas en general, que comporten cualquier forma de alteración colectiva en el régimen de trabajo distinta a la huelga.</p>
+			<p id="p259">En estos supuestos hay una presunción iuris tantum, de tal modo que si el trabajador demuestra que no existe descordinación o perjuicio, la huelga será legal.</p>
+			<p id="p260">20.5. El cierre patronal.</p>
+			<p id="p261">El cierre patronal es la medida conflictiva principal de uso empresarial consistente en la clausura temporal del centro de trabajo decidida unilateralmente por uno o varios empresarios como medida de conflicto frente a sus trabajadores, que se ven por ello imposibilitados de llevar a cabo su actividad laboral. El cierre patronal puede ser de dos clases:</p>
+			<p id="p262">ofensivo: es el tomado a iniciativa del empresario.</p>
+			<p id="p263">Defensivo: es el tomado como respuesta a los actos de los trabajadores.</p>
+			<p id="p264">La CE no hace referencia expresamente al cierre patronal. A través de una interpretación del art. 37.2 en donde se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo se deduce que el cierre patronal es una medida de este tipo.</p>
+			<p id="p265">La STC trata de perfilar el cierre patronal entendido este como ejercicio de un poder de policía del empresario dirigido exclusivamente a preservar la integridad de las personas, bienes e instituciones y limitado al tiempo necesario para remover tales causas y asegurar la reanudación de la actividad. Unicamente es admitido por nuestro ordenamiento el cierre patronal defensivo, por lo que el cierre patronal ofensivo es considerado como una medida ilegal. Dentro del concepto de cierre patronal defensivo solo se considerará legal aquel que responda a alguna de las causas siguientes:</p>
+			<p id="p266">La existencia de notorio peligro de violencia para las personas o daños graves para las cosas.</p>
+			<p id="p267">La ocupación ilegal del centro de trabajo o de cualquiera de sus dependencias, o peligro cierto de que esta se produzca.</p>
+			<p id="p268">La inasistencia o irregularidades en el trabajo cuyo volumen impidan gravemente el proceso normal de producción.</p>
+			<p id="p269">El cierre patronal debe ser declarado por el empresario y comunicado en el plazo de 12 horas a la autoridad laboral competente.</p>
+			<p id="p270">El cierre patronal finaliza por desistimiento del empresario, por acuerdo entre empresario y trabajador o por resolución del conflicto por vía extrajudicial.</p>
+			<p id="p271">Efectos del cierre patronal (iguales a los de la huelga):</p>
+			<p id="p272">el contrato de trabajo queda suspendido.</p>
+			<p id="p273">El trabajador queda en situación de alta en la Seguridad Social especial, es decir, la obligación de cotizar por parte del empresario y trabajador queda suspendida mientras dure el cierre patronal (o la huelga).</p>
+			<p id="p274">Los trabajadores no tendrán derecho a solicitar prestación por desempleo o incapacidad transitoria.</p>
+		</body>
+	</text>
+</cesDoc>

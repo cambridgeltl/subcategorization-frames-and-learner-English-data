@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Landfill Mining | Climate Change</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Landfill Mining | Climate Change</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-07-25 08:58:09.0</pubDate>
+							<eAddress>http://climatechange.foreignpolicyblogs.com/2008/08/27/landfill-mining/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/12770.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Wednesday, August 27 9:26 am EST</p>
+			<p id="p2">The IPCC says “Post-consumer waste is a small contributor to global greenhouse gas (GHG) emissions (&lt;5%) with total emissions of approximately 1,300 Mt carbon dioxide-eq in 2005. The largest source is landfill methane ” Still, that’s a lot of GHG. (See the IPCC Fourth Assessment Report Working Group III Report “Mitigation of Climate Change” - Chapter 10: Waste management .)</p>
+			<p id="p3">With solid waste management, as with any sector, there are ancillary benefits to reducing GHG: increased energy efficiency, fewer hazardous wastes for disposal, etc., etc. The AR4-WG3 Glossary defines Co-benefits as “The benefits of policies implemented for various reasons at the same time, acknowledging that most policies designed to address greenhouse gas mitigation have other, often at least equally important, rationales (e.g., related to objectives of development, sustainability, and equity).”</p>
+			<p id="p4">Another way of looking at this is in having “no regrets” in your climate mitigation policy. The IPCC glossary describes it this way: “No-regret policy (options/potential) - Such policy would generate net social benefits whether or not there is climate change associated with anthropogenic emissions of greenhouse gases. No-regret options for GHG emissions reduction refer to options whose benefits (such as reduced energy costs and reduced emissions of local/regional pollutants) equal or exceed their costs to society, excluding the benefits of avoided climate change.”</p>
+			<p id="p5">I devised a plan a few years back for New York City’s municipal solid waste. I articulated my ideas, gleaned from the best concepts and practices in urban sustainable development, in a comprehensive proposal for New York City’s modest 25,000 tons a day of municipal solid waste and called the plan, Urban Gold . The heart of the strategy is to co-locate a materials recovery facility (MRF) and other waste disposal facilities, such as pyrolysis or gasification plants , with industries that would use the recycled materials as feedstock for their manufacturing.</p>
+			<p id="p6">Another way to feed a MRF is to use recovered materials from a landfill. The idea of “landfill mining” has been kicking around for a number of years and has found some traction. See this article from Reuters - Could US$100 Oil Turn Dumps Into Plastic Mines? (See also this Reuters “factbox” on landfills. The IPCC’s Waste Management piece cited above is also full of useful information.)</p>
+			<p id="p7">There are thousands of opportunities all over the world to mine landfills for plastics and metals for recycling, and organic materials for use as soil additives or for conversion by pyrolysis or similar processes to char and useful gases such as hydrogen. (See the previous post below on this.) The first global conference on landfill mining will take place in October in London. Obviously, this movement is building.</p>
+			<p id="p8">All sorts of “best practices” are coming into greater prominence as a result of our having to confront the climate change crisis. One should have little or no regret at all about this.</p>
+			<p id="p9">Leave Comments Below»</p>
+			<p id="p10">*</p>
+			<p id="p11">To prove you're a person (not a spam script), type the security word shown in the picture.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Cours de LEA, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Cours de LEA, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-08-27 17:09:31.0</pubDate>
+							<eAddress>http://www.cours-univ.fr/licence-lea-droit-travail.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>cours</keyTerm>
+					<keyTerm>univ</keyTerm>
+					<keyTerm>université</keyTerm>
+					<keyTerm>licence</keyTerm>
+					<keyTerm>faculté</keyTerm>
+					<keyTerm>gratuit</keyTerm>
+					<keyTerm>droit du travail</keyTerm>
+					<keyTerm>LEA</keyTerm>
+					<keyTerm>sources</keyTerm>
+					<keyTerm>subordination</keyTerm>
+					<keyTerm>droit international</keyTerm>
+					<keyTerm>étatique</keyTerm>
+					<keyTerm>jurisprudence</keyTerm>
+					<keyTerm>usage</keyTerm>
+					<keyTerm>règlement</keyTerm>
+					<keyTerm>contentieux</keyTerm>
+					<keyTerm>individuel</keyTerm>
+					<keyTerm>collectif</keyTerm>
+					<keyTerm>évolutif</keyTerm>
+					<keyTerm>impératif</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/1303.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Droit du travail.</p>
+			<p id="p2">Le cours se divise en plusieurs parties, vous pouvez soit le lire dans l'ordre logique, en avançant via la flèche de transition entre parties, soit aller directement à une partie qui vous intéresse en particulier, en utilisant le sommaire ci-dessous.</p>
+			<p id="p3">• Introduction (ci-dessous)</p>
+			<p id="p4">Introduction</p>
+			<p id="p5">Le droit du travail est l’ensemble des normes juridiques qui régissent les relations entre employeurs et travailleurs. Il encadre notamment la formation, l’exécution et la rupture du contrat de travail ainsi qu’il garantit le respect des libertés syndicales et des normes de sécurité de travail.</p>
+			<p id="p6">Le droit du travail est la discipline juridique la plus récente. Autrefois, on parlait de « législation industrielle. »</p>
+			<p id="p7">A l’origine, ce droit ne concernait que le travail dans l’industrie. On a abandonné cette terminologie pour retenir celle de « droit ouvrier », car il s’agissait d’un droit mis en place pour le travail ouvrier et comme ce droit a peu à peu gagné l’ensemble des secteurs de l’activité économique, on a fini par parler de « droit du travail. »</p>
+			<p id="p8">Cette évolution terminologique ne s’est pas terminée là, car l’appellation du droit du travail est supplantée par l’appellation du « droit social » qui recouvre un champ d’intérêt plus vaste.</p>
+			<p id="p9">Le droit social porte en fait sur 2 points :</p>
+			<p id="p10">- Sur la protection sociale de l’individu contre les risques sociaux et cette branche du droit social, correspond à ce qu’on appelle le droit de la sécurité sociale.</p>
+			<p id="p11">- Sur les relations individuelles et collectives nées du contrat de travail et c’est cette branche qui est désormais dénommée droit du travail.</p>
+			<p id="p12">Il faut faire apparaître que le droit du travail fait partie intégrante de la politique de l’emploi de l’État, qui a pour objectifs :</p>
+			<p id="p13">- D’une part de fournir aux entreprises la main d’œuvre quantitative et qualitative nécessaire aux objectifs de la production.</p>
+			<p id="p14">- D’autre part d’assurer aux demandeurs d’emploi un travail correspondant à leurs souhaits et à leurs possibilités.</p>
+			<p id="p15">Les règles formant le droit du travail vont permettre d’orienter la politique de l’emploi en fonction des circonstances économiques.</p>
+			<p id="p16">Exemple #1 : le droit peut alléger considérablement les procédures de licenciements, il apporte davantage de souplesse aux entreprises pour s’adapter à la demande des consommateurs et cela permet aux entreprises de sauvegarder leur activité en période de stagnation.</p>
+			<p id="p17">Exemple #2 : quand le droit du travail fixe la durée légale du travail à 35 heures, c’est à la fois dans le but d’améliorer la situation des employeurs, mais aussi afin de créer des emplois supplémentaires.</p>
+			<p id="p18">Le droit du travail permet à l’État de mettre en application sa politique économique.</p>
+			<p id="p19">Au niveau de la structure interne : 2 chapitres au titre de l’introduction :</p>
+			<p id="p20">Le droit du travail a vocation à régir la situation de la personne travaillant pour le compte et sous l’autorité d’autrui, on cherche à définir le droit du travail. (Chapitre 1 : Définition et champ d’application du droit du travail)</p>
+			<p id="p21">De création récente (Chapitre 2 : Évolution historique du droit du travail), ce droit est évolutif et impératif (Chapitre 3 : Les caractères du droit du travail) et se caractérise par ailleurs par la diversité des normes qui le composent (Chapitre 4 : Les sources en droit du travail) et l’éclatement de son contentieux (Chapitre 5 : L’éclatement du contentieux), et les prémices au contrat de travail (Chapitre 6 : Les prémices au contrat de travail).</p>
+		</body>
+	</text>
+</cesDoc>

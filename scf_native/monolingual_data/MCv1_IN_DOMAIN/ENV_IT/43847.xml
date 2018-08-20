@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Rete Regionale Rifiuti del Lazio 
+» Senza categoria 
+
+ » CHIESTI INTERVENTI DI VERIFICA A MALAGROTTA</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Rete Regionale Rifiuti del Lazio 
+» Senza categoria 
+
+ » CHIESTI INTERVENTI DI VERIFICA A MALAGROTTA</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 07:10:01.0</pubDate>
+							<eAddress>http://www.reterifiutilazio.it/blog/?p=211</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/43847.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">ROMA (AGG) (652/2007) – Un tempestivo intervento di verifica dello stato qualitativo delle emissioni atmosferiche e idriche nella zona di via di Malagrotta a Roma, dove sono presenti una discarica, due impianti di trattamento dei rifiuti solidi urbani, una raffineria di prodotti petroliferi, un inceneritore di rifiuti ospedalieri e dove è in costruzione un ulteriore inceneritore/gassificatore di rifiuti. A chiederlo è il Comitato Malagrotta attraverso un esposto inviato al Ministero dell’Ambiente, al Comune di Roma, alla Provincia di Roma, all’Arpa Lazio e al Comando Carabinieri per la Tutela dell’Ambiente. Secondo quanto segnala il Comitato, che riunisce i cittadini della zona di Malagrotta a Roma, nell’intera area circostante a via di Malagrotta c’è da tempo una consistente emissione in atmosfera di fumi e vapori, cui si stanno aggiungendo ulteriori emissioni in atmosfera causati dall’avviata costruzione di un nuovo gassificatore per lo smaltimento dei rifiuti che, a detta del Comitato Malagrotta “adotta una tecnologia sperimentale comunque basata sull’incenerimento dei medesimi”. Inoltre, secondo quanto denunciano i cittadini, a causa della presenza nell’area di questi impianti di smaltimento dei rifiuti, anche nei fossi e nei rii dell’intera area si riscontra la presenza di immissioni idriche di origine sconosciuta, che a loro volta “colorano” le acque. Il Comitato fa presente che, anche se non è nota la natura e l’origine esatta delle emissioni idriche e atmosferiche da loro segnalate, il Ministero dell’Ambiente con decreto n. 60 del 2 aprile 2002 ha fissato limiti severi per alcuni inquinanti specifici, quali anidride solforosa, biossido e ossidi di azoto, polveri sottili, piombo. Per quanto riguarda, invece, gli scarichi idrici, il Comitato Malagrotta segnala come questi debbano essere autorizzati dalle Province, cui compete la costante verifica del rispetto degli eventuali limiti fissati, e resta al Sindaco di Roma il compito di far cessare, eventualmente con provvedimenti d’urgenza, le attività che risultino pericolose per la salute pubblica. Infine, il Comitato chiede, tramite l’esposto, al Ministro dell’Ambiente Alfonso Pecoraro Scanio di predisporre una valutazione d’impatto ambientale complessivo degli impianti industriali e delle attività estrattive della Valle Galeria, ed uno studio di sicurezza dell’area vasta come richiesto nel 2003 dal Comune di Roma (X° Dipartimento, Servizio VIA) e più recentemente dalla Rete Regionale Rifiuti. E, inoltre, di avviare le procedure per la Dichiarazione di Area ad Alto Rischio di Crisi Ambientale, come richiesto dal Comune di Roma dal 1997.</p>
+			<p id="p2">Argomenti</p>
+		</body>
+	</text>
+</cesDoc>

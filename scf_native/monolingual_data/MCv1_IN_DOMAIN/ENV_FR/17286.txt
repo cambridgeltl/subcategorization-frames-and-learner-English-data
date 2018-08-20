@@ -1,0 +1,28 @@
+Anciennement dénommés décharge ou CET (Centre d'Enfouissement Technique).
+Il existe trois types de CSDU :
+- CSDU 1 : déchets industriels dangereux.
+- CSDU 2 : déchets ménagers et assimilés.
+- CSDU 3 : déchets dits inertes.
+La France comptait en 1999 1.100 CSDU II. En 1997, 48% des déchets municipaux allaient en décharge.
+Le CSDU est composé de casiers, indépendants sur le plan hydraulique, eux-mêmes composés d'alvéoles, dans lesquelles sont entreposés les déchets. Les casiers sont entourés de digues étanches. L'étanchéité est assurée par superposition d'une géomembrane en mélange de fibres textiles en PEHD et de matériaux drainant. Les lixiviats sont récupérés, traités par lagunage puis envoyés en stations d'épuration. L'ensemble est entouré d'une digue périphérique. La hauteur et la pente des digues, la distance des casiers par rapport à la limite de l'exploitation, les contrôles, ..., sont réglementés. La duré d'exploitation est en général de vingt ans.
+Les CSDU peuvent être à l'origine de plusieurs types de nuisances :
+- Génération dodeurs : pas de caractère dangereux mais la nuisance peut-être forte pour les riverains.
+- Génération de lixiviats ou jus de décharge provenant de la décomposition des déchets et de la lixiviation : ils jus sont récupérés, pompés puis envoyés vers des usines de traitement adéquates (station de traitement). Ces jus présentent un caractère toxique. Ils sont contenus grâce à la géomembrane (étanchéité active du dispositif) et par une couche dargile (filtration). Leau traverse largile à raison d'environ 3 cm par an.
+- Génération de biogaz : une grande partie des gaz dégagés ne présente pas de risques sur lorganisme mais dautres sont en revanche nocifs : acide fluorhydrique, chlorure dhydrogène, acide sulfurique, ... . Ils sont généralement brûlés sur place à laide dune torchère. Exemple : sur le CSDU II de Sauvigny le bois (21), ce sont 275.000 m3 de gaz générés pour une période 6 mois.
+- Augmentation du transport routier d'où génération de nuisances pour les riverains.
+A son arrivée sur un centre de stockage, le transporteur présente deux documents : le certifcat d'acceptation préalable et un BSDI (Bordereau de suivi des déchets industriels) comportant notamment les caractéristiques du déchet et la traçabilité de sa production.
+La digestion préalable des boues et des déchets avant stockage en CSDU permet :
+- La réduction des quantités à déshydrater, transporter, stocker en CSDU.
+- La diminution de la production de biogaz et lixiviats en CSDU
+- De plus la valorisation du biogaz est plus facile dans des structures de traitement quen CSDU.
+Quelques références réglementaires :
+- Décision du 19/12/02 : Critères et procédures d'admission des déchets dans les décharges.
+- Circulaire du 04/07/02 : Installations de stockage de déchets ménagers et assimilés.
+- Circulaire du 17/06/02 : Bande de 200 m autour des décharges existantes et des nouvelles installations de stockage de déchets ménagers et assimilés.
+- Arrêté du 03/04/02 : Stockage des déchets de classe II.
+- Circulaire du 14/02/02 : Calcul des garanties financières pour les installations de stockage de déchets.
+- Arrêté du 31/12/01 : Stockage de déchets ménagers et assimilés.
+- Circulaire du 29/04/99 : Garanties financières des installations de stockage de déchets.
+- Arrêté du 09/09/97 : Décharges de classe II.
+- Quelques références réglementaires supplémentaires : Se reporter à Élimination.
+2/ le 10/09/2010 à 20h00

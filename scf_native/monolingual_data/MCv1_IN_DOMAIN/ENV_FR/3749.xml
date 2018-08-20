@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Une pluralité d’intervenants dans la lutte contre les pollutions marines - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Une pluralité d’intervenants dans la lutte contre les pollutions marines - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 18:57:33.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/Une-pluralite-d-intervenants-dans.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/3749.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">Les pollutions</p>
+			<p id="p3">Les pollutions marines sont définies par l’Organisation maritime internationale (OMI) comme l’introduction dans l’environnement marin par l’homme, directement ou non, de substance ou d’énergie générant des effets néfastes sur l’environnement ou susceptibles d’affecter la santé humaine, les activités halieutiques (pêche), les sites, les aménagements et l’utilisation de l’eau de mer.</p>
+			<p id="p4">Les catastrophes successives de l’ERIKA (1999), du IEVOLI SUN (2000) et du PRESTIGE (2002) sont venues rappeler tragiquement que le trafic maritime et le transport de substances polluantes constituent un risque important pour l’environnement.</p>
+			<p id="p5">La prévention et la lutte contre les pollutions constituent une priorité pour le ministère du Développement durable, réaffirmée par les engagements pris en juillet 2009 lors du Grenelle de la mer.</p>
+			<p id="p6">Sommaire :</p>
+			<p id="p7">La commune</p>
+			<p id="p8">En vertu de l’article L2212.2 du code général des collectivités territoriales (CGCT), il appartient au maire de « de faire cesser… les pollutions de toutes natures ». Le pouvoir du maire s’étend en matière de pollution jusqu’à la limite des eaux à l'instant considéré (article L2212.2 du CGCT). Pour les interventions en mer, le maire doit se placer sous l’autorité du préfet maritime.</p>
+			<p id="p9">Afin de préparer la commune en cas de pollution, la loi de modernisation de sécurité civile du 13 août 2004 impose au maire d’établir un Plan Communal de Sauvegarde (PCS) au sein duquel ils pourront prévoir un volet spécifique "Pollution accidentelle des eaux".</p>
+			<p id="p10">Pour lutter contre une éventuelle pollution marine, le maire peut faire appel aux moyens humains et matériels de la commune ou s’appuyer sur les Services Départementaux d’Incendie et de Secours (SDIS) dans la limite des missions qui leurs sont fixées dans leur règlement opérationnel.</p>
+			<p id="p11">En cas de pollution de moyenne ampleur, le maire peut demander au préfet de département la mise à disposition des moyens des stocks Polmar-terre dans le cadre de conventions à titre onéreux.· </p>
+			<p id="p12">Les collectivités territoriales</p>
+			<p id="p13">Selon l'instruction du 11 janvier 2006 portant sur l'adaptation de la réglementation relative à la lutte contre la pollution du milieu marin, la région et le département peuvent jouer un rôle dans le domaine économique, notamment en apportant une aide à la préparation à la lutte contre les pollutions de grande ampleur. En cas de pollution, les autorités chargées de la lutte devront les tenir informés des mesures prises pour la prévenir et en combattre les effets.· </p>
+			<p id="p14">Le préfet de département</p>
+			<p id="p15">En cas de pollution dépassant les capacités de lutte des communes, le préfet de département prend en main la direction des opérations de secours.Il peut s’appuyer sur les moyens des services déconcentrés de l’Etat, mais aussi sur les services des collectivités locales et des entreprises privées par le biais de la réquisition. A cet effet, il peut faire appel au fonds d’intervention POLMAR pour mobiliser rapidement ces moyens.Lorsque la pollution touche plusieurs départements, le préfet de zone de défense coordonne le dispositif de lutte à terre ; le préfet reste cependant le directeur des opérations de secours dans son département.</p>
+			<p id="p16">La loi du 13 août 2004 prévoit que le Préfet de département a en charge d’établir le dispositif ORSEC ( Organisation de la Réponse de la Sécurité Civile) qui couvre notamment les opérations de lutte contre les pollutions marines. Ce dispositif doit prévoir une évaluation des zones vulnérables du littoral et l’inventaire des moyens humains et matériel qui peuvent être mis à disposition.· </p>
+			<p id="p17">Le préfet maritime</p>
+			<p id="p18">Le préfet maritime est compétent dans sa zone d’action pour les opérations de lutte contre les pollutions en mer. Son autorité s'exerce à partir de la laisse de basse mer, sauf dans les ports à l'intérieur de leurs limites administratives et dans les estuaires en deçà des limites transversales de la mer.</p>
+			<p id="p19">Il dirige les opérations de lutte, met en œuvre, si besoin est, le dispositif ORSEC maritime et peut faire appel à tout moyen public ou privé à cet effet. Tout comme le Préfet de département il lui est possible de faire appel au fonds d’intervention POLMAR.</p>
+			<p id="p20">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

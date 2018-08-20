@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La gestion des matières et des déchets radioactifs - Ministère du Développement durable</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La gestion des matières et des déchets radioactifs - Ministère du Développement durable</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-10 19:05:53.0</pubDate>
+							<eAddress>http://www.developpement-durable.gouv.fr/La-gestion-des-matieres-et-des.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_FR/4203.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Votre courriel</p>
+			<p id="p2">3 novembre 2009 (mis à jour le 31 mars 2010) - Énergie et climat</p>
+			<p id="p3">La politique française concernant les matières et des déchets radioactifs vise à assurer leur gestion durable, dans le respect de la protection de la santé des personnes, de la sûreté et de l’environnement. Cette politique repose sur trois piliers : l’établissement d’un plan national de gestion des matières et des déchets radioactifs, des mesures de transparence et de démocratie, et la sécurisation du financement du démantèlement des installations nucléaires et de la gestion des déchets radioactifs.</p>
+			<p id="p4">Définitions</p>
+			<p id="p5">Une « substance radioactive » est une substance qui contient des radionucléides, naturels ou artificiels, dont l’activité ou la concentration justifie un contrôle de radioprotection. Parmi ces substances radioactives, il en existe certaines pour lesquelles une utilisation ultérieure est prévue ou envisagée (le cas échéant après traitement) : on parle alors de « matière radioactive ». A l’inverse les « déchets radioactifs » sont définis comme les substances radioactives pour lesquelles aucune utilisation ultérieure n’est prévue ou envisagée. On parle aussi de « déchets radioactifs ultimes » pour ceux qui ne peuvent plus être traités dans les conditions techniques et économiques du moment, notamment par extraction de leur part valorisable ou par réduction de leur caractère polluant ou dangereux. Quant au démantèlement, il s’agit de l’ensemble des opérations techniques, qui conduisent une installation nucléaire à son déclassement (par extraction des éléments radioactifs, décontamination et assainissement des structures, etc.).</p>
+			<p id="p6">Pour en savoir plus sur l’encadrement de la mise en œuvre du démantèlement des INB, consulter le dossier sur la sûreté nucléaire .</p>
+			<p id="p7">La classification des déchets radioactifs</p>
+			<p id="p8">Les déchets radioactifs sont variés, en termes de nature physique et chimique, niveau et type de radioactivité, durée de vie… La classification française des déchets radioactifs repose sur deux paramètres principaux :</p>
+			<p id="p9">Le niveau de radioactivité</p>
+			<p id="p10">Il s’exprime généralement en Becquerels (Bq) par gramme ou par kilogramme. Egalement appelé activité, le niveau de radioactivité correspond à la quantité de rayonnements émis par les éléments radioactifs (radionucléides) contenus dans les déchets. On distingue 4 niveaux d’activités différentes : haute activité (HA), moyenne activité (MA), faible activité (FA) et très faible activité (TFA).</p>
+			<p id="p11">La période radioactive</p>
+			<p id="p12">Elle s’exprime en années, jours, minutes ou secondes. Egalement appelé demi-vie, elle quantifie le temps au bout duquel l’activité initiale d’un radionucléide est divisée par deux.</p>
+			<p id="p13">On distingue les déchets dont les principaux radionucléides ont une période courte (inférieure ou égale à 31 ans) et ceux de période longue (supérieure à 31 ans). On considère généralement pour les premiers que la radioactivité est très fortement atténuée au bout de 10 périodes, soit près de 300 ans.</p>
+			<p id="p14">On notera aussi le cas particulier des radionucléides utilisés pour les besoins de diagnostic en médecine, de durée de vie « très courte », c'est-à-dire dont la période est inférieure à 100 jours. Au bout d’un temps réduit, leur radioactivité atteint des niveaux très faibles.</p>
+			<p id="p15">Cette classification permet schématiquement d'associer aux différentes catégories de déchets des filières de gestion à long terme, présentées dans le tableau ci-dessous :</p>
+			<p id="p16">Il est à noter qu'il n’existe pas de critère de classement unique permettant de déterminer la catégorie d’un déchet : en complément de l’activité globale d’un déchet, il est nécessaire d’étudier la radioactivité de chacun des radionucléides présents dans le déchet. En outre, cette classification, reposant uniquement sur le niveau d'activité et la période des radionucléides contenus dans les déchets, n'est pas suffisante pour déterminer précisément le mode de gestion approprié à un type particulier de déchet. Les caractéristiques physiques et chimiques des déchets, ainsi que leur origine, doivent en effet également être prises en compte.</p>
+			<p id="p17">Présentation du cadre législatif et réglementaire</p>
+			<p id="p18">Afin de garantir une gestion durable des matières et des déchets radioactifs, la France s’est dotée d’un cadre législatif et réglementaire spécifique. En particulier, la loi de programme n°2006-739 du 28 juin 2006 relative à la gestion durable des matières et déchets radioactifs est présentée sur cette page .</p>
+			<p id="p19">Politique française de gestion des matières et des déchets radioactifs</p>
+			<p id="p20">Mesures financières</p>
+			<p id="p21">Enfin, les dispositions de financement, concernant en particulier la sécurisation du financement des charges de long terme (démantèlement des installations nucléaires et gestion à long terme de leurs déchets radioactifs) sont présentées sur cette page .</p>
+			<p id="p22">Voir aussi</p>
+			<p id="p23">Accès direct aux rubriques</p>
+		</body>
+	</text>
+</cesDoc>

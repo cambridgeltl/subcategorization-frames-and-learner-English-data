@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Global Energy Balance</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Global Energy Balance</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2005-04-20 18:15:18.0</pubDate>
+							<eAddress>http://www.ace.mmu.ac.uk/eae/climate_change/Older/Global_Energy_Balance.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/872.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Global Energy Balance</p>
+			<p id="p2">The global energy balance is the balance between incoming energy from the Sun and outgoing heat from the Earth. The global energy balance regulates the state of the Earth's climate, and modifications to it as a result of natural and man-made climate forcing , cause the global climate to change.</p>
+			<p id="p3">Energy released from the Sun as electromagnetic radiation has a temperature of approximately 6000°C. At this temperature, electromagnetic radiation is emitted as shortwave light and ultraviolet energy. Electromagnetic radiation travels across space at the speed of light. When it reaches the Earth's, some is reflected back to space by clouds, some is absorbed by the atmosphere , and some is absorbed at the Earth's surface.</p>
+			<p id="p4">The Earth releases a lot of energy it has received from the Sun back to space. However, since the Earth is much cooler than the Sun, its radiating energy is longer wavelength infrared energy or heat. Sometimes, we can indirectly see heat radiation, for example as heat shimmers rising from a tarmac road on a hot sunny day. The energy received by the Earth from the Sun balances the energy lost by the Earth back into space. In this way, the Earth maintains a stable average temperature and therefore a stable climate (although of course differences in climate exist at different locations around the world).</p>
+			<p id="p5">The Earth atmosphere contains a number of greenhouse gases , which affect the Sun-Earth energy balance. The average global temperature is in fact 33°C higher than it should be. Greenhouse gases absorb electromagnetic radiation at some wavelengths but allow radiation at other wavelengths to pass through unimpeded. The atmosphere is mostly transparent in the visible light (which is why we can see the Sun), but significant blocking (through absorption) of ultraviolet radiation by the ozone layer, and infrared radiation by greenhouse gases, occurs.</p>
+			<p id="p6">The absorption of infrared radiation trying to escape from the Earth back to space is particularly important to the global energy balance. Such energy absorption by the greenhouse gases heats the atmosphere , and so the Earth stores more energy near its surface than it would if there was no atmosphere. The average surface temperature of the moon, about the same distance as the Earth from the Sun , is -18°C. The moon, of course, has no atmosphere. By contrast, the average surface temperature of the Earth is 15°C. This heating effect is called the natural greenhouse effect .</p>
+		</body>
+	</text>
+</cesDoc>

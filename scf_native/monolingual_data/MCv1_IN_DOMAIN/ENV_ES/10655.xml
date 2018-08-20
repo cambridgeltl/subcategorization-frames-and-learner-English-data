@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La contaminación del aire</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La contaminación del aire</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2006-07-15 02:43:32.0</pubDate>
+							<eAddress>http://www.peruecologico.com.pe/lib_c24_t01.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/10655.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La Contaminación del Aire</p>
+			<p id="p2">La contaminación del aire se produce por la emisión de humos, aerosoles, ruidos, malos olores y radiación atómica.</p>
+			<p id="p3">1. Emisión de humos. Los vehículos motorizados, las industrias, especialmente fundiciones y procesadoras de pescado, y las quemas de bosques, pajonales y basuras, emiten al aire ingentes cantidades de humo, que no sólo constituyen un contaminante visual, enturbiando la atmósfera, sino que también contienen sustancias tóxicas y partículas que afectan a la salud humana. El humo de los vehículos motorizados contiene monóxido de carbono (CO), dióxido de carbono (C02) y plomo. El CO es altamente tóxico para los animales y el ser humano, porque al ser inhalado bloquea el transporte de oxígeno en la sangre y produce anemia.</p>
+			<p id="p4">EN CONCLUSIÓN</p>
+			<p id="p5">Los humos de las industrias y fundiciones contienen compuestos de azufre, que al contacto con el agua atmosférica forman ácidos letales para las plantas. Este problema es muy grave en La Oroya (Junín), la fundición de cobre de Ilo (Moquegua) y la acerería de Chimbote, donde los humos tóxicos están aniquilando la vegetación y afectan a la agricultura y a la salud humana. Durante los meses de sequía, en la sierra y en la selva alta se queman los pajonales y los bosques, emitiéndose al aire grandes cantidades de humo que enturbian la atmósfera. En varias ocasiones el aeropuerto de Cusco ha tenido que ser clausurado por la escasa visibilidad para los aviones.</p>
+			<p id="p6">2. Emisión de aerosoles. Los aerosoles son partículas sólidas o líquidas de tamaño muy pequeño y de velocidad de caída despreciable, por lo que permanecen suspendidas en la atmósfera por periodos muy largos. El humo, el polvo, la ceniza volcánica, los freones, los óxidos de azufre y nitrógeno, y otras sustancias, son aerosoles. Las partículas más grandes (más de cinco micrones) son filtradas por la nariz y los bronquios. Las de tamaño menor penetran a los pulmones y allí pueden ser retenidas. Las partículas mayores se adhieren a la piel y a los vestidos ensuciándolos. La actividad industrial moderna produce enormes cantidades y variedades de aerosoles, que amenazan la salud de los humanos y el hábitat, por las modificaciones en la constitución de la atmósfera, como en el caso de la capa de ozono. Los freones, compuestos químicos en base a clorofluorocarbono, descomponen el ozono y disminuyen la protección contra los peligrosos rayos ultravioleta.</p>
+			<p id="p7">3. Malos olores. Las basuras, las deposiciones y ciertas fábricas, como las de harina de pescado, emiten sustancias pestilentes, que constituyen la contaminación por malos olores.</p>
+			<p id="p8">4. Radiación atómica. Las explosiones atómicas y fallas en los reactores contaminan el aire con partículas radioactivas, que se depositan en las plantas y en el agua, y con los alimentos pasan al ser humano y producen cáncer y alteraciones genéticas.</p>
+			<p id="p9">5. Emisión de ruidos. Los ruidos (música a todo volumen, bocinas, escapes de vehículos, aviones, etc.), producen alteraciones psíquicas en el ser humano (nerviosismo) y físicas (sordera). Está demostrado que las personas expuestas a ruidos muy intensos pierden gradualmente la capacidad auditiva. Esto es especialmente común en jóvenes que gustan de oír continuamente música a volumen alto en las discotecas y con audífonos. Además de distraerles, les ocasiona problemas de comunicación.</p>
+			<p id="p10">TEMA ANTERIOR</p>
+		</body>
+	</text>
+</cesDoc>

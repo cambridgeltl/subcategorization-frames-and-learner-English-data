@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Climate Compass | Blog of the Pew Center on Global Climate Change</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Climate Compass | Blog of the Pew Center on Global Climate Change</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 11:06:49.0</pubDate>
+							<eAddress>http://www.pewclimate.org/blog/gulledgej/scientists-unite-18-scientific-groups-reaffirm-climate-science-letter-senators</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/8604.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Submitted by Jay Gulledge on Wed, 10/21/2009 - 09:13</p>
+			<p id="p2">Scientists to Congress: You can argue about the politics all you want, but if you decide not to act on climate change, it won’t be because the science wasn’t strong enough.</p>
+			<p id="p3">In a letter sent today, a slew of scientific organizations, including the American Meteorological Society, American Geophysical Union, Crop Science Society of America, and American Chemical Society, informed the U.S. Senate that there is a strong scientific consensus that manmade greenhouse gases are changing the climate and that claims to the contrary are scientifically indefensible:</p>
+			<p id="p4">“Observations throughout the world make it clear that climate change is occurring, and rigorous scientific research demonstrates that the greenhouse gases emitted by human activities are the primary driver. These conclusions are based on multiple independent lines of evidence, and contrary assertions are inconsistent with an objective assessment of the vast body of peer-reviewed science.”</p>
+			<p id="p5">And they go further: “there is strong evidence that ongoing climate change will have broad impacts on society, including the global economy and on the environment.” They also say the United States will experience significant impacts; climate change isn’t just a problem for poor or developing countries : </p>
+			<p id="p6">Notably, eight agricultural, plant, and ecological organizations signed the letter, thoroughly undermining recent attempts by opponents of climate policy to spin manmade CO</p>
+			<p id="p7">2</p>
+			<p id="p8">emissions as “plant food” that’s good for the environment. The letter, signed by 18 scientific groups, warns that: "For the United States, climate change impacts include sea level rise for coastal states, greater threats of extreme weather events, and increased risk of regional water scarcity, urban heat waves, western wildfires, and the disturbance of biological systems throughout the country.” More CO</p>
+			<p id="p9">2</p>
+			<p id="p10">is not going to do crops and forests any good if they can’t get enough water or if storms, pests, or wildfires are mowing them down.</p>
+			<p id="p11">This is the first time that so many professional scientific organizations have spoken in unison on the need for climate change policy: </p>
+			<p id="p12">“If we are to avoid the most severe impacts of climate change, emissions of greenhouse gases must be dramatically reduced. In addition, adaptation will be necessary to address those impacts that are already unavoidable.”</p>
+			<p id="p13">You won’t find a political statement in the letter to the senators. Instead, you’ll find a professional community united against politically motivated denialism designed to deceive the public and Congress about what scientists know about climate change. You’ll also find a community of professional problem solvers eager to help our nation find the needed solutions, if and when our policy makers finally decide to act.</p>
+			<p id="p14">In my two decades as a practicing scientist, I’ve never seen scientific organizations speak with one voice about a politically controversial issue. Why is this happening?</p>
+			<p id="p15">First, the sophisticated understanding of the climate system that has developed over the past century is a truly historic achievement shared by thousands of professionals representing many scientific disciplines in dozens of countries. Claiming that we don’t know enough about climate change to do anything about it unfairly diminishes this accomplishment and stands as an affront to the profession.</p>
+			<p id="p16">Second, with knowledge comes the burden of understanding the risks . Scientists know better than anyone that the consequences of doing nothing are likely to be severe and could even be catastrophic for society and for nature as we know it.</p>
+			<p id="p17">As a scientist, I would have preferred to see our professional community come together like this sooner, but scientists are a fractious bunch and are politically shy. It speaks volumes about the seriousness of climate change that they have come together at all!</p>
+			<p id="p18">Organizations signing the letter: American Association for the Advancement of Science, American Chemical Society, American Geophysical Union, American Institute of Biological Sciences, American Meteorological Society, American Society of Agronomy, American Society of Plant Biologists, American Statistical Association, Association of Ecosystem Research Centers, Botanical Society of America, Crop Science Society of America, Ecological Society of America, Natural Science Collections Alliance, Organization of Biological Field Stations, Society for Industrial and Applied Mathematics, Society of Systematic Biologists, Soil Science Society of America, University Corporation for Atmospheric Research</p>
+		</body>
+	</text>
+</cesDoc>

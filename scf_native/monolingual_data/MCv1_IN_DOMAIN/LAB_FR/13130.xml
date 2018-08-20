@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Clause de non concurrence. </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Clause de non concurrence. </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:51:28.0</pubDate>
+							<eAddress>http://forum.carriere-info.fr/droit-informatique/clause-de-non-concurrence-712-0.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>carriere-info</keyTerm>
+					<keyTerm>Clause</keyTerm>
+					<keyTerm>blog</keyTerm>
+					<keyTerm>concurrence.</keyTerm>
+					<keyTerm>emploi</keyTerm>
+					<keyTerm>forum</keyTerm>
+					<keyTerm>freelances</keyTerm>
+					<keyTerm>indépendant</keyTerm>
+					<keyTerm>informaticiens</keyTerm>
+					<keyTerm>informatique</keyTerm>
+					<keyTerm>missions</keyTerm>
+					<keyTerm>Clause de non concurrence.</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/13130.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Messages: 1</p>
+			<p id="p2">Bref mon employeur dois t-il me payer pour que je respecte cette clause ?</p>
+			<p id="p3">Mathorg</p>
+			<p id="p4">Messages: 3</p>
+			<p id="p5">Si je suis licencier, est-ce que cette clause de non concurrence s'applique ?</p>
+			<p id="p6">Oui, il me semble que la clause de non concurence marche dans tout les cas de rupture.</p>
+			<p id="p7">Rog.</p>
+			<p id="p8">Messages: 2</p>
+			<p id="p9">- Elle est clairement énoncée dans votre contrat que vous vous apprêtez à rompre</p>
+			<p id="p10">- Votre patron vous verse une indemnité financière en rapport avec vos compétences et la gêne occasionnée par la clause.</p>
+			<p id="p11">Sans ces 2 conditions satisfaites, la clause n'est pas applicable.</p>
+			<p id="p12">Je pourrai essayer de retrouver les documents que j'avais récupéré pour mon ami qui a gagné son procès contre son ancien patron qui l'assignait pour cela.</p>
+			<p id="p13">Bonne journée</p>
+			<p id="p14">Messages: 2</p>
+			<p id="p15">J'avais trouvé cet article sur le net, et il en existe d'autres :</p>
+			<p id="p16">Les clauses de non-concurrence sont, aujourd'hui encore, très courantes dans les contrats de travail. Il faut pourtant savoir qu'un certain nombre d'entre elles n'ont plus de valeur. En effet, un arrêt de la Cour de cassation de juillet 2002 a posé un nouveau principe pour qu'une clause soit valable. Avant cet arrêt, les clauses devaient déjà respecter plusieurs critères. D'abord, être "légitimes", c'est-à-dire protéger l'intérêt légitime de l'entreprise. C'est le cas quand le départ du salarié met la société en péril. Ainsi la Cour de cassation a trouvé "légitime" que le contrat d'un barman comporte une clause de non-concurrence, car en quittant son employeur, celui-ci pouvait être suivi par toute la clientèle du bar. Ensuite, la clause doit être limitée dans le temps (de 1 à 3 ans en général) et dans l'espace (de la région à l'international selon le type de fonctions). Surtout, il faut comprendre que ces deux critères s'apprécient au cas par cas, selon le marché du travail et les capacités professionnelles du salarié : cette clause ne va-t-elle pas l'empêcher de retrouver du travail ? L'arrêt de la Cour de cassation de juillet 2002 ajoute une autre condition : la clause doit comprendre une contrepartie financière. Or de nombreux contrats de travail n'ont pas été remis à jour depuis cet arrêt. Les clauses qu'ils contiennent sont donc nulles. Quant au montant de cette contrepartie financière, il n'est pas précisé par la jurisprudence mais il est en général proposé et négocié au moment de la conclusion du contrat de travail avec l'employeur. Cette contrepartie peut être versée au salarié de deux manières : soit en une fois à son départ, soit sous forme de rente pendant toute la durée de validité des clauses (de 1 à 3 ans). Si, au vu de tous ces critères, vous pensez que la clause qui vous lie à votre employeur est toujours valable, sachez que si vous ne la respectez pas, vous risquez d'être poursuivi devant le conseil des prud'hommes par votre ancien employeur, qui sera en droit de demander des dommages et intérêts.</p>
+			<p id="p17">A bientôt</p>
+			<p id="p18">Messages: 88</p>
+			<p id="p19">"Cette clause a pour objectif d'éviter que le salarié par ses activités porte atteinte aux intérêts de son ancien employeur. Elle peut être prévue par le contrat de travail initial signé par le salarié (l'ajout d'une telle clause à un contrat qui n'en comportait pas constitue une modification du contrat qui doit être acceptée par le salarié) ou par la convention collective qui lui est applicable. Dans ce dernier cas, pour être opposable au salarié, il faut que celui-ci ait été informé de l'existence de la convention collective et mis en mesure d'en prendre connaissance.</p>
+			<p id="p20">Même non prévue par le contrat de travail ou la convention collective, une obligation de non-concurrence peut être convenue entre l'employeur et le salarié au moment de la rupture du contrat de travail, par exemple dans le cadre d'une transaction.</p>
+			<p id="p21">Pour être valide, une clause de non-concurrence doit répondre à l'ensemble des conditions suivantes :</p>
+			<p id="p22">être limitée dans le temps (durée déterminée), dans l'espace (zone géographique) et quant à la nature des activités professionnelles ;</p>
+			<p id="p23">prévoir le versement par l'employeur d'une contrepartie financière au salarié qui doit obligatoirement être versée après la rupture du contrat de travail ;</p>
+			<p id="p24">être indispensable à la protection des intérêts légitimes de l'entreprise. La clause s'applique en cas de rupture du contrat de travail quelle qu'en soit la cause."</p>
+			<p id="p25">texte tiré du site du Ministère du Travail, en espérant que cette lecture permettra de répondre à quelques unes de vos questions.</p>
+			<p id="p26">Ludo</p>
+			<p id="p27">Messages: 18</p>
+			<p id="p28">en gros, la clause de non concurrence impose de ne pas travailler avec une autre société ayant à peu près les mêmes activités que la société a laquelle on appartient.</p>
+			<p id="p29">Pour mettre en action cette clause, on doit absolument avoir une compensation financiere qui est au tiers du salaire voire plus</p>
+			<p id="p30">Messages: 47</p>
+			<p id="p31">Messages: 42</p>
+			<p id="p32">Bien sur que le syntec prévoit une clause de non-concurrence, rémunérée, limitée dans le temps et géographiquement.</p>
+			<p id="p33">Messages: 121</p>
+			<p id="p34">la convention Syntec ne prévoit pas de contrepartie financiere pour la clause de non-concurrence.</p>
+			<p id="p35">Vérifiez donc la convention (qui est accessible sur le net sur le site de legifrance).</p>
+			<p id="p36">Messages: 121</p>
+			<p id="p37">comme tu oteras tous tes doutes.</p>
+			<p id="p38">Messages: 26</p>
+			<p id="p39">Mais on les trouve où ces copies de décision? quelqu'un saurait il ou on peut les procurer? y'aurait il un lien internet?</p>
+			<p id="p40">Messages: 47</p>
+			<p id="p41">voila, j espere t avoir aidé.</p>
+			<p id="p42">a+</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Equal pay / Equal work</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Equal pay / Equal work</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 11:21:21.0</pubDate>
+							<eAddress>http://www.worksmartontario.gov.on.ca/scripts/default.asp?contentID=1-3-7</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Ontario</keyTerm>
+					<keyTerm>Ontario Ministry of Labour</keyTerm>
+					<keyTerm>Ministry of Labour</keyTerm>
+					<keyTerm>Department of Labour</keyTerm>
+					<keyTerm>Ontario Ministry of Labor</keyTerm>
+					<keyTerm>Ministry of Labor</keyTerm>
+					<keyTerm>Department of Labor</keyTerm>
+					<keyTerm>labour rights</keyTerm>
+					<keyTerm>labor</keyTerm>
+					<keyTerm>Employment Standards Act</keyTerm>
+					<keyTerm>ESA</keyTerm>
+					<keyTerm>employment standards</keyTerm>
+					<keyTerm>employment rights</keyTerm>
+					<keyTerm>hours of work</keyTerm>
+					<keyTerm>overtime</keyTerm>
+					<keyTerm>vacation</keyTerm>
+					<keyTerm>vacation time</keyTerm>
+					<keyTerm>vacation pay</keyTerm>
+					<keyTerm>public holidays</keyTerm>
+					<keyTerm>time off</keyTerm>
+					<keyTerm>breaks</keyTerm>
+					<keyTerm>coffee breaks</keyTerm>
+					<keyTerm>pay</keyTerm>
+					<keyTerm>minimum wage</keyTerm>
+					<keyTerm>wages</keyTerm>
+					<keyTerm>raises</keyTerm>
+					<keyTerm>termination</keyTerm>
+					<keyTerm>quitting</keyTerm>
+					<keyTerm>Equal Pay</keyTerm>
+					<keyTerm>Equal Work</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/3428.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">The facts about equal pay for equal work</p>
+			<p id="p2">The Employment Standards Act, 2000 (ESA) provides that women and men must receive equal pay when:</p>
+			<p id="p3">doing substantially the same kind of work</p>
+			<p id="p4">requiring the same skill, effort and responsibility</p>
+			<p id="p5">performed under similar working conditions in the same establishment.</p>
+			<p id="p6">According to the ESA, a woman can't be paid less than a man if she is doing "equal work." This also applies in reverse -- a man can't receive less pay than a woman if he is doing "equal work."</p>
+			<p id="p7">Table of Contents</p>
+			<p id="p8">Substantially the same work</p>
+			<p id="p9">This means that any differences in the work are insignificant. The jobs don't have to be identical in every respect.</p>
+			<p id="p10">Substantially the same skill, effort and responsibility</p>
+			<p id="p11">Skill refers to the degree or amount of knowledge or physical or motor capability needed by the employee performing the job.</p>
+			<p id="p12">Effort is the physical or mental exertion needed to perform a job.</p>
+			<p id="p13">Responsibility is measured by:</p>
+			<p id="p14">the degree of accountability, and</p>
+			<p id="p15">the degree of authority exercised by a worker in the performance of the job.</p>
+			<p id="p16">Similar working conditions in the same establishment</p>
+			<p id="p17">Working conditions refer to such things as:</p>
+			<p id="p18">exposure to the elements</p>
+			<p id="p19">hours of work (e.g. shift schedules)</p>
+			<p id="p20">The "same establishment" means a location where the employer carries on business. Two or more locations are considered a single establishment if:</p>
+			<p id="p21">they are in the same municipality, or</p>
+			<p id="p22">there are common "bumping rights" for at least one employee across municipal borders.</p>
+			<p id="p23">Here are two examples to show how these provisions apply:</p>
+			<p id="p24">When two people do substantially the same work</p>
+			<p id="p25">Andy and Kyra both work on a production line. Kyra packs plastic spoons into small boxes, and Andy packs the small boxes into bigger boxes. There isn't anything about either of these jobs that requires more skill, effort or responsibility than the other.</p>
+			<p id="p26">Andy and Kyra are doing substantially the same work, and they must be paid the same wages (unless one of the exceptions listed below applies).</p>
+			<p id="p27">When a business has two locations</p>
+			<p id="p28">An employer owns two clothing stores in the same city. One sells women's clothes and the staff are women. The other sells men's clothes and the staff are men. The two stores are considered one establishment under the ESA because they are in the same municipality.</p>
+			<p id="p29">Since the male staff and the female staff do substantially the same work -- selling clothes -- they should receive the same pay.</p>
+			<p id="p30">If employees haven't been paid equal pay for equal work, employers must raise wages -- not lower them -- to achieve equal pay.</p>
+			<p id="p31">Are there any exceptions?</p>
+			<p id="p32">If a man and a woman are doing substantially the same work, they can be paid different rates of pay if the difference is due to:</p>
+			<p id="p33">a seniority system. Under an established seniority system, the time an employee has worked for an employer is credited. This can be used to justify paying a more senior employee a higher wage than a less experienced employee</p>
+			<p id="p34">a merit system. An employee can be paid more money or a bonus based on a system that measures the work performance of the employees objectively</p>
+			<p id="p35">a quantity or quality-based earnings system. An employer may have a system that measures higher quality or quantity of work. If this is the case, an employee can be paid a higher rate for producing more work or better quality work if the system is applied equally to both sexes</p>
+			<p id="p36">any difference that isn't based on the sex of the employee. For example, an employee can receive more money for working at night.</p>
+			<p id="p37">How is "equal pay" different from "pay equity"?</p>
+			<p id="p38">Pay equity is equal pay for work of equal value. The Pay Equity Act is intended to eliminate the wage gap that exists due to the undervaluation of what is typically thought of as "women's work".</p>
+			<p id="p39">The Pay Equity Act is administered by a Pay Equity Commission, under the direction of a Pay Equity Commissioner who reports to the Ministry of Labour. See "Resources" (below) for contact information.</p>
+			<p id="p40">What if I think my employer is not following the ESA?</p>
+			<p id="p41">This information is provided as a public service by the Government of Ontario. Every reasonable effort has been made to ensure the currency and accuracy of the information presented on the site, but readers should verify information before acting on it.</p>
+		</body>
+	</text>
+</cesDoc>

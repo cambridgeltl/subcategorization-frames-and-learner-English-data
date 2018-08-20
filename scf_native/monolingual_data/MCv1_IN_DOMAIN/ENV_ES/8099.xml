@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Contaminación del aire</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Contaminación del aire</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:47:04.0</pubDate>
+							<eAddress>http://html.rincondelvago.com/contaminacion-del-aire_4.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Problemas medioambientales. Atmósfera. Contaminación atmosférica. Gases tóxicos. Aerosoles. Efectos en la salud. Medidas preventivas</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/8099.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">1.- ¿Qué es el aire?</p>
+			<p id="p2">R.- El aire es una mezcla de gases invisibles; no podemos verlo, probarlo ni olerlo, pero esta en nuestro alrededor.</p>
+			<p id="p3">La contaminación del aire se produce por la alteración en la proporción de elementos que lo forman o cuando aparecen sustancias extrañas o toxicas suspendidas en él.</p>
+			<p id="p4">Los principales contaminantes del aire son:</p>
+			<p id="p5">Gases Tóxicos.</p>
+			<p id="p6">Monóxido de Carbono: Es producido por la combustión de la gasolina en vehículos automotores.</p>
+			<p id="p7">Sulfuros y oxido de nitrógeno: Es uno de los más provenientes de la combustión del carbón, del petróleo y otros combustibles.</p>
+			<p id="p8">Humo: Es producido por la combustión incompleta de materiales de desechos, basura y del consumo de cigarrillos.</p>
+			<p id="p9">Compuesto de Plomo: Es proveniente de la gasolina; del proceso de reciclaje de plomo y de su utilización en la fabricación de baterías y en la industria telefónica.</p>
+			<p id="p10">Vapores de Mercurio: Es utilizada en la fabricación de lámparas fluorescentes, laboratorios odontológicos y fabricas de termómetros.</p>
+			<p id="p11">Cadmio: Son los gases de este metal que provienen de su utilización en la fabricación de baterías, pintura, caucho y como aditivo para el tabaco.</p>
+			<p id="p12">Aerosoles.</p>
+			<p id="p13">Clorofuorocarbono: Son productos químicos que se utilizan como propelentes en aerosoles y sistema de refrigeración. Estas sustancias provoca disminución de la capa de ozono, la cual filtra los rayos ultravioleta de la luz solar.</p>
+			<p id="p14">Polvo Orgánico: Es proveniente de la textilera.</p>
+			<p id="p15">Partículas de sílice: Es proveniente de la pulverización de rocas y de la fabricas de cementos ladrillos y vidrios.</p>
+			<p id="p16">2.- Efectos de la contaminación del aire sobre la salud.</p>
+			<p id="p17">Las poblaciones expuestas a la contaminación atmosférica durante periodos prolongados, sufren alteraciones de su salud, tales como:</p>
+			<p id="p18">Aumento de mortalidad: Es una de las enfermedades respiratorias: bronquitis, asma, enfisema, cáncer de pulmón, etc.</p>
+			<p id="p19">Deterioro de la condición física y mental de las personas: Las enfermedades respiratorias y de la oxigenación de la sangre y los tejidos de las personas. Por ser el cerebro un órgano muy sensible a la disminución del oxigeno (Hipoxia), cuando esto sucede se produce un progresivo deterioro de la capacidad intelectual, que se manifiesta por la disminución de la memoria y dificultad para coordinar y producir ideas. Se observa, además, disminución del rendimiento físico.</p>
+			<p id="p20">Conjuntivitis: Debido a la irritación de los ojos por partículas del humo y otras sustancias toxicas suspendidas en el aire.</p>
+			<p id="p21">Aumento de la incidencia del cáncer de piel: En las áreas donde se encuentra disminuida la capa de ozono de la atmósfera ya que esta permite que una mayor cantidad de rayos ultravioletas pasen a la tierra aumenta el grado de insolación.</p>
+			<p id="p22">3.- Medidas preventivas de la contaminación de las enfermedades producidas por la contaminación del aire.</p>
+			<p id="p23">Higiene y limpieza de las viviendas: Es para evitar la acumulación del polvo.</p>
+			<p id="p24">Uso de mascaras protectoras por el personal de industrias y fabricas de productos: Como el polvo orgánico, sustancias volátiles, plomo, sílice, amianto, mercurio, etc.</p>
+			<p id="p25">Eliminación de la basura e rellenos sanitarios: Es para evitar su incineración en espacios abiertos.</p>
+			<p id="p26">Controlara el buen estado de los tubos de escape y sistema de carburación de los vehículos: Es para evitar que salga el humo de los carros.</p>
+			<p id="p27">Control de los sistemas de refrigeración: Aires acondicionados y aerosoles que contengan clorofluorocarbono.</p>
+			<p id="p28">Conclusiones.</p>
+			<p id="p29">El aire es una mezcla de gases invisibles.</p>
+			<p id="p30">El aire lo contamina: El monóxido de carbono, humo, compuestos de plomo, vapores de mercurio, cadmio, aerosoles, polvo orgánico, partículas de sílice, etc.</p>
+			<p id="p31">La contaminación del aire afecta la salud.</p>
+			<p id="p32">Es necesario tomar medidas preventivas para mantener el aire que respiramos en óptimas condiciones y así evitar enfermedades de alto riesgo.</p>
+			<p id="p33">Introducción.</p>
+			<p id="p34">El trabajo que se presenta a continuación trata sobre todos los aspectos relacionados con la contaminación del aire; destacando su definición, los principales contaminantes, efectos sobre la salud, y las medidas preventivas de las enfermedades producidas por la contaminación; así mismo se anexan dibujos relacionados con el tema.</p>
+			<p id="p35">Bibliografía.</p>
+			<p id="p36">República Bolivariana de Venezuela</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title></title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 12:37:10.0</pubDate>
+							<eAddress>http://www.mma.es/secciones/acm/aguas_continent_zonas_asoc/aguas_superficiales/legislacion/legislacion_europea.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/7013.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Legislación relativa a objetos de calidad</p>
+			<p id="p2">Directiva 2009/90/CE por la que se establecen, de conformidad con la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, las especificaciones técnicas del análisis químico y el seguimiento del estado de las aguas (ver)</p>
+			<p id="p3">Directiva 2006/7/CE relativa a la gestión de la calidad de las aguas de baño y por la que se deroga la Directiva 76/160/CEE (derogación 31/12/2014) (ver)</p>
+			<p id="p4">Directiva 76/160/CE relativa a la calidad de las aguas de baño (ver)</p>
+			<p id="p5">Directiva 2006/44/CE relativa a la calidad de las aguas continentales que requieren protección o mejora para ser aptas para la vida de los peces (versión codificada de la derogada 78/659/CEE) (ver)</p>
+			<p id="p6">Directiva 98/83/CE relativa a la calidad de las aguas destinadas al consumo humano (ver)</p>
+			<p id="p7">Directiva 2008/105/CE del Parlamento Europeo y del Consejo de 16 diciembre de 2008, relativa a las normas de calidad ambiental en el ámbito de la política de aguas, por la que se modifican y derogan ulteriormente las Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE y 86/280/CEE del Consejo, y por la que se modifica la Directiva 2000/60/CE (ver)</p>
+			<p id="p8">Decisión de la Comisión de 30 de octubre de 2008 por la que se fijan, de conformidad con la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, los valores de las clasificaciones de los sistemas de seguimiento de los Estados a raíz del ejercicio de intercalibración (ver)</p>
+			<p id="p9">Legislación relativa al control de emisiones</p>
+			<p id="p10">Directiva 2006/11/CE relativa a la contaminación causada por determinadas sustancias peligrosas vertidas en el medio acuático de la Comunidad (versión codificada de la derogada 76/464/CEE) (ver)</p>
+			<p id="p11">Directiva 82/176/CEE, relativa a los valores límite y a los objetivos de calidad para los vertidos de mercurio del sector de la electrólisis de los cloruros alcalinos (ver)</p>
+			<p id="p12">Directiva 84/156/CEE, relativa a los valores límites y a los objetivos de calidad para los vertidos de mercurio de los sectores distintos de la electrólisis de los cloruros alcalinos (ver)</p>
+			<p id="p13">Directiva 83/513/CEE, relativa a los valores límite y a los objetivos de calidad para los vertidos de cadmio (ver)</p>
+			<p id="p14">Directiva 84/491/CEE, relativa a los valores límite y a los objetivos de calidad para los vertidos de hexaclorociclohexano (ver)</p>
+			<p id="p15">Directiva 86/280/CEE, relativa a los valores límite y a los objetivos de calidad para los residuos de determinadas sustancias peligrosas comprendidas en la lista I del Anexo de la Directiva 76/464/CEE (ver)</p>
+			<p id="p16">Directiva 88/347/CEE, por la que se modifica el Anexo II de la Directiva 86/280/CEE relativa a los valores límite y los objetivos de calidad para los residuos de determinadas sustancias peligrosas comprendidas en la lista I del Anexo de la Directiva 76/464/CEE (ver)</p>
+			<p id="p17">Directiva 90/415/CEE, por la que se modifica el Anexo II de la Directiva 87/280/CEE relativa a los valores límite y los objetivos de calidad para los residuos de determinadas sustancias peligrosas comprendidas en la lista I del Anexo de la Directiva 76/464/CEE (ver)</p>
+			<p id="p18">Legislación relativa a la prevención de la contaminación</p>
+			<p id="p19">Directiva 91/271/CEE sobre el tratamiento de las aguas residuales urbanas modificada por directiva 98/15/CE (ver)</p>
+			<p id="p20">Directiva 91/676/CEE relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura (ver)</p>
+			<p id="p21">Directiva 96/61/CE relativa a la prevención y control integrados de la contaminación (ver)</p>
+			<p id="p22">Directiva 2000/60/CE por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (“Directiva Marco de Aguas”) (ver)</p>
+			<p id="p23">Directiva 2008/32/CE del Parlamento Europeo y del Consejo de 11 de marzo de 2008 que modifica la Directiva 2000/60/CE, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas, por lo que se refiere a las competencias de ejecución atribuidas a la Comisión (ver)</p>
+			<p id="p24">Decisión 2455/2001/CE por la que se aprueba la lista de sustancias prioritarias en el ámbito de la política de aguas, y por la que se modifica la Directiva 2000/60/CE (ver)</p>
+			<p id="p25">Decisión 2005/646/CE, relativa a la creación de un registro de puntos para constituir la red de intercalibración de conformidad con la Directiva 2000/60/CE (ver</p>
+			<p id="p26">)</p>
+			<p id="p27">Legislación relativa a las aguas subterráneas</p>
+			<p id="p28">Directiva 80/68/CEE del Consejo, de 17 de diciembre de 1979, relativa a la protección de las aguas subterráneas contra la contaminación causada por determinadas sustancias peligrosas (ver)</p>
+			<p id="p29">Directiva 2006/118/CE del Parlamento Europeo y del Consejo de 12 de diciembre de 2006 relativa a la protección de las aguas subterráneas contra la contaminación y el deterioro (ver)</p>
+			<p id="p30">Legislación relativa al intercambio de información</p>
+			<p id="p31">Directiva 91/692/CEE del Consejo, de 23 de diciembre de 1991, sobre la normalización y la racionalización de los informes relativos a la aplicación de determinadas directivas referentes al medio ambiente (ver)</p>
+			<p id="p32">Decisión 92/446/CEE modificada por la Decisión 95/337/CEE relativa a los cuestionarios de las Directivas sobre aguas (ver)</p>
+		</body>
+	</text>
+</cesDoc>

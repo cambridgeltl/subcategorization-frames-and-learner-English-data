@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>DIELLE Rivista Telematica di Diritto del Lavoro</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-22 16:03:25.0</pubDate>
+							<eAddress>http://www.di-elle.it/index.php?url=/consultazione/300_risposte_3/condotta_antisindacale_720/view/720/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_IT/5878.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Direttore responsabile Mario Fezzi — www.fezzi.it</p>
+			<p id="p2">Cosa sono i comportamenti antisindacali?</p>
+			<p id="p3">Lo Statuto dei lavoratori (L. 300/70) prevede un apposito procedimento per la repressione della condotta antisindacale. Più precisamente, l'art. 28 stabilisce che, nel caso in cui il datore di lavoro si comporti in modo tale da impedire o limitare l'esercizio e la libertà dell'attività sindacale, il sindacato possa denunciare tale comportamento al Pretore; nel caso in cui il giudice accerti che, effettivamente, vi è stata una lesione dei diritti sindacali, potrà ordinare al datore di lavoro di cessare dal comportamento ritenuto antisindacale e di rimuovere gli effetti dallo stesso.</p>
+			<p id="p4">In particolare, è stato ritenuto antisindacale il comportamento che incida, in modo diretto, su diritti sindacali espressamente riconosciuti dai contratti collettivi di lavoro, dalla legge o, addirittura, dalla costituzione. La giurisprudenza ha però avuto modo di precisare come la violazione dei diritti esplicitamente stabiliti da norme legali o contrattuali non esaurisca l'ambito dei comportanti antisindacali; infatti, si ritiene che il procedimento citato sia destinato a tutelare il sindacato da tutti quei comportamenti del datore di lavoro tali da ledere, ingiustificatamente, le prerogative del sindacato stesso, danneggiandone l'immagine. Più precisamente, è stato sostenuto che, una volta aperta una trattativa tra il sindacato e il datore di lavoro, entrambe le parti sono tenute a condurre tale trattative con correttezza e buona fede.</p>
+			<p id="p5">Questione n. 2</p>
+			<p id="p6">Nel caso di trasferimento di ramo d’azienda, il nuovo datore di lavoro può disconoscere il lavoratore che rivestiva la carica di Rsu?</p>
+			<p id="p7">Come è noto, nel caso di trasferimento di un’intera azienda, i lavoratori passano alle dipendenze del datore di lavoro che subentra nella titolarità dell’azienda ceduta. In altre parole, quest’ultimo acquisisce, insieme all’azienda, anche i relativi rapporti di lavoro, che proseguono inalterati alle sue dipendenze. La medesima regola vale nel caso in cui la cessione riguardi non l’azienda nel suo complesso, ma un ramo autonomo di essa.</p>
+			<p id="p8">I principi sopra indicati, disposti in maniera inequivoca dall’art. 2112 c.c., hanno consentito alla Corte di cassazione di risolvere la controversia promossa contro un datore di lavoro che, avendo acquisito un ramo d’azienda, si era rifiutato di riconoscere come Rsu il lavoratore che rivestiva quella carica e che, facendo parte del ramo ceduto, era passato alle sue dipendenze, negandogli quindi l’esercizio dei diritti sindacali. Infatti, il datore di lavoro riteneva che questo lavoratore avesse perso quella carica e i relativi diritti, in quanto lui e i lavoratori che lo avevano eletto erano entrati a far parte di un diverso contesto aziendale.</p>
+			<p id="p9">Al contrario, con sentenza n. 6723 del 3/5/03, la Corte ha condannato quel datore di lavoro per comportamento antisindacale. E’ stato infatti ritenuto che il trasferimento di ramo d'azienda, come non comporta l'interruzione dei rapporti di lavoro dei dipendenti ceduti, neppure comporta di per sé l'automatica decadenza delle cariche e dei diritti sindacali preesistenti, tanto più quando il trasferimento riguardi anche i lavoratori costituenti la "base elettorale" del rappresentante sindacale trasferito.</p>
+			<p id="p10">Questione n. 3</p>
+			<p id="p11">Il datore di lavoro, che violi una norma del contratto collettivo, pone in essere un comportamento antisindacale?</p>
+			<p id="p12">Non tutte le disposizioni di un contratto collettivo dispongono diritti e obblighi tra il datore di lavoro e il sindacato: accanto a queste disposizioni, dette obbligatorie, ve ne sono altre, dette normative, che disciplinano il rapporto di lavoro e, dunque, i diritti e gli obblighi del datore di lavoro direttamente nei confronti dei singoli lavoratori.</p>
+			<p id="p13">Naturalmente, nel caso di violazione di una norma contrattuale di tipo obbligatorio, il datore di lavoro porrebbe in essere una condotta antisindacale, in quanto – così facendo –violerebbe un diritto del sindacato. Per esempio, questo si verifica quando il datore di lavoro viola l’obbligo, specificamente previsto dal contratto collettivo, di informare o di consultare il sindacato, o di disciplinare una determinata materia solo previo accordo con il sindacato e non unilateralemente. In casi come questi, dunque, il sindacato potrebbe agire in giudizio al fine di ottenere l’accertamento della natura antisindacale di quella condotta e la rimozione degli effetti che ne conseguono.</p>
+			<p id="p14">Al contrario, la violazione da parte del datore di lavoro delle disposizioni contrattuali a contenuto normativo non configura ipotesi di condotta antisindacale. Infatti, in casi come questi il diritto leso non appartiene al sindacato, ma al singolo lavoratore che, naturalmente, potrà rivolgersi al giudice nelle forme ordinarie per ottenere il risarcimento dei danni derivanti da una simile violazione.</p>
+			<p id="p15">Tuttavia, in alcune ipotesi è stata ritenuta antisindacale anche la violazione di una disposizione normativa del contratto collettivo. Ciò è accaduto quando il comportamento del datore di lavoro non si è limitato a ledere i diritti dei singoli lavoratori, ma addirittura abbia screditato il sindacato agli occhi dei lavoratori, cosa che si può verificare in considerazione della modalità o della portata della violazione, o ancora del contesto in cui essa avviene. Per esempio, è stato ritenuto antisindacale il licenziamento collettivo, in presenza di un accordo che ne escludeva il ricorso; similmente è accaduto in un caso in cui il datore di lavoro aveva violato un accordo di natura economica mentre stava trattando con il sindacato il rinnovo del medesimo; ancora, è stato dichiarata antisindacale la violazione di un accordo sulle pause retribuite, appunto in considerazione della perdita di credibilità del sindacato in un caso in cui la violazione di una disposizione contrattuale normativa aveva un significativo impatto su tutti i dipendenti.</p>
+			<p id="p16">Naturalmente, la causa per comportamento antisindacale, consistente nella violazione di un contratto collettivo, può essere promossa solamente dal sindacato che aveva sottoscritto quell’accordo. Infatti, in caso contrario, il sindacato non può lamentare la violazione di un proprio diritto, dal momento che le norme obbligatorie del contratto non sono applicabili nei suoi confronti, né può lamentare una perdita di credibilità per la violazione di un accordo che non aveva sottoscritto.</p>
+			<p id="p17">Questione n. 4</p>
+			<p id="p18">Nel caso in cui il sindacato richieda alcune informazioni al datore di lavoro, quest’ultimo può legittimamente rifiutarle?</p>
+			<p id="p19">Nel nostro ordinamento giuridico non esiste, in generale, un diritto di informazione a favore del sindacato e delle sue rappresentanze aziendali. Pertanto, in mancanza di un simile riconoscimento, il sindacato che non ottenga risposta alle proprie richieste può solamente far ricorso alla propria forza e agli strumenti di lotta di cui egli dispone (primo tra tutti, lo sciopero), per indurre il datore di lavoro a rendere le informazioni richieste.</p>
+			<p id="p20">Vi sono però dei casi in cui è specificamente previsto l’obbligo del datore di lavoro di rendere certe informazioni al sindacato o alla sua rappresentanza aziendale. Questi casi sono innanzi tutto contemplati dalla legge, che – per esempio – prevede il diritto di informazione a fronte della decisione del datore di lavoro di adottare provvedimenti a forte impatto sui lavoratori: ciò accade, tra l’altro, nel caso in cui il datore di lavoro intenda mettere i lavoratori in mobilità, o sospenderli in cassa integrazione o, ancora, trasferire la propria azienda o un ramo autonomo di essa.</p>
+			<p id="p21">Altri diritti di informazione sono invece previsti dalla contrattazione collettiva, in particolare di categoria. I diritti di informazione di origine contrattuale sono dunque inevitabilmente piuttosto numerosi e, naturalmente, si applicano solo al sindacato di riferimento del contratto che ne costituisce la fonte. Per esempio, i contratti di categoria possono prevedere diritti di informazione in tema di fruizione dei permessi per riduzione dell’orario di lavoro, o di individuazione del periodo feriale, o di superamento di certi limiti di lavoro straordinario, eccetera.</p>
+			<p id="p22">Come si vede, dunque, a dispetto del principio generale sopra indicato, di fatto i diritti di informazione del sindacato, derivino essi dalla legge o dal contratto, sono piuttosto numerosi e, comunque, posti a salvaguardia degli aspetti più significativi del rapporto di lavoro.</p>
+			<p id="p23">In tutti i casi in cui il sindacato, o la sua rappresentanza aziendale, sia titolare di un diritto di informazione, a prescindere dal fatto che esso derivi dalla legge o dal contratto, il datore di lavoro è obbligato a renderla. La sanzione prevista dall’ordinamento nei confronti del datore di lavoro inadempiente è la condanna per condotta antisindacale, prevista dall’art. 28 S.L.. Infatti, si ritiene che la violazione di un diritto del sindacato possegga di per sé quella caratteristica, tanto più se si considera che, a seguito della violazione dell’obbligo in questione, il sindacato perde in credibilità agli occhi dei propri rappresentati e, comunque, gli si preclude in radice di svolgere il ruolo di interlocutore del datore di lavoro in un caso in cui la stessa legge, o il contratto collettivo, lo impone come tale.</p>
+			<p id="p24">Naturalmente, la condanna per condotta antisindacale non è fine a se stessa, ma ha importanti conseguenze finalizzate a salvaguardare il diritto che era stato leso. Infatti, il già citato art. 28 dispone che il giudice, accertata la natura antisindacale di un certo comportamento, disponga anche la rimozione dei suoi effetti. Ciò, nel caso di cui si sta parlando, in particolare significa che il giudice può ordinare al datore di lavoro di rendere le informazioni che erano state negate.</p>
+			<p id="p25">In alcuni casi, la conseguenza è ancora più efficace, dal momento che il giudice può addirittura revocare il provvedimento che era stato adottato in assenza della preventiva informazione. Questo è in particolare il caso della mobilità o della cassa integrazione: in casi come questi, il giudice, accertato che il datore di lavoro ha disposto la mobilità o la cassa integrazione senza aver preventivamente informato il sindacato, dispone la immediata riammissione in servizio dei lavoratori licenziati o sospesi.</p>
+			<p id="p26">DL online | Viale Piave 12, | 20129 Milano | Contatti: info@di-elle.it</p>
+		</body>
+	</text>
+</cesDoc>

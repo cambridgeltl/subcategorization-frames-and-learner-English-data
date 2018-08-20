@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Campaña Cielo Oscuro. Soluciones a la Contaminación Lumínica.</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Campaña Cielo Oscuro. Soluciones a la Contaminación Lumínica.</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-13 15:25:08.0</pubDate>
+							<eAddress>http://www.um.es/cieloscuro/sitestado.php</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>contaminacion</keyTerm>
+					<keyTerm>contaminación</keyTerm>
+					<keyTerm>contaminacion luminica</keyTerm>
+					<keyTerm>contaminación lumínica</keyTerm>
+					<keyTerm>cielo oscuro</keyTerm>
+					<keyTerm>cielo nocturno</keyTerm>
+					<keyTerm>iluminacion</keyTerm>
+					<keyTerm>iluminación</keyTerm>
+					<keyTerm>luz</keyTerm>
+					<keyTerm>alumbrado</keyTerm>
+					<keyTerm>astronomia</keyTerm>
+					<keyTerm>astronomía</keyTerm>
+					<keyTerm>energia</keyTerm>
+					<keyTerm>energía</keyTerm>
+					<keyTerm>eficiencia energetica</keyTerm>
+					<keyTerm>eficiencia energética</keyTerm>
+					<keyTerm>medio ambiente</keyTerm>
+					<keyTerm>ecologia</keyTerm>
+					<keyTerm>ecología</keyTerm>
+					<keyTerm>salud</keyTerm>
+					<keyTerm>seguridad vial</keyTerm>
+					<keyTerm>light</keyTerm>
+					<keyTerm>light pollution</keyTerm>
+					<keyTerm>dark sky</keyTerm>
+					<keyTerm>astronomy</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_ES/17687.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Situación de la contaminación lumínica en España</p>
+			<p id="p2">En Europa se actúa sobre este problema desde hace una década, y varios países tienen ya legislaciones para adecuar su iluminación a las recomendaciones internacionales. La International Dark-Sky Association así como distintas entidades de índole nacional y regional han conseguido que en importantes zonas se hayan puesto en marcha avanzados planes de regulación del alumbrado.</p>
+			<p id="p3">150 KB cabe destacar seis áreas de gran contaminación lumínica: Atlántica (desde La Coruña hasta Lisboa), Andalucía, Levante, Madrid-Centro, Cataluña y Cantábrico-Valle del Ebro. En España, progresivamente se han logrado avances significativos pero insuficientes dada la gravedad de la situación. El Ministerio de Medio Ambiente ha comenzado a prestar una tímida atención al problema y, por otra parte, en el mes de mayo del año 2005 el Pleno del Senado aprobó una moción por la que se instaba al Gobierno a la elaboración de un informe técnico sobre la contaminación lumínica en España, así como una legislación básica sobre la materia.</p>
+			<p id="p4">Sin embargo, aun cuando pudiera haber una legislación estatal en un futuro, el medio ambiente es un valor social que se debe de proteger y fomentar desde todas las administraciones públicas. Las Comunidades Autónomas tienen capacidad para el desarrollo normativo y para el establecimiento de normas adicionales de protección, y el papel de los ayuntamientos en este sentido es fundamental dada su condición de primer elemento de encuentro con los ciudadanos y su potestad para establecer regulaciones normativas dentro del ámbito de la protección del medio ambiente según la Ley 7/1985, reguladora de las bases del régimen local. Así se ha entendido en diversos lugares de España, donde fruto de la preocupación social por este problema y las campañas promovidas a favor de un cielo oscuro, han ido surgiendo distintas legislaciones autonómicas y ordenanzas municipales (Tárrega, Hospitalet de Llobregat, Santander, Figueras, …). Aun cuando estas normas se han redactado y puesto en práctica con desigual fortuna, constituyen un principio inevitable en la ardua tarea de conseguir el restablecimiento de las condiciones naturales del medio nocturno.</p>
+			<p id="p5">Entre las Comunidades Autónomas que han regulado al respecto se encuentran Cataluña, Islas Baleares, Navarra, Cantabria o Andalucía. No obstante, no puede apoyarse ni recomendarse ni promover la adopción de normativas análogas por basarse en medidas obsoletas e ineficaces para la prevención de la contaminación lumínica, como vienen poniendo de manifiesto los resultados científicos y técnicos más recientes expuestos en congresos y publicaciones internacionales.</p>
+		</body>
+	</text>
+</cesDoc>

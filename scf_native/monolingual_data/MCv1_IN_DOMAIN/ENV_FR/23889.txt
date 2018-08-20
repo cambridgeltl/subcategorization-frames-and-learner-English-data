@@ -1,0 +1,49 @@
+A la demande du Ministère                chargé de l'Environnement, le CITEPA remplit la fonction de Centre National de Référence des émissions                dans l'air. A ce titre, le CITEPA détermine régulièrement les quantités                rejetées dans l'atmosphère provenant de différentes sources pour                diverses substances , prolongeant et confirmant                ainsi une compétence et une expérience acquises depuis le milieu                des années 60.
+Les émissions sont estimées à partir d'une méthodologie reconnue basée sur le                principe développé dans le système CORINAIR par l'Agence Européenne pour l'Environnement et largement utilisée                en Europe. Cette méthodologie est compatible avec les méthodologies                recommandées par les Nations Unies.
+Les données disponibles                sont nombreuses et rapportées selon différents " formats ".                Elles se différencient les unes des autres en fonction de quatre                composantes :
+Les                    substances et indicateurs actuellement suivis
+Acidification, eutrophisation et photochimie : SO
+2
+Effet de                    serre : CO
+2
+6
+, indicateur de potentiel de réchauffement                    global à 100 ans (PRG).
+Métaux                    lourds : Arsenic (As), Cadmium (Cd), Chrome (Cr), Cuivre (Cu),                    Mercure (Hg), Nickel (Ni), Plomb (Pb), Sélénium (Se), Zinc (Zn).
+Produits                    Organiques Persistants (POP) : Trichloroéthylène (TRI), Trichloroéthane                    (TCE), Tetrachloroéthylène (PER), Dioxines et furanes (Diox),                    Hydrocarbures Aromatiques Polycycliques (HAP), Polychlorobiphényls                    (PCB) et Hexachlorobenzène (HCB).
+Poussières                    : particules en suspension (TSP), particules fines (PM
+10
+Voir la figure en bas de la page à titre d'exemple.
+la couverture                  et la résolution géographique  : des données sont élaborées                  pour des entités telles que la France métropolitaine, les DOM-TOM,                  mais aussi les régions, les départements voire les arrondissements                  et les 60 unités urbaines de plus de 100 000 habitants recensées                  à ce jour. Les données les plus nombreuses et complètes intéressent                  la France métropolitaine à l'échelle nationale.
+la couverture                  et la résolution sectorielle  : l'ensemble des sources couvertes                  dépend du cahier des charges défini le plus souvent dans le cadre                  de Conventions internationales établies sous l'égide des Nations-Unies                  ou encore selon des critères spécifiques relatifs à des études                  particulières.
+la couverture                  et la résolution temporelle  : dans la plupart des cas les                  émissions représentent un cumul sur l'année civile considérée.                  Différentes périodes sont couvertes selon les substances et le                  domaine spatial :
+depuis                      1960 : SO
+depuis                      1990 : les autres substances (France métropolitaine) et les                      substances ci-dessus (DOM-COM)
+des                      estimations sont également produites pour le futur sous forme                      de projections à des horizons de un à quinze ou vingt ans                      environ
+des                      données allant jusqu'à une résolution horaire peuvent être                      élaborées à la demande
+Les                " formats " de restitution des émissions
+Les émissions sont disponibles sous différents " formats " et sous certaines conditions (*) :
+CCNUCC/CRF
+format                    relatif à la convention cadre sur les changements climatiques                    (10 substances - métropole, DOM et TOM chaque année depuis 1990).
+CEE-NU
+format                    relatif à la convention sur la pollution atmosphérique transfrontalière                    à longue distance (21 substances - métropole chaque année depuis                    1980 ou 1988 ou 1990 selon les substances).
+SECTEN
+format                    relatif aux acteurs économiques traditionnels (28 substances                    - métropole chaque année depuis 1960 ou 1980 ou 1988 ou 1990                    selon les substances/11 substances - DOM-TOM depuis 1990).
+NAMEA
+format                    relatif à la nomenclature économique NACE (20 substances - métropole                    chaque année depuis 1980 ou 1988 ou 1990 selon les substances).
+GIC
+2
+EMEP
+format                    relatif à la grille EMEP (50 x 50 km²) dans le cadre de                    la convention sur la pollution atmosphérique transfrontalière                    à longue distance (20 substances - métropole pour 1995 et 27                    substances - métropole 2000, périodicité quinquennale).
+DEPARTEMENT
+format                    de type UNECE appliqué aux 100 départements ( NUTS                    3 ) / 26 régions ( NUTS 2 ) (20 substances                    pour la métropole années 1994 et 1995, 27 substances pour l'année                    2000, périodicité quinquennale - 10 substances pour les DOM                    chaque année depuis 1990).
+PRQA
+format                    proche du type SECTEN relatif aux Plans Régionaux de Qualité                    de l'Air appliqué aux arrondissements ( NUTS                    4 ) et aux unités urbaines de plus de 100 000 habitants (6 substances - métropole et DOM année 1994 seulement).
+(*) la disponibilité des données peut être                limitée selon les substances, le niveau de détail, les années, les                zones géographiques, les formats, les supports et en fonction de                conditions d'accès particulières. Consulter la liste des publications où se renseigner auprès du CITEPA.
+NUTS  Nomenclature des                Unités Territoriales Statistiques définies par EUROSTAT pour tous                les Etats membres de l'Union européenne selon des critères administratifs                et de taille. Dans le cas de la France les différents niveaux sont                définis comme suit :
+NUTS 0
+NUTS 1
+NUTS 2
+NUTS 3
+NUTS 4
+par extension Arrondissements                    - nombre 339 (327 en métropole et 12 Outre-mer)
+CORINAIR  CORe INventory of AIR emissions                in Europe, ce programme de travail initié au milieu des années 80                par la Commission des Communautés Européennes puis repris par l'Agence                Européenne de l'Environnement s'est traduit par la mise au point                d'une méthodologie européenne reconnue et utilisée par un nombre                important de pays européens. Les développements se poursuivent conjointement                avec l'EMEP (Co-operative Programme for Monitoring and Evaluation                of the Long Range Transmission of Air Pollutants in Europe) sous                l'égide des Nations Unies.

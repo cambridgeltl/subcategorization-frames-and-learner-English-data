@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>NRDC: Mercury Contamination in Fish - Know Where It's Coming From</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>NRDC: Mercury Contamination in Fish - Know Where It's Coming From</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 12:03:03.0</pubDate>
+							<eAddress>http://www.nrdc.org/health/effects/mercury/sources.asp</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/12900.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">In this Section</p>
+			<p id="p2">Know Where It's Coming From</p>
+			<p id="p3">Each year power plants and chemical facilities create many tons of mercury pollution, which makes its way into our homes and bodies in fish.</p>
+			<p id="p4">Two of the biggest sources of mercury pollution are chlorine chemical plants and coal-fired power plants. Chlorine plants, which use massive quantities of mercury to extract chlorine from salt, "lose" dozens of tons of mercury each year; power plants emit around 50 tons of mercury pollution annually. Facilities that recycle auto scrap are another big source of mercury pollution, pouring 10 to 12 tons of mercury into the air every year. The most common way Americans are exposed to mercury is through tuna fish.</p>
+			<p id="p5">Power Plants</p>
+			<p id="p6">Coal is naturally contaminated with mercury, and when it is burned to generate electricity, mercury is released into the air through the smokestacks. The bulk of this mercury pollution could be eliminated with the installation of pollution-control devices. Similar devices have proved very successful on municipal incinerators, which were once a significant source of mercury pollution.</p>
+			<p id="p7">But in January 2004 the Bush administration proposed to weaken and delay efforts to clean up mercury emissions from roughly 1,100 coal-fired boilers at more than 460 electric power plants. Essentially, the administration's plan treats mercury as if it were a run-of-the-mill air pollutant instead of a hazardous air pollutant, allowing the Environmental Protection Agency to avoid requiring power plants to reduce emissions by the maximum amount technologically achievable.</p>
+			<p id="p8">Chemical Manufacturing</p>
+			<p id="p9">Big mercury polluters also include older mercury chlorine plants, also called chlor-alkali plants. These plants use mercury to convert salt to chlorine gas and caustic soda (better known as lye), which is used in soaps and detergents, in plastics, and in the paper-making process. More modern chlor-alkali plants use a cleaner, mercury-free technology, but seven U.S. chlor-alkali plants continue to use mercury. (Two of these have announced plans to shift to cleaner technologies.)</p>
+			<p id="p10">At any given time, each of these plants has an average of 200 tons of mercury on site. In virtually every year since records have been kept, chlor-alkali plants have "lost" dozens of tons of mercury in the manufacturing process. These plants cannot account for where the lost mercury goes. Nor can the Environmental Protection Agency, but the agency has failed to set restrictions on these emissions. NRDC air quality tests have detected high levels of mercury in the vicinity of four chlor-alkali plants.</p>
+			<p id="p11">Automobile Scrap</p>
+			<p id="p12">Mercury pollution also occurs when mercury-based light switches from automobiles are scrapped and melted down for recycling. As the switches melt, the mercury they contain vaporizes into the air.</p>
+			<p id="p13">Following considerable public pressure, auto manufacturers stopped using mercury in January 2003. But as long as older cars are incinerated, mercury pollution will continue to escape into the air. To prevent this, mercury-based car switches should be removed at the scrap yard, before cars are shredded and sent to steel mills for recycling. Removing the switches would take less than a minute per car, on average -- a cost that should be borne by the companies that installed them in the first place, not by the scrap industry. Some states have passed or are moving toward legislation or regulations requiring the removal of mercury switches from automobile scrap. But the EPA has yet to introduce standards that will curb switch-related mercury pollution nationwide. More information on mercury in automobiles is available on the Clean Car Campaign's website .</p>
+			<p id="p14">Global Sources of Mercury</p>
+			<p id="p15">Chlor-alkali plants are among biggest users of mercury worldwide. The good news is that the chlorine industries in both India and the European Union, where a large number of mercury-based chlor-alkali plants are located, have made voluntary commitments to phase-out the mercury process completely. Unfortunately, other uses of mercury are on the rise. High demand for polyvinyl chloride (PVC) from China's booming construction industry has fueled growing demand for the mercury catalyst used in PVC production. Small scale (artisanal) gold miners around the world, especially in Asia, Africa and South America, use mercury to bind with gold contained inside ore, and then burn off the mercury, leaving just the gold behind. This low-tech practice releases a significant quantity of mercury to the air, causes severe damage to soils, water bodies and wildlife near the mining sites, and results in heavy mercury exposures to the miners and their families. Mercury is also still commonly used around the world in batteries, measuring devices, electrical switches, dental amalgam, and some traditional medicines and arts.</p>
+			<p id="p16">Coal-fired power plants are the largest source of mercury air emissions worldwide. As the price of oil rises, coal becomes a more economically attractive source of energy in countries where it is abundant and inexpensive. Currently, coal-fired power plants supply seventy-five percent of China's energy; in the next eight years, China is expected to add more than 560 plants coal plants -- a pace of more than one new plant each week.</p>
+			<p id="p17">Mercury in the Food We Eat</p>
+			<p id="p18">The most common source of mercury exposure for Americans is tuna fish. Tuna does not contain the highest concentration of mercury of any fish, but since Americans eat much more tuna than they do other mercury-laden fish, such as swordfish or shark, it poses a greater health threat. (For more, see our guides to mercury levels in fish and to eating tuna safely .)</p>
+			<p id="p19">Subsistence and sports fishermen who eat their catch can be at a particularly high risk of mercury poisoning if they fish regularly in contaminated waters. Across the United States, mercury pollution is known to have contaminated 12 million acres of lakes, estuaries, and wetlands (30 percent of the total), and 473,000 miles of streams, rivers, and coasts. And many waterways have not even been tested. In 2003, 44 states issued fish consumption advisories, warning citizens to limit how often they eat certain types of fish caught in the state's waters because they are contaminated with mercury.</p>
+			<p id="p20">Time On Our Side</p>
+			<p id="p21">While mercury is a so-called persistent pollutant, meaning that it doesn't break down as some other pollutants do, its dangers lessen considerably over time, because it eventually settles into the beds of rivers, lakes and oceans and is covered over by successive layers of sediment. At some point, fish stop consuming the mercury so eventually it ceases to be a hazard to humans.</p>
+			<p id="p22">We can begin safeguarding our health now by stopping mercury pollution at its sources.</p>
+			<p id="p23">If you are pregnant or planning to become pregnant, use this guide to see what amounts of fish caught and sold commercially are safe to eat.</p>
+			<p id="p24">Get answers to questions including:</p>
+			<p id="p25">Mad as a Hatter about Mercury</p>
+			<p id="p26">The "Mad Hatter" of Alice in Wonderland didn't get his name by accident. Hat-makers used to use mercury to strengthen their hats, and in the process breathed in mercury vapors.</p>
+			<p id="p27">Liquid Metal</p>
+			<p id="p28">Mercury is the only metal that is liquid at room temperature. Exposed to air, it will evaporate, creating very dangerous mercury vapors.</p>
+			<p id="p29">Photo: top, Getty Images</p>
+			<p id="p30">Related NRDC Webpages:</p>
+			<p id="p31">Email Address</p>
+			<p id="p32">8/17/2010</p>
+			<p id="p33">Related Links</p>
+			<p id="p34">Global Warming &amp; Energy:</p>
+		</body>
+	</text>
+</cesDoc>

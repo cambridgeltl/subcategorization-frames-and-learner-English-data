@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title> Quanto ci costano annualmente i rifiuti? Cifre da capogiro in cumuli di spazzatura!</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title> Quanto ci costano annualmente i rifiuti? Cifre da capogiro in cumuli di spazzatura!</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 09:58:07.0</pubDate>
+							<eAddress>http://www.risparmiodienergia.it/riciclo/quanto-ci-costano-annualmente-i-rifiuti-cifre-da-capogiro-in-cumuli-di-spazzatura/</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/51401.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Vi siete mai chiesti quanto si spende per smaltire rifiuti e scarti di abitazioni private o grandi aziende?</p>
+			<p id="p2">Da una recente analisi condotta sullo smaltimento dei rifiuti ospedalieri durante il periodo compreso tra 2002 e il 2008 è emerso che, solo nell’ultimo anno, la spesa complessiva si aggira sui 183 milioni di euro, una cifra oggettivamente troppo esosa se si pensa che tutti quei soldi sono finiti.. letteralmente.. Nella spazzatura!</p>
+			<p id="p3">Questi i risultati di uno studio condotto da Adnkronos Salute dalla Fiaso che ha analizzato il costo complessivo raggiunto per poter smaltire rifiuti speciali come siringhe, medicinali scaduti, flebo e oggetti ad alto rischio infettivo.</p>
+			<p id="p4">Ma lo studio in questione sembra essersi rivelato particolarmente interessante in quanto, oltre a mettere in luce un spetto inquietante rispetto all’uso a volte sconsiderato dei rifiuti, avanza alcune interessanti ipotesi sui possibili tagli dei costi.</p>
+			<p id="p5">Sembra infatti che una gestione virtuosa del processo di smaltimento potrebbe ridurne del 30% il costo totale, portando ad un risparmio di oltre 60 milioni l’anno, determinando in più un minor impatto sui contribuenti e soprattutto sull’ambiente.</p>
+			<p id="p6">Un’esperienza gestionale non così tanto lontana, poi, se si pensa che in alcune regioni di Italia, come l’Emilia Romagna, è stato già da tempo intrapreso questo percorso, tanto che nella sua Azienda ospedaliero-universitaria la città di Ferrara adotta oramai costantemente procedure all’avanguardia per lo smaltimento dei rifiuti, ottenendo visibili risultati e rendiconti soprattutto in termini monetari.</p>
+			<p id="p7">La soluzione, quindi, continua ad essere sempre la stessa, ovvero una corretta politica di raccolta differenziata, in quanto solo grazie ad una preventiva cernita dei rifiuti (soprattutto quelli speciali) si può procedere ad una corretta operazione di riciclo riducendo di gran lunga una spesa che grava su noi poveri contribuenti e indebolisce l’intero pianeta terra.</p>
+			<p id="p8">Share and Enjoy:</p>
+			<p id="p9">Articoli Simili</p>
+			<p id="p10">Website</p>
+			<p id="p11">Tag</p>
+			<p id="p12">Meta</p>
+		</body>
+	</text>
+</cesDoc>

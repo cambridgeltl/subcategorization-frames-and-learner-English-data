@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Gerencie.com | Trabajadores ocasionales o transitorios</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Gerencie.com | Trabajadores ocasionales o transitorios</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-16 01:18:31.0</pubDate>
+							<eAddress>http://www.gerencie.com/trabajadores-ocasionales-o-transitorios.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>contrato de trabajo</keyTerm>
+					<keyTerm>derecho laboral</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/1168.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Trabajadores ocasionales o transitorios</p>
+			<p id="p2">El artículo 6° del Código Sustantivo del Trabajo define el contrato de trabajo ocasional, accidental o transitorio como aquel de corta duración, no mayor de un mes y que se refiere a labores distintas de las actividades normales del empleador.</p>
+			<p id="p3">Así lo ha explicado la jurisprudencia especializada, al señalar:</p>
+			<p id="p4">“Una siembra de eucaliptos no es extraña a la agricultura ni menos a la explotación económica de una finca rural en donde se realizó, a pesar de que el propietario de la finca no sea propiamente un arboricultor; y si tal siembra dura 18 meses, con menos razón puede dársele el carácter de trabajo ocasional de que trata el artículo 6° del C.S.T.”[3].</p>
+			<p id="p5">En conclusión, los trabajadores ocasionales en Colombia son aquellos que prestan una labor orientada a satisfacer necesidades extraordinarias de la empresa, que como tal escapa al giro ordinario de la actividad que desarrollan, durante un breve lapso que no puede exceder del mes. La temporalidad y precariedad de la vinculación debe concurrir con la naturaleza de la actividad en cuanto extraña a la finalidad que ejecuta la empresa. La labor del trabajador ocasional responde así a exigencias y necesidades momentáneas o extraordinarias del empleador, que justifican la brevedad de su vinculación.</p>
+			<p id="p6">No obstante tales particularidades, tratándose de una de las especies del contrato de trabajo que contempla la ley laboral, incorpora los mismos elementos esenciales que conforme al artículo 23 del C.S.T. deben concurrir en un contrato de trabajo. (Corte constitucional, Sentencia C-823 de 2006).</p>
+			<p id="p7">Los trabajadores ocasionales, accidentales o transitorios no tienen derecho al pago de:</p>
+			<p id="p8">Accidentes de trabajo o enfermedad profesional[5], a gastos de entierro[7], al seguro de vida colectivo[9]</p>
+			<p id="p9">[1] Paralelamente a esta modalidad contractual el régimen laboral colombiano (Art. 45 del C.S.T.) contempla otras formas de vinculación laboral atendiendo a su duración y objeto:</p>
+			<p id="p10">(i) Contrato a término indefinido, (Art. 47 CST) en el que no se establece un término de duración determinado por las partes, o por la naturaleza de la labor contratada. Por regla general, los contratos laborales se entienden celebrados a término indefinido, salvo que por su naturaleza o por acuerdo de las partes se estipule lo contrario. (ii) Contrato a término fijo, (Art.46 C.S.T.) debe constar siempre por escrito y su duración no puede ser superior a tres (3) años, pero es renovable indefinidamente. Sin embargo, si el término fijo es inferior a un año, únicamente podrá prorrogarse sucesivamente el contrato hasta por tres (3) períodos iguales o inferiores, al cabo de los cuales el término de renovación no podrá ser inferior a un año y así sucesivamente. Para dar por terminado el contrato por vencimiento del término, el empleador debe dar aviso escrito al empleado manifestando su interés de que éste termine, con una antelación no inferior a 30 días a la fecha de terminación del contrato original o de la prórroga. (iii) Contrato de trabajo por duración de la obra (Arts. 45 y 309 del CST), en esta modalidad la duración del contrato está determinado por el tiempo requerido para ejecutar la obra o la actividad contratada. El contrato debe constar por escrito, y debe consignar expresamente la labor u obra de que se trate.</p>
+			<p id="p11">(ii)</p>
+			<p id="p12">[3] Corte Suprema de Justicia, sentencia del 13 de agosto de 1957.</p>
+			<p id="p13">[4] Art. 223. Exoneración de pago. 1. Las normas de este capítulo no se aplican:</p>
+			<p id="p14">(…)</p>
+			<p id="p15">(…)</p>
+			<p id="p16">(…)</p>
+			<p id="p17">Tiene derecho</p>
+			<p id="p18">a esta prestación el trabajador que en las fechas de entrega de calzado y vestido haya cumplido hasta tres meses al servicio de empleador.</p>
+			<p id="p19">(Nota fuera de texto: Se entiende que un trabajador accidental o transitorio no alcanza a cumplir los tres meses exigidos por la ley)</p>
+			<p id="p20">[6]Art. 247. Regla general. Todo patrono está obligado a pagar los gastos de entierro de cualquiera de sus trabajadores hasta una suma equivalente al salario del último mes. Este precepto no se aplica a los trabajadores accidentales o transitorios.</p>
+			<p id="p21">[7] Art. 251. Excepciones a la regla general. El artículo 249 no se aplica:</p>
+			<p id="p22">(…)</p>
+			<p id="p23">(…)</p>
+			<p id="p24">[8] Art. 289. Empresas obligadas. Toda empresa de carácter permanente debe efectuar a</p>
+			<p id="p25">su cargo el seguro de vida colectivo de todos sus trabajadores, excepto de los ocasionales o transitorios, y cubrir el riesgo de la muerte sea cualquiera la causa que la produzca.</p>
+			<p id="p26">[9] Art. 306. Principio general. 1. Toda empresa de carácter permanente está obligada a pagar a cada uno de sus trabajadores, excepto a los ocasionales o transitorios, como prestación especial, una prima de servicios, así:</p>
+			<p id="p27">(…)</p>
+			<p id="p28">Los artículos enumerados corresponden al código sustantivo del trabajo</p>
+			<p id="p29">Artículos relacionados</p>
+			<p id="p30">Documento anterior:</p>
+			<p id="p31">chucho florez</p>
+			<p id="p32">Cuántas veces el contrato de modalidad ocasional se puede renovar al año?</p>
+			<p id="p33">un trabajador puede renovarse cada 30 días este contrato con finiquito al término del período; durante más de un año.</p>
+			<p id="p34">Cómo se notifican este tipo de empleados al SENA??</p>
+			<p id="p35">Opinar</p>
+			<p id="p36">En Gerencie.com está permitido opinar, criticar, discutir, controvertir, disentir, etc. Lo que no está permitido es insultar o escribir palabras ofensivas o soeces. Si lo hace, su comentario será rechazado por el sistema o será eliminado por el administrador. Por último, trate de no escribir en mayúscula sostenida, resulta muy difícil leerle.</p>
+			<p id="p37">Lo nuevo en Gerencie.com:</p>
+		</body>
+	</text>
+</cesDoc>

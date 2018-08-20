@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>WORK PERMITS IN ITALY - Allo' Expat Italy</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>WORK PERMITS IN ITALY - Allo' Expat Italy</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-20 10:37:37.0</pubDate>
+							<eAddress>http://www.alloexpat.com/moving_to_italy_forum/work-permits-in-italy-t137.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>Europe</keyTerm>
+					<keyTerm>European</keyTerm>
+					<keyTerm>Italy</keyTerm>
+					<keyTerm>Rome</keyTerm>
+					<keyTerm>Marche</keyTerm>
+					<keyTerm>Tuscany</keyTerm>
+					<keyTerm>Umbria</keyTerm>
+					<keyTerm>Basilicata</keyTerm>
+					<keyTerm>Calabria</keyTerm>
+					<keyTerm>Campania</keyTerm>
+					<keyTerm>newcomers</keyTerm>
+					<keyTerm>forums</keyTerm>
+					<keyTerm>expats</keyTerm>
+					<keyTerm>expat</keyTerm>
+					<keyTerm>expatriate</keyTerm>
+					<keyTerm>expatriates</keyTerm>
+					<keyTerm>expat</keyTerm>
+					<keyTerm>expatrie</keyTerm>
+					<keyTerm>expatriados</keyTerm>
+					<keyTerm>moving to</keyTerm>
+					<keyTerm>living in</keyTerm>
+					<keyTerm>working in</keyTerm>
+					<keyTerm>rent</keyTerm>
+					<keyTerm>buy</keyTerm>
+					<keyTerm>sell</keyTerm>
+					<keyTerm>marketplace</keyTerm>
+					<keyTerm>immigration</keyTerm>
+					<keyTerm>driving license</keyTerm>
+					<keyTerm>cuisine</keyTerm>
+					<keyTerm>houses</keyTerm>
+					<keyTerm>international school</keyTerm>
+					<keyTerm>shopping</keyTerm>
+					<keyTerm>medical</keyTerm>
+					<keyTerm>customs</keyTerm>
+					<keyTerm>festivals</keyTerm>
+					<keyTerm>nightlife</keyTerm>
+					<keyTerm>permit</keyTerm>
+					<keyTerm>airlines</keyTerm>
+					<keyTerm>tour</keyTerm>
+					<keyTerm>flight</keyTerm>
+					<keyTerm>hotels</keyTerm>
+					<keyTerm>tips</keyTerm>
+					<keyTerm>beach</keyTerm>
+					<keyTerm>history</keyTerm>
+					<keyTerm>travel</keyTerm>
+					<keyTerm>holiday</keyTerm>
+					<keyTerm>relocation</keyTerm>
+					<keyTerm>financial</keyTerm>
+					<keyTerm>government</keyTerm>
+					<keyTerm>embassy</keyTerm>
+					<keyTerm>culture</keyTerm>
+					<keyTerm>geography</keyTerm>
+					<keyTerm>population</keyTerm>
+					<keyTerm>government</keyTerm>
+					<keyTerm>economy</keyTerm>
+					<keyTerm>dating</keyTerm>
+					<keyTerm>communication</keyTerm>
+					<keyTerm>transport</keyTerm>
+					<keyTerm>military</keyTerm>
+					<keyTerm>telephone number</keyTerm>
+					<keyTerm>ministries</keyTerm>
+					<keyTerm>agencies</keyTerm>
+					<keyTerm>foreign</keyTerm>
+					<keyTerm>consulate</keyTerm>
+					<keyTerm>religion</keyTerm>
+					<keyTerm>diplomatic</keyTerm>
+					<keyTerm>missions</keyTerm>
+					<keyTerm>overseas</keyTerm>
+					<keyTerm>chambers</keyTerm>
+					<keyTerm>commerce</keyTerm>
+					<keyTerm>trade</keyTerm>
+					<keyTerm>business</keyTerm>
+					<keyTerm>backpackers</keyTerm>
+					<keyTerm>banks</keyTerm>
+					<keyTerm>courier</keyTerm>
+					<keyTerm>computer</keyTerm>
+					<keyTerm>brands</keyTerm>
+					<keyTerm>internet</keyTerm>
+					<keyTerm>isp</keyTerm>
+					<keyTerm>pets</keyTerm>
+					<keyTerm>car</keyTerm>
+					<keyTerm>maid</keyTerm>
+					<keyTerm>specialists</keyTerm>
+					<keyTerm>bus</keyTerm>
+					<keyTerm>coach</keyTerm>
+					<keyTerm>taxi</keyTerm>
+					<keyTerm>healthcare</keyTerm>
+					<keyTerm>sports</keyTerm>
+					<keyTerm>restaurant</keyTerm>
+					<keyTerm>dining</keyTerm>
+					<keyTerm>movers</keyTerm>
+					<keyTerm>autos</keyTerm>
+					<keyTerm>motorcycle</keyTerm>
+					<keyTerm>furniture</keyTerm>
+					<keyTerm>appliance</keyTerm>
+					<keyTerm>employment</keyTerm>
+					<keyTerm>job</keyTerm>
+					<keyTerm>audio</keyTerm>
+					<keyTerm>video</keyTerm>
+					<keyTerm>computers</keyTerm>
+					<keyTerm>gadget</keyTerm>
+					<keyTerm>tourist</keyTerm>
+					<keyTerm>leisure</keyTerm>
+					<keyTerm>lifestyle</keyTerm>
+					<keyTerm>tourism</keyTerm>
+					<keyTerm>entertainment</keyTerm>
+					<keyTerm>recreation</keyTerm>
+					<keyTerm>bars</keyTerm>
+					<keyTerm>clubs</keyTerm>
+					<keyTerm>hospital</keyTerm>
+					<keyTerm>alloexpat</keyTerm>
+					<keyTerm>alloexpat.com</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_EN/59.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Recent Topics</p>
+			<p id="p2">WORK PERMITS IN ITALY</p>
+			<p id="p3">EMPLOYEES</p>
+			<p id="p4">If you’re a national of an EU member country (your passport must show that you have the right of abode in an EU country), you don’t require official approval to live or work in Italy, although you still require a permit to stay (permesso di soggiorno per lavoro).</p>
+			<p id="p5">If you’re unemployed, you have the right to live in Italy for a ‘reasonable period’ of time in order to look for a job. However, no matter how long you take to find a job, you cannot be asked to leave the country if you can prove that you’re still seriously looking for employment and have a real chance of finding work (for example, you still have interviews to attend or tests to undergo).</p>
+			<p id="p6">In certain circumstances, if you’re receiving unemployment benefit in one EU country, you may continue to receive that benefit for up to three months in Italy. To do so, you must apply to the authorities in the country that pays your unemployment benefit.</p>
+			<p id="p7">EU nationals who visit Italy with the intention of finding a job should apply at the foreigners’ office (ufficio stranieri) at the local police headquarters for a permit (ricevuta di segnalazione di siggiorno) within eight days, which entitles them to remain in Italy for three months while looking for a job. When you’ve found work, you take the ricevuta together with a letter from your employer confirming your employment to the police headquarters to obtain a permit to stay. You must also apply for a work permit (permesso di lavoro, which is valid only for as long as you’re employed and is available to both residents and non-residents.</p>
+			<p id="p8">Non-EU nationals require an ‘entry visa for reasons of work’ (visto d’ingresso per motivi di lavoro), which they must obtain in their home country or country of residence. All employees except managers and executives (dirigenti) require a workers’ registration card (libretto di lavoro) from the Provincial Inspectorate of Work (Inspettorato Provinciale del Lavoro), which is valid for ten years. It’s a booklet that employees (whether Italian citizens or foreigners) require in order to be legally employed, which serves as an employment record (the start and end dates of all periods of employment are entered in it).</p>
+			<p id="p9">Italy has restrictions on the employment of non-EU nationals, which have been strengthened in recent years due to the high unemployment rate (around 8.9 per cent). The 1998 Immigration Law introduced a quota system that restricts the number of freelance people of any nationality and category allowed into the country each year.</p>
+			<p id="p10">Uncertainty in the interpretation of the new rules, especially in consulates abroad, is making it difficult and long-winded for foreigners to work in Italy legally. However, thousands of non-EU nationals are being employed due to a severe shortage of semi-skilled and skilled workers in the north (the north-east in particular). Employers are putting pressure on the government for immigration quotas to be handled by the regions, according to local employment needs, while the politicians would prefer to create jobs for southern Italians.</p>
+			<p id="p11">Work permits for non-EU nationals must be obtained outside Italy, where an application for work authorisation (autorizzazione al lavoro) must be made at your local Italian embassy. The employment of non-EU nationals must be approved by the Italian labour authorities, who can propose the employment of an EU national in place of a foreigner (although this is rare). Note that it’s impossible to convert a tourist visa into a work visa and therefore if you’re a non-EU national and need a visa to work in Italy, you must obtain it before your arrival in the country. There’s nothing to stop you visiting Italy as a tourist in order to find a job, but you cannot work without going home and applying for a work visa (which can take months to obtain).</p>
+			<p id="p12">SELF-EMPLOYED</p>
+			<p id="p13">If you’re an EU-national or a permanent resident with a certificato di residenza you can work as self-employed (lavora in proprio) or as a sole trader (commerciante in proprio) in Italy. If you wish to work as self-employed in a profession or start a freelance business in Italy, you must meet certain legal requirements and register with the appropriate organisations, e.g. the local chamber of commerce (camera di commercio).</p>
+			<p id="p14">Note that a standard permit to stay doesn’t automatically allow you to work as self-employed and needs to be changed to a permesso di soggiorno per lavoro autonomo, which depends on your nationality and status.</p>
+			<p id="p15">Under Italian law, a self-employed person must have an official status and it’s illegal to simply hang up a sign and start business. People setting up in a self-employed capacity must provide evidence of their status, such as membership of a professional or trade body, a VAT number, or registration on a trade register.</p>
+			<p id="p16">Members of some professions and trades must have certain qualifications and certificates recognised in Italy. You should never be tempted to start work before you’re registered as there are harsh penalties, which may include a large fine, confiscation of machinery or tools, deportation and a ban from entering Italy for a number of years.</p>
+			<p id="p17">EU nationals are entitled to work as a self-employed person (or an employee) without waiting for a residence permit to be issued. This document is merely a means of proof and not a condition of your entitlement to live in the country. If you’re an EU national and obtained a residence permit as an employee, this doesn’t prevent you from changing status during its period of validity and setting up in a self-employed capacity.</p>
+			<p id="p18">FRONTIER WORKERS</p>
+			<p id="p19">Frontier workers are defined as people working in Italy but residing outside the country and returning there at least once a week. Frontier workers don’t require a permit to stay but must apply for a frontier worker’s card at the police headquarters nearest to their place of employment and produce evidence of their employment status and residence abroad.</p>
+			<p id="p20">EU rules on social security contain certain specific provisions for cross-border workers who are covered by EU social security legislation in the same way as all the other categories of people. You’re entitled to receive sickness benefits in kind in either your country of residence or your country of employment, but if you’re registered as unemployed you’re only entitled to claim unemployment benefit in your country of residence.</p>
+			<p id="p21">copyrights © AlloExpat.com</p>
+		</body>
+	</text>
+</cesDoc>

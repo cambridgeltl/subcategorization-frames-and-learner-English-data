@@ -1,0 +1,155 @@
+Ufficio federale dell'ambiente UFAM
+La presente edizione è adatta per browser con un supporto CSS insufficiente e destinata soprattutto alle persone ipovedenti. Tutti i contenuti sono visualizzabili anche con browser meno recenti. Per una migliore visualizzazione grafica si raccomanda tuttavia l'uso di un browser come Firefox 3 o Internet Explorer 7.
+Glossario
+Tutto quello che avreste voluto sapere sui rifiuti ma non avete mai osato chiedere: ecco le definizioni in ordine alfabetico relative ai termini più importanti nel settore dei rifiuti.
+Un glossario quadrilingue (D, F, I, E) è disponibile come banca dati Access:
+autorizzazione all'esportazione
+Ai sensi dell'ordinanza sul traffico di rifiuti (OTRif) le esportazioni di rifiuti dalla Svizzera necessitano in linea di principio di un'autorizzazione dell'UFAM.
+a perdere
+Imballagio o bottiglia che si utilizza una volta sola, e quindi senza deposito, ma che può comunque essere riciclata.
+avanzi di legno problematici
+Legname di scarto impregnato o trattato con prodotti per la protezione del legno o ricoperto con un rivestimento contenente composti organo-alogenati.
+bilancio ecologico
+Elenco e valutazione dei flussi input e output e dell'impatto ambientale potenziale di un sistema di prodotto nel corso del suo ciclo di vita.
+biodegradabile
+biogas
+Gas prodotto dalla degradazione anaerobica della materia organica, composto principalmente di metano e di biossido di carbonio.
+ceneri
+ceneri di caldaia (scorie)
+ceneri leggere
+codice dei rifiuti
+Codice a sei cifre, utilizzato per identificare qualsiasi tipo di rifiuto nel catalogo europeo dei rifiuti e nell'elenco svizzero dei rifiuti.
+combustione
+Reazione chimica di ossidazione di un combustibile con un carburante (aria o ossigeno) che avviene con forte sviluppo di energia termica.
+compost
+compostaggio
+Processo in grado di garantire l'andamento ottimale dell'attacco microbico del materiale organico e la sua parziale o totale umificazione.
+compostaggio di quartiere
+Compostaggio di rifiuti organici da parte di un gruppo di persone, il quale ha l'obiettivo di compostare i rifiuti organici propri e altrui per utilizzare il composto il più vicino possibile al luogo di produzione.
+compostaggio domestico
+contributo di riciclaggio anticipato
+Importo, basato su un accordo volontario del settore e riscosso sul prezzo di vendita alla messa in commercio di un prodotto, allo scopo di coprire i costi del successivo smaltimento.
+contributo di riciclaggio posticipato
+Importo, basato su un accordo volontario del settore e riscosso alla consegna di un prodotto destinato allo smaltimento, allo scopo di coprire i costi causati da quest'ultimo.
+deposito
+Somma pagata dall'acquirente al momento dell'acquisto di una pila o di un imballaggio e che gli sarà rimborsata all'atto della restituzione dell'oggetto usato, per riutilizzo o smaltimento separato.
+deposito in discarica
+destinatario
+digestato Materiale fermentato d'origine vegetale e animale, ottenuto mediante procedimento anaerobico.
+digestione anaerobica
+Digestione biologica anaerobica di rifiuti organici in condizioni controllate grazie all'azione di microrganismi (inclusi batteri produttori di metano) allo scopo di produrre biogas e residui di fermentazione solidi.
+discarica
+discarica per materiali inerti
+Discarica controllata nella quale possono essere depositati solo materiali sassosi, poco inquinanti, che diluiti in acqua disciolgano solo minime quantità di contaminanti.
+discarica per sostanze residue
+Discarica controllata destinata al deposito di materiali ad alto tenore di metalli pesanti, di composizione nota e contenenti solo piccole frazioni di componenti organiche, che non possono produrre né gas, né sostanze facilmente solubili in acqua.
+discarica reattore
+downcycling
+elettrodomestici bianchi
+elettrodomestici bruni
+emissione
+forno a letto fluido
+Forno verticale sul cui fondo è posto uno strato di sabbia che viene portato allo stato fluido dall'aria comburente iniettata nel fondo del forno attraverso una miriade di ugelli.
+forno a tamburo rotante
+Forno d'incenerimento costituito da un cilindro rotante leggermente inclinato e rivestito di mattoni refrattari, impiegato essenzialmente nell'incenerimento dei fanghi e dei rifiuti industriali e speciali (allo stato liquido, pastoso o solido) oltre che per il trattamento dei suoli contaminati.
+forno d'incenerimento
+Parte di un impianto d'incenerimento composto del sistema di alimentazione dei rifiuti, della griglia di combustione, della camera di combustione, del circuito di aria comburente, del sistema di evacuazione delle scorie e delle centraline di comando idrauliche.
+fumi
+Emissioni gassose da combustione in caldaia contenenti ossidi di carbonio, d'azoto e di zolfo, vapore acqueo, particolato e altri inquinanti, a seconda del materiale incenerito nella caldaia.
+Gas prodotto nelle discariche, principalmente dalla degradazione anaerobica della materia organica.
+gas di scarico Aria di scarico, gas di combustione e altri inquinanti atmosferici emessi da impianti.
+gasificazione
+Ossidazione parziale della sostanza organica solida per trasformarla in forma gassosa, dove l'energia necessaria all'essiccamento e alla volatilizzazione è fornita dalla combustione di una frazione del materiale.
+igienizzazione
+Trattamento dei rifiuti organici nell'ambito della produzione di compost e di residui di fermentazione solidi, con lo scopo di uccidere i microrganismi che hanno un effetto patogeno sull'uomo, sugli animali e sulle colture al fine di ridurre al minimo i rischi di trasmissione di malattie.
+imballaggio
+Tutti i prodotti adibiti a contenere e a proteggere determinate materie prime o merci, a consentire la loro manipolazione e la loro consegna dal produttore al consumatore o all'utilizzatore, e ad assicurare la loro presentazione.
+imballaggio non riutilizzabile
+imballaggio riutilizzabile
+immissione
+impermeabilizzazione
+Strato isolante in materiale naturale o sintetico, coprendo il fondo ed i lati di una discarica , al fine di impedire la fuoriuscita incontrollata di gas o liquidi.
+impianto d'incenerimento
+Impianto per la combustione dei rifiuti, nel quale i parametri influenzando quest'ultima, quali la temperatura, il tempo di ritenzione, la turbolenza e l'apporto di aria comburente, possono essere controllati.
+incenerimento dei rifiuti
+inventario ecologico
+Voce del bilancio ecologico che include l'elenco e la quantificazione di input e output di un dato sistema di prodotto nel corso del suo ciclo di vita.
+legno usato
+modulo di accompagnamento
+Modulo che si deve compilare prima dell'inizio del trasporto e che accompagna i rifiuti speciali durante il loro trasporto e la loro consegna.
+modulo di notifica
+numero d'esercizio
+percolato
+Qualsiasi liquido che coli attraverso i rifiuti depositati e sia emesso da una discarica o contenuto all'interno di essa.
+pila
+Fonte di energia elettrica ottenuta mediante trasformazione diretta di energia chimica, costituita da uno o più elementi primari (non ricaricabili) o secondari (ricaricabili).
+pila al mercurio
+Piccola pila a bottone, in genere a base di ossido di mercurio, ossido di argento o di aria-zinco.
+pirolisi Degradazione della materia organica, dovuta all'azione del calore, in condizioni anaerobiche.
+potenza termica Quantitativo di energia prodotto durante l'incenerimento che l'impianto è in grado di assorbire e di trasformare in vapore o in acqua calda per mezzo della caldaia, pari alla quantità oraria di rifiuti inceneriti moltiplicata per il loro potere calorifico.
+potere calorifico Quantità di energia prodotta dalla combustione di un'unità di massa di rifiuti o combustibile.
+principio chi inquina paga
+Principio secondo il quale le spese delle misure prese secondo la legge sulla protezione dell'ambiente sono sostenute da chi ne è la causa.
+processo a secco
+Processo di trattamento dei fumi nel quale l'elemento neutralizzante allo stato secco, sotto forma di calce o calcare, viene nebulizzato in controcorrente in un reattore, provocando un trasferimento di materiale dalla fase gassosa verso la superficie delle particelle solide.
+processo a semi-secco
+Processo di trattamento dei fumi derivato da quello a secco, che consiste nel nebulizzare del latte di calce in un atomizzatore per neutralizzare gli inquinanti acidi contenuti nei fumi e assicurarene il raffreddamento per iniezione di acqua.
+processo ad umido
+punto di raccolta di materiali riciclabili
+Area attrezzata dove gli utenti possono deporre i loro rifiuti separati per categoria.
+quench
+Sistema per il raffreddamento dei fumi depolverizzati per iniezione di acqua.
+recupero energetico Utilizzazione di rifiuti combustibili quale mezzo per produrre energia mediante incenerimento diretto con recupero del calore.
+reimpiego diretto Consiste ad esempio nella pulizia e il riempimento di bottiglie di vetro riciclate o la vendita di indumenti lavati e accomodati presso i centri di raccolta di abiti usati.
+residui di frantumazione (fluff)
+Residui di frantumazione inutilizzabili che rimangono dopo la separazione delle frazioni metalliche.
+riciclaggio Reimpiego diretto, riciclaggio di materie prime provenienti da materiali usati e recupero energetico a partire da rifiuti.
+riciclaggio di materie prime
+Il riciclaggio di materie prime provenienti da materiali usati, per esempio la rifusione di metalli nell'industria metallurgica o la produzione di cartone con carta riciclata, si divide in recycling (in senso stretto) e downcycling.
+rifiuti
+rifiuti biodegradabili
+rifiuti citostatici
+Medicamenti citostatici scaduti e materiali provenienti dall'uso, dalla produzione e dalla preparazione di citostatici e da essi contaminati.
+rifiuti con pericolo di contaminazione
+Rifiuti di parti anatomiche, di organi e di tessuti, rifiuti sporchi di sangue, secreti ed escreti.
+rifiuti con pericolo di lesione
+Categoria di rifiuti sanitari di cui fanno parte gli oggetti a punta o taglienti, quali aghi di siringhe, scalpelli o altri tipi di lame.
+rifiuti di apparecchiature elettriche ed elettroniche
+Apparecchiature elettriche ed elettroniche che sono rifiuti, inclusi tutti i componenti, sottoinsiemi e prodotti di consumo che sono parte integrante del prodotto al momento in cui si decide di eliminarlo.
+rifiuti domestici
+rifiuti inerti
+rifiuti infettivi
+Rifiuti che contengono in quantità rilevanti materiali, sostanze o mezzi contagiosi e significativi dal punto di vista epidemiologico, dai quali proviene un pericolo di diffusione ulteriore di agenti patogeni.
+rifiuti sanitari
+rifiuti soggetti all'obbligo di controllo
+Rifiuti il cui smaltimento conforme alle esigenze ecologiche richiede misure tecniche e organizzative particolari limitate a causa della loro composizione o delle loro proprietà fisico-chimiche.
+rifiuti speciali
+Rifiuti il cui smaltimento conforme alle esigenze ecologiche richiede misure tecniche e organizzative particolari globali a causa della loro composizione o delle loro proprietà fisico-chimiche.
+rifiuti urbani
+risanamento
+Realizzazione di misure di decontaminazione di un sito contaminato, oppure di provvedimenti cautelari equivalenti, al fine di prevenire a lungo termine pericoli ambientali.
+scarti di legno
+Scarti dall'industria della lavorazione del legno o da cantieri edili, alla condizione di non essere stato né impregnati con un procedimento a getto né ricoperti con un rivestimento contenente composti organo-alogenati.
+scarti verdi
+Scarti della manutenzione del verde (sfalci erbosi, potature, fogliame) e trucioli, segatura o altri scarti lignosi non contaminati.
+separatore magnetico a correnti indotte
+Apparecchio per separare i metalli non ferrosi dal materiale triturato.
+sistema a consegna
+Raccolte differenziate dei rifiuti in cui i diversi materiali vengono conferiti dai cittadini presso punti di raccolta prefissati.
+sistema a ritiro
+Tutte le raccolte differenziate di rifiuti a domicilio, in cui il materiale viene predisposto davanti all'edificio dell'utente e raccolto dal servizio apposito.
+smaltimento dei rifiuti
+Riciclaggio o deposito definitivo di rifiuti, nonché le operazioni preliminari di raccolta, trasporto, deposito provvisorio e trattamento.
+sostanze residue
+Materiali ad alto tenore di metalli pesanti, di composizione nota e contenenti solo piccole componenti organiche, che non possono produrre né gas, né sostanze facilmente solubili in acqua.
+stazione di transito
+Stazione dove sono raggruppati ed eventualmente compattati i rifiuti domestici prima del loro trasferimento in una stazione di trattamento utilizzando un mezzo di trasporto a capacità elevate.
+tassa di smaltimento anticipata
+Tassa, basata su una norma di legge, riscossa sul prezzo di vendita alla messa in commercio di un prodotto, allo scopo di coprire i costi del successivo smaltimento.
+tassa proporzionale alla quantità
+Quota per la gestione dei rifiuti urbani , proporzionale alla quantità di rifiuti prodotti e determinata in modo che sia assicurata la copertura integrale dei costi di investimento e di esercizio relativi alla gestione dei rifiuti urbani.
+tasso sul peso
+tassa sul sacco
+trattamento termico Termine generico per il trattamento dei rifiuti per incenerimento, pirolisi o gasificazione.
+veicolo fuori uso
+Fine zona contenuto

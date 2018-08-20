@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>What is the difference between global warming and climate change? : FAQs : Library : Climate Central</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>What is the difference between global warming and climate change? : FAQs : Library : Climate Central</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-08 10:34:43.0</pubDate>
+							<eAddress>http://www.climatecentral.org/library/faqs/what_is_the_difference_between_global_warming_and_climate_change</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>global warming</keyTerm>
+					<keyTerm>climate change</keyTerm>
+					<keyTerm>earth's temperature</keyTerm>
+					<keyTerm>earth temperature</keyTerm>
+					<keyTerm>frequently asked questions</keyTerm>
+					<keyTerm>faqs</keyTerm>
+					<keyTerm>What you need to know about climate change</keyTerm>
+					<keyTerm>Basics</keyTerm>
+					<keyTerm>Global</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/6364.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Published: Nov 7th, 2009 in Basics , Global</p>
+			<p id="p2">Send as an Email:</p>
+			<p id="p3">Message:</p>
+			<p id="p4">I found this great article on Climate Central that I think you might like. What is the difference between global warming and climate change? http://www.climatecentral.org/library/faqs/what_is_the_difference_between_global_warming_and_climate_change/</p>
+			<p id="p5">Answer</p>
+			<p id="p6">Depending on who is talking, there can be an enormous difference between global warming and climate change — or no difference at all.</p>
+			<p id="p7">A lot of people, including many journalists who write about the topic, use the two terms interchangeably. When reporters first began doing stories back in the late 1980s about how humans seemed to be doing things that result in heating up the planet, the term they usually used was global warming. That’s because the basic effect of greenhouse gases like carbon dioxide is to do exactly that. They trap more and more of the Sun’s energy and drive the average temperature of the planet upward.</p>
+			<p id="p8">But that is only one dimension of the issue. Average temperature is global. Climate is local, and involves not just average temperature, but also other factors that vary, such as humidity, cloudiness, rain (or snow), how this precipitation is spread throughout the year (does it mostly come in one short burst, or over a rainy season, or evenly all year long, or something in between?). If you live by the sea, ocean currents also make a difference. London, England, is farther north than Montreal, Canada, for example but it has much milder winters, because the Gulf Stream carries warm water across the Atlantic to keep it relatively balmy.</p>
+			<p id="p9">Scientists have learned that raising the Earth’s temperature is very likely to change many of these factors. So while global warming is what’s causing it, what most people are going to notice is not necessarily warming but rather a change in climate.</p>
+			<p id="p10">There is one more factor. Some people want to emphasize the potentially serious consequences of the problem. Others want to convince everyone to think that it is not such a big deal, or that humans are not really causing the problem in the first place. So they choose one term or the other because they think it sounds more or less scary. But since nobody can agree about which term actually is scarier, both groups use both terms at different times.</p>
+			<p id="p11">That sounds pretty confusing. The bottom line is that while global warming is not wrong, climate change more accurately describes what is happening. That is a major reason that many people have settled on the latter term.</p>
+			<p id="p12">But most of the time, whether people use global warming or climate change, they’re almost certainly talking about the same thing.</p>
+			<p id="p13">How do we know?</p>
+			<p id="p14">Scientists have identified no fewer than 44 essential climate variables — including not only global temperature but also clouds, precipitation, snow cover, ice cover, sea level, and even biological activity. Many of these are measured from space, with satellites including the US/Japanese Tropical Rainfall Measuring Mission, which looks at precipitation; NASA’s ICESAT Mission, which measures the extent and elevation of ice; and the U.S./French TOPEX and Jason satellites, which keep track of sea level.</p>
+			<p id="p15">Related Content</p>
+			<p id="p16">Related Videos</p>
+			<p id="p17">Copyright © 2010 Climate Central.</p>
+		</body>
+	</text>
+</cesDoc>

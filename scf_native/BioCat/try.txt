@@ -1,0 +1,1020 @@
+compare
+
+87_PP	113	0.457490
+24_NP	66	0.267206
+49_NP-PP	60	0.242915
+122_Comlex gap	2	0.008097
+95_PP-PP	2	0.008097
+16_HOW-S	1	0.004049
+40_NP-P-ING-OC	1	0.004049
+53_NP-TO-INF-OC	1	0.004049
+78_PART-PP	1	0.004049
+
+Examples
+87_PP:
+1. On the risk side , more moderately serious persisters <target>compared</target> to desisters were truant ( OR = 2.0 ) , and sustained serious injuries ( OR = 5.1 ) . 
+2. The decreased TNb proliferation in samples heterozygous for bnl06916 in a trolb22 background <target>compared</target> to controls versus the increased proliferation in trolb22 animals wild-type for bnl <target>compared</target> to controls suggests that the trolb22 mutation affects signalling by Bnl in the ventral ganglion at second instar . 
+3. Moreover , the risk of IUD-related pelvic infection in other immune-compromised individuals in not significantly increased <target>compared</target> with women with an intact immune system ( 6 ) . 
+24_NP:
+1. Table 1 <target>compares</target> the manually and automatically determined PSZ thresholds . 
+2. Because physical and psychological stressors induce a similar physiological response , the production of glucocorticoids may provide a common currency with which to evaluate and <target>compare</target> individual performance in any part of the life history cycle . 
+3. As a differential model of developmental competence , we <target>compared</target> regulation of maternal transcripts during in vitro and in vivo maturation . 
+49_NP-PP:
+1. We <target>compared</target> the predictions to the known interaction signs : 28.3 % of the predictions were false predictions . 
+2. When <target>comparing</target> the participants ( n = 160 ) with the non-participants ( n = 94 ) , there were no significant differences with regard to socio-demographics , substance use variables , Axis I and II disorders , mental distress ( HSCL-25 ) , inpatient or outpatient status , and treatment history at baseline . 
+3. In <target>comparing</target> cells expressing wild-type HIV with cells expressing HIV&#206;&#148;NC&#206;&#148;p6 , an experienced microscopist provided printed nondigital photomicrographs of random fields depicting wild-type Gag and Gag&#206;&#148;NC&#206;&#148;p6 labeling near the plasma membrane . 
+122_Comlex gap:
+1. Table 4 <target>compares</target> the original Ranson 's score with the modified new score ( based on the new four criteria ) in terms of validity and the association with complications . 
+2. This outcome <target>compares</target> favorably to the reported return rate for TST reading in similar patient populations in other cities , including 84 % at a needle-exchange program in Baltimore , 64 % at a public health program in Atlanta , and 47 % in a street outreach program for drug users in Long Beach . 
+95_PP-PP:
+1. In the MMTT , the peak response occurred at about 90 min <target>compared</target> with 6 min for the GST , thus confirming the selection of this time point for the GST in the ECPT . 
+2. The detection of Nectin-4 in serum improves the follow-up of patients with MBC : the association CEA/CA15.3/Nectin-4 allowed to monitor 74 % of these patients <target>compared</target> to 67 % with the association CEA/CA15.3 . 
+16_HOW-S:
+1. Our design thus <target>compares</target> how learning and innate behaviour contributes to food choice based on visual and nutritional stimuli in a novel context . 
+40_NP-P-ING-OC:
+1. We <target>compared</target> the performance of the Charlson and the Elixhauser comorbidity measures in predicting short and long term mortality among patients with CHF , diabetes , CRF , stroke , and CABG between ICD-9 and ICD-10 Canadian hospital discharge abstract databases . 
+53_NP-TO-INF-OC:
+1. For each sensory condition , we <target>compared</target> the ability of the postural control parameters to detect an effect of cognitive task performance . 
+78_PART-PP:
+1. This <target>compares</target> very favourably with many other schemes &#226;&#128;&#147; in Tanzania , for example , total enrolment in the new SHI Benefit scheme is reported to be covering less than 1 % of the population [ 10 ] . 
+
+activate
+
+24_NP	172	0.855721
+49_NP-PP	18	0.089552
+41_NP-P-ING-SC	4	0.019900
+27_NP-ADVP	3	0.014925
+30_NP-AS-NP-SC	2	0.009950
+36_NP-ING-SC	2	0.009950
+
+Examples
+24_NP:
+1. In Jurkat human T-cell leukemia cells , similar compounds <target>activated</target> mitochondrial pathway and altered the balance between the pro-and anti-apoptotic proteins , down regulating the anti-apoptotic Bcl-2 protein and enhancing the expression of the pro-apoptotic Bax [ 77 ] . 
+2. As fibroblasts <target>activate</target> gene expression programs characteristic of their position in the body , they could in principle construct an identifiable extracellular matrix and express structural and cell surface proteins that provide site-specific signalling for a given anatomic origin ( Figure 5B ) . 
+3. Semantic ambiguity <target>activated</target> a subset of the same fronto-temporal regions as syntactic ambiguity . 
+49_NP-PP:
+1. HS2 <target>activates</target> minichromosomal &#206;&#181;-globin transcription to a very high level in this system . 
+2. Native oocyte calcium <target>activated</target> chloride currents in response to P2X receptor stimulation were reduced by replacing 1.8 mM CaCl2 with 1.8 mM BaCl2 in the ND96 bath solution . 
+3. Native oocyte calcium <target>activated</target> chloride currents in response to P2X receptor stimulation were reduced by replacing 1.8 mM CaCl2 with 1.8 mM BaCl2 in the ND96 bath solution . 
+41_NP-P-ING-SC:
+1. 0The myogenic determination factor MyoD <target>activates</target> the transcription of muscle-specific genes by binding to consensus DNA sites found in the regulatory sequences of these genes . 
+2. CRP <target>activates</target> transcription by interacting with RNA polymerase through CRP 's functionally independent transcriptional activation domains . 
+3. NRSE dsRNA <target>activates</target> expression of NRSE/RE1-containing genes by recognizing the NRSF/REST transcriptional regulator to stimulate neural stem cell differentiation ( 43 ) . 
+27_NP-ADVP:
+1. The p53 mutant , which contains a disabled DNA-binding domain , does not <target>activate</target> transcription significantly . 
+2. Transfection of Sp1 ( 500 ng ) DNA into SL2 cells <target>activated</target> the K19 promoter 5-fold ( Fig. 7B ) . 
+3. However , the MafA/c-Maf complex <target>activated</target> the promoter 9.5-fold , likely using the endogenous Pax6 proteins ( 40 ) . 
+30_NP-AS-NP-SC:
+1. While ATP <target>activates</target> P2X7 directly as a soluble ligand , activation via NAD occurs by ART-dependent ADP-ribosylation of cell surface proteins , providing an immobilised ligand . 
+2. While ATP <target>activates</target> P2X7 directly as a soluble ligand , activation via NAD occurs by ART-dependent ADP-ribosylation of cell surface proteins , providing an immobilised ligand . 
+36_NP-ING-SC:
+1. Embryos generated using ionomycin/DMAP showed the highest proportion of abnormal ploidy ( 70 % ) , while embryos <target>activated</target> using ionomycin/cycloheximide showed a modest amount of aneuploidy ( 33 % ) and IVF-derived embryos the least ( 6 % ) . 
+2. Embryos generated using ionomycin/DMAP showed the highest proportion of abnormal ploidy ( 70 % ) , while embryos <target>activated</target> using ionomycin/cycloheximide showed a modest amount of aneuploidy ( 33 % ) and IVF-derived embryos the least ( 6 % ) . 
+
+predict
+
+24_NP	155	0.833333
+49_NP-PP	8	0.043011
+57_NP-TOBE	4	0.021505
+109_THAT-S	4	0.021505
+22_INTRANS	3	0.016129
+29_NP-AS-NP	3	0.016129
+27_NP-ADVP	2	0.010753
+87_PP	2	0.010753
+16_HOW-S	1	0.005376
+18_INF-AC	1	0.005376
+114_WHAT-S	1	0.005376
+3_ADVP	1	0.005376
+112_TO-INF-SC	1	0.005376
+
+Examples
+24_NP:
+1. This conclusion is further supported by the PSIPRED prediction , which does not <target>predict</target> this strand but does predict all of the other helices and strands .
+2. It also <target>predicts</target> considerable rise in sea level , risking the inundation of the low lying coastal areas .
+3. MAL2 has also been reported to be distributed in both lipid raft and non-raft fractions in primary thyrocytes [ 15 ] and PC-3 prostate carcinoma cells [ 16 ] , <target>predicting</target> additional , uncharacterised cellular functions for MAL2 outside lipid rafts .
+49_NP-PP:
+1. Methods that <target>predict</target> unstructured regions from sequence are mushrooming .
+2. We <target>predicted</target> a ribosomal/nucleolar role for HRR25 based on the occurrence of the human HRR25 ortholog in nucleolar preparations and on the co-occurrence of HRR25 with other nucleolar proteins in affinity-purified protein complexes ( Table 1 ) .
+3. 0Among the various methods for <target>predicting</target> carcinogenicity from a battery of short-term tests ( STTs ) , the carcinogenicity prediction and battery selection ( CPBS ) procedure is the most prominent .
+57_NP-TOBE:
+1. Over 1 % of the dbSNP mutations ( 299 ) are <target>predicted</target> to be deleterious by four or more methods , 49 of which have been validated in HapMap [ 2 ] .
+2. For instance , the Vpr protein which is present in HIV but is not expressed in SIV [ 36 ] and structure of which was determined by NMR is <target>predicted</target> to be rather disordered ( 39 % by PONDR&#195;&#130;&#194;&#174; VLXT and 64 % by PONDR&#195;&#130;&#194;&#174; VL3 , Table 3 ) .
+3. Depending on the amino acids appearing at these positions , SIFT may <target>predict</target> these positions to be unimportant for protein function .
+109_THAT-S:
+1. For example , Rozan [ 20 ] used econometric techniques to <target>predict</target> that the mean WTP , which was considered as the estimation of the intangible costs , would on average make up 50 % of the total costs .
+2. Other residues that we <target>predict</target> may have an effect on the domain structure or ligand binding are indicated in red in Figure S2 .
+3. The noisy model would <target>predict</target> that spurious exons that are not multiples of three ( and hence induce frameshifts ) should be more likely to provide the selective conditions favouring an in-frame PTC to prevent translation [ 29 ] .
+22_INTRANS:
+1. Thirdly , CFM trends to over <target>predict</target> in helix and strand and under predict in coil .
+2. Similarly the variation in seed size within species [ 48 ] is dwarfed by the variation among species , implying that there is strong stabilising selection on seed size within species , as simple theory <target>predicts</target> [ 1 ] , [ 6 ] .
+3. Thirdly , CFM trends to over <target>predict</target> in helix and strand and under predict in coil .
+29_NP-AS-NP:
+1. The BLOSUM62 pairwise program <target>predicted</target> H43Y as deleterious , but does not distinguish specific mutations at a given codon and instead makes general predictions based on overall conservation at a given position .
+2. Using the same procedure we have also computationally <target>predicted</target> 2,978 Arabidopsis genes as the potential targets for viral siRNAs derived from TCV ( Qi et al. , unpublished data ) , another positive strand RNA virus with a smaller ( 4,050 nt ) genome .
+3. If all surface residues are used in the training , the classifier will be biased to <target>predict</target> a residue as a surface residue .
+27_NP-ADVP:
+1. Within the category of ab initio programs AUGUSTUS <target>predicted</target> significantly more genes correctly than any other ab initio program .
+2. The model <target>predicts</target> a variety of behaviors well [ 12-15 ] , including exercise [ 14 ] and birth control/fertility behavior [ 13 ] .
+87_PP:
+1. Thus it is the subtle signals contained in a transmembrane stretch that can prevent import , something we are not yet able to <target>predict</target> from gene sequence alone .
+2. Although a number of prognostic indices have been used in NHL most have been used to <target>predict</target> for response and survival rather than toxicity .
+16_HOW-S:
+1. In this frame of thought , still purely theoretical efforts " in search of the simplest cells " [ 215 ] <target>predict</target> how heredity could evolve in cross-catalytic , autoreplicating networks by virtue of minority components assembling into polymers [ 216,217 ] .
+18_INF-AC:
+1. As shown in fig 1a the correct integration of Neo at the hprt locus was <target>predicted</target> to delete a BamH1 restriction endonuclease cut-site from intron 1 and replace it with a BamH1 site that is unique to the mutant hprt allele .
+114_WHAT-S:
+1. In reality , the pathway is constantly adapting to new conditions , and our model has no way to <target>predict</target> what happens within the 3.5 minute interval .
+3_ADVP:
+1. As the authors suggest , a set of variables may <target>predict</target> better than individual symptoms and signs taken one at a time .
+112_TO-INF-SC:
+1. Based on our current knowledge about the phylogenetic history of malaria parasites and their host , in general , one can <target>predict</target> to detect statistical support for co-speciation and host switching .
+
+recognize
+
+24_NP	154	0.762376
+109_THAT-S	22	0.108911
+30_NP-AS-NP-SC	11	0.054455
+29_NP-AS-NP	6	0.029703
+49_NP-PP	5	0.024752
+53_NP-TO-INF-OC	2	0.009901
+21_ING-AC	1	0.004950
+22_INTRANS	1	0.004950
+
+Examples
+24_NP:
+1. Identification of tumor associated antigens ( TAA ) <target>recognized</target> by CD8+ T cells and the corresponding major histocompatibility complex class I ( MHC-I ) restricted epitopes has led to peptide-based vaccination approaches in experimental animals as well as in clinical settings [ 1-5 ] . 
+2. The APCCdh1 ubiquitin ligase complex <target>recognizes</target> proteins containing either D-Box or KEN-box motifs [ 30 ] &#226;&#128;&#147; [ 32 ] . 
+3. The antibody generated by N-terminal peptide <target>recognized</target> Acdp4 in addition to Acdp1 , although the reactivity to latter was significantly higher ( Fig. 6A , lane 2 ) . 
+109_THAT-S:
+1. Last , and as a somewhat unexpected key observation we <target>recognize</target> that acute mastitis increases in the udder the expression of factors of the alternative pathways of the complement system , but down regulates numerous components of the classical pathway and of the MAC . 
+2. Leaders <target>recognized</target> that the hospital could not operate under the shut down conditions for very long ; urgent cases were quickly becoming emergent . 
+3. We <target>recognise</target> that in some grant assessment processes , Indigenous researchers or Indigenous people working in end user sites are included as reviewers . 
+30_NP-AS-NP-SC:
+1. In addition , patients with TTM <target>recognize</target> the behavior as senseless , undesirable and performed in response to increasing anxiety , with resultant tension relief . 
+2. Cysticercosis , a parasitic infection caused by the larval form of the pork tapeworm , Taenia solium , has been increasingly <target>recognized</target> as a cause of severe but preventable neurologic disease in the United States ( 1 &#226;&#128;&#147; 5 ) . 
+3. The preponderance of HSPs as molecules <target>recognized</target> by human immune system was illustrated in a recent study [ 17 ] : from 242 protein-producing clones , which were identified by immunoscreening with serums from VL patients , 118 ( 49 % ) contained sequences coding for members of the HSP70 and HSP83/90 families . 
+29_NP-AS-NP:
+1. Clinicians <target>recognize</target> this damage radiographically as air that leaks into the interstitial spaces to cause intrapulmonary gas cysts , mediastinal emphysema , pneumothorax , and systemic gas embolism [ 16 ] . 
+2. Since verocytotoxin producing Escherichia coli ( VTEC ) was first <target>recognised</target> as an important gastrointestinal bacterial pathogen in humans , its microbiological characteristics , pathogenicity and epidemiology have been studied worldwide . 
+3. Winged helix and homeo-domain <target>recognize</target> 6 positions as either homo-dimers or hetro-dimers respectively , with a constant relative orientation and half-site spacing , resulting in 4096/2 and 40962/2 possible sequences , respectively . 
+49_NP-PP:
+1. Antiviral immune responses often <target>recognize</target> RNA viruses by the presence of dsRNA . 
+2. The ParB-III proteins ( e.g. pB171-ParB , pTB228-ParG , pSM19035-Ï2 ) work in concert with ParA-Ib ATPases and <target>recognize</target> pars ( parC ) DNA via a ribbon-helix-helix ( RHH ) motif . 
+3. Afew , such as BbvCI , <target>recognize</target> asymmetric sequences by employing two different subunits , one for each DNA strand , but otherwise act as above ( 10,11 ) . 
+53_NP-TO-INF-OC:
+1. At least 36 of the 189 genes newly <target>recognized</target> to be mutated are targets of promoter CpG island hypermethylation , often in both colon and breast cancer cell lines . 
+2. Clinical conditions <target>recognised</target> to cause " false positives " include the connective tissue diseases , malignancy and subclinical infections [ 9,10 ] . 
+21_ING-AC:
+1. Ninety-five percent <target>recognise</target> having to verify what the claimant says and eighty-three percent feel the need to establish a good relation ( p = 0.019 ) . 
+22_INTRANS:
+1. Unfortunately , as they also <target>recognise</target> , the evidence to support their position is limited . 
+
+reduce
+
+24_NP	161	0.805000
+49_NP-PP	30	0.150000
+22_INTRANS	2	0.010000
+33_NP-INF-OC	2	0.010000
+3_ADVP	2	0.010000
+95_PP-PP	2	0.010000
+87_PP	1	0.005000
+
+Examples
+24_NP:
+1. In addition , the co-utilization of arabinose together with xylose significantly <target>reduced</target> formation of the by-product xylitol , which contributed to improved ethanol production . 
+2. Phytoplankton biomass remains low during the summer and only increases toward the end of the year when grazing pressure is <target>reduced</target> [ 20 ] . 
+3. Type I IFN <target>reduces</target> the activity of CYP enzymes that metabolize various endogenous and exogenous substrates , probably leading to an increase in the potential for IFN-related hepatotoxicity [ 50 ] . 
+49_NP-PP:
+1. If HAART <target>reduces</target> &#206;&#178; ( equal to &#206;&#178;untreated ) by a factor r = &#206;&#178;HAART/&#206;&#178;untreated &amp;lt;&#206;&#178;crit/&#206;&#178;untreated , our model predicts that the number of productively infected cells ( and by extension , viral load ) decays to zero . 
+2. It <target>reduces</target> cholesterol absorption in the duodenum by approximately 50 % , thereby attaining reductions in LDL-c of 20 % [ 32 ] . 
+3. Treatment with ICI caused a time-dependent decrease in ERÎ± expression in T47D cells , <target>reducing</target> it to an undetectable level by 48 hr . 
+22_INTRANS:
+1. This difference <target>reduced</target> with time , suggesting that long term survivors ( beyond 10 years ) in the TNP group may have comparable survival to non-TNP cases . 
+2. Compactness <target>reduced</target> progressively ( Fig. 4 ) with increasing inoculum level and from compact pellets at 104 spores/ml inoculum the mycelium develops as free mycelial trees at 109 spores/ml inoculum . 
+33_NP-INF-OC:
+1. Thus , the QTLs detected in the intercross lines are mapped at a timepoint when only half of the degeneration has occurred , which may <target>reduce</target> power to detect the relatively weaker linkage to Vra2 . 
+2. Thus , the QTLs detected in the intercross lines are mapped at a timepoint when only half of the degeneration has occurred , which may <target>reduce</target> power to detect the relatively weaker linkage to Vra2 . 
+3_ADVP:
+1. In contrast , disruption of this motif <target>reduced</target> 3-fold the activity of both DNA ligase III isoforms on nicked RNA present in RNA/DNA homopolymers . 
+2. Compactness <target>reduced</target> progressively ( Fig. 4 ) with increasing inoculum level and from compact pellets at 104 spores/ml inoculum the mycelium develops as free mycelial trees at 109 spores/ml inoculum . 
+95_PP-PP:
+1. Similarly , proportional cost avoidance associated with pharmacist-preventable inappropriate IV doses was <target>reduced</target> from $ 3,367/$16,517 ( 20 % ) in Phase I to $ 1,975/$17,919 ( 11 % ) in Phase II ( p = 0.001 ) . 
+2. Instead , the fraction of sequences containing motifs was gradually <target>reduced</target> from 20/20 to 10/20 , thus making them increasingly difficult to detect . 
+87_PP:
+1. In the case of dSf = dSp , the denominator in equation 4 equals 1 and the equation <target>reduces</target> to Tf(2) = Tf . 
+
+examine
+
+24_NP	131	0.526104
+49_NP-PP	70	0.281124
+16_HOW-S	37	0.148594
+54_NP-TO-INF-SC	5	0.020080
+122_Comlex gap	2	0.008032
+21_ING-AC	1	0.004016
+53_NP-TO-INF-OC	1	0.004016
+109_THAT-S	1	0.004016
+95_PP-PP	1	0.004016
+
+Examples
+24_NP:
+1. In the present study we <target>examined</target> a group of latent factors identified by performing factor analyses on 15 Mets or ECHO traits . 
+2. To <target>examine</target> the loss and aborted growth of parasites lacking P52 during development in the hepatocytes in more detail , cultures were <target>examined</target> at 20 hours post-infection by the double staining method used to investigate invasion ( see above ) . 
+3. The most common approach for comparing the microbial community composition across samples has been to <target>examine</target> the ribotypes present as indicated by 16S rRNA genes or by analyzing the less-conserved ITS located between the 16S and 23S gene sequences [ 7,8,16,17 ] . 
+49_NP-PP:
+1. Another study <target>examined</target> differences in gene expression in prostate cancer cell lines and found a unique set of genes whose expression was up regulated [ 10 ] . 
+2. We also <target>examined</target> the effect upon stress granule formation in yeast of expressing a constitutively active allele of the Gcn2 kinase ( Gcn2c ; Ramirez et al. , 1992 ) , which phosphorylates and decreases eIF2&#206;&#177; function . 
+3. First we <target>examined</target> properties of NMDARS in mice heterozygous for iv ( iv/+ ) . 
+16_HOW-S:
+1. To <target>examine</target> if the UV induced Rpb1 sumoylation is the substrate of the Hex3/Slx8 E3 ubiquitin ligase , we <target>examined</target> UV induced Rpb1 degradation in hex3 slx8 cells and found that the degradation rate was similar to that in wild type cells ( Fig 3C ) . 
+2. We <target>examined</target> whether intracellular ROS formation plays a role in MAPK activation and cytokine release in microgliums using various inhibitors of ROS generation . 
+3. We <target>examined</target> whether the inability to induce natural peripheral tolerance to an allogeneic tissue was absolute or if instead tolerance might be established to weakly mismatched internal transplants ; the exposure of skin grafts to the external environment , or other factors may reduce their ability to establish peripheral tolerance . 
+54_NP-TO-INF-SC:
+1. In this study we <target>examine</target> five widely-used approaches and their variants to see if indeed they are more-or-less saying the same thing . 
+2. We also <target>examined</target> TLR1 , TLR4 , and TLR5 haplotypes to determine whether other SNPs in these genes modified the association with UTI susceptibility . 
+3. In this report we <target>examined</target> three SNPs to determine whether FTO variability could distinguish between extremely obese cases and thin controls . 
+122_Comlex gap:
+1. Here , we <target>examine</target> the performance of inference methods for data simulated under scenarios of codon bias evolution within the Drosophila melanogaster subgroup . 
+2. We <target>examined</target> also the regions of similarity in the Glyma0 soybean genome ( JGI 7&#195;&#151; draft sequence assembly ) to the Tgm5 transposase sequence ( Ac . 
+21_ING-AC:
+1. In particular , it <target>examines</target> adding features to candidates in all possible orders , not just accepting one feature at a time as a greedy algorithm would do . 
+53_NP-TO-INF-OC:
+1. In this work , we <target>examined</target> the efficacy of MPG as an N-terminal tag in a fusion protein to deliver a protein cargo and its mechanism of transduction . 
+109_THAT-S:
+1. To <target>examine</target> that hypoxic conditions really do not regulate GAPDH expression , we performed in vitro cell culture assays with 0.1 % O2 with and without re-oxygenation . 
+95_PP-PP:
+1. We <target>examined</target> for depression-like behavior of RyR3 &#226;&#128;&#147; / &#226;&#128;&#147; mice in the Porsolt forced swim test , which measures the time of immobility in a small pool that contains no means of escape . 
+
+transcribe
+
+24_NP	100	0.719424
+49_NP-PP	30	0.215827
+29_NP-AS-NP	3	0.021583
+122_Comlex gap	2	0.014388
+87_PP	2	0.014388
+22_INTRANS	1	0.007194
+3_ADVP	1	0.007194
+
+Examples
+24_NP:
+1. We <target>transcribed</target> the amplified cDNA in vitro and introduced the expanded RNA into IDCs by electroporation followed by DC maturation and cryopreservation . 
+2. For instance , many predicted probesets may interrogate regions that are not actually <target>transcribed</target> at all and will , therefore , be falsely detected as differentially spliced . 
+3. To produce strand specific RNA probes , pGEM-T vector ( Promega ) , with previously cloned PRAT dimer , was digested with NcoI or SalI and in vitro <target>transcribed</target> by T7 or SP6 RNA polymerase , respectively , in a reaction containing [ &#206;&#177;-32P]UTP . 
+49_NP-PP:
+1. Two poly(A) + RNAs <target>transcribed</target> from the opposite strand of the upstream flanking regions lacked the miniexon . 
+2. Alu RNAs <target>transcribed</target> from Alu elements are highly structured RNAs that maintained strong structural similarities with their ancestor , SRP RNA . 
+3. 0Antisense RNA , <target>transcribed</target> intracellularly from constitutive expression cassettes , inhibits the replication of the human immunodeficiency virus type 1 ( HIV-1 ) as demonstrated by a quantitative microinjection assay in human SW480 cells . 
+29_NP-AS-NP:
+1. In the case of maps , we <target>transcribed</target> their locations as polygons directly into vector shapefiles in ArcGIS . 
+2. Accordingly , genes in the same operon occur in close physical proximity and are often known to be co-transcribed as units . 
+3. SNPs occur in both regions that code for proteins ( coding SNPs ) and in regions that do not [ non-coding ; note that many non-protein-coding regions are likely to be <target>transcribed</target> as active RNAs ( 5,6 ) ] . 
+122_Comlex gap:
+1. After treated with 10 U DNase I ( TaKaRa , Dalian , China ) at 37Â°C for 30 min , 2 Î¼g total RNA was reverse <target>transcribed</target> into cDNA by SuperScript II reverse transcriptase ( Invitrogen , Carisbad CA , USA ) according to the manufacturer 's protocol . 
+2. RNA containing the 5â² domain of E. coli 16S rRNA ( nt 21 â 562 ) was <target>transcribed</target> from plasmid pRNA1 with T7 RNA polymerase as previously described ( 29 ) . 
+87_PP:
+1. Differences in characteristics such as array length , unit size and purity inevitably <target>transcribe</target> into deviations in the parameter settings used in bioinformatic search tools , which subsequently lead to large discrepancies in results . 
+2. The ability of F318A to <target>transcribe</target> without activator in vitro may be related to a defect closely related to changes in interactions that follow fork junction binding . 
+22_INTRANS:
+1. The two genes <target>transcribe</target> divergently with a intergeneic region of 167 nucleotides containing the putative promoter regions for both genes . 
+3_ADVP:
+1. The two genes <target>transcribe</target> divergently with a intergeneic region of 167 nucleotides containing the putative promoter regions for both genes . 
+
+decrease
+
+24_NP	55	0.284974
+87_PP	53	0.274611
+22_INTRANS	42	0.217617
+49_NP-PP	16	0.082902
+3_ADVP	11	0.056995
+95_PP-PP	10	0.051813
+122_Comlex gap	2	0.010363
+78_PART-PP	2	0.010363
+16_HOW-S	1	0.005181
+37_NP-NP	1	0.005181
+
+Examples
+24_NP:
+1. PPARÎ± reduces inflammation and oxidative stress [ 126 , 127 ] , and PPARÎ³ <target>decreases</target> HSC proliferation , reverses their profibrotic activity , and counteracts the TGF&#206;&#178;1-induced production of collagen [ 128 &#226;&#128;&#147; 136 ] . 
+2. The probability of developing augmentation or tolerance is low ; if they occur , <target>decreasing</target> or stopping this medication , or switching to another medication , may be necessary . 
+3. Interestingly , most of these mutations <target>decreased</target> the homology between the original scFv13 sequence and the intrabody consensus sequence described by Visintin et al. [ 30 ] underlining again their non-general nature . 
+87_PP:
+1. Egg weight also significantly <target>decreased</target> ( p&amp;lt;0.001 ) in the treated group compared to the two control groups . 
+2. Interestingly , in the GlnE7His system its range of effects increased in the PheB10/GlnE7His system , while in the case of the PheE11Val the range of effect <target>decreased</target> in the PheB10Leu/PheE11Val . 
+3. Death rates for pancreatic cancer increased in white men and women but <target>decreased</target> in black men and women . 
+22_INTRANS:
+1. The contribution of cardiovascular diseases as cause of death <target>decreased</target> over time while the contribution of cancer as a cause of death increased . 
+2. Indomethacin further inhibited proteoglycan synthesis ; no significant effect of indomethacin on proteoglycan release was found , and proteoglycan content tended to <target>decrease</target> . 
+3. As the quality of models <target>decreases</target> , the assignment of exposure state becomes more random and accuracy approaches a value similar to the fraction of residues in the corresponding exposure state ( e.g. in medium-sized models &#226;&#136;&#188;40 % exposed and &#226;&#136;&#188;18 % buried ; see Figure 3A , inset ) . 
+49_NP-PP:
+1. The levels of apoptosis induced by VT7-HCV7.9 after addition of IPTG , were significantly <target>decreased</target> in RL-/-_NN1 infected cells ( Figure 9C ) , while in PKR-/- cells , such levels remained similar to those in PKR+/+ cells ( Figure 9B ) . 
+2. Anti-EP , anti-R67 and anti-R80 <target>decreased</target> virus binding by up to 40 % . 
+3. The fact that modafinil increased cortical activation in subjects with low cortical activation and <target>decreased</target> it in subjects with high cortical activation indicates that its effects are not unilateral but are a function of baseline cortical activation and its effects are modulatory and regulatory rather than augmentative . 
+3_ADVP:
+1. In diabetic rats treated with zinc sulfate , the duodenum LPO levels <target>decreased</target> significantly when compared with the diabetic group ( bp&amp;lt;0.0001 ) . 
+2. In diabetic rats treated with zinc sulfate , the duodenum LPO levels <target>decreased</target> significantly when compared with the diabetic group ( bp&amp;lt;0.0001 ) . 
+3. The overall performance of all programs <target>decreased</target> proportionally to the increase in gap frequency and to a lesser extent indel size . 
+95_PP-PP:
+1. The AZTMP excision rate constant increased by 1.42 ( site 5 ) to 4.15 ( site 6 ) fold as the MgCl2 concentration <target>decreased</target> from 6 to 2 mM ( data not shown ) . 
+2. From 1985 to 2000 â 2002 , the total MI events in men aged 25 â 64 years <target>decreased</target> from 555 to 300/100,000 , a 45 % reduction . 
+3. The pulmonary shunt fraction <target>decreased</target> from PCV post-lavage ( 51.8 % ( 49 &#226;&#128;&#147; 55 % ) ) to CDP45 ( 1.03 % ( 0.4 &#226;&#128;&#147; 3 % ) ) ( P &amp;lt; 0.05 ) . 
+122_Comlex gap:
+1. In addition , heterozygosity for twine also <target>decreases</target> the frequency of precocious NEB in mtrm126/+ heterozygotes from 42 % ( Figure 5 ) to less than 10 % ( 7/72 ) . 
+2. The oxygen substitution for the CÎ´ in l-canavanine dramatically <target>decreases</target> the pK of the guanidinium group from 12 in arginine to 6 &#226;&#128;&#147; 7 in l-canavanine . 
+78_PART-PP:
+1. The band intensity , especially that of the higher molecular weight band , <target>decreased</target> dramatically with a cell extract from the pdr3 mutant , but did not show a significant alteration with a cell extract from the pdr1 mutant . 
+2. While the variances of most genomes <target>decrease</target> with the same slope , both the observed and expected variance <target>decrease</target> faster for genomes with extremely biased nucleotide content ; most of all for Anaeromyxobacter dehalogenans , which has &#226;&#136;&#188;97 % G or C at codon position 3 . 
+16_HOW-S:
+1. As these symptoms often co-occur with anxiety disorders , it is interesting to see whether these symptoms also <target>decrease</target> when treating the anxiety disorder . 
+37_NP-NP:
+1. Estimation of developed pressure throughout the range of balloon volumes indicated that for CA-rats , at peak developed pressure , measured pressures were <target>decreased</target> 40 % ( P &amp;lt; 0.01 ; Fig. 1 ) . 
+
+fail
+
+112_TO-INF-SC	226	0.893281
+22_INTRANS	20	0.079051
+24_NP	3	0.011858
+87_PP	2	0.007905
+49_NP-PP	1	0.003953
+63_P-ING-SC	1	0.003953
+
+Examples
+112_TO-INF-SC:
+1. At that time , hopes for chemotherapy to treat infections were at a low ebb , science having <target>failed</target> to live up to Paul Ehrlich 's prediction at the turn of the century that researchers should be able to produce &#195;&#162;&#194;&#128;&#194;&#156; magic bullets " that would kill disease germs but leave host cells unharmed .
+2. On the other hand , further studies <target>failed</target> to identify marked differences between first episode and chronic schizophrenic disorders with respect to psychopathological symptoms [ 20 , 27 ] , neuropsychological function [ 1 , 21 ] or social deficits [ 11 ] .
+3. These cells also <target>fail</target> to increase distance traveled and speed despite stimulation with BMP-2 ( Fig. 7 C ) .
+22_INTRANS:
+1. As Hall and Lobina ( 2005 ) state , most practices of water privatization <target>fail</target> due to public resistance following sharp price increases and job losses .
+2. Nevertheless , all these demands are necessary for a reliable design of SNP marker panels in silico with a reduced amount of validation in vitro and redesign of assays that <target>failed</target> due to the lack of polymorphisms or inconsistency of the flanking sequences .
+3. Contrarily , if one imputing schema ends with incompatibleness , other schemata will <target>fail</target> too .
+24_NP:
+1. Nonetheless , subjects who had already &amp;raspsquo; <target>failed</target> &amp;amp;raspsquo; three TNF-Is were less likely to respond to a fourth agent .
+2. Primer concentrations less than 10 % the expected were <target>failed</target> .
+3. Fifteen patients with active RA who had previously <target>failed</target> at least one DMARD or immunosuppressant received tocilizumab intravenously at doses of 2 , 4 , or 8 mg/kg biweekly for 6 weeks .
+87_PP:
+1. In this study , a third of the designed primer pairs amplified a single PCR product , and the rest of them <target>failed</target> in amplification or amplified several products .
+2. In the present study , for example , jpHMM <target>failed</target> on H , J , and K-containing CRFs .
+49_NP-PP:
+1. Six <target>failed</target> to detect a difference between intervention groups and control groups , while two studies reported more psycho-social dysfunction for the intervention group .
+63_P-ING-SC:
+1. It has been successfully applied for WGA from laser capture-microdissected fresh tissue as well as single leukocytes and blastomere cells ( 25,26,34 ) , although it was reported to <target>fail</target> in amplifying highly degraded samples , such as formalin-fixed , paraffin-embedded tissues ( 35,36 ) .
+
+follow
+
+24_NP	156	0.917647
+22_INTRANS	10	0.058824
+87_PP	3	0.017647
+58_NP-VEN-NP-OMIT	1	0.005882
+
+Examples
+24_NP:
+1. After the end of the experiment <target>following</target> the lung lavage procedure , the right lung was perfused with 300 mL of a formaldehyde ( 4.6%)-glutaraldehyde ( 0.5%)-solution for approximately 10 minutes . 
+2. Five percent of untreated cells expressing wild type GFP-Fbh1 contained focuses , and 47 % of these cells contained focuses <target>following</target> MMS treatment ( Fig. 3B and 3C ) . 
+3. Subjects performed two different tasks that alternated after every two trials â two trials of one task <target>followed</target> by two trials of the other task and so on ( see Figure 1 ) . 
+22_INTRANS:
+1. In what <target>follows</target> we will always consider &#206;&#178; = 10 . 
+2. Extraction Level or Level 2 <target>follows</target> with gumbie.pl parsing the Spidey alignment files based upon the conditions specified in the options file . 
+3. The sections that <target>follow</target> describe these relationships in more detail as well as how they were applied in the risk assessment process . 
+87_PP:
+1. Examples of physiological signal processing <target>follow</target> in Chapter 8 . 
+2. This <target>follows</target> from the fact that aD contains the entire control sample as well as what did not get labeled of the treated sample , while bI+cI only upon perfect labeling maximally can contain the entire control sample . 
+3. This <target>follows</target> from the fact that aD contains the entire control sample as well as what did not get labeled of the treated sample , while bI+cI only upon perfect labeling maximally can contain the entire control sample . 
+58_NP-VEN-NP-OMIT:
+1. All methods <target>followed</target> the protocols supplied in the kit [ 14 ] . 
+
+regulate
+
+24_NP	174	0.857143
+49_NP-PP	18	0.088670
+41_NP-P-ING-SC	9	0.044335
+55_NP-TO-INF-VC	1	0.004926
+53_NP-TO-INF-OC	1	0.004926
+
+Examples
+24_NP:
+1. The presence of APF in the urine inhibits appropriate epithelial cells regeneration by <target>regulating</target> autocrine HB-EGF and cell adhesion protein production , resulting in thinning or denudation of the bladder epithelium in IC patients [ 16 ] . 
+2. Therefore , deletion of neurabin <target>regulates</target> GluR1 phosphorylation in a site-specific manner . 
+3. Therefore , whereas LXRs <target>regulate</target> ABCA1 in all brain cell types , their effect on apoE is cell-type specific which could explain the relatively small increase of apoE mRNA isolated from a total brain fraction . 
+49_NP-PP:
+1. The human genome contains approximately 500 protein kinases that <target>regulate</target> numerous cellular processes via protein phosphorylation [ 1 ] . 
+2. Similarly , in mammals , the GPR-1/2 homolog LGN , together with GÎ± subunits and NuMA ( similar to Drosophila Mud ) , <target>regulates</target> the spindle through associations with dynein/dynactin ( Bowman et al. , 2006 ; Du and Macara , 2004 ; Hampoelz and Knoblich , 2004 ; Haren and Merdes , 2002 ; Izumi et al. , 2006 ; Siller et al. , 2006 ) . 
+3. These genes <target>regulated</target> promoter activity through the Class A E-boxes in vitro . 
+41_NP-P-ING-SC:
+1. As an example , Bach2 negatively <target>regulates</target> the immunoglobulin heavy chain gene by binding to the Maf recognition element in the 3'-enhancer [ 6 ] . 
+2. RNAI <target>regulates</target> ColE1 plasmid replication by inhibiting maturation of the pre-primer , RNAII . 
+3. Whether Myc directly <target>regulates</target> H3K79 methylation by recruiting Dot1L remains to be addressed , although we failed to detect an interaction between those proteins . 
+55_NP-TO-INF-VC:
+1. PLDÎµ <target>regulates</target> the root surface area to improve the nitrogen uptake and utilization [ 76 ] . 
+53_NP-TO-INF-OC:
+1. Japan 277-8562. kataoka@k.u-tokyo.ac.jp The insect brain <target>regulates</target> the activity of the prothoracic glands to secrete ecdysteroids , which affect molting and metamorphosis . 
+
+occur
+
+87_PP	145	0.562016
+22_INTRANS	58	0.224806
+78_PART-PP	15	0.058140
+3_ADVP	11	0.042636
+95_PP-PP	10	0.038760
+16_HOW-S	5	0.019380
+5_AS-NP	5	0.019380
+24_NP	3	0.011628
+21_ING-AC	3	0.011628
+49_NP-PP	2	0.007752
+107_SEEM-S	1	0.003876
+
+Examples
+87_PP:
+1. The pol ÃÂº insertions are not evenly distributed throughout the microsatellite allele , but primarily <target>occur</target> midway during DNA synthesis , between positions T6 and T7 or between T7 and T8 ( Figure 1 ) .
+2. Interestingly , B cell lymphocytosis <target>occurred</target> in all sheep independently of the type of provirus ( Figure 1B , compare absolute numbers of B cells at day of seroconversion ) .
+3. Experience-driven improvement on motor performance <target>occurs</target> within and between practice sessions .
+22_INTRANS:
+1. There are numerous possibilities to explain the manner in which these modifications could <target>occur</target> .
+2. For S.cerevisiae , this observation , which has also been reported by Planta and Mager ( 34 ) , is probably due to an ancient genome duplication that <target>occurred</target> &#195;&#162;&#194;&#136;&#194;&#188;100 000 000 years ago ( 9 ) .
+3. Unfamiliarity with medical terms and telescoping ( 24 ) ( recalling events more recently than they actually <target>occurred</target> ) can affect the validity of self-reported clinical preventive services and probably result in overestimates ( 20,25 ) .
+78_PART-PP:
+1. Toxicity <target>occurs</target> more frequently in patients previously exposed to high dosages of opioids .
+2. Methylation of the DNA <target>occurs</target> most frequently on the 5 &amp;amp;raspsquo; cytosine residues within 5'-CpG-3 &amp;amp;raspsquo; di-nucleotides , which often cluster together in CpG islands that can stretch for several kilobases [ 36 ] .
+3. Prognosis significantly worsens in case of additional respiratory failure <target>occurring</target> either chronically or temporarily during an acute exacerbation .
+3_ADVP:
+1. Studies in healthy volunteers have demonstrated that subcutaneously injected IAsp reaches peak plasma concentrations that are higher and <target>occur</target> earlier than those of regular HI , leading to a faster onset of blood glucose-lowering action [ 22 &#195;&#162;&#194;&#128;&#194;&#147; 24 ] .
+2. This ZnT3 post-translational modification <target>occurs</target> spontaneously and it is regulated by oxidative stress .
+3. The remaining two ORFans <target>occur</target> together , but do not fall into any obvious substrate distinction .
+95_PP-PP:
+1. Discharge <target>occurred</target> at WH greater than 80 % of the median at two consecutive weighings and at WH&amp;amp;gt;85 % of the median on one weighing after early November .
+2. Limiting side effects <target>occurred</target> in 6 and in 4 patients during Dobatro and Dipatro , including non-sustained ventricular tachycardia and short run of supraventricular tachycardia in the absence of myocardial ischemia .
+3. Merotelic attachments <target>occur</target> at high frequencies in the early stages of mitosis but most are corrected .
+16_HOW-S:
+1. Multiple annotations may also <target>occur</target> when the masses of two different metabolites lie both within the error range of the observed mass peak .
+2. Owing to the effects of wind and water , soil erosion <target>occurs</target> when natural vegetation is removed , unless minimum tillage or integrated crop &#195;&#162;&#194;&#128;&#194;&#147; livestock systems are used .
+3. Post-segregational host killing by an RM gene complex did not <target>occur</target> when a second RM gene complex within the cell shared the same sequence specificity ( Fig. 6C ) .
+5_AS-NP:
+1. In contrast , the macronuclear DNA <target>occurs</target> as short molecules , ranging from 400 bp to &#195;&#162;&#194;&#136;&#194;&#188;40 kb and averaging about 2.5 kb in length .
+2. These lectins <target>occur</target> as tetramers exhibiting a molecular mass of 50 kDa .
+3. Copper sulphides <target>occurred</target> as a minor insertion in the origin rock .
+24_NP:
+1. Preterm and cesarean section deliveries were found to <target>occur</target> approximately 4 times more frequently in women with higher Cd burdens ( urinary Cd &#195;&#162;&#194;&#137;&#194;&#165; 2 &#195;&#142;&#194;&#188;g/g creatinine ) than in those with lower Cd burdens ( urinary Cd &amp;amp;lt; 2 &#195;&#142;&#194;&#188;g/g creatinine ) .
+2. In the patient with preeclampsia and malignant hypertension , the transient visual obscurations that <target>occurred</target> some weeks before the stroke should not be classified as a TIA due to brain ischemia .
+3. This supports conclusions by others [ 20,21 ] that there is a large amount of transcription that <target>occurs</target> outside of annotated genes and also suggests that there is a significant amount of transcript diversity that is missed in the set of curated genes .
+21_ING-AC:
+1. Increases in hospital market power , as would <target>occur</target> following a merger , can lead to increases or decreases in risk-adjusted hospital mortality and the effect depends on hospital ownership as well as Medicare and Medi-Cal penetration .
+2. If D3 preferring agonists are potent autoreceptor agonists , then hypothetically long-term changes in expression of DAT or the functional properties of DAT might <target>occur</target> following subchronic treatment .
+3. It has been found to <target>occur</target> following an acute medical illness , a traumatic injury , or surgery [ 6 ] .
+49_NP-PP:
+1. Cougar Ã¢ÂÂ human conflicts increased along with public anxiety , particularly in Okanogan County , an area where apprehension about cougars runs deep Ã¢ÂÂ the state 's only recorded fatal attack on a human <target>occurred</target> here in 1924 .
+2. Because plasma-derived C1-inhibitor has a longer half-life and is a broader spectrum inhibitor , it has been assumed that such recurrences <target>occur</target> less frequently with C1-inhibitor therapy but that assumption awaits verification .
+107_SEEM-S:
+1. From a biological point of view , it can even <target>occur</target> that single ranges are not uniformly continuous .
+
+detect
+
+24_NP	224	0.925620
+49_NP-PP	8	0.033058
+87_PP	3	0.012397
+27_NP-ADVP	2	0.008264
+29_NP-AS-NP	2	0.008264
+41_NP-P-ING-SC	1	0.004132
+122_Comlex gap	1	0.004132
+36_NP-ING-SC	1	0.004132
+
+Examples
+24_NP:
+1. For THEP1 , we indeed <target>detected</target> 4 genomes where the THEP1-gene immediately is followed on the same strand by a COG1867 protein ( N2 , N2-dimethylguanosine tRNA methyltransferase ) .
+2. On a Western blot , the anti-SCC1 antibody <target>detects</target> a doublet of &#195;&#162;&#194;&#136;&#194;&#188;75 kDa in T. brucei whole-cell extracts and a single band at &#195;&#162;&#194;&#136;&#194;&#188;75 kDa when tested against recombinant SCC1 ( Fig. 6 ) .
+3. These analyses only <target>detected</target> weak but significant genetic differentiation , which followed an isolation-by-distance pattern according to Mantel test .
+49_NP-PP:
+1. For gene-gender interaction analysis , our study sample has power to <target>detect</target> only large differences in risk effects at p = 0.01 , for example 38 % power to detect a difference of HR = 1.0 versus HR = 1.8 for allele frequency of 0.4 .
+2. This sample will provide a more than 90 % chance of <target>detecting</target> this treatment difference at the 5 % level .
+3. The recruitment of 45 patients per group is aimed to achieve 80 % power of <target>detecting</target> a difference of 0.6 standard deviations ( SD ) at the 5 % significance level [ 42 ] .
+87_PP:
+1. It has been estimated that , in a Caucasian population , assessing 500,000 SNPs will <target>detect</target> around 80 % of the common genetic variation .
+2. Aselective genotyping approach <target>detected</target> between 6 and 9 QTL affecting germination rate under each of the four conditions , with a total of 14 QTL identified .
+3. Nested PCR can <target>detect</target> as few as 1-10 bacteria but is very sensitive to contamination , resulting in false positive results .
+27_NP-ADVP:
+1. We <target>detected</target> TCPy too infrequently in urine samples among women enrolled after 2002 to calculate the ICC .
+2. In particular , we assume that the PPC is first present in the plasma when we first <target>detect</target> it experimentally , whereas it may easily have been present in the patient much earlier .
+29_NP-AS-NP:
+1. In other words , given our experimental design and data quality , there is a 50 % chance of <target>detecting</target> a 1.51-fold expression difference as significant at the 5 % level .
+2. This software uses a maximum-likelihood approach to determine the non-synonymous to synonymous rate ratio ( ÃÂ ) , also designated Ka/Ks or dN/dS , a widely used measure to <target>detect</target> departures from neutrality as indicators of selective pressures on protein coding genes .
+41_NP-P-ING-SC:
+1. Only recently has it become possible to reliably <target>detect</target> protein phosphorylation by resolving the proteins of interest on a gel and submitting the gel to fluorescent phosphate specific dyes followed by a staining of total protein [ 7-11 ] .
+122_Comlex gap:
+1. We therefore estimated the necessary sample size for this reduction to be <target>detected</target> at the 5 % level with 80 % power .
+36_NP-ING-SC:
+1. We subsequently analyzed the selected regions in a pairwise manner to <target>detect</target> gene &#195;&#131;&#194;&#151; gene interactions influencing RA using a recently developed two-dimensional linkage method .
+
+develop
+
+24_NP	125	0.753012
+87_PP	12	0.072289
+22_INTRANS	5	0.030120
+49_NP-PP	5	0.030120
+53_NP-TO-INF-OC	5	0.030120
+31_NP-FOR-NP	4	0.024096
+54_NP-TO-INF-SC	3	0.018072
+16_HOW-S	3	0.018072
+3_ADVP	3	0.018072
+5_AS-NP	1	0.006024
+
+Examples
+24_NP:
+1. In this context , a classical inactivated vaccine inducing a good protection against CpHV-1 infection in goats was <target>developed</target> but was not licensed [ 21,22 ] . 
+2. The exterior physical elements associated with the liver system are relatively <target>developed</target> , whereas those associated with the lung system are relatively undeveloped . 
+3. The risk for <target>developing</target> acute organ failure was increased among subjects with DM in comparison with those without DM ( 2.4 % versus 0.7 % , p &amp;lt; 0.01 ) . 
+87_PP:
+1. They <target>developed</target> into neither solid nor leukemic tumors in native immunocompetent mice when injected s.c. , i.p. , or i.v . 
+2. Tumors <target>develop</target> in a very broad range of frequencies and after extremely variable periods of time , depending mainly on the virus type , but also on the viral strain , the host genetic background , exogenous cofactors , and combinations thereof . 
+3. Ulcerative skin lesions <target>developing</target> at the immunization sites were sprayed daily with disinfectant wound spray ( Acederm ) to prevent further contamination . 
+22_INTRANS:
+1. Microcytosis <target>develops</target> either prior to or along with any reduction in haemoglobin ( Hb ) levels [ 3,7 ] . 
+2. On day 22 , severe sepsis <target>developed</target> with middle lobe alveolar consolidation on the chest x-ray . 
+3. Left hemiplegiums <target>developed</target> in eight animals . 
+49_NP-PP:
+1. The coding framework <target>developed</target> from these discussions . 
+2. Athird patient <target>developed</target> a psoriasiform eruption on arms and legs after 16 months of adalimumab therapy . 
+3. Of these , 13 patients ( 27 % ) <target>developed</target> grade 3 or 4 hypomagnesemia during cetuximab therapy , with the incidence rising from 6 % among those treated for &amp;lt;3 months to 47 % in those treated &amp;gt;6 months . 
+53_NP-TO-INF-OC:
+1. From these data we <target>developed</target> a program to identify , for each image , the top and bottom of the breast ( that is , the minimum and maximum y coordinates ) and the chest wall and nipple ( that is , the minimum and maximum x coordinates ) . 
+2. We recently <target>developed</target> an array comparative genomic hybridization ( array-CGH ) tool to examine duplications of chromosome 15q [ 13 ] . 
+3. The National Institute of Environmental Health Sciences ( NIEHS ) Division of Extramural Research and Training <target>developed</target> a framework to measure the scientific and health impacts of its extramural asthma research to improve the scientific basis for reducing the health effects of asthma . 
+31_NP-FOR-NP:
+1. Nguyen et al [ 67 ] examined the use of two websites <target>developed</target> for people living with cancer &#226;&#128;&#148; the People Living with Cancer website from the American Society of Clinical Oncology and the Breast Cancer Info website from the Susan Komen Breast Cancer Foundation . 
+2. We <target>developed</target> a novel methodology for the identification and extraction of polysynaptic network activity and identified a temporally structured and recurrent network in LAd both in vitro and in the awake rat . 
+3. Nguyen et al [ 67 ] examined the use of two websites <target>developed</target> for people living with cancer &#226;&#128;&#148; the People Living with Cancer website from the American Society of Clinical Oncology and the Breast Cancer Info website from the Susan Komen Breast Cancer Foundation . 
+54_NP-TO-INF-SC:
+1. In a previous study [ 60 ] , we <target>developed</target> a similar model to understand the image factors driving the early EEG responses to complex visual objects , like faces . 
+2. We <target>developed</target> eGSA , a novel method based on regulatory events , to overcome such limitations. eGSA is insensitive to threshold bias and can provide more robust and precise results than IGA . 
+3. We <target>developed</target> a mathematical model to test the hypothesis that a small stockpile of a secondary antiviral drug could be used to mitigate the adverse consequences of the emergence of resistant strains . 
+16_HOW-S:
+1. Neuropathic pain that typically <target>develops</target> when peripheral nerves are damaged through surgery , bone compression in cancer , diabetes , or infection is a major factor causing impaired quality of life in millions of people worldwide . 
+2. Neuropathic pain that typically <target>develops</target> when peripheral nerves are damaged through surgery , bone compression in cancer , diabetes , or infection is a major factor causing impaired quality of life in millions of people worldwide . 
+3. Meningococcal sepsis in children <target>develops</target> when the initial host response to the infection becomes inappropriately amplified and dysregulated . 
+3_ADVP:
+1. The S form larvae <target>develop</target> faster than those of the M form in both habitats probably as a mechanism to avoid larval site desiccation . 
+2. The choroid plexus of the third ventricle , which <target>developed</target> slightly later , was also positive for Dab2 ( data not shown ) . 
+3. Ascidians <target>develop</target> rapidly ; many ascidians complete embryogenesis within 1 day . 
+5_AS-NP:
+1. Compactness reduced progressively ( Fig. 4 ) with increasing inoculum level and from compact pellets at 104 spores/ml inoculum the mycelium <target>develops</target> as free mycelial trees at 109 spores/ml inoculum . 
+
+perform
+
+24_NP	202	0.785992
+22_INTRANS	24	0.093385
+36_NP-ING-SC	22	0.085603
+49_NP-PP	6	0.023346
+41_NP-P-ING-SC	2	0.007782
+87_PP	1	0.003891
+
+Examples
+24_NP:
+1. As happens when a new treatment is introduced , the criteria to <target>perform</target> the intervention may change , because new variables should be considered in the decision making process , and some variables that previously were important are no longer so .
+2. KA <target>performed</target> haemodynamic measurements .
+3. To analyze whether the wild-type allele of NBS1 is lost in prostate cancer , we <target>performed</target> LOH analysis of microdissected prostate tumours from eight patients who carried the NBS1 mutation and from nine patients who were found not to carry the NBS1 mutation .
+22_INTRANS:
+1. Among the different clock relaxations , the CPP model <target>performed</target> most poorly and gave considerably younger ages for almost all nodes .
+2. Older participants <target>performed</target> significantly worse than the younger participants in all of the functional mobility tests ( p &amp;amp;lt; 0.001 ) , with the older women performing worse than the older men in all of the tests ( p &amp;amp;lt; 0.05 ) .
+3. As kernel smoothers fix the size of neighborhoods based on distance , kernels may <target>perform</target> worse than loess when data density varies greatly [ 5 ] , as population often does ( for example , the population of Upper Cape Cod ) .
+36_NP-ING-SC:
+1. We <target>performed</target> a comprehensive literature search using four computerized English and Indian scientific databases .
+2. Cardiac CT examinations were <target>performed</target> using the protocol and quality control procedures employed in the Multi-Ethnic Study of Atherosclerosis ( MESA ) and Coronary Artery Risk Development in Young Adults ( CARDIA ) [ 25 ] .
+3. The protocol consists of three steps : In the first step we <target>perform</target> a search using the PRED-CLASS algorithm [ 13 ] , with the aim of identifying and removing &#195;&#142;&#194;&#177;-helical membrane proteins .
+49_NP-PP:
+1. They <target>perform</target> this jump with assistance from the two proteins they code for , a transposase and a helper gene .
+2. In addition to the interactions in yeast , we <target>performed</target> co-immunoprecipitation experiments with epitope-tagged full-length proteins .
+3. We therefore <target>performed</target> IHC with a CD14-specific antibody .
+41_NP-P-ING-SC:
+1. In addition , we <target>performed</target> a Bonferroni correction for P-values calculated from Fisher 's exact test by using the p.adjust function in the package &amp;amp;raspsquo; stats ' of the statistical software R [ 111 ] .
+2. We <target>performed</target> a relative rate test [ 39 ] by using the MEGA 3.1 program package [ 40 ] for genes in those six blocks , but we did not observe any significant trend in the acceleration of substitutions in the lineages of the original and derived copies .
+87_PP:
+1. While it was true that high DH ( coupled with low DE ) proved diagnostic of regulators in general ( sensu [ 24],[27 ] ) , it <target>performed</target> poorly as a discriminatory metric with specific regard to myostatin ( Figure 8 ) .
+
+increase
+
+24_NP	86	0.558442
+22_INTRANS	36	0.233766
+49_NP-PP	12	0.077922
+95_PP-PP	9	0.058442
+87_PP	8	0.051948
+3_ADVP	3	0.019481
+
+Examples
+24_NP:
+1. GnRH also <target>increased</target> the total number of cells containing PRL mRNA within 40 h ( 118 ) , suggesting that new lactotrophs are recruited by differentiation of a progenitor cell type into PRL-expressing cells , rather than to a mitogenic action on pre-existing lactotrophs alone . 
+2. Furthermore , CSE dose-dependently <target>increased</target> the levels of 4-HNE in SAEC . 
+3. The number of cells expressing IL-15 is significantly <target>increased</target> in the bronchial mucosa from patients with Th1-mediated chronic inflammatory diseases of the lung such as sarcoidosis , tuberculosis , and COPD compared with asthmatic patients and normal subjects [ 235 ] . 
+22_INTRANS:
+1. The magnitude of promotion by the monophosphates <target>increased</target> as the number of unpaired nucleotides at the target site decreased . 
+2. Simulated acupuncture produced circumferential alignment of collagen fibers close to the needle that evolved into radial alignment as the distance from the needle <target>increased</target> , which generally matched observations from published tissue explant studies . 
+3. Baseline Penh values <target>increased</target> transiently on day 1 after RSV inoculation in both strains , decreased by day 2 , but continued to be significantly greater than in controls . 
+49_NP-PP:
+1. However , <target>increasing</target> the length of homology by up to 50 % for either RGT2 or CAT8 , while greatly <target>increasing</target> the Tm of the targeted region , only slightly <target>increases</target> the TGR efficiency . 
+2. The following morning the flow rate was <target>increased</target> to 1.2 &#194;&#181;l/min . 
+3. The following morning the flow rate was <target>increased</target> to 1.2 &#194;&#181;l/min . 
+95_PP-PP:
+1. Specifically , the average birth prevalence in the period after fortification <target>increased</target> slightly from 1.47 to 1.54 cases/1000 births , but remained below the birth prevalence in the period before fortification ( 1.64/1000 births ) . 
+2. In contrast , Rapamycin induced cell cycle arrest in activated splenic T cells where the percentage of cells in G1 phase <target>increased</target> from 56 to 77 % , while in S phase the portion of cells decreased from 33 to 10 % ( Fig. 7 ) . 
+3. MRE16-eGFP ( - ) RNA levels <target>increased</target> over the 7 day period , from an average of 276 copies per nanogram ( ng ) midgut RNA at 1 dpuses to 670 copies at 7 dpuses ( Figure 4C ) . 
+87_PP:
+1. The average accuracy per sequence for an Archaeal , Bacterial , Eukaryotic Nuclear , Chloroplast , and Mitochondrial sequence <target>increased</target> by 21%-41 % respectively ( Table 7 ) , and the largest <target>increase</target> for a single sequence ( 68 % ) was observed in the Mitochondrial dataset ( Table 7 ) . 
+2. Sixty-four days following this initial vaccination , the GMTs <target>increased</target> to 0.09 ( CI = 0.0509 &#226;&#128;&#147; 0.15693 ) and 0.27 IU/ml ( CI = 0.1213 &#226;&#128;&#147; 0.6018 ) for the treatment and control groups , respectively ( Figure 1C ) . 
+3. In GDNF-overexpressing animals , neuron number in L4/5 DRG <target>increases</target> by a quarter . 
+3_ADVP:
+1. The running time of these techniques all <target>increase</target> exponentially with k . 
+2. FN1 gene expression <target>increased</target> 2.5 fold following GFS ( Table 3 ) . 
+3. The proportion of cells in S-phase <target>increased</target> significantly ( by 1.8 &#226;&#128;&#147; 1.9 fold ) after exposure to both doses of ethanol , relative to controls ( Figure 2Buses ) . 
+
+treat
+
+24_NP	152	0.605578
+49_NP-PP	58	0.231076
+29_NP-AS-NP	33	0.131474
+27_NP-ADVP	4	0.015936
+39_NP-P-ING	2	0.007968
+22_INTRANS	1	0.003984
+3_ADVP	1	0.003984
+
+Examples
+24_NP:
+1. Techniques such as opening the dura and <target>treating</target> arachnoid scarring have been used before [ 5 ] .
+2. Cells were <target>treated</target> for 24 h with 1 &#195;&#142;&#194;&#188;M DOX , and cell free extracts , protein quantitation , and denaturation were as described previously [ 5 ] .
+3. The effectiveness of adalimumab for <target>treating</target> PsA was suggested based on results from a small open-label clinical trial ( Ritchlin et al 2004 ) and recently verified in a larger , randomized , double-blind , placebo-controlled study ( ADEPT ) ( Mease , Gladman , Ritchlin , 2005 ) .
+49_NP-PP:
+1. Since cirsiliol was the only metabolite that had been identified in our analysis , we <target>treated</target> MDA-MB-468 cells with this compound for 30 and 48 hours and then examined the cell cycle by using flow cytometry .
+2. We <target>treated</target> wild-type and XPD deficient cells with psoralen/UVA in early G1 phase , and then measured the introduction of DNA breaks into genomic DNA by comet assay .
+3. Adeletion mutant was constructed according to our previous method.10 Briefly , we <target>treated</target> the vector DNA with UV and electroporated M. tuberculosis to generate a single cross-over strain.11 This strain was streaked out without antibiotics and double cross-overs selected and screened on 2 % w/v sucrose and 50 &#195;&#142;&#194;&#188;g/ml X-gal .
+29_NP-AS-NP:
+1. Atechnique that allows us to <target>treat</target> the ECM as a mesh-like shell around each cell while also accounting for the effects of those ECS molecules that are not associated with a cell is to use a finite-sized diffusing particle in our first-passage-time simulations .
+2. Clearly , the time has arrived to promote a compassionate model for <target>treating</target> patients ' physical and emotional needs as a vital part of our health care systems .
+3. If a gene name was found as a single token inside brackets , then we <target>treated</target> it as an abbreviation and tried to resolve it to its long form in the preceding text .
+27_NP-ADVP:
+1. Indeed , all the late deaths in our cohort were not related to the SG procedure ; in order to reduce mortality and morbidity rates , careful selection criteria must be followed when <target>treating</target> patients endovascularly : using objective criteria could help in selecting patients for endovascular treatment [ 13 ] .
+2. We must create pay schedules that encourage people to enter this professional field , and <target>treat</target> them accordingly .
+3. These findings make the differentiation between primary and secondary prevention in individuals with diabetes almost irrelevant and suggest the need for <target>treating</target> cardiovascular risk factors aggressively .
+39_NP-P-ING:
+1. In case of DNA contamination , RNAs were DNAse <target>treated</target> using the TURBO DNA-free&#195;&#130;&#194;&#174; Kit ( Ambion , Austin , TX , USA ) . cDNA was transcribed with random hexamers and 1 &#195;&#142;&#194;&#188;g total RNA using M-MLV reverse transcriptase ( Promega ) .
+2. Statistical analysis of the secondary outcome measures IPAQ , TSK , WOMAC , SF-12 , EQ-5D will also be based on an intention to <target>treat</target> analysis using repeated measures ANCOVA .
+22_INTRANS:
+1. The effect of the risk assessment tool will be expressed as relative risk , difference in absolute risk , and number needed to <target>treat</target> .
+3_ADVP:
+1. In [ 8 ] , [ 9 ] , although they consider the emergence of an antiviral drug-resistant virus , a similar tendency ( increasing the treatment level increases the final size of the epidemic ) was obtained through complex models that are difficult to <target>treat</target> mathematically .
+
+analyze
+
+24_NP	188	0.810345
+49_NP-PP	23	0.099138
+41_NP-P-ING-SC	14	0.060345
+36_NP-ING-SC	2	0.008621
+122_Comlex gap	2	0.008621
+109_THAT-S	1	0.004310
+95_PP-PP	1	0.004310
+29_NP-AS-NP	1	0.004310
+
+Examples
+24_NP:
+1. The second batch contained 20 samples whose categorization ( wild or farmed ) was not disclosed to the team <target>analyzing</target> the fatty acid composition . 
+2. We <target>analyzed</target> the two recombinant strains of HCV that were available until mid-2005 , the 1b/2k St Petersburg recombinants ( AY587845 , [ 22 ] ) and an artificial 1a/2a recombinant ( AF177037 , [ 39 ] ) . 
+3. Weinel et al. [ 16 ] <target>analyzed</target> the di-nucleotide usage and the tetra-nucleotide usage in sliding windows and compared them with the di-nucleotide usage of the whole genome and uniform tetra-nucleotide usage respectively . 
+49_NP-PP:
+1. One sample containing 4 ml of blood was collected in a test tube containing EDTA ( VacuetteÂ® 454209 ) and <target>analyzed</target> for total leukocyte differential count on a cell counter ( Beckman Coulter LH750 , Marseille , France ) . 
+2. We <target>analyzed</target> selected strains representative of dominant clones from the 2002 study by multilocus sequence typing . 
+3. Therefore we <target>analyzed</target> hES cell derived macrophages for the presence of characteristic cell surface markers and compared these to the phenotypic profile displayed on fetal CD34 cell derived macrophages . 
+41_NP-P-ING-SC:
+1. We also <target>analyzed</target> the combined Ourisia AFLP dataset using PCO-MC , a recently published method [ 65 ] which couples principal coordinate analysis ( PCO ) with a clustering procedure to determine significant population structure . 
+2. Here , for the first time , we <target>analyzed</target> the complicated protein interaction networks using the spectral analysis method . 
+3. We <target>analyzed</target> correlations between categorical variables using the &#207;&#135;2 or Fisher 's exact test . 
+36_NP-ING-SC:
+1. In these experiments , we <target>analysed</target> Ubx expression in imaginal discs from lid12367 or lid10403 mutant larvae by immunostaining with specific &#206;&#177;Ubx antibodies ( 42 ) . 
+2. Thus , a titration with a constant amount of DNA and an increasing amount of C protein was performed for each repressor-operator system , and the percent shifted DNA for each C repressor was quantified and <target>analyzed</target> by plotting the amount of shifted DNA against the protein concentrations ( Figure 4A &#226;&#128;&#147; C ) . 
+122_Comlex gap:
+1. In parallel , aliquots of induced cells were disrupted with glass beads , fractionated on sucrose gradients , and the fractions were <target>analysed</target> by western immunobloting for the presence of Sit1-GFP and markers of several compartments ( Figure 4B ) . 
+2. To more specifically examine nuclear protein levels , nuclear lysates were prepared from cells following serum stimulation and <target>analyzed</target> for hMYH protein levels by western blot analyses . 
+109_THAT-S:
+1. In other words , we <target>analysed</target> that doctors construct ethnic identities . 
+95_PP-PP:
+1. Subsequently , we <target>analyzed</target> by immunofluorescence microscopy both HCT-STK15 and HCT-p53KO-STK15 cells to determine if ectopic overexpression of Aurora-A/STK15 was able to induce extra centrosomes ( figure 3-C ) . 
+29_NP-AS-NP:
+1. We also <target>analyzed</target> the linearized form of the plasmid ( L ) as a control . 
+
+cause
+
+24_NP	166	0.912088
+53_NP-TO-INF-OC	12	0.065934
+49_NP-PP	4	0.021978
+
+Examples
+24_NP:
+1. Since some genetic or environmental perturbations often <target>cause</target> a significant change in gene expression , a network-based flux analysis requires considering not only pathway architectures but also the proteins or mRNA transcripts to predict a flux distribution . 
+2. The modifying effect of GSTM1 for the association of SHS with HRV suggests that these exposures <target>cause</target> systemic oxidative stress that is being scavenged by GSTM1 in the liver . 
+3. In this study , we analyze the histological changes <target>caused</target> by catheter balloon injury and the potential effects of rosiglitazone on a vessel distant from the injury site . 
+53_NP-TO-INF-OC:
+1. Instead , stimulation <target>caused</target> animals to perform one sequence more often than the other , resulting in a bias . 
+2. Aduplication event within a lineage <target>causes</target> an orthologous group to be split into two groups , which we call here sub-orthologous groups ' . 
+3. Clinic visits for these purposes <target>cause</target> patients to deviate from their normal activities and prevent them from pursuing their normal life activities . 
+49_NP-PP:
+1. When a metastatic tumour <target>causes</target> a syndrome by hormonal overproduction ( i.e. carcinoid syndrome , hypergastrinaemia ) , treatment with somatostatin analogues results in symptomatic relief in most cases . 
+2. The phenotypes <target>caused</target> by the expression of ArmS10 in the absence of Notch lend support to the observation that both proteins interact and that in normal conditions Notch can downregulate both the amount and the activity of Arm [ 43],[48 ] &#226;&#128;&#147; [ 50 ] . 
+3. However , the growth rates of mock-treated cells and cells treated with the antisense oligomers were comparable , indicating that these compounds do not <target>cause</target> cytotoxicity at the concentrations tested . 
+
+mutate
+
+24_NP	73	0.553030
+49_NP-PP	46	0.348485
+22_INTRANS	10	0.075758
+87_PP	2	0.015152
+3_ADVP	1	0.007576
+
+Examples
+24_NP:
+1. However , the observation of similar methylation by constructs specifically <target>mutated</target> so as not to express a functional targeted methyltransferase suggested that internal transcription and/or translation occurred from vectors coding for the targeted enzymes in E.coli . 
+2. To examine this , Tyr134 , a key residue contributed by GD1 to this interface ( Figure 4A ) , was <target>mutated</target> ( see Figure S2 , Supplementary Material ) . 
+3. ODA increased significantly to 5.67Â±1.83 ( p&lt;0.0001 ) and 5.73Â±2.10 ( p&lt;0.002 ) in DNAI1-mutated HAECS treated with pK-DNAI1 and pK-HA , respectively . 
+49_NP-PP:
+1. The absence of CD change of the Gal repressor complex with DNA <target>mutated</target> at the 8,8 base pairs suggest that the central G-C base pairs are required for the repressor induced conformational change . 
+2. The absence of CD change of the Gal repressor complex with DNA <target>mutated</target> at the 8,8 base pairs suggest that the central G-C base pairs are required for the repressor induced conformational change . 
+3. We also generated mutant constructs for PrP-1 and PrP-2 in which the putative N-glycosylation residues were point <target>mutated</target> to glutamine . 
+22_INTRANS:
+1. The high propensity to <target>mutate</target> of some of the ITGB2 gene codons , where de novo and recurrent mutations occurred , argues in favor of these sites being potential mutational &#226;&#128;&#156; Hot spots . " 
+2. ATM= ataxia-telangiectasiums <target>mutated</target> ; ATR = ataxia-telangiectasia-_NN1 and Rad3-related ; CSGE = conformation sensitive gel electrophoresis ; ESE = exonic splicing enhancer ; FA = Fanconi anemia . 
+3. We compared TPA characteristics to the characteristics of two other groupings : ( i ) known human protein-coding genes with orthologs in rhesus monkey ; ( ii ) populations of simulated sequences that are randomly <target>mutating</target> without coding-sequence selection pressures . 
+87_PP:
+1. Certain amino acids in the HA1 of human H1N1 viruses <target>mutate</target> at positively selected codons , giving rise to new viral lineages . 
+2. Hence , Sna3p-6HA <target>mutated</target> or not on its Lys residues was an appropriate tool for our purpose . 
+3_ADVP:
+1. Because microsatellites <target>mutate</target> quickly and the mutation takes the form of polymorphic lengths , and the mismatch rate and intron length of orphan genes are significantly different from nonorphan genes , it seems reasonable to associate the fast mutation rate of orphan genes with microsatellites . 
+
+associate
+
+49_NP-PP	216	0.892562
+87_PP	22	0.090909
+24_NP	2	0.008264
+23_INTRANS-RECIP(SUBJ-PL	2	0.008264
+
+Examples
+49_NP-PP:
+1. Next , we compared the localization of CFP-lysosomal <target>associated</target> membrane protein 1 ( Lamp1 ) , a marker membrane protein for late endosomes and lysosomes , with GFP-Rab21 in co-transfected RAW264 cells . 
+2. Examination of cerebral blood flow changes <target>associated</target> with pitch naming minus baseline in the AP automatic template group confirmed the same significant activation peak in the posterior extent of the left superior temporal gyrus ( &#226;&#136;&#146;61 , &#226;&#136;&#146;31 , 5 ) with no <target>associated</target> changes in right frontal pitch working memory structures . 
+3. For the first link , the Î´-induced conformational changes in R176-Î² , as discussed in the previous section , may be relaid to F144-Î² and S145-Î² â two residues that pack up against R176-Î² ( Fig. 7A and B ) and that correspond to the domain 2-specific conserved pattern [ FY]-[SA ] <target>associated</target> with motif A2 ( Fig. 3B ) . 
+87_PP:
+1. The DNA fragment containing an altered porcine TGFÎ²1 cDNA <target>associated</target> with an albumin promoter to ensure the preferential expression of the active form of TGF&#206;&#178;1 from the liver , with resultant high circulating levels [ 18 ] . 
+2. The luminal domain of US6 <target>associated</target> with TAP [ 10 ] &#226;&#128;&#147; [ 12 ] , and under our experimental conditions , we did not detect the association of UL18 with US6 . 
+3. The luminal domain of US6 <target>associated</target> with TAP [ 10 ] &#226;&#128;&#147; [ 12 ] , and under our experimental conditions , we did not detect the association of UL18 with US6 . 
+24_NP:
+1. The study compares two adjuvant treatments <target>associating</target> concomitant chemotherapy and radiotherapy . 
+2. The study compares two adjuvant treatments <target>associating</target> concomitant chemotherapy and radiotherapy . 
+23_INTRANS-RECIP(SUBJ-PL:
+1. SMAR1 and Cux physically <target>associate</target> , and the RS-rich region is sufficient for maximum interaction . 
+2. These two core proteins <target>associate</target> independently of each other with Cbf5 in the absence of RNA , forming a core heterotrimer . 
+
+express
+
+24_NP	227	0.883268
+49_NP-PP	10	0.038911
+29_NP-AS-NP	9	0.035019
+22_INTRANS	6	0.023346
+27_NP-ADVP	5	0.019455
+
+Examples
+24_NP:
+1. No G418 resistant clones were recovered from the clone ( Table 1 ) <target>expressing</target> the native integrase indicating that the background of integration of the attPneo into the host genome is undetectable .
+2. Investigations of OR ligand specificity have been challenging due to the difficulty of <target>expressing</target> ORs in heterologous cells .
+3. Indeed a virus <target>expressing</target> the PB1-F2 was found to have an increased virulence when compared to a knockout virus lacking the alternate reading frame .
+49_NP-PP:
+1. This was accomplished by generating Trspfl/fl mice <target>expressing</target> the Cre recombinase under the control of the Col2a1 gene promoter in order to obtain Trsp deletions in osteo-chondroprogenitors [ 19],[20 ] .
+2. Throughout the entire study HtTA-1 cells were used , which constitutively <target>expressed</target> tTA at a concentration level which allowed systematic comparison of various inducible vectors ( Gossen and Bujard , 1992 ) .
+3. This is <target>expressed</target> in a general relative deviation of &amp;amp;gt;150 % over the whole range of ranks indicating that non-normalised data sets cannot be compared .
+29_NP-AS-NP:
+1. Consequently , we opted to <target>express</target> the flux of NO released from the cell as the current generated by oxidation of NO to NO+ at the sensor surface .
+2. As expected from the results presented in Fig. 5B , the ÃÂ²-galactosidase activity measured in the respective yeast clones was considerably lower compared to the corresponding yeast clones <target>expressing</target> wild-type TPI as bait .
+3. Hence , we <target>express</target> the cumulative internalized ligand as a percentage of the total amount of ligand initially added to the system .
+22_INTRANS:
+1. However , it is not conclusive that these genes do not <target>express</target> relying solely on the absence of their EST clones .
+2. Binding sites for HNF1ÃÂ± have been shown in the promoters or enhancers of genes that <target>express</target> almost exclusively in liver , such as albumin ( ALB ) , &#195;&#142;&#194;&#177;-fetoprotein ( AFP ) , &#195;&#142;&#194;&#177;-fibrinogen ( FGA ) , &#195;&#142;&#194;&#177;1-antitrypsin ( A1AT ) , transthyretin ( TTR ) and aldolase B ( ALDOB ) ( 3 &#195;&#162;&#194;&#128;&#194;&#147; 6 ) .
+3. This may explain why all the genes analyzed in our study were found to be <target>expressing</target> in the germline .
+27_NP-ADVP:
+1. Fibroblasts <target>expressing</target> the selecting MHC alone did not induce positiveselection ; however , together with nonselecting stroma and nominal peptide , there was inefficientpositive .
+2. Expression of the RhoGAP7/DLC-1 Ã¢ÂÂ GFP fusion protein induced the formation of podosomes in &amp;gt;50 % of the ERK5Ã¢ÂÂ/Ã¢ÂÂ ts-v-Src cells compared with &amp;lt;5 % in cells <target>expressing</target> GFP alone ( Fig. 9 , A and B ) .
+3. As stated in Methods , we considered only those genes <target>expressed</target> more than 2-fold above control at minimally one time point .
+
+modify
+
+24_NP	137	0.883871
+49_NP-PP	11	0.070968
+53_NP-TO-INF-OC	6	0.038710
+22_INTRANS	1	0.006452
+
+Examples
+24_NP:
+1. Its algorithms analyze colors in a grid , the grid point parameters being <target>modified</target> according to the signals transmitted to and from the brain and recorded in the internal matrix . 
+2. Thus , a C5-urocanic acid <target>modified</target> allylamino dUTP analogue 1 , a compound described earlier by Sakthivel and Barbas ( 39 ) and the 7-aminopropynyl <target>modified</target> 7-deaza-dATP analogue 2 ( 36 ) ( Fig. 1 ) were chosen . 
+3. For this reason , we <target>modify</target> our previous model as described next . 
+49_NP-PP:
+1. Amolecular beacon probe ( 23 ) , <target>modified</target> for detection of RCA products ( 24 ) ( see Supplementary Data Table 2 ) , was used to follow the accumulation of RCA products on microarrays during replication . 
+2. For the Golden Syrian hamsters , a procedure <target>modified</target> from [ 15 ] was used . 
+3. Amolecular beacon probe ( 23 ) , <target>modified</target> for detection of RCA products ( 24 ) ( see Supplementary Data Table 2 ) , was used to follow the accumulation of RCA products on microarrays during replication . 
+53_NP-TO-INF-OC:
+1. We <target>modified</target> search phrases to exclude the limit of " United States " for the other electronic databases because that specification was too restrictive . 
+2. We <target>modified</target> the target sequence to destabilise its secondary conformation to assist interactions with oligonucleotides probes . 
+3. For this we <target>modified</target> our script to bin the input sequence , tally each class of TA site , sum their relative weights using the preferences in Table 1 as coefficients and generate a &#226;&#128;&#152; Total Vstep score &amp;rasprsquo; for each bin . 
+22_INTRANS:
+1. In contrast , the genes <target>modified</target> only after estradiol treatment or only after Wnt3a treatment that presented no significant differences between A and B were discarded . 
+
+induce
+
+24_NP	227	0.934156
+49_NP-PP	14	0.057613
+53_NP-TO-INF-OC	2	0.008230
+
+Examples
+24_NP:
+1. The chemotherapy <target>induced</target> expression of T-cell receptor complex genes could reflect aberrant gene expression of leukemic blasts , mirroring the flexible pattern of gene expression observed in pluripotent hematopoietic stem cells [ 47 ] . 
+2. 0The stimulation of human lymphocytes with phytohaemoagglutinin <target>induces</target> the appearance or increase of several enzymes of DNA metabolism [ Pedrini etal. , Biochem . 
+3. The initial level of damage <target>induced</target> by the UV-treatment was estimated as the percentage of radioactivity present in the bands corresponding to damaged DNA in relation to the sum of all the fragments , damaged plus undamaged , in the 0-sample . 
+49_NP-PP:
+1. Briefly , a P. pastoris clone expressing hepcidin25 with a His-tag at its C-terminal was grown for 24 h at 30Â°C and then <target>induced</target> for 3 days by methanol 0.5 % , as described in [ 25 ] . 
+2. An activated form of Src64B <target>induces</target> Draf target genes in the absence of RTK or Ras in vivo , and associates with and phosphorylates Draf . 
+3. Recruiting of U1 snRNA modified to be complementary to the sequence created by the GTAA deletion in the ATM ISPE <target>induced</target> normal pre-mRNA processing by inhibiting cryptic exon inclusion ( 9 ) . 
+53_NP-TO-INF-OC:
+1. TNF-Î± <target>induced</target> IL-6 and IL-8 mRNA 2- to 3-fold at 1 h in NCI-H292 cells in MEM-A+ . 
+2. However , certain agonists that <target>induced</target> growth arrests of these cells did not <target>induce</target> SMRT to dissociate from PPAR&#206;&#179; , suggesting that this nuclear hormone receptor may use numerous mechanisms to inhibit multiple myeloma cell growth . 
+
+produce
+
+24_NP	229	0.905138
+49_NP-PP	22	0.086957
+3_ADVP	1	0.003953
+87_PP	1	0.003953
+
+Examples
+24_NP:
+1. Some local factors <target>produced</target> by subchondral bone osteoblasts , such as alkaline phosphatase , osteocalcin , plasminogen activator/plasmin and IGF-1 systems , and , were cytokines such as IL-6 , as well as PGE2 and TGF-&#206;&#178; shown to be associated with osteoarthritis progression . 
+2. The forward ( b-actin-F , 5â²- CATCCTCACCCTGAAGTACCC-3â² ) and reverse ( b-actin-R , 5â²- GAGAAGATGACCCAGATCATGTTT-3â² ) primers <target>produce</target> a 184-bp product that spans the boundary of exons 3 and 4 . 
+3. However , the standard drug <target>produced</target> a greater increase in thse parameters . 
+49_NP-PP:
+1. These digestions <target>produced</target> two terminus-derived fragments and one internal fragment from the full-length product ( Fig. 2A ) . pSVO11-2K <target>produced</target> those three fragments with the expected sizes . 
+2. One sequencing reaction <target>produces</target> information for tens of RNA molecules . 
+3. Within the network modules ( groups of high connectivity genes within the network ) <target>produced</target> by the different datasets for gene ontology enrichment , 3 distinct modules that were common to the 3 different data sets were detected ( Table 1 and Figure 6 ) . 
+3_ADVP:
+1. M<target>produced</target> alone , F <target>produced</target> with G , or the combination of N , M , F and G were expressed in cells , metabolically labeled , and the culture supernatants were harvested and layered onto 5 &#226;&#128;&#147; 45 % continuous sucrose gradients . 
+87_PP:
+1. M<target>produced</target> alone , F <target>produced</target> with G , or the combination of N , M , F and G were expressed in cells , metabolically labeled , and the culture supernatants were harvested and layered onto 5 &#226;&#128;&#147; 45 % continuous sucrose gradients . 
+
+generate
+
+24_NP	212	0.876033
+49_NP-PP	14	0.057851
+36_NP-ING-SC	8	0.033058
+41_NP-P-ING-SC	3	0.012397
+31_NP-FOR-NP	2	0.008264
+87_PP	2	0.008264
+29_NP-AS-NP	1	0.004132
+
+Examples
+24_NP:
+1. To <target>generate</target> libraries , DNA derived from tumour was used as tester and from normal DNA as driver , as illustrated in Figure 2 .
+2. Although gene replacement of a single allele of TbCK1.2 with either PAC or HYG to <target>generate</target> &#195;&#142;&#194;&#148;TbCK1.2::PAC or &#195;&#142;&#194;&#148;TbCK1.1::HYG single knockout cell lines was successful , the replacement of the second allele failed .
+3. Parallel regulation and rapid serial response of downstream genes are both capable of <target>generating</target> coordinated expression patterns in the absence of coordinate regulation .
+49_NP-PP:
+1. Future research should seek to apply better tools for the assessment of physical activity and <target>generate</target> a clearer understanding of the biological basis for physical activity recommendations through classical &#195;&#162;&#194;&#128;&#194;&#152; dose-response &amp;amp;rasprsquo; experiments .
+2. Total RNA from venous blood is isolated that is used to <target>generate</target> cDNAs by poly-A and random priming reverse transcription .
+3. Primer3 [ 37 ] was used to <target>generate</target> primers from these targeting an area +/- 200 bp around the probe of interest , with a target amplicon length of 450 &#195;&#162;&#194;&#128;&#194;&#147; 500 bp .
+36_NP-ING-SC:
+1. IL-17RÃ¢ÂÂ/Ã¢ÂÂ mice obtained from Amgen were used to <target>generate</target> MEFs using standard approaches .
+2. We <target>generated</target> a transposon ( Tn ) mutant library using Tn4351 from B. fragilis [ 15],[16 ] and isolated a clone that was unable to grow in the presence of J774.1 cells , but grew normally on blood agar plates .
+3. To generate the " cross-plot " graph PSSMs were <target>generated</target> with S-helix , B-Zip , Myosin Tail domain and the DHp domain using PSI-BLAST search against nr .
+41_NP-P-ING-SC:
+1. We have simulated HIV populations of different diversities and then <target>generated</target> reads from these populations by simulating the pyrosequencing procedure with various error rates and coverage depths .
+2. SNAD users can initiate refining of any of the provided templates ( by using " Refine name template " option ) or <target>generate</target> de novo templates by choosing " User defined " template that automatically activates the refining mode .
+3. After this , we <target>generate</target> 1,000 permuted data sets for each simulated data set by shuffling the disease labels .
+31_NP-FOR-NP:
+1. To study gene expression involved in Ich pathogenesis and virulence , our goal was to <target>generate</target> expressed sequence tags ( ESTs ) for the development of a powerful microarray platform for the analysis of global gene expression in this species .
+2. Using both the sequenced and unsequenced strains , we have <target>generated</target> a process for bacterial CGH microarray data analysis , as shown in Figure 1 .
+87_PP:
+1. As an estimate of the subject 's general capability to retrieve information from long term memory we used a Ã¢ÂÂ word fluency task " [ 38 ] where subjects had to <target>generate</target> and write down as many words starting with a certain letter ( &#195;&#162;&#194;&#128;&#194;&#156; M " or &#195;&#162;&#194;&#128;&#194;&#156; P " ) as they could within two minutes .
+2. This is because the number of random samples one can practically <target>generate</target> with available computer resources limits the smallest p-value .
+29_NP-AS-NP:
+1. One possible way to address this problem would be to follow Zhang and Gish [ 18 ] , who report using topComboN = 4 to <target>generate</target> multiple combinations of high-scoring segment pairs ( HSPs ) as seed alignments for their cDNA-to-genome alignment program , EXALIN .
+
+improve
+
+24_NP	192	0.771084
+22_INTRANS	22	0.088353
+3_ADVP	10	0.040161
+41_NP-P-ING-SC	10	0.040161
+87_PP	8	0.032129
+49_NP-PP	3	0.012048
+122_Comlex gap	2	0.008032
+16_HOW-S	1	0.004016
+36_NP-ING-SC	1	0.004016
+
+Examples
+24_NP:
+1. Finally , an intervention may simply <target>improve</target> disease status during the time it is administered ( Figure 1D ) , thus providing no durable benefit after it is stopped .
+2. However , it should be noted that it has not been firmly established that improving glycemia per se can significantly <target>improve</target> macrovascular outcomes in type 2 diabetes , although data from the United Kingdom Prospective Diabetes Study ( UKPDS ) suggest a trend ( UKPDS33 1998 ; Stratton et al 2000 ) .
+3. Investigation and validation of treatment strategies which will <target>improve</target> adherence to viral hepatitis drug therapy are required to ensure that individuals who use injection drugs or other substances of abuse derive the maximal possible benefits from current viral hepatitis therapies .
+22_INTRANS:
+1. After an initial learning curve , accuracy of diagnosis has <target>improved</target> dramatically .
+2. Work organization often <target>improved</target> as a result of the Fellows ' example .
+3. Accordingly , there is limited information on whether the incidence of AKI in the ICU has changed significantly over time and there is considerable controversy on whether its outcome has <target>improved</target> [ 22,23 ] .
+3_ADVP:
+1. Though all experimental groups demonstrated an equal reduction in total cholesterol , it may be relevant that ratios of LDL cholesterol to HDL cholesterol <target>improved</target> more in the soy group .
+2. At 6-month , 1-year , and 4-year follow-up , the patients ' status <target>improved</target> significantly ( P &amp;amp;lt; 0.05 ) compared with preoperative findings .
+3. Although HE <target>improved</target> significantly in the MARS group compared to control ( p &amp;amp;lt; 0.05 ) , there were no statistically significant differences in cytokines , ammonia , malondialdehyde ( marker of oxidative stress ) , or nitric oxide levels .
+41_NP-P-ING-SC:
+1. Since early defibrillation <target>improves</target> outcome by decreasing morbidity and mortality , the use of this device should improve the outcome of in-hospital cardiac arrest victims .
+2. It can <target>improve</target> the validity of the point estimate by removing bias , but the fact that measurement error is present and that its magnitude must be estimated from the validation study limit the power of the analysis .
+3. We previously reported an example of <target>improving</target> catalysis by reducing one energy barrier to the transition state [ 19 ] , [ 42 ] , which led to the development of a butyrylcholinesterase mutant as an effective cocaine hydrolase with clinical potential for treating cocaine overdose [ 43 ] .
+87_PP:
+1. At least PTS2 prediction methods , including ours will not <target>improve</target> by simply amending algorithms .
+2. In spontaneously hypertensive rats , reduced cerebral blood flow has been shown to correlate with carotid IMT that <target>improves</target> with long-term antihypertensive treatment [ 45 ] .
+3. In TRC2 ( Figure 2 ) , Iset fails to <target>improve</target> over Median , whereas the performances of the other four normalization methods ( CyclicLoess , Quantile , Qspline , and Median ) are similar .
+49_NP-PP:
+1. Computer applications have been used to <target>improve</target> asthma control by improving patient education [ 16,17 ] , disease monitoring [ 18,19 ] , and by prompting physicians to practise guideline-concordant care [ 20-22 ] .
+2. Bacterial artificial chromosome clone arrays have now <target>improved</target> the resolution to &amp;amp;lt;100 kb .
+3. The finding in this study also demonstrated that it is possible to remarkably <target>improve</target> mothers'/caregivers ' adherence to chloroquine treatment for children through provision of health education by trained lay people in the community and distribution of treatment guideline .
+122_Comlex gap:
+1. Then , in patients previously exposed to interferon ( n = 903 ) , Escudier et al. showed that , as compared with placebo , sorafenib <target>improves</target> median pfs to 5.5 months from 2.8 months ( hr : 0.44 ; p &amp;amp;lt; 0.001 ) 2 .
+2. Substrate modification <target>improved</target> the clinical outcome from 67 % to 86 % .
+16_HOW-S:
+1. Accuracy of the model did not <target>improve</target> when the group was divided at different intervals ( risk quartiles , risk deciles ) or after adjustment for use of antihypertensive medication ( data not shown ) .
+36_NP-ING-SC:
+1. We are confident that we can <target>improve</target> prediction performance using larger datasets with more replicates .
+
+inhibit
+
+24_NP	189	0.883178
+49_NP-PP	13	0.060748
+41_NP-P-ING-SC	7	0.032710
+27_NP-ADVP	2	0.009346
+29_NP-AS-NP	1	0.004673
+36_NP-ING-SC	1	0.004673
+87_PP	1	0.004673
+
+Examples
+24_NP:
+1. These ODNs were tested , both individually and in combination , for their ability to bind to tRNALys3 and to <target>inhibit</target> synthesis of ( &#195;&#162;&#194;&#128;&#194;&#147; ) strand ssDNA .
+2. CsA specifically <target>inhibits</target> calcineurin and by that affects downstream signaling and the activation of the transcription factors of the NFAT-family .
+3. These complexes phosphorylate a certain number of proteins , either activating or <target>inhibiting</target> them .
+49_NP-PP:
+1. Quercetin simultaneously did not affect the IK1 to a significant extent ( by Ã¢ÂÂ¼10 Ã¢ÂÂ 15 % ) at low concentrations , but at 3 ÃÂ¼M <target>inhibited</target> the IK1 by 12.4 &#195;&#130;&#194;&#177; 2.1 % ( n = 8 , P &amp;amp;lt; 0.05 ) .
+2. One class of these short RNAs , microRNAs ( miRNAs ) , <target>inhibits</target> gene expression through specific base-paring with target mRNAs .
+3. In this model , TGF-ÃÂ² <target>inhibits</target> branching through the inhibition of HGF expression in the periductal stroma ( reviewed in this issue ) .
+41_NP-P-ING-SC:
+1. Tetracycline potently <target>inhibits</target> bacterial protein synthesis by blocking the entry of aminoacylated tRNA into the A site of the 70S ribosome ( 19 ) .
+2. The antitumor affects of anthracyclines are attributed to the ability of the molecules to <target>inhibit</target> topoisomerase by intercalating DNA , and the specifics of this interaction are very well-characterized ( 24 &#195;&#162;&#194;&#128;&#194;&#147; 32 ) .
+3. Recently it was discovered that YopJ is an acetyltransferase that <target>inhibits</target> the activation of these kinases by modifying serine and/or threonine residues in the activation loop thereby preventing their modification by phosphorylation [ 9 ] , [ 10 ] .
+27_NP-ADVP:
+1. Clone 3 <target>inhibited</target> SOD2 expression the most , followed by clones 5 and 4 .
+2. One has to anticipate that NSC23766 <target>inhibits</target> Yersinia triggered Rac1 activation only partially and in a GEF specific manner which has to be proven in future studies .
+29_NP-AS-NP:
+1. MDM2 is an oncogene and the MDM2 oncoprotein binds to the p53 protein , <target>inhibiting</target> p53's function as a transcription factor and inducing its degradation .
+36_NP-ING-SC:
+1. We picked the 75 top differentially expressed genes ranked using the SAM software package , <target>inhibited</target> their functions using RNAi and measured lifespan .
+87_PP:
+1. This scrambled 14mer ( at 15 ÃÂ¼M ) <target>inhibited</target> to a similar degree as the same concentration of 14-merChio , and it inhibited less than the 14-merChi+ ( data not shown ) .
+
+contain
+
+24_NP	255	0.988372
+87_PP	3	0.011628
+
+Examples
+24_NP:
+1. The ceramide/sphingolipid internal standard mixture ( LM6002 ) , which <target>contains</target> a mixture of 10 sphingolipids , each present at a concentration of 25 &#206;&#188;M , was purchased from Avanti Polar Lipids , Inc . 
+2. For this purpose , three structurally distinct substrates <target>containing</target> a nicked duplex , a fork-structure and a 1 nt gapped flap were used . 
+3. ADNA probe <target>containing</target> the binding site for NF&#206;&#186;B was constructed using the following primers : 5&#226;&#128;&#178;-GCC ATG GGG GGA TCC CCG AAG TCC-3&#226;&#128;&#178; and the reverse primer 5&#226;&#128;&#178;-GGA CTT CGG GGA TCC CCC CAT GGC-3&#226;&#128;&#178; . 
+87_PP:
+1. However , all <target>contain</target> between 1 and 5 GH18 domains while only a subset <target>contain</target> CH14 domains . 
+2. The model predicts that the NTHi supragenome <target>contains</target> between 4,425 and 6,052 genes with most uncertainty regarding the number of rare genes , those that have a frequency of &amp;lt;0.1 among strains ; collectively , these results support the DGH . 
+3. Ginger <target>contains</target> up to 3 % of an essential oil that causes the fragrance of the spice . 
+
+enhance
+
+24_NP	213	0.876543
+49_NP-PP	12	0.049383
+41_NP-P-ING-SC	11	0.045267
+31_NP-FOR-NP	4	0.016461
+27_NP-ADVP	1	0.004115
+56_NP-TO-NP	1	0.004115
+122_Comlex gap	1	0.004115
+
+Examples
+24_NP:
+1. No mutants deficient in Mg-Proto binding <target>enhanced</target> Mg-chelatase complex activity .
+2. This is particularly surprising in the case of epithionitrile proportions , as the Bay-0 parent can not produce epithionitriles due to a lack of functional ESP and as such might not be expected to contain genes <target>enhancing</target> epithionitrile formation .
+3. Amodel emerged in which EÃÂ¼ promoted heavy chain variable region ( VH ) gene assembly and then served to <target>enhance</target> transcription of the newly formed IgH gene .
+49_NP-PP:
+1. This evidence suggests CD8ÃÂ± <target>enhances</target> Fc&#195;&#142;&#194;&#179;R responses , through at least one of several potential mechanisms .
+2. The post hoc analyses revealed that IL-1ÃÂ² and IL-6 infusion increased the number of BrdU positive cells relative to the respective saline treated animals and that repeated cytokine administration <target>enhanced</target> levels of the proliferation marker above that observed following a single acute treatment ( p &amp;amp;lt; 0.05 ) .
+3. This can be partly reduced by constantly <target>enhancing</target> the stringency with increasing concentrations of salt in the selection buffer ( 7 ) .
+41_NP-P-ING-SC:
+1. These data indicate that mutation of Ser-447 <target>enhances</target> the dendrite branching function of &#195;&#142;&#194;&#180;-catenin perhaps by preventing JNK-dependent proteasome-mediated degradation of &#195;&#142;&#194;&#180;-catenin in neurons .
+2. We propose that an excess of the topoII N-terminal domain <target>enhances</target> drug resistance by competing with the full-length enzyme for a limiting pool of inhibitor ( see Fig. 5A ) .
+3. They <target>enhance</target> the fitness of organisms by improving their ability to efficiently anticipate periodic events in their external environments , especially periodic changes in light , temperature and humidity .
+31_NP-FOR-NP:
+1. Evidence demonstrates integrating new knowledge and technologies , traditionally isolated from the curriculum as faculty research , can <target>enhance</target> biomedical and clinical training for students [ 13 ] .
+2. This process has been described as a positive feedback loop functioning to <target>enhance</target> freshwater productivity for future generations of anadromous and resident stream biota ( Wipfli , Hudson &amp;amp; Caouette , 1998 ; Hicks et al. , 2005 ) .
+3. Instead , robot-assisted therapy must complement existing care to <target>enhance</target> the experience for the patient .
+27_NP-ADVP:
+1. In accordance with these latter results , the blockade of the receptors by the P2Y12 receptor antagonist 2-MeSAMP ( 100 ÃÂ¼M ; [ 14 ] ) also <target>enhanced</target> the stimulation of cAMP about twofold and there were no significant differences between the three types of PC12 cultures ( Fig. 3b ) .
+56_NP-TO-NP:
+1. In this case , the visualization of the analysis results will be presented on more refined graphic models to <target>enhance</target> the appeal of complex data to both physicians and engineers .
+122_Comlex gap:
+1. It is reported that IL-6 <target>enhances</target> spontaneous release of histamine from human peripheral blood-derived cultured mast cells from approximately 2 to 10 &#195;&#162;&#194;&#128;&#194;&#147; 15 % ( Kikuchi , 2002 ) .
+

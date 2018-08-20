@@ -1,0 +1,347 @@
+Material  que no representa una utilidad o un valor económico para el dueño, el  dueño se convierte por ende en generador de residuos. Desde el punto de  vista legislativo lo mas complicado respecto a  la gestión de residuos, es que se trata intrínsicamente de un termino  subjetivo, que depende del punto de vista de los actores involucrados  (esencialmente generador y fiscalizador)
+El  residuo se puede clasificar de varias formas, tanto por estado, origen o  característica
+Clasificación  por estado
+Un  residuo es definido por estado según el estado físico en que se  encuentre. Existe por lo tanto tres tipos de residuos desde este punto de  vista sólidos, líquidos y gaseosos, es importante notar que el alcance  real de esta clasificación puede fijarse en términos puramente  descriptivos o, como es realizado en la practica, según la forma de  manejo asociado : por ejemplo un tambor con aceite usado y que es  considerado residuo, es intrínsicamente un liquido, pero su manejo va a  ser como un sólido pues es transportado en camiones y no por un sistema  de conducción hidráulica.
+En  general un residuo también puede ser caracterizado por sus características  de composición y generación.
+Clasificación  por origen
+Se  puede definir el residuo por la actividad que lo origine, esencialmente es  una clasificación sectorial.
+Esta  definición no tiene en la practica limites en cuanto al nivel de detalle  en que se puede llegar en ella.
+Tipos  de residuos más importantes :
+Residuos  municipales:
+La  generación de residuos municipales varia en función de factores  culturales asociados a los niveles de ingreso, hábitos de consumo,  desarrollo tecnológico y estándares de calidad de vida de la población.  El creciente desarrollo de la economía chilena ha traído consigo un  considerable aumento en la generación de estos residuos. En la década de  los 60, la generación de residuos domiciliarios alcanzaba los 0,2 a 0,5  Kg/habitante/día ; hoy en cambio, esta cifra se sitúa entre los 0,8 y 1,4  Kg/habitante/día.
+Los  sectores de más altos ingresos generan mayores volúmenes per cápita de  los residuos, y estos residuos tiene un mayor valor incorporado que los  provenientes de sectores más pobres de la población.
+Residuos  industriales :
+La  cantidad de residuos que genera una industria es función de la tecnología  del proceso productivo, calidad de las materias primas o productos  intermedios, propiedades físicas y químicas de las materias auxiliares  empleadas, combustibles utilizados y los envases y embalajes del proceso.
+Residuos mineros :
+Los  residuos mineros incluyen los materiales que son removidos para ganar  acceso a los minerales y todos los residuos provenientes de los procesos  mineros. En Chile y en el mundo las estadísticas de producción son  bastante limitados. Actualmente la industria del cobre se encuentra empeñada  en la implementación de un manejo apropiado de estos residuos, por lo  cual se espera en un futuro próximo contar con estadísticas apropiadas.
+Residuos  hospitalarios :
+Actualmente  el manejo de los residuos hospitalarios no es el mas apropiado, al no  existir un reglamento claro al respecto. El manejo de estos residuos es  realizado a nivel de generador y no bajo un sistema descentralizado. A  nivel de hospital los residuos son generalmente esterilizados.
+La  composición de los residuos hospitalarios varia desde el residuo tipo  residencial y comercial a residuos de tipo medico conteniendo substancias  peligrosas.
+Según  el Integrated Waste Management Board de California USA se entiende por  residuo medico como aquel que esta compuesto por residuos que es generado  como resultado de :
+a) Tratamiento, diagnostico o inmunización de humanos o animales
+b) Investigación conducente a la producción o prueba de  preparaciones medicas hechas de organismos vivos y sus productos
+Clasificación  por tipo de manejo
+Se  puede clasificar un residuo por presentar alguna características asociada  a manejo que debe ser realizado :
+Desde  este punto de vista se pueden definir tres grandes grupos:
+a) Residuo peligroso : Son residuos que por su naturaleza son  inherentemente peligrosos de manejar y/o disponer y pueden causar muerte,  enfermedad; o que son peligrosos para la salud o el medio ambiente cuando  son manejados en forma inapropiada.
+b) Residuo inerte : Residuo estable en el tiempo, el cual no producirá  efectos ambientales apreciables al interactuar en el medio ambiente.
+c) Residuo no peligroso : Ninguno de los anteriores
+Antecentes  históricos de manejo
+Desde  el inicio del primer relleno sanitario en el área metropolitana de Santiago, Pozo la feria, han pasado mas de veinte años en los cuales esta  actividad ha tenido un significativo progreso, en especial, en aquellos  aspectos vinculados al medio ambiente y que tienen relación con el manejo  de los líquidos percolados y el biogás.
+Aun  cuando los resultados obtenidos son satisfactorios, desde el punto de  vista sanitario, ambiental y económico, esto no ha sido suficiente como  para evitar que esta actividad encuentre oposición en la comunidad.
+La  forma en que se ha manejado la disposición final de residuos sólidos  urbanos en el área metropolitana de Santiago de Chile, ha sido la  resultante de un proceso lógico en el cual se han tratado de concentrar  dentro del marco legal vigente, los recursos económicos y la tecnología  disponible.
+Es  así como el primer paso dado fue pasar de basurales ubicados al interior  o en las inmediaciones del radio urbano a rellenos sanitarios. Este logro  puede considerarse importante si se tiene en cuenta que a la fecha de  estos cambios (1977 - 1979) las municipalidades no tenían dentro de su  presupuesto un ítem para la disposición final adecuada a sus residuos sólidos.
+Durante  la década de los 80 los rellenos sanitarios experimentan substanciales  mejoras en relación con la protección del medio ambiente. Se realizan  estudios que permiten un manejo técnico de los líquidos percolados y el  biogás y se comienzan a desarrollar programas de uso de los suelos ya  recuperados, que dan inicio a la creación de áreas verdes para el sector  urbano.
+Sistema  de manejo de residuos sólidos
+Básicamente  el sistema de manejo de los residuos se compone de cuatro sub sistemas:
+a) Generación : Cualquier persona u organización cuya acción cause  la transformación de un material en un residuo. Una organización  usualmente se vuelve generadora cuando su proceso genera un residuo, o  cuando lo derrama o cuando no utiliza mas un material.
+b) Transporte : Es aquel que lleva el residuo. El transportista puede  transformarse en generador si el vehículo que transporta derrama su  carga, o si cruza los limites internacionales (en el caso de residuos  peligrosos), o si acumula lodos u otros residuos del material  transportado.
+c) Tratamiento y disposición : El tratamiento incluye la selección y  aplicación de tecnologías apropiadas para el control y tratamiento de  los residuos peligrosos o de sus constituyentes. Respecto a la disposición  la alternativa comúnmente más utilizada es el relleno sanitario.
+d) Control y supervisión : Este sub sistema se relaciona  fundamentalmente con el control efectivo de los otros tres sub sistemas.
+Riesgo  asociado al manejo de los residuos sólidos
+Gestión  negativa:
+a) Enfermedades provocadas por vectores sanitarios : Existen varios  vectores sanitarios de gran importancia epidemiológica cuya aparición y  permanencia pueden estar relacionados en forma directa con la ejecución  inadecuada de alguna de las etapas en el manejo de los residuos sólidos.
+b) Contaminación de aguas : La disposición no apropiada de residuos  puede provocar la contaminación de los cursos superficiales y subterráneos  de agua, además de contaminar la población que habita en estos medios.
+c) Contaminación atmosférica : El material particulado, el ruido y el olor  representan las principales causas de contaminación atmosférica
+d) Contaminación de suelos : Los suelos pueden ser alterados en su  estructura debido a la acción de los líquidos percolados dejándolos inutilizados  por largos periodos de tiempo
+e) Problemas paisajísticos y riesgo : La acumulación en lugares no  aptos de residuos trae consigo un impacto paisajístico negativo, además  de tener en algunos caso asociado un importante riesgo ambiental, pudiéndose  producir accidentes, tales como explosiones o derrumbes.
+f) Salud mental : Existen numerosos estudios que confirman el  deterioro anímico y mental de las personas directamente afectadas.
+Relleno  Sanitario con manejo inadecuado
+Gestión  positiva:
+a) Conservación de recursos : El manejo apropiado de las materias  primas, la minimización de residuos, las políticas de reciclaje y el  manejo apropiado de residuos traen como uno de sus beneficios principales  la conservación y en algunos casos la recuperación de los recursos  naturales. Por ejemplo puede recuperarse el material orgánico a través  del compostaje.
+b) Reciclaje : Un beneficio directo de una buena gestión lo  constituye la recuperación de recursos a través del reciclaje o  reutilización de residuos que pueden ser convertidos en materia prima o  ser utilizados nuevamente.
+c) Recuperación de áreas : Otros de los beneficios de disponer los  residuos en forma apropiada un relleno sanitario es la opción de  recuperar áreas de escaso valor y convertirlas en parques y áreas de  esparcimiento, acompañado de una posibilidad real de obtención de  beneficios energéticos (biogás)
+Producción Per cápita (PPC)
+La  producción de residuos sólidos domésticos es una variable que depende básicamente  del tamaño de la población y de sus características socioeconómicas.
+Una  variable necesaria para dimensionar el sitio de disposición final es la  llamada Producción per cápita (PPC). Este parámetro asocia el tamaño  de la población, la cantidad de residuos y el tiempo; siendo la unidad de  expresión el kilogramo por habitante por día (Kg/hab/día).
+Estimación  teórica de Producción per cápita (PPC)
+La  PPC es un parámetro que evoluciona en la medida que los elementos que la  definen varían. En términos gruesos, la PPC varia de una población a  otra, de acuerdo principalmente a su grado de urbanización, su densidad  poblacional y su nivel de consumo o nivel socioeconómico. Otros  elementos, como los periodos estaciónales y las actividades predominantes  también afectan la PPC.
+Es  posible efectuar una estimación teórica de la PPC en función de las  estadísticas de recolección y utilizando la siguiente expresión :
+Otra  alternativa de estimación es comparar con comunas de situación similar  de la cual se disponga información fidedigna.
+Estadísticas  de generación
+Un  estudio presentado en 1995 dentro del contexto de la presentación de  política para el manejo de los residuos sólidos domiciliarios (CONAMA),  realizado en lo Errázuriz presenta los siguientes valores de generación  :
+Basicamente  trata de identificar en una base másica o  volumétrica los distintos componentes de los residuos.
+Usualmente  los valores de composición de residuos sólidos municipales o domésticos  se describen en términos de porcentaje en masa, también usualmente en  base húmeda y contenidos items como materia orgánica, papales y  cartones, escombros, plásticos, textiles, metales, vidrios, huesos, etc.
+La  utilidad de conocer la composición de residuos sirve para una serie de  fines, entre los que se pueden destacar estudios de factibilidad de  reciclaje, factibilidad de tratamiento, investigación, identificación de  residuos, estudio de políticas de gestión de manejo.
+Es  necesario distinguir claramente en que etapa de la gestión de residuos  corresponden los valores de composición. Los factores de que depende la  composición de los residuos son relativamente similares a los que definen  el nivel de generación de los mismos:
+Un  estudio presentado en 1995 dentro del contexto de la presentación de  política para el manejo de los residuos sólidos domiciliarios (CONAMA),  realizado en lo Errázuriz presenta los siguientes valores de composición  :
+Variaciones  estaciónales en la generación de residuos
+La  cantidad y calidad de los residuos sólidos puede variar en forma  significativa a través del año. comúnmente en climas temperados, la  cantidad media diaria, semanal y mensual de residuos esta sobre la media  anual durante los meses de veranos. Esto es atribuible en parte al aumento  de la basura orgánica (por hábitos y disponibilidad para consumo),  además de las probables actividades de mejoramiento urbano comúnmente  realizadas en esta época.
+En  lugares donde la actividad de mejoramiento durante los meses de temporada  de vacaciones puede aumentar en varias veces la media anual, aumentando la  proporción de residuos domésticos y comerciales.
+En  lugares donde la generación de residuos industriales representa un  porcentaje importante del total, el patrón de generación queda  determinado por el tipo de industrias presentes.
+Residuos  sólidos generados a partir de aguas servidas municipales e industriales
+En  países desarrollados, el agua servida, comercial e industrial es  colectada y tratada previo a regresarla a los cursos de aguas. El material  removido durante el tratamiento es lodo, un material sólido que contiene  típicamente un alto porcentaje de humedad. Los sólidos deshidratados  pueden ser dispuestos en rellenos, aplicados a tierra como un mejorador de  suelos o incinerado.
+Los  procesos industriales consumen una gran cantidad de agua para sus  procesos. Las características de las aguas descargadas de las fuentes  industriales son bastantes diferentes a las características de las aguas  servidas domesticas en concentración, incluido los patógenos que  generalmente están muy bajos o casi inexistente.
+Generación  de lodos a partir de la mejor tecnología de tratamientos de aguas  servidas disponible (caso USA)
+Características  de los residuos
+Humedad
+Es  una característica importante para los procesos a que puede ser sometida  la basura. Se determina generalmente de la siguiente forma: Tomar una muestra  representativa, de 1 a 2 Kg , se calienta a 80ºC durante 24 horas, se  pesa y se expresa en base seca o húmeda.
+Densidad
+La  densidad de los sólidos rellenados depende de su constitución y humedad,  por que este valor se debe medir para tener un valor más real. Se deben  distinguir valores en distintas etapas del manejo.
+Densidad  suelta : Generalmente se asocia con la densidad en el origen.  Depende de la composición de los residuos. En Chile fluctúa entre 0.2 a  0.4 Kg/l o Ton/m3.
+Densidad  transporte : Depende de si el camión es compactador o no y del  tipo de residuos transportados. El valor típico es del orden de 0.6 Kg/l.
+Densidad  residuo dispuesto en relleno : Se debe distinguir entre la densidad  recién dispuesta la basura y la densidad después de asentado y  estabilizado el sitio. En Chile la densidad recién dispuesta fluctúa  entre 0.5 a 0.7 Kg/l y la densidad de la basura estabilizada fluctúa  entre 0.7 a 0.9 Kg/l
+Poder  calorífico
+Se  define como la cantidad de calor que puede entregar un cuerpo. Se debe  diferenciar entre poder calorífico inferior y superior. El Poder  Calorífico Superior (PCS) no considera corrección por humedad y el  inferior (PCI) en cambio si. Se mide en unidades de energía por masa,  [cal/gr], [Kcal/kg], [BTU/lb]. Se mide utilizando un calorímetro.
+También  se puede conocer a través de un calculo teórico, el cual busca en la  bibliografía valores típicos de PC por componentes y se combina con el  conocimiento de la composición de los residuos:
+Esta  tabla presenta un resumen de valores de caracterización física de los  residuos tomada de diferentes estudios y memorias de tesis:
+Existen  básicamente dos sistemas:
+Sistema  vertical (Ductos verticales)
+Para  diseñar, existe una normativa : Resolución ministerio de salud 7328.  normas sobre eliminación de basuras en edificios elevados.
+Pueden  ser cilíndricos o rectangulares. Estos ductos están a la vista o no. Es  usual agregar sistemas de compactación. No se aconseja su uso en el caso  de hospitales (residuos biopeligrosos). Area transversal mínima de ductos  es de 0.2 m2
+Sistema  horizontal
+Existen  una infinidad de variaciones sobre este procedimiento. Por ejemplo  sistemas de carros a nivel municipal, o a menor escala, como recintos  industriales, campos deportivos, etc.
+Sistemas  neumáticos :
+Unifica  los sistemas anteriores. Consiste en hacer pasar una corriente de aire  aproximadamente a 90 km/h por el ducto para llevar residuos a una central  de almacenamiento. Eventualmente se combina con sistemas de tratamiento.
+En  Latinoamérica se a implementado en hospitales del Brasil, no se usa para  los residuos biopeligrosos (bio hazards)
+En  Chile este sistema se utiliza para el transporte de material, como los  chips en la celulosa.
+Almacenamiento  de los residuos
+Para  el diseño de los receptáculos debe separarse entre domiciliarios e  industriales.
+Domiciliarios  : Dato básico producto PPC, contenedor más común 240 litros
+Industria : Dato básico es la razón cantidad de producto / cantidad de  residuo. A nivel industrial se usan contenedores que son receptáculos de  gran volúmenes entre los más comunes se tienen los de 240, 1000, 1700  litros
+Ejemplo  practico :
+Calcular  el numero de contenedores de 240 litros necesarios para una junta vecinal,  de 50 familias, con una media de 4 personas por familia. Ubicado en la  comuna de Melipilla.
+Datos  :
+Población  = 50 familias x 4 personas = 200 habitantes
+PPC  = Se considera el valor medio de las situaciones socioeconómicas (este  caso)
+PPC  = 0.7 Kg/hab/día
+Disposición  temporal de residuos industriales
+En  Chile no existen normas que regulen el almacenamiento de residuos sólidos  industriales, en particular en los propios predios industriales. No  obstante, el articulo 17 del reglamento sobre condiciones sanitarias y  ambientales básicas en los lugares de trabajo prescribe que dicho  almacenamiento requiere de autorización sanitaria, la cual debe ser  expresa tratándose de residuos peligrosos, conforme lo estipula el DFL  Nº1 de 1989 del ministerio de salud.
+Tiempo  de almacenamiento : El almacenamiento de residuos peligrosos, definido en  términos generales, corresponde a la acción de retener temporalmente en  condiciones controladas residuos, en tanto se procesen para su  aprovechamiento, tratamiento o disposición final. Específicamente, en  USA se considera como recinto para almacenar residuos peligrosos, aquel en  el que un generador acumula residuos peligrosos por mas de 90 días.  Actividad para la cual es mandatario la obtención de un permiso. Pero, de  acuerdo al volumen de residuos generados el tiempo limite de acumulación  de los mismos puede ser extendido hasta 180 o 270 días.
+Recolección
+La  recolección es la etapa más importante en términos de costos dentro de  la gestión de los residuos (por sobre el 60% en Santiago y aun más en  otras comunidades).
+La  recolección la realizan en general cuadrillas de hombres con equipos de  recolección consistente en camiones de diversas características.
+El  sistema de recolección más satisfactorio que pueda proporcionarse a la  población resultará después de un estudio cuidadoso en donde inciden  numerosos factores como:
+Tipo de residuo producido y  cantidad
+Característica  topográfica de la ciudad
+Clima
+Responsabilidades
+El  punto de recolección mas adecuado es la recogida en la acera, porque  reduce el tiempo necesario para cada servicio. La recolección de basuras  se realiza generalmente de día en las zonas residenciales y durante la  noche en las zonas comerciales de las grandes ciudades, para evitar  problemas con el trafico.
+Diseño  básico de cuadrilla
+Los  datos básicos para el diseño son los siguientes :
+Ecuaciones  básicas necesarias :
+El  transporte de los residuos se vuelve antieconómico si los residuos son  trasladados a distancias muy grandes. Esto se hace más apreciable cuando la  cuadrilla es mayor.
+El  uso de estaciones de transferencia se ha constituido en una alternativa  económica para áreas urbanas donde se generan grandes cantidades de  residuos y en que las distancias a los centros de procesos de residuos son  importantes. En una estación de transferencia, el residuo es transferido  desde camiones recolectores a unidades de transporte de mayor capacidad (transfers).  Se puede utilizar vehículos por carreteras, barco o tren.
+El  análisis económico simplificado queda expresado por la siguiente  grafica:
+Ventajes  de una estación de transferencia : Economía, el vehículo de  recolección prolonga su vida útil, utilización de menos personal.
+Desventajas  : Oposición para la localización, difícil ampliación y menos  flexibilidad para peak de generación.
+Componentes  mínimos de una estación de transferencia :
+Entrada con zona buffer
+Equipos de compactación,  generalmente compactadores estacionarios
+Sistema de captación y  tratamiento de aguas
+Oficinas, etc.
+El  mundo entero moderno se enfrenta a un problema cada vez más importante y  grave: como deshacerse del volumen creciente de los residuos que genera.
+La  mayoría de los residuos terminan convirtiéndose en basura cuyo destino  final es el vertedero o los rellenos sanitarios. Los vertederos y rellenos  sanitarios son cada vez más escasos y plantean una serie de desventajas y  problemas. En ello el reciclaje se convierte en una buena alternativa, ya  que reduce los residuos, ahorra energía y protege el medio ambiente.
+La  meta de cualquier proceso se reciclaje es el uso o re uso de materiales  provenientes de residuos De importancia en el proceso de reciclaje es que el  procedimiento comienza con una separación. Desde un punto de vista de  eficiencia del rendimiento de estos sistemas de separación favorece que  se haga una separación en el origen.
+Existen  tres actividades principales en el proceso del reciclaje:
+· Recolección : Se deben de juntar cantidades considerables  de materiales reciclables, separar elementos contaminantes o no  reciclables y clasificar los materiales de acuerdo a su tipo especifico.
+· Manufactura : los materiales clasificados se utilizan como  nuevos productos o como materias primas para algún proceso.
+· Consumo : Los materiales de desperdicio deben ser  consumidos. Los compradores deben demandar productos con el mayor  porcentaje de materiales reciclados en ellos. Sin demanda, el proceso de  reciclaje se detiene.
+Reciclaje  de materia orgánica
+La  fracción orgánica puede ser reciclada mediante el compostaje. El compos  es un abono y una excelente herramienta orgánica del suelo, útil en la  agricultura, jardinería y obra publica.
+Mejora  las propiedades químicas y biológicas de los suelos.
+Hace  mas suelto y porosos los terrenos compactados y enmienda los arenosos.
+Hace  que el suelo retenga mas agua.
+Reciclaje  de papel
+El  consumo de papel ( núcleos administrativos, editoriales de prensa,  revistas, libros, etc.) y de cartón (envases y embalajes de los productos  manufacturados) ha crecido también exponencialmente por el incremento de  la población y de la cultura en todo el mundo desarrollado.
+Cada  uno de nosotros tira al año a aproximadamente 120 kg/año de papel
+Beneficios  ambientales del reciclaje de papel :
+Disminución de la  necesidad de fibras vegetales y vírgenes
+Disminución del volumen de  residuos municipales (el 25% de nuestros desperdicios esta compuesto  de papel y cartón
+Disminución de la  contaminación atmosférica y de la contaminación del agua
+Disminución de las  exportaciones de madera y de la importación de papel, representadas  en miles de toneladas al año
+Papel  reciclable
+El  papel reciclable se elabora sin utilizar cloro en el proceso de blanqueo  de la pasta. Puede obtenerse papel ecológico a partir de papel reciclado,  garantizando la mínima utilización de productos químicos y la  depuración de las aguas residuales.
+Obtenido,  mayoritariamente, a partir de papel usado o residual. Se considera que  cumple las condiciones de papel reciclado para la impresión y escritura,  el que contiene, como mínimo, un 90% en peso de fibras de recuperación.
+El  papel reciclable no se debe mezclar con papel sucio, pañuelos  desechables, papel de aluminio, papel de fax, papel engomado,  plastificado, encerado, etc.
+La  separación de la tinta se lleva acabo mediante la adición de un jabón  biodegradable y la inyección de aire, para crear burbujas a las que se  adhiere la tinta. La tinta se concentra y se transporta a un centro de  tratamiento
+El  rendimiento del papel viejo es alto, un 90% aproximadamente, frente al 50%  del rendimiento celulósico de la madera.
+Aproximados  de recuperación (antecedentes de España Cataluña)
+Papel  de diario se recupera aproximadamente el 27 %
+Papel  de revistas y libros se recupera aproximadamente el 7.5 %
+Papel  de embalar se recupera aproximadamente el 30.7 %
+Cartón se recupera aproximadamente el 81.3 %
+Reciclaje  de plásticos
+Tanto  en los residuos totales como en los de precedencia urbana, las  poliofelinas son el componente mayoritario. Le siguen de cerca en  importancia el policloruro de vinilo y el poliestireno, en orden diferente  según su origen el poliestireno reftalato.
+Dentro  de los residuos urbanos los plásticos representan aproximadamente el 10%  en peso.
+Factores  que afectan al reciclado de los plásticos
+La  vida de un plástico no es infinita. Por mucho que se alargue la  existencia mediante el reciclado su destino final es la incineración o el  relleno sanitario. En algunos casos, únicamente el reciclado químico  permite una Pseudo inmortalidad, especialmente en aquellos en los que es  aplicable la depolimerización con generación de los monómeros de  partida.
+El  tipo de tratamiento que se da a los residuos plásticos viene determinado  por una serie de factores de muy distinta naturaleza, en pocos casos  tecnológicos, y entre los que habría que destacar la disponibilidad de  terreno aptos para su uso como rellenos sanitarios, legislación ambiental  apoyos y subvenciones de autoridades gubernamentales regionales y locales,  etc. Así, mientras en América y Europa la mayor parte de los residuos  municipales son enterrados, en Japón, donde cada metro cuadrado es oro  puro, se favorece su incineración.
+El  reciclado químico, hoy casi inexistente, se desarrollara en los próximos  años de una forma importante. Las unidades de incineración de residuos  con generación de calor o electricidad son un valioso medio de explorar  el alto contenido energético de los plásticos, con poder calorífico  intermedio entre el petróleo y el carbón.
+Reciclaje  de vidrio
+Cada persona produce aproximadamente 37 kg de vidrio al año
+Los  beneficios ambientales del reciclaje de vidrios se traduce en una  disminución de los residuos municipales, disminución de la  contaminación del medio ambiente, y un notable ahorro de los recursos  naturales. Cada kg de vidrio recogido sustituye 1.2 kg de materia virgen.
+Reutilizar  : Existen envases de vidrio retornable que, después de un proceso  adecuado de lavado, pueden ser utilizados nuevamente con el mismo fin. Una  botella de vidrio puede ser reutilizada entre 40 y 60 veces, con un gasto  energético del 5% respecto al reciclaje. Esta es la mejor opción.
+Reciclar  : El vidrio es 100% reciclable y mantiene el 100% de sus  cualidades: 1 kg de vidrio usado produce 1 kg de vidrio reciclado. El  reciclaje consiste en fundir vidrio para hacer vidrio nuevo. La energía  que ahorra el reciclaje de una botella mantendrá encendida una ampolleta  de 100 watt durante 4 horas.
+En  la fabricación del vidrio se utiliza:
+· Sílico, que da resistencia al vidrio
+· Carbonato de calcio, que le proporciona durabilidad
+· En el reciclaje del vidrio se utiliza como materia prima la  calcina o vidrio desecho. Su fusión se consigue a temperaturas mucho más  reducidas que las de fusión de minerales, por tanto, se ahorra energía.
+Envases
+· Envases de plásticos (poliestireno blanco, de color, PET,  PVC, otros)
+· Latas de hierro y aluminio
+· Brics
+Cada  persona bota el aproximado a 48 kg de envases anualmente (antecedentes  Cataluña España)
+Los  envases de plásticos se pueden reciclar para la fabricación de bolsas de  plástico, mobiliario urbano, señalización, o bien para la obtención de  nuevos envases de uso no alimentario.
+Los  Brics se pueden reciclar aprovechando conjuntamente sus componentes  (fabricación de aglomerados), o bien con el aprovechamiento separado de  cada material (reciclable del papel y valorización energética del  poliestireno y el aluminio.
+Pilas  y baterías
+Las  pilas usadas no son un residuo cualquiera, son un residuo especial, toxico  y peligroso.
+Pilas  Botón : Se utilizan en relojes, calculadoras, censores remotos,  etc. A pesar de su reducido tamaño son las más contaminantes.
+Pilas  grandes : Pilas cilíndricas o de pequeñas baterías, que  contienen menos metales pesados, pero se producen muchas más.
+Cuando,  incorrectamente, se tiran las pilas con los restos de los desechos, estas  pilas van a parar a algún vertedero o al incinerador. Entonces el  mercurio y otros metales pesados tóxicos pueden llegar al medio y  perjudicar a los seres vivos.
+Siguiendo  la cadena alimentaria, el mercurio puede afectar al hombre.
+Previo a la recolección o  almacenamiento de pilas en cualquiera de sus variedades, se debe tener  siempre presente, si existen plantas que traten este tipo de residuo, ya que  al verse con una gran cantidad de pilas sin tener un destino, podemos  provocar mucho mas daño al ecosistema al botarlas concentradamente.
+Con el reciclaje de las  pilas, se recupera el mercurio (de elevado riesgo ambiental) y  valorizamos el plástico, el vidrio y los otros metales pesados  contenidos en las pilas.
+Las pilas botón pueden ser  introducidas en un destilador sin necesidad de triturarlas  previamente. La condensación posterior permite la obtención de un  mercurio con un grado de pureza superior al 96%
+Las pilas normales pueden  ser almacenadas en previsión de poner en marcha de forma inmediata un  sistema por el cual serán trituradas mecánicamente, y de la que se  obtendría escoria férrica y no férrica, papel, plástico y polvo de  pila. Las tres primeras fracciones que se valorizan directamente
+El polvo de pila sigue  diferentes procesos para recuperar los metales que contiene
+Aceites  usados
+Si se vierten al suelo,  estamos contaminando y las aguas (ríos y acuíferos)
+Si se vierten en la  alcantarilla, contaminamos los ríos y dificultamos el buen  funcionamiento de las plantas depuradoras.
+Si se queman en forma  inadecuada, contaminan la atmósfera.
+Una  alternativa de reciclaje es que los aceites usados de los talleres de  reparación de automóviles, estaciones de servicio e industrias se  transportaran a la planta de tratamiento. A partir de un proceso  secuencial de destilación, se recupera separadamente agua que se  aprovecha en el mismo proceso, gasóleo que se utiliza como combustible y  aceite regenerado que se puede comercializar; a partir de 3 litros de  aceite usado, se obtienen 2 litros de aceite regenerado
+Los  refrigeradores y el CFC
+Los  refrigeradores utilizan clorofluorocarburos, tanto en el sistema de  refrigeración como en las espumas aislantes, unas substancias con un  elevado riesgo ambiental y por sus efectos nocivos para la capa de ozono.  Por ello se necesita una gestión adecuada de estos electrodomésticos  cuando dejen de ser útiles.
+En  varias legislaciones se menciona que los residuos especiales son aquellos  que requieren de un tratamiento especifico, de manera que no se debe  mezclar con los residuos ordinarios porque podrían afectar muy  negativamente al medio ambiente. Los clorofluorocarburos, mas bien  conocidos como CFC, son los responsables de que los refrigeradores y otros  aparatos de refrigeración que también los contienen deban considerarse  como residuos especiales.
+Si  los CFC se liberan a la atmósfera, favorecen la destrucción de la capa  de ozono, esta capa filtra la radiación solar, de manera de que una parte  importante de los rayos ultra violetas son absorbidos y no llegan a la  superficie terrestre. Cuando el grueso de la capa de ozono diminuye, se  produce un aumento de la radiación ultra violeta que la atraviesa.
+Los  efectos de este fenómeno son negativos para la humanidad. por una parte,  porque la radiación ultravioleta es nociva para la mayoría de los seres  vivos y por otra parte contribuye a la alteración del clima.
+Todos  los refrigeradores y aparatos de refrigeración producidos antes de 1995  contienen CFC y los contienen de la siguiente manera:
+El CFC R-12 se encuentra en  el sistema de refrigeración
+El CFC R-11 esta presente  en las espumas aislantes de poliuretano, donde actúan como agente  expansores.
+El contenido de un  refrigerado promedio es de aproximadamente de 1kg. de CFC.
+Después  que el residuo a sido tratado este se encuentra listo para su  disposición. La forma y tipo del residuo determina en gran parte donde la  disposición será permitida. Un limitado grupo de residuos puede ser  dispuesto por inyección a pozos profundos y en descargas submarinas a  océanos, muchos residuos gaseosos y particulados son dispuestos en la  atmósfera.
+Los  residuos sólidos comúnmente son depositados en :
+Basural
+Un  relleno sanitario es una obra de ingeniería destinada a la disposición  final de los residuos sólidos domésticos, los cuales se disponen en el  suelo, en condiciones controladas que minimizan los efectos adversos sobre  el medio ambiente y el riesgo para la salud de la población.
+La  obra de ingeniería consiste en preparar un terreno, colocar los residuos  extenderlos en capas delgadas, compactarlos para reducir su volumen y  cubrirlos al final de cada día de trabajo con una capa de tierra de  espesor adecuado.
+Un  relleno sanitario planificado y ambiental de las basuras domesticas  ofrece, una vez terminada su vida útil, excelentes perspectivas de una  nueva puesta en valor del sitio gracias a su eventual utilización en usos  distintos al relleno sanitario; como ser actividades silvoagropecuarias en  el largo plazo.
+El  relleno sanitario es un sistema de tratamiento y, a la vez disposición  final de residuos sólidos en donde se establecen condiciones para que la  actividad microbiana sea de tipo anaeróbico (ausencia de oxigeno). Este  tipo de método es el más recomendado para realizar la disposición final  en países como el nuestro, pues se adapta muy bien a la composición y  cantidad de residuos sólidos urbanos producidos; aseveración que, por lo  demás, se encuentra muy bien documentada en la bibliografía.
+La  definición mas aceptada de relleno sanitario es la dada por la sociedad  de ingenieros civiles (ASCE) ; Relleno sanitario es una técnica para la  disposición de residuos sólidos en el suelo sin causar perjuicio al  medio ambiente y sin causar molestias o peligro para la salud y seguridad  publica, método este, que utiliza principios de ingeniería para confinar  la basura en un área lo menor posible, reduciendo su volumen al mínimo  practicable, para cubrir los residuos así depositados con una capa de  tierra con la frecuencia necesaria, por lo menos al final de cada jornada.
+Requerimientos  generales de los rellenos sanitarios
+El sitio debe tener espacio  necesario para almacenar los residuos generados por el área en el  plazo definido por el diseño.
+El sitio es diseñado,  localizado y propuesto para ser operado de forma que la salud, las  condiciones ambientales y el bienestar sea garantizado.
+El sitio es localizado de  manera de minimizar la incompatibilidad con las características de  los alrededores y de minimizar el efecto en los avalúos de estos  terrenos.
+El plan de operación del  sitio se diseña para minimizar el riesgo de fuego, derrames y otros  accidentes operacionales en los alrededores.
+El diseño del plan de acceso al sitio se debe hacer de forma de minimizar el  impacto en los flujos.
+Tipos  de rellenos
+El  parámetro básico de diseño de un relleno es el volumen. Este depende  del área cubierta, la profundidad a la cual los residuos son depositados,  y el radio de material de cobertura y residuo. Debido a que la tasa de  generación de residuos es usualmente definida en unidades másicas un  parámetro adicional que influencia la capacidad del relleno es la  densidad in situ de la basura y el material de cobertura.
+Generalmente  todo diseño de relleno incluye algunas obras comunes. Zonas buffer y  pantallas perimetrales son necesarias para aislar el relleno de los  vecinos y el sitio. Son necesarios cercos perimetrales para evitar el  acceso no autorizado al sitio, se requiere un cuidadoso mantenimiento del  frente de trabajo. Durante tiempos inclementes podría ser necesario  contar con tractores para asistir a los camiones. El barro y suciedad que  se adhieren al camión por su operación en el sitio debe ser retirado del  mismo antes que abandone el recinto del relleno.
+Método  de trinchera o zanja
+Este  método se utiliza en regiones planas y consiste en excavar  periódicamente zanjas de dos a tres metros de profundidad, con el apoyo  de una retroexcavadora o tractor oruga. Incluso existen experiencias de  excavación de trincheras de hasta 7 metros de profundidad para relleno  sanitario. La tierra se extrae se coloca a un lado de la zanja para  utilizarla como material de cobertura. Los desechos sólidos se depositan  y acomodan dentro de la trinchera para luego compactarlos y cubrirlos con  tierra.
+La  excavación de zanjas exige condiciones favorables tanto en lo que  respecta a la profundidad del nivel freático como al tipo de suelo. Los  terrenos con nivel freático alto o muy próximo a la superficie no son  apropiados por el riesgo de contaminar el acuífero. Los terrenos rocosos  tampoco lo son debido a las dificultades de excavación.
+Método  de área
+En  áreas relativamente planas, donde no sea posible excavar fosas o  trincheras para enterrar las basuras, estas pueden depositarse  directamente sobre el suelo original, elevando el nivel algunos metros. En  estos casos, el material de cobertura deberá ser importado de otros  sitios o, de ser posible, extraído de la capa superficial. En ambas  condiciones, las primeras celdas se construyen estableciendo una pendiente  suave para evitar deslizamientos y lograr una mayor estabilidad a medida  que se eleva el terreno.
+Se  adapta también para rellenar depresiones naturales o canteras abandonadas  de algunos metros de profundidad. El material de cobertura se excava en  las laderas del terreno, o en su defecto se debe procurar lo mas cerca  posible para evitar el encarecimiento de los costos de transporte. La  operación de descarga y construcción de las celdas debe iniciarse desde  el fondo hacia arriba.
+Clasificación  de rellenos sanitarios
+Clasificación  según clase de residuo depositado
+Tradicional con residuos  sólidos urbanos seleccionados : No acepta ningún tipo de residuo de  origen industrial, ni tampoco lodos.
+Tradicional con residuos  sólidos urbanos no seleccionados: Acepta además de los residuos  típicos urbanos, industriales no peligrosos y lodos previamente  acondicionados
+Rellenos para residuos  triturados: Recibe exclusivamente residuos triturados, aumenta vida  útil del relleno y disminuye el material de cobertura.
+Rellenos de seguridad: Recibe residuos que por sus características deben ser confinados con  estrictas medidas de seguridad.
+Relleno para residuos  específicos: Son rellenos que se construyen para recibir residuos  específicos (cenizas, escoria, borras, etc.)
+Rellenos para residuos de  construcción: Son rellenos que se hacen con materiales inertes y que  son residuos de la construcción de viviendas u otra
+Clasificación  según las características del terreno utilizado
+En áreas planas o llanuras  : Mas que rellenamiento es una depositación en una superficie.  Las  celdas no tienen una pared o una ladera donde apoyarse, es conveniente  construir pendientes adecuadas utilizando pretiles de apoyo para  evitar deslizamientos. No es conveniente hacer este tipo de relleno en  zonas con alto riesgo de inundación.
+En quebrada : Se debe  acondicionar el terreno estableciendo niveles aterrazados, de manera  de brindar una base adecuada que sustente las celdas. Se deben  realizar las obras necesarias para captar las aguas que normalmente  escurren por la quebrada y entregarlas a su cause aguas abajo del  relleno.
+En depresiones : Se debe  cuidar el ingreso de aguas a la depresión, tanto provenientes de la  superficie o de las paredes por agua infiltrada. La acumulación  normal del relleno. La forma de construir el relleno dependerá del  manejo que se de al biogás o a los líquidos percolados.
+En laderas de cerros : Normalmente se hacen partiendo de la base del cerro y se va ganando  altura apoyándose en las laderas del cerro. Es similar al relleno de  quebrada. Se deben aterrazar las laderas del cerro aprovechando la  tierra sacada para la cobertura y tener cuidado de captar aguas  lluvias para que no ingresen al relleno.
+En ciénagas, pantanos o  marismas : Método muy poco usado por lo difícil de llevar a cabo la  operación, sin generar condiciones insalubres. Es necesario aislar un  sector, drenar el agua y una vez seco proceder al rellenamiento. Se  requiere equipamiento especializado y mano de obra.
+Los  problemas sanitarios causados por la disposición de los residuos sólidos  en el suelo se deben a la reacción de las basuras con el agua y a la  producción de gases, riesgo de incendios y explosiones.
+Los  residuos sólidos están compuestos físicamente por un 40 a 50% de agua,  vegetales, animales, plásticos, desechos combustibles, vidrios, etc. Químicamente  están compuestos por sustancias orgánicas, compuestos minerales y  residuos sólidos peligrosos.
+Las  substancias liquidas y los sólidos disueltos y suspendidos tienden a  percolar por la masa de residuos sólidos y posteriormente en el suelo.  Este esta constituido por materia sólida, aire y agua. A partir de  determinada profundidad se encuentra el nivel freático donde el agua se  mueve a baja velocidad de alta a baja presión horizontalmente y en  dirección vertical por efecto de la gravedad, por ascensión capilar  entre los granos del suelo.
+Las  substancias contaminantes del lixiviado al percolar a  través del suelo, adquieren gran agilidad al llegar al nivel freático y  puede contaminar el agua de los manantiales, las subterráneas por las  fisuras y otras fallas de las rocas y suelos impermeables, a la vez de  causar un efecto negativo en la calidad del suelo.
+La  percolación de los contaminantes depende de la permeabilidad del suelo y  esta dada por el coeficiente K que en arenas es de 10-1 a 10-3 cm/s y en suelos arcillosos es de 10-8 cm/s. El terreno ideal sería  con un K de 10-7 cm/s y que tenga un nivel freático de más de 3 metros.
+Todo  lo anterior lleva a tener en cuenta el microclima dentro del cual tenemos  la lluvia que influye en los fenómenos biológicos y químicos, con el  transporte de contaminantes, problemas en vías de acceso y del trabajo en  si del relleno sanitario, por lo tanto el relleno debe ser drenado  superficialmente por la periferia y el fondo del relleno. El viento también  causa molestias, llevando los olores y el polvo a las vecindades.
+Principales  factores involucrados en la selección de sitios para rellenos sanitarios  :
+Zonas  de exclusión
+Se  entenderá zona de exclusión cualquier zona, que por alguna  característica, tanto humana, social. Ecológica, política o económica  no pueda ser considerada para la habilitación de un relleno sanitario.  Los casos más típicos son los siguientes :
+Distancias mínimas : La  distancia mínima del sitio de disposición a la residencia más cercana, pozo de suministro de agua,  fuente de agua potable, hotel, restaurante, procesador de alimentos,  colegios, iglesias o parques públicos debe ser a lo mínimo de 300  metros (o el equivalente indicado por la regulación).
+Distancias a aeropuertos : La distancia entre el aeropuerto comercial y el punto seleccionado es  importante si en el relleno sanitario van a recibirse residuos de  alimentos (tanto domiciliarios como de algún proceso industrial),  pues estos pueden atraer pájaros en un radio de varios km. Si la  operación del residuo es apropiada el problema puede ser aminorado.  Se recomiendan distancias de 8 km., sin embargo, este valor puede ser  reducido si es justificado.
+Distancias a cursos de agua  superficial : La distancia entre la carga de los residuos y el curso  de agua superficial más cercano debe ser a lo mínimo de 100m (o el  equivalente a la regulación correspondiente). Este parámetro  dependerá fundamentalmente de las condiciones hidrogeológicas del  sitio.
+Distancias a áreas  inestables : El sitio seleccionado debe estar a un mínimo de 100m de  áreas inestables (por ejemplo área de derrumbes) para asegurar la  estabilidad estructurar del sitio.
+Distancias a áreas de  exclusión : El sitio debe estar localizado fuera de los limites de  cualquiera área de exclusión delimitada por la autoridad  correspondiente.
+La  actividad biológica dentro de un relleno sanitario se presenta en dos  etapas relativamente bien definidas :
+· Fase aeróbica : Inicialmente, parte del material orgánico  presente en las basuras es metabolizado aeróbicamente (mientras exista  disponible oxigeno libre), produciéndose un fuerte aumento en la  temperatura. Los productos que caracterizan esta etapa son el dióxido de carbono, agua, nitritos y nitratos
+· Fase anaeróbica : A medida que el oxigeno disponible se va agotando, los organismos facultativos y anaeróbicos empiezan a predominar y  proceden con la descomposición de la materia orgánica, pero más  lentamente que la primera etapa. Los productos que caracterizan esta etapa son el  dióxido de carbono, ácidos orgánicos, nitrógeno, amoniaco, hidrógeno,  metano, compuestos sulfurados (responsables del mal olor) y  sulfitos de fierro, manganeso e hidrógeno.
+Además,  algunos de estos productos producen reacciones químicas dentro y fuera  del relleno. En consecuencia, otras reacciones similares se llevan a cabo,  como resultado de la interacción de algunos subproductos de  descomposición, entre ellos mismos o con las basuras con que entran en  contactos. Muchos de estos productos, en la eventualidad de emerger  libremente del relleno, como gases o líquidos, podrían provocar serios  trastornos ambientales.
+Lixiviados  o líquidos percolados
+Los  residuos, especialmente los orgánicos, al ser compactados por maquinaria  pasada liberan agua y líquidos orgánicos, contenidos en su interior, el  que escurre preferencialmente hacia la base de la celda. La basura, que  actúa en cierta medida como una esponja, recupera lentamente parte de  estos líquidos al cesar la presión de la maquinaria, pero parte de él  permanece en la base de la celda. Por otra parte, la descomposición  anaeróbica rápidamente comienza actuar en un relleno sanitario,  produciendo cambios en la materia orgánica, primero de sólidos a liquido  y luego de liquido a gas, pero es la fase de licuefacción la que ayuda a  incrementar el contenido de liquido en el relleno, y a la vez su potencial  contaminante. En ese momento se puede considerar que las basuras están  completamente saturadas y cualquier agua, ya sea subterránea o  superficial, que se infiltre en el relleno, lixiviara a través de los  desechos arrastrando consigo sólidos en suspensión, y compuestos  orgánicos en solución. Esta mezcla heterogénea, de un elevado potencial  contaminante, es lo que se denomina lixiviados o líquidos percolados
+Composición  de líquidos percolados de un relleno sanitario con desechos domésticos :
+Teniendo  en consideración las características de los componentes en los líquidos  percolados, es indiscutible que estos pueden contaminar las aguas y los  suelos con los cuales entran en contacto.
+Seria  ideal evitar todo tipo de contacto entre líquidos percolados, el agua y  suelos subterráneos, pero, para tal efecto, habría que cuidar muchos  aspectos que encarecerían la obra en tal forma que seria imposible de  realizar. Sin embargo, llevar este contacto a un nivel mínimo de modo que  las características de la napa no sufran grandes variaciones y que el uso  actual o eventual de ella no sea afectado, es perfectamente posible.
+Ahora  bien, no hacer nada en base a suponer que los contaminantes serán  diluidos en las aguas subterráneas es un error, que puede causar un gran  daño, ya que una vez que las aguas y suelos han sido contaminados será muy  difícil revertirlas a las condiciones originales. El escurrimiento de las  aguas subterráneas, por lo general, es laminar, lo que hace que la  dispersión del contaminante sea por difusión y no por dilución, y  como las velocidades de las napas y las tasas de difusión son bajas,  hacen que configure una zona de contaminación bastante peligrosa.
+Los  contaminantes de origen orgánico son los más abundantes en los líquidos  percolados, pero ellos van perdiendo esa característica en el transcurso  del tiempo. Por otra parte, es un hecho comprobado que gran parte de ellos  quedan retenidos al tener que pasar por un medio arcilloso, contribuyendo  en gran medida a aumentar la impermeabilidad del medio.
+El  uso de arcilla como medio impermeabilizante es bastante común en América,  a continuación se mostrara una forma de poner este material para lograr  esta condición impermeabilizante.
+Sobre  el terreno emparejado se colocaran 0.60 metros de material arcilloso,  homogéneo, sin contenido orgánico, con no menos de 40% de su peso seco  que pase la malla ASTM Nº200. este material se colocara en capas de 0.20 o 0.30 metros, con una humedad algo mayor a la optima determinada por el  ensaye Proctor Modificado compactándose cada capa con rodillo pata de  cabra o similar hasta obtener una densidad seca no inferior a 90% de la  densidad seca máxima establecidas por el ensaye citado. El coeficiente de  permeabilidad en el laboratorio para el material arcilloso no será  superior a K=10-6 (cm/s).
+La  capa de arcilla compactada, deberá mantenerse permanentemente húmeda  para evitar su agrietamiento, hasta que se cubra con basura, por lo que se  recomienda construir esta impermeabilidad solo con la extensión necesaria  para ejecutar con comodidad el relleno sanitario.
+Últimamente  se a empleado bastante la arcilla en espesores de 20 a 30 cm con  polietileno de alta densidad entre medios, el espesor de este polietileno  oscila entre 1 y 2 mm.
+Otras  geomembranas bastante usadas son el polietileno cloro sulfonado (Hypalon)  y el polivinil clorado (PVC), en ocasiones las geomembranas son usadas con  geotextiles (tejidos esponjosos) con el fin de protegerlas de  desgarramientos y/o punzonamientos.
+Control  de los lixiviados o percolados
+Como  consecuencia de la impermeabilización del relleno sanitario, se acumulan  en este una gran cantidad de líquidos percolados, los cuales deben ser  manejados en forma apropiada. Es importante tener en el relleno sanitario  los elementos necesarios para mantener un control total de los lixiviados,  estos pueden ir desde almacenamientos en lagunas para luego recircularlos  con equipos de bombeo, hasta sistemas de drenaje al interior del relleno,  depósitos de almacenamiento y tratamiento químico y/o biológico.
+Es  importante establecer un sistema de monitoreo rutinario que permita  detectar y anticipar un eventual paso de líquidos percolados a trabes del  terreno y subsecuentemente adoptar las medidas preventivas y correctivas  que corresponda para evitar riesgos a la población, por consumo de agua  de mala calidad.
+Tratamiento  del lixiviado
+El  tipo de instalaciones de tratamiento dependerá de las características  del lixiviado, y en segundo lugar, de la localización geográfica y física  del relleno sanitario. Las características más preocupantes del  lixiviado influyen: DBO, DQO, sólidos totales disueltos (STD), metales  pesados y constituyentes tóxicos sin especificar.
+El  lixiviado contiene concentraciones extremadamente altas de STD, por  ejemplo sobre 50.000 (mg/l), puede ser difícil tratar biológicamente.  Con valores altos de DBO es preferible emplear procesos de tratamientos  anaeróbicos, porque los procesos de tratamientos aeróbicos son caros.  Concentraciones altas de sulfato pueden limitar el uso de procesos de  tratamientos anaeróbicos, debido a la producción de olores procedentes de  la reducción biológica de sulfatos a sulfuros. La toxicidad producida  por los metales pesados también es un problema para muchos procesos de  tratamiento biológico. Otra cuestión importante es : ¿Cuál debería  ser el tamaño de las instalaciones de tratamiento? La capacidad de las  instalaciones de tratamiento dependeran del tamaño del relleno sanitario  y la vida útil esperada.
+Una  investigación realizada en la sección de Ingeniería Sanitaria y  Ambiental de la Universidad de Chile acerca del tratamiento físico-químico  de los lixiviados a fines de la década de los 80 y principios de los 90,  entrego las siguientes conclusiones :
+· El tratamiento físico-químico de percolados, consistentes  en coagulación con Sulfato de Aluminio o Cloruro Férrico a pH elevado o  en precipitación con Cal o Hidróxidos de Sodio, produce en los  percolados modificaciones de olor y remoción de color, turbiedad, materia  orgánica y metales, lo que facilita su manejo y disposición.
+Las  remociones de materia orgánica alcanzada, esta en el rango de 35% en términos  de DQO y en el caso de los metales: 99.3% de Fe. 98.8% Mn y 63.9% de Cu.
+· El tratamiento físico-químico  de percolados, produce una gran cantidad de lodos y consume una alta  cantidad de reactivos. Estos lodos pueden ser depositados en el mismo  relleno sanitario. La disposición final de los líquidos tratados debe  ser evaluada considerando el impacto ambiental que producirán.
+· Para situaciones en las  cuales los líquidos percolados generados por un relleno sanitario  presenten problemas de manejo solo algunos meses al año, el tratamiento físico-químico  aun cuando tiene un alto costo, resulta recomendable porque permite  reducir a niveles aceptables los problemas de olor y facilita el manejo de  los líquidos.
+Producción  de biogás
+Cuando  los residuos se descomponen en condiciones anaeróbicas, se generan gases  como subproductos naturales de esta descomposición. En un relleno  sanitario, la cantidad de gases producido y su composición depende del  tipo de residuo orgánico, de su estado y de las condiciones del medio que  pueden favorecer o desfavorecer el proceso de descomposición.
+La  descomposición de la materia orgánica en los rellenos sanitarios, que se  realiza por la actividad microbiana anaeróbica, genera diversos  subproductos, entre ellos el biogás. Por lo tanto, condiciones favorables  de medio para la supervivencia de los microorganismos anaeróbicos pueden  desarrollarse a temperaturas de entre 10 y 60ºC, teniendo un optimo entre  30 y 40ºC (fase mesofílica) y otro entre 50 y 60ºC (fase termofílica).  El pH entre 6.5 y 8.5 permite un buen desarrollo de los microorganismos  teniendo un optimo entre 7 y 7.2
+Por  lo general, los componentes principales del biogás son el metano (CH
+4
+2
+), en proporciones aproximadamente  iguales, constituyendo normalmente mas del 97% del mismo. Ambos gases son  incoloros e inodoros, por lo que son otros gases, como el ácido sulfhídrico  y el amoniaco los que le otorgan el olor característico al biogás y  permiten su detección por medio del olfato.
+El  gas metano se produce en los rellenos en concentraciones dentro del rango  de combustión, lo que confiere al biogás ciertas características de  peligrosidad por riesgos de incendio o explosión y por lo mismo, la  necesidad de mantener un control sobre él.
+Componentes  del biogás :
+Control  del biogás
+En  los rellenos sanitarios de área, se utilizan varios niveles de celdas  para dar disposición a los residuos, por lo que es probable que se tenga  una producción continua de biogás después de algunos años, cuando se  alcancen unos tres niveles de celdas. Por esta razón resulta conveniente  instalar chimeneas de drenaje, distante 20 a 25 metros entre sí, en  realidad esta ultima distancia debe ser obtenida a través de estudios en  el terreno, lo que permite determinar lo que se denomina radio de  influencia (distancia desde el centro de la chimenea que es influenciada  por el drenaje).
+Cuando  los rellenos sanitarios son construidos en depresiones, ya sean naturales  o artificiales resulta conveniente hacer un drenaje perimetral con el fin  de evitar la migración lateral, este puede ser continuo o constituido por  chimeneas colocadas a menores distancias que las ubicadas al interior del  relleno. El gas de los drenes puede ser quemado en el mismo relleno o ser  extraído para almacenarlo en gasómetros y luego enviarlo al consumo  domiciliario o industrial.
+Altura  de la Celda
+La  altura de la celda dependerá de la cantidad de residuo llegado al relleno  sanitario, como así también la explotación del biogás producido.  Pudiendo llegar a los 5m y más
+El  talud del frente de trabajo será de 1:3, es decir, de 1 metro de altura  por 3 metros de base, lo que corresponde a un ángulo de 18º y que es una  pendiente que permite el buen desenvolvimiento de los equipos  compactadores. Los taludes laterales serán 1:1
+Calculo  del avance diario
+El  material de cobertura (tierra), generalmente varia entre 0.10 y 0.30  metros
+De  acuerdo con la figura de la celda en :
+Los  impactos ambientales que sufre el medio ambiente a través del desarrollo  de las tres etapas de un relleno sanitario son de diferentes  características y talvez lo más relevante y que trascienden mayormente  son aquellas que se producen en la etapa de operación y construcción del  relleno. Los efectos de los variados impactos pueden verse incrementado o  disminuidos por las condiciones climáticas del lugar y por el tamaño de  la obra.
+Impactos  ambientales en la etapa de  habilitación
+Remoción capa superficial  de suelos (alteración vegetación y fauna)
+Movimientos de tierra
+Interferencia al transito  (efectos barreras)
+Alteración permeabilidad  propia del terreno
+Alteración paisaje
+Actividades propias de una  faena de obras civiles: ruido, polvo, transito, movimiento de  maquinaria pesada.
+Impactos  ambientales en la etapa de  operación y construcción del relleno
+Impactos por incremento del  movimiento
+Contaminación  atmosférica; olores, ruidos, material particulado, biogás
+Contaminación de aguas;  líquidos percolados
+Contaminación y  alteración del suelo; diseminación de papeles, plástico, y materias  livianas, extracción de tierra para ser utilizada como material de  cobertura
+Impacto paisajístico;  cambio en la topografía del terreno, modificación en la actividad  normal del área
+Impacto social; fuente de  trabajo, efecto NIMBY (nadie lo quiere), incremento actividad vial.
+Impactos  ambientales en la etapa de  clausura
+Impacto paisajístico;  recuperación vegetación, recuperación fauna
+Impacto social;  integración de áreas a la comunidad, disminuye fuente de trabajo
+Medidas  de mitigación
+Las  medidas de mitigación empleadas para reducir los impactos ambientales  negativos de un relleno sanitario dependen de una serie de factores, entre  los cuales destacan : las características del proyecto, tecnología  usada, localización, condiciones de operación (tamaño, clima), etc., no  obstante es posible identificar los impactos mas frecuentes generado por  este tipo de faena y las medidas que normalmente se emplean para su  mitigación.
+Olores  :
+Tratamiento de los  líquidos percolados
+Quema del biogás cuando  hay metano suficiente
+Ruidos  :
+Alteración  del suelo :
+Vegetación para evitar  erosión rellenamiento para evitar nivelar zonas con asentamiento  diferencial o pendientes fuertes.
+Diseminación  de materiales :
+Utilizar mallas  interceptoras
+Material  particulado :
+· Pantallas vegetales en el perímetro del relleno
+Control de vectores :
+Mantener  aislado sanitariamente el recinto medieante la formación de un cordón  sanitario que impida la infestación del relleno por roedores y el  paso de especies animales desde y hacia el recinto.
+Realizar  fumigaciones y desratizaciones como minino, cada 6 meses. Los  elementos químicos que se empleen en esta actividad, deben estar  acordes con la legislación.
+Incremento  movimiento vehicular
+En caso de vehículos de  estaciones de transferencia tratar que estos lleguen en forma  secuencial.
+Líquidos  percolados :
+Biogás  :
+Quema controlada
+Todos los  derechos reservados. E- Mail del webmaster
+A

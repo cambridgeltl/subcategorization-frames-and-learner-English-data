@@ -1,0 +1,134 @@
+The Family & Medical Leave Act Compliance Guide
+The Family and Medical Leave Act (FMLA) became effective on August 5, 1993.  The Secretary of Labor has issued regulations to implement the FMLA.[1] This "Guide to Compliance" begins by summarizing those regulations, explaining the basic provisions of the new law, and the rights and responsibilities of affected employers and employees.  After this summary of the FMLA's requirements, specific questions are addressed.  The information provided in response to the questions posed below, or the regulations themselves, will provide greater detail on how the law works. [1] See the Federal Register dated June 4, 1993, Vol. 58, No. 106, pages 31794-31839.  Similar provisions also apply to most federal and Congressional employees, which are administered by the U.S. Office of Personnel Management (OPM) or the Congress.
+SUMMARY
+The Family and Medical Leave Act was enacted on February 5, 1993.
+The new law is effective on August 5, 1993, for most employers.  If a collective bargaining agreement (CBA) is in effect on that date, the Act becomes effective on the expiration date of the CBA or February 5, 1994, whichever is earlier.  This delay in the effective date applies only to employees covered by a CBA in effect on August 5, 1993, and not for example to non-bargaining unit employees.
+The Wage and Hour Division of the U.S. Department of Labor's Employment Standards Administration administers and enforces FMLA for all private, State and local government employees, and some federal employees.
+FMLA entitles eligible employees to take up to 12 weeks of unpaid, job- protected leave each year for specified family and medical reasons.  An eligible employee's right to FMLA leave begins on August 5, 1993.  Any leave taken before that date does not count as FMLA leave.  However, events qualifying under the Act for FMLA leave purposes (e.g., the birth of a child) occurring before August 5, 1993, still entitle eligible employees to the benefits of FMLA on and after August 5, 1993.
+The new law contains provisions relating to employer coverage; employee eligibility for the benefits of the law; entitlement to leave, maintenance of health benefits during leave, and job restoration after leave; notice and certification of the need for FMLA leave; and protections for employees who request or take FMLA leave.  In addition, the law includes certain employer recordkeeping requirements.
+PURPOSES OF THE FMLA
+The FMLA allows employees to balance their work and family life by taking reasonable unpaid leave for certain reasons.  The FMLA is intended to balance the demands of the workplace with the needs of families, to promote the stability and economic security of families, and to promote national interests in preserving family integrity.  The FMLA seeks to accomplish these purposes in a manner that accommodates the legitimate interests of employers, and which minimizes the potential for employment discrimination on the basis of sex, while promoting equal employment opportunity for men and women.
+The enactment of the FMLA was predicated on two fundamental concerns  the needs of the U.S. workforce and the development of high-performance organizations.  Increasingly, American children and growing numbers of the elderly are dependent on working family members who spend long hours on the job.  When family emergencies arise, requiring employees to attend to their seriously-ill children or parents, or to newly-born or adopted infants, or even to their own serious illness, workers need reassurance that they will not need to choose between their job security and meeting their personal and family obligations or tending to vital needs at home.
+EMPLOYER COVERAGE
+* public agencies, including State, local and federal employers, and local education agencies (schools); and,
+* private sector employers who employ 50 or more employees for at least 20 workweeks in the current or preceding calendar year and who are engaged in commerce or in any industry or activity affecting commerce including joint employers and successors of covered employers.
+For FMLA purposes, most federal and Congressional employees are under the jurisdiction of the U.S. Office of Personnel Management (OPM) or the Congress.
+EMPLOYEE ELIGIBILITY
+(1)work for a covered employer;
+(2)have worked for the employer for at least a total of 12 months;
+(3)have worked at least 1,250 hours over the prior 12 months; and,
+(4)work at a location where at least 50 employees are employed by the employer within 75 miles.
+LEAVE ENTITLEMENT
+A covered employer must grant an eligible employee up to a total of 12 work-weeks of unpaid leave during any 12-month period for one or more of the following reasons:
+* for the birth or placement of a child for adoption or foster care;
+* to care for an immediate family member (spouse, child, or parent) with a serious health condition; or,
+* to take medical leave when the employee is unable to work because of a serious health condition.
+Spouses employed by the same employer are jointly entitled to a combined total of 12 workweeks of family leave for the birth or placement of a child for adoption or foster care, and to care for a parent (but not a parent "in-law") who has a serious health condition.
+Leave for birth or adoption (including foster care placement) must conclude within 12 months of the birth or placement.
+Intermittent Leave  Under some circumstances, employees may take FMLA leave intermittently  which means taking leave in blocks of time, or by reducing their normal weekly or daily work schedule.
+Where FMLA leave is for birth or placement for adoption or foster care, use of intermittent leave is subject to the employer's approval.
+FMLA leave may be taken intermittently whenever it is medically necessary tocare for a seriously ill family member, or because the employee is seriously ill and unable to work.  If the need for intermittent leave is foreseeable based on planned medical treatment, the employee is responsible for scheduling the treatment in a manner that does not unduly disrupt the employer's operations, subject to the approval of the health care provider.
+In such cases, the employer may also transfer the employee temporarily to an alternative job with equivalent pay and benefits that better accommodates recurring periods of leave than the employee's regular job.
+Substitution of Paid Leave  Subject to certain conditions, employees or employers may choose to use or require the use of accrued paid leave (such as sick or vacation leave) to cover some or all of the otherwise unpaid FMLA leave.
+The employer is responsible for designating if paid leave used by an employee counts as FMLA leave, based on information provided by the employee.  In no case can an employee's paid leave be credited as FMLA leave after the leave has been completed.
+Serious Health Condition  "Serious health condition" means an illness, injury, impairment, or physical or mental condition that involves:
+* any period of incapacity or treatment connected with inpatient care (i.e., an overnight stay) in a hospital, hospice, or residential medical care facility;
+* any period of incapacity requiring absence of more than three calendar days from work, school, or other regular daily activities that also involves continuing treatment by (or under the supervision of) a health care provider; or,
+* continuing treatment by (or under the supervision of) a health care provider for a chronic or long-term health condition that is incurable or so serious that, if not treated, would likely result in a period of incapacity of more than three calendar days, and for prenatal care.
+Health Care Provider  Health care providers who qualify under the regulations to provide certification of a serious health condition for an employee or an immediate family member include:
+* doctors of medicine or osteopathy authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; or,
+* podiatrists, dentists, clinical psychologists, optometrists, and chiropractors (limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist) authorized to practice in the State and performing within the scope of their practice under State law; or,
+* nurse practitioners and nurse-midwives authorized to practice under State law and performing within the scope of their practice as defined under State law; or,
+* Christian Science practitioners listed with the First Church of Christ, Scientist in Boston, Massachusetts.
+MAINTENANCE OF HEALTH BENEFITS
+A covered employer is required to maintain group health insurance coverage for an employee on FMLA leave whenever such insurance was provided before the leave was taken, and on the same terms as if the employee had continued to work.
+Where appropriate, arrangements will need to be made for employees taking unpaid FMLA leave to pay their share of health insurance premiums while on leave.  For example, if the group health plan involves co-payments by the employer and the employee, an employee on FMLA leave must continue making insurance premium payments to maintain insurance coverage, as must the employer.  The employee and employer need to work out the method for the employee to pay his or her share of health insurance premiums while on unpaid FMLA leave.
+An employer's obligation to maintain health benefits under FMLA will stop if and when an employee informs the employer of an intent not to return to work at the end of the leave period, or if the employee fails to return to work when the FMLA leave entitlement is used up.
+In some instances, the employer may recover premiums it paid to maintain health insurance coverage for an employee who fails to return to work from FMLA leave.
+Other Benefits  Certain types of earned benefits, such as seniority, need not continue to accrue during periods of unpaid FMLA leave.  For other benefits, such as elected life insurance coverage, the employer and the employee need to make arrangements so that the benefits may be maintained during periods of unpaid FMLA leave.  Except for accrued or earned benefits (such as seniority), the employee must be restored to the same benefits upon return from FMLA leave as if the employee had continued to work the entire FMLA leave period.  Use of FMLA leave cannot result in the loss of any benefit that accrued before the employee's leave began.  Accordingly, an FMLA leave period cannot be counted as a break in service for purposes of vesting or eligibility to participate in benefit programs.
+JOB RESTORATION
+Upon return from FMLA leave, an employee must be restored to his or her original job, or to an equivalent job with equivalent pay, benefits, and other employment terms and conditions.
+In addition, an employee's use of FMLA leave cannot result in the loss of any employment benefit that the employee earned or was entitled to before using FMLA leave.
+"Key" Employee Exception  Under specified and limited circumstances where restoration to employment will cause substantial and grievous economic injury to its operations, the employer may refuse to reinstate certain highly-paid "key" employees after using FMLA leave during which health benefits are maintained. In order to do so, the employer must:
+* notify the employee of his/her status as a "key" employee in response to the employee's notice of intent to take FMLA leave;
+* notify the employee as soon as the employer decides it will deny job restoration and explain the reasons for this decision;
+* offer the employee a reasonable opportunity to return to work from FMLA leave after giving this notice; and,
+* make a final determination as to whether reinstatement will be denied at the end of the leave period if the employee then requests restoration.
+A "key" employee is a salaried "eligible" employee who is among the highest paid ten percent of employees within 75 miles of the work site.
+NOTICE AND CERTIFICATION
+* 30-day advance notice of the need to take FMLA leave when the need is foreseeable;
+* medical certifications supporting the need for leave due to a serious health condition affecting the employee or an immediate family member;
+* second or third medical opinions and periodic recertification, at the employer's expense;
+* periodic reports during FMLA leave on the employee's status and intent to return to work; and,
+* a "fitness-for-duty" certification to return to work.
+When leave is needed to care for an immediate family member or the employee's own illness and is for planned medical treatment, the employee must attempt to schedule treatment so that it will not unduly disrupt the employer's operation.
+EMPLOYER NOTICES
+Covered employers must post a notice approved by the Secretary of Labor explaining rights and responsibilities under FMLA.  An employer that willfully violates this posting requirement may be subject to a fine of up to $100 for each separate offense.
+In addition, covered employers are obliged to provide information to their employees about their rights and responsibilities under FMLA, including specific information  in response to an employee's notice of the need for FMLA leave  regarding just what will be required of the employee and what might happen in certain circumstances, such as if the employee fails to return to work from FMLA leave.
+UNLAWFUL ACTS
+FMLA makes it unlawful for any employer to interfere with, restrain, or deny the exercise of any right provided by this law.  It is also unlawful for an employer to discharge or discriminate against any individual for opposing any practice, or because of involvement in any proceeding, related to FMLA.
+ENFORCEMENT
+FMLA will be enforced by the Wage and Hour Division of the U.S. Labor Department's Employment Standards Administration.  This agency will investigate complaints of violations.  If violations cannot be satisfactorily resolved, the Department may bring action in court to compel compliance.
+An eligible employee may bring a private civil action against an employer for violations.
+OTHER PROVISIONS
+Special rules apply to employees of local education agencies.  Generally, these rules provide for FMLA leave to be taken in blocks of time when the leave is needed intermittently or when leave is required near the end of a school term (semester).
+Salaried executive, administrative, and professional employees of covered employers who meet the Fair Labor Standards Act (FLSA) criteria for exemption from minimum wage and overtime under Regulations, 29 CFR Part 541, do not lose their FLSA-exempt status by using any unpaid FMLA leave. This special exception to the "salary basis" requirements for FLSA's exemption extends only to "eligible" employees' use of leave required by FMLA.
+The FMLA does not affect any other federal or State law which prohibits discrimination.  It does not supersede any State or local law which provides more generous family or medical leave protection.  Nor does it affect an employer's obligation to provide greater leave rights under a collective bargaining agreement or employment benefit plan.  The FMLA also encourages employers to provide more generous leave rights.
+QUESTIONS
+Q: Does the law guarantee paid time off?
+No.  FMLA leave is generally unpaid leave.  However, in certain circumstances the use of accrued paid leave  such as vacation or sick leave  may be substituted for the unpaid leave required by the law.
+Q. How much unpaid leave am I entitled to?
+If you are an "eligible" employee of a covered employer, you are entitled to 12 weeks of leave for certain family and medical reasons during a 12- month period.
+Q: Am I entitled to any paid leave while on FMLA leave?
+The law permits you to substitute accrued paid leave under certain conditions, or your employer may require you to substitute paid leave.
+Q: What if an employer already provides paid leave for the purposes covered by FMLA?
+FMLA is intended to encourage generous family and medical leave policies. For this reason, the law does not diminish more generous existing leave policies or laws, though employers are entitled to conform their employment policies and practices with the FMLA's requirements.
+Q: Who is considered a "family member" for purposes of taking FMLA leave?
+An employee's spouse, son or daughter, and parents are immediate family members for purposes of FMLA.  The term "parent" does not include a parent "in-law."
+Q: Does FMLA leave have to be taken in whole days or whole weeks, or in one continuous block of time?
+The FMLA permits leave for birth or placement for adoption or foster care to be taken intermittently  that is, in blocks of time or by reducing the normal weekly or daily work schedule subject to approval by the employer. Leave for a serious health condition may be taken intermittently when "medically necessary."
+Q: Is there a limit to the number of times FMLA leave can be taken in one year?
+No.  An employee is entitled to take up to 12 weeks of leave in a 12-month period for any of the family and medical reasons that qualify for FMLA leave, without limitation.
+Q: Can I take FMLA leave for visits to a therapist, if my doctor prescribes the therapy?
+Yes.  FMLA permits you to take leave to receive "continuing treatment by a health care provider," which can include recurring absences for therapy treatments ordered by a doctor such as, for example, physical therapy after a hospital stay, or for treatment of severe arthritis.  "Continuing treatment" includes a single visit to a health care provider that results in a regimen of continuing therapy under the supervision of the health care provider.
+Q: Are there any employees who are not covered by this law?
+Yes.  It's been estimated that about 60 percent of U.S. workers (and about 95 percent of U.S. employers) are not covered by the law.  To be eligible for FMLA benefits, an employee must: (1) work for a covered employer; (2) have worked for the employer for at least a total of 12 months; (3) have worked at least 1,250 hours over the prior 12 months; and, (4) work at a location where at least 50 employees are employed by the employer within 75 miles.
+Q: What about spouses who work for the same employer?
+If a husband and wife work for the same employer, they may be limited to a combined total of 12 weeks of FMLA leave in a 12-month period for the birth of a child, placement of a child for adoption or foster care, or the care of a parent with a serious health condition.
+Q: What do I have to do to request FMLA leave from my employer?
+You may be required to provide your employer with 30 days advance notice when the need for leave is "foreseeable." When such an advance notice is not possible or the need for the leave cannot be foreseen, you must give your employer notice as soon as "practicable."
+Q: What kind of proof is required for my illness or that of an immediate family member?
+You may be required to submit documentation  called a medical certification  from the health care provider who is treating you or your immediate family member.
+Q: Can my employer require additional proof?
+Your employer may require you to obtain additional medical certification from a health care provider of the employer's choice, and at the employer's expense.
+Q: Can my employer require me to return to work before I exhaust my leave?
+Subject to certain limitations, your employer may deny the continuation of FMLA leave due to a serious health condition if you fail to fulfill obligations to provide supporting medical certification as required by the law.
+Q: Are there any restrictions on how I spend my time while on leave?
+Generally no, provided the leave is taken for a legitimate family or medical reason and all appropriate notice and certification requirements are met.  However, employers with established policies regarding outside employment while on paid or unpaid leave may uniformly apply this policy to employees on FMLA leave.
+Q: Can my employer make inquiries about my leave during my absence?
+Yes, but only to you.  Your employer may have reason to confirm whether the leave needed or being taken qualifies for FMLA purposes, and may require periodic reports on your status and intent to return to work after leave. Also, if the employer has reason to doubt the validity of a medical certification or wishes to obtain another opinion, you may be required to obtain additional medical certification at the employer's expense, or recertification during a period of unpaid FMLA leave.
+Q: Can my employer refuse to grant me FMLA leave?
+If you are an "eligible" employee who has met FMLA's notice and certification requirements (and you have not exhausted your FMLA leave entitlement for the year) you may not be denied FMLA leave.
+Q: Will I lose my job if I take FMLA leave?
+Generally, no.  It is unlawful for any employer to interfere with or restrain or deny the exercise of any right provided under the law. However, an employer may deny reinstatement to work  but not the use of FMLA leave or maintenance of health insurance coverage during the leave to certain highly-paid salaried ("key") employees under certain circumstances.
+Q. Are there other circumstances in which my employer can deny me my job after using FMLA leave?
+In addition to denying reinstatement in certain circumstances to "key" employees, employers are not required to reinstate employees who would have been laid off or otherwise had their employment terminated had they continued to work during the period leave was used (for example, employees hired for a specific term of employment that expires).  Also, under certain circumstances, employers who advise employees experiencing a serious health condition that they will require a medical certificate of fitness for duty to return to work may deny reinstatement to an employee who fails to provide such a certificate until it is provided.
+Q: Can my employer fire me for complaining about a violation of FMLA?
+No, nor can the employer take any other adverse employment action on this basis.  It is unlawful for any employer to discharge or otherwise discriminate against an employee for opposing a practice made unlawful under FMLA.
+Q: Will I be allowed to return to my same job after my leave?
+Generally, yes.  Ordinarily you will be restored to the same position you held prior to the leave, with the same pay and benefits, if the position remains available.  You may be restored to an "equivalent position" rather than the position you held before taking leave if the previous position is not available.  An equivalent position must have equivalent pay, benefits, and terms and conditions of employment as the original job.
+Q: Do I lose all my benefits when I take unpaid FMLA leave?
+Your employer is required to maintain health insurance coverage on the same terms it was provided before the leave commences, as if you continued to work.  In addition, the use of FMLA leave cannot result in the loss of any employment benefit that accrued prior to the start of your leave.  Certain other earned benefits, such as seniority, do not need to continue to accrue during a period of unpaid FMLA leave.  And for still other kinds of benefits, such as elected life insurance coverage, arrangements may need to be made between you and your employer so that they are continued during a period of FMLA leave.  With the sole exception of accrued or earned benefits such as seniority, unless you elect otherwise, you must be restored to the same benefits upon return from FMLA leave as if you had continued to work during the period of the leave.
+Q: Are there any differences in how the law applies to private and public sector employees or employers?
+The 50 employee coverage test does not apply to public sector employers or to public or private education agencies (schools).  However, the public agency or school system must employ 50 employees within a 75mile area around the work site in order for an employee to be "eligible" and entitled to FMLA benefits.
+Q: Are there any special rules that apply to any groups of employees?
+Special rules apply to instructional employees of "local educational agencies," including public school boards and elementary and secondary schools under their jurisdiction, and private elementary and secondary schools.  Generally, these rules provide for FMLA leave to be taken in blocks of time when the leave is needed intermittently or is required near the end of a school term.
+Q: What if my employer does not know about the Family and Medical Leave Act?
+Your employer may contact the nearest office of the Wage and Hour Division, Employment Standards Administration, of the U.S. Department of Labor for information and guidance.
+Q: What if I believe my employer is violating the law?
+You have the choice of filing, or having another person file on your behalf, a complaint with the Employment Standards Administration, Wage and Hour Division, or you can elect to file a private lawsuit.
+For more information, please contact the nearest office of the Wage and Hour Division, listed in most telephone directories under U.S. Government, Department of Labor, Employment Standards Administration.
+The Net's Finest Legal Resource For Legal Pros & Laypeople Alike.
+http://www.lectlaw.com
+necessarily Endorses, Warrants or Approves of any of its material.   Also, Library content is NOT meant
+to provide Specific Legal Advice, or to Solicit or Establish Any Kind of Professional-Client Relationship.

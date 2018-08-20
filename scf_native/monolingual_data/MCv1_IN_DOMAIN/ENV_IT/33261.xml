@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Anche l'ospedale inquina, di Alessandro Turri</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Anche l'ospedale inquina, di Alessandro Turri</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-02 02:34:21.0</pubDate>
+							<eAddress>http://www.ideapadova.it/1011_anche_ospedali_inquinano.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>slate</keyTerm>
+					<keyTerm>2010</keyTerm>
+					<keyTerm>rifiuti</keyTerm>
+					<keyTerm>ospedalieri</keyTerm>
+					<keyTerm>usa</keyTerm>
+					<keyTerm>15 kg</keyTerm>
+					<keyTerm>letto</keyTerm>
+					<keyTerm>5</keyTerm>
+					<keyTerm>2 milioni tonnellate</keyTerm>
+					<keyTerm>alessandro turri</keyTerm>
+					<keyTerm>ideapadova</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/33261.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">ANCHE L'OSPEDALE   INQUINA</p>
+			<p id="p2">Negli   Stati Uniti ogni ospedale produce circa 15 chili di rifiuti per posto   letto. E’ quanto emerge da un’indagine del 2010 condotta da   “Slate”, secondo cui tutti gli ospedali del mondo producono   5,2 milioni di tonnellate di spazzatura ogni anno. Non pochi, se paragonati   ai 227 milioni di tonnellate di rifiuti urbani.</p>
+			<p id="p3">Fra   le principali voci dell''inquinamento ospedaliero ci sono i rifiuti tra   cui molti materiali in plastica. Fino a pochissimo tempo fa molti materiali   in plastica usati in ospedale, dai guanti di lattice ai materiali delle   pavimentazioni, a contenitori di ogni tipo, contenevano Pvc: una sostanza   molto tossica (che, se incenerita, sprigiona diossine).</p>
+			<p id="p4">Solo   carta e cartone però (che rappresentano il 50% dei rifiuti ospedalieri)   sono riciclabili; tutti gli altri non si smaltiscono così facilmente.   Ad esempio, i farmaci scaduti o il materiale potenzialmente infetto (le   sale operatorie producono da sole il 20 – 30% dei rifiuti) seguono   procedure decisamente complesse.</p>
+			<p id="p5">Senza contare il consumo di energia: gli edifici dedicati alla sanità,   compresi gli ambulatori e gli studi medici, rappresentano il 9% dell’energia   consumata dal settore commerciale, e consumano il doppio rispetto alla   media di un ufficio. Negli ospedali, infatti, l’aria è controllata   artificialmente, gli ambienti sono illuminati costantemente giorno e notte,   e molte attrezzature, come tac e risonanza magnetica, necessitano di notevoli   quantità di energia per poter funzionare.</p>
+			<p id="p6">Negli Usa gli ospedali producono da soli il 3% delle emissioni di anidride   carbonica del paese. In termini di ‘impronta ecologica’, l’indicatore   che misura quanta superficie terrestre viene ‘consumata’ per   svolgere qualunque attività o per offrire qualsiasi servizio, un   ospedale ‘brucia’ da 140 a 185 metri quadri per posto letto.   Ma adottando semplici accorgimenti, dalla luce naturale alla lotta al   Pvc e al traffico controllato, anche le corsie possono allungare la vita   al pianeta. Dimezzando l’impatto sull’ambiente.</p>
+			<p id="p7">Ecco perché proprio negli Stati Uniti si sta pensando ormai da   tempo a nuovi ospedali a misura di ambiente, in cui si punta a ridurre   la produzione di rifiuti o a sfruttare al massimo la luce naturale.</p>
+			<p id="p8">La filosofia del lean design, una progettazione mirata al 'taglio' dei   costi e dei tempi di realizzazione, si applica non solo alla costruzione,   ma anche alla gestione dell'ospedale: la riorganizzazione del personale   medico e paramedico, in modo da ridurre la necessità di personale   full-time e aumentare il numero di visite al giorno, ha a sua volta permesso   di ridurre l'impronta ecologica di certi luoghi di cura. Un approccio   sostenibile che, assicurano gli esperti, permette anche di fornire la   stessa quantità e qualità di assistenza in luoghi di cura   di dimensioni inferiori, quindi meno dispendiosi e con un impatto minore   sull'ambiente.</p>
+			<p id="p9">Il futuro ci porterà quindi ad imparare ad adottare soluzioni nanotecnologiche   per produrre involucri, filtri di impianti di aerazione, pavimenti, elementi   di arredo con capacità anti-inquinanti, (mangiatori di smog), antibatteriche   e autopulenti.</p>
+			<p id="p10">Sicuramente un ospedale verde costerà di più di un nosocomio   vecchia maniera. Ma forse, a conti fatti, ne varrà la pena, considerato   che negli anni potrà sviluppare risparmi considerevoli, senza contare   che, a lungo termine, potremo imparare ad aiutare le persone a guarire   senza che questo comporti necessariamente far ammalare il pianeta.</p>
+		</body>
+	</text>
+</cesDoc>

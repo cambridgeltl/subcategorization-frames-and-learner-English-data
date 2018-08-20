@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>La définition du licenciement pour motif économique</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>La définition du licenciement pour motif économique</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:09:37.0</pubDate>
+							<eAddress>http://www.travail-solidarite.gouv.fr/informations-pratiques,89/fiches-pratiques,91/licenciement,121/la-definition-du-licenciement-pour,1099.html</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/83.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">La définition du licenciement pour motif économique</p>
+			<p id="p2">Synthèse</p>
+			<p id="p3">Constitue un licenciement pour motif économique le licenciement effectué par un employeur pour un ou plusieurs motifs non inhérents à la personne du salarié résultant d’une suppression ou transformation d’emploi ou d’une modification, refusée par le salarié, d’un élément essentiel du contrat de travail, consécutives notamment à des difficultés économiques ou à des mutations technologiques..</p>
+			<p id="p4">A savoir</p>
+			<p id="p5">Comme tout licenciement, le licenciement pour motif économique doit être motivé et justifié par une cause réelle et sérieuse.</p>
+			<p id="p6">Sommaire</p>
+			<p id="p7">Les difficultés économiques ou mutations technologiques</p>
+			<p id="p8">Suppression ou transformation d’emploi, modification, refusée par le salarié, d’un élément essentiel de son contrat de travail doivent être causées par des difficultés économiques, des mutations technologiques, la réorganisation de l’entreprise nécessaire à la sauvegarde de sa compétitivité (à distinguer de la simple recherche de bénéfices) ou la cessation d’activité de l’entreprise.</p>
+			<p id="p9">Les difficultés économiques existent lorsqu’il y a perte d’un marché, fort endettement ou déficit important mais non lorsque survient un incident passager et peu important (légère baisse des ventes). De même, la seule recherche d’économie, alors que la situation économique et financière de l’entreprise est bonne, ne peut justifier un licenciement. La mutation technologique (acquisition de nouveaux outils entraînant de nouvelles méthodes de travail, informatisation) peut également être la cause d’un licenciement économique.</p>
+			<p id="p10">L’employeur est tenu - lorsque les mutations technologiques sont importantes et rapides - d’établir un plan d’adaptation au bénéfice des salariés.</p>
+			<p id="p11">Le licenciement pour motif économique ne peut intervenir que lorsque tous les efforts de formation et d’adaptation ont été réalisés et que le reclassement de l’intéressé ne peut être opéré dans l’entreprise ou dans les entreprises du groupe auquel l’entreprise appartient .</p>
+			<p id="p12">La suppression d’emploi</p>
+			<p id="p13">Il peut s’agir d’une suppression de poste pure et simple mais aussi de la répartition des tâches réalisées par le salarié licencié entre les autres salariés de l’entreprise.</p>
+			<p id="p14">La suppression de poste n’implique pas forcément une diminution d’effectif : une réorganisation de l’entreprise peut exiger la création de nouveaux emplois parallèlement à la suppression de certaines fonctions.</p>
+			<p id="p15">En revanche, n’est pas fondé sur une cause économique, le licenciement d’un salarié dont l’intégralité des tâches est reprise par son remplaçant.</p>
+			<p id="p16">La transformation d’emploi</p>
+			<p id="p17">La transformation d’emploi - qui peut entraîner une modification du contrat de travail - est une modification de la nature de l’emploi : tâches nouvelles, informatisation…</p>
+			<p id="p18">La modification d’un élément essentiel du contrat de travail</p>
+			<p id="p19">Il s’agit des modifications qui touchent un ou des éléments essentiels du contrat de travail (et, en premier lieu, la qualification, la rémunération et la durée du travail) et qui sont refusées par le salarié.</p>
+			<p id="p20">Lorsqu’au moins 10 salariés ont refusé la modification d’un élément essentiel de leur contrat de travail proposée par leur employeur pour un motif économique et que leur licenciement est envisagé, celui-ci est soumis aux dispositions applicables en cas de licenciement collectif pour motif économique (obligation pour l’employeur d’élaborer un plan de sauvegarde de l’emploi ).</p>
+			<p id="p21">En cas de litige sur le caractère réel et sérieux des motifs invoqués par l’employeur à l’appui du licenciement, le juge se détermine au vu des éléments fournis par les parties, après avoir ordonné, au besoin, toutes les mesures d’instruction qu’il estime utiles. Si un doute subsiste, il profite au salarié.</p>
+			<p id="p22">Textes de référence</p>
+			<p id="p23">Articles L. 1233-1 à L. 1233-4, L. 1233-25, L. 1236-1 et L 2323-14 du Code du travail</p>
+			<p id="p24">Loi n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail (JO du 26)</p>
+			<p id="p25">© Ministère du Travail, de la Solidarité et de la Fonction Publique</p>
+			<p id="p26">Ces fiches pratiques donnent une information synthétique. Les informations fournies n’ont pas de valeur légale ou réglementaire.</p>
+		</body>
+	</text>
+</cesDoc>

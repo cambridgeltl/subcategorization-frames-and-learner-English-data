@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>En abril de 2010 despedí a un trabajador y el despido fue declarado improcedente ¿puedo ahora celebrar un contrato de fomento de la contratación indefinida con un desempleado en paro desde febrero de 2010?</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>En abril de 2010 despedí a un trabajador y el despido fue declarado improcedente ¿puedo ahora celebrar un contrato de fomento de la contratación indefinida con un desempleado en paro desde febrero de 2010?</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-17 09:03:35.0</pubDate>
+							<eAddress>http://reformalaboral2010.es/asp/documentos/ver.asp?pagina=&amp;tipoitem=R&amp;iditem=002745</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="es"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>acuerdo</keyTerm>
+					<keyTerm>barcenas</keyTerm>
+					<keyTerm>borrador</keyTerm>
+					<keyTerm>causas de despido</keyTerm>
+					<keyTerm>CEOE</keyTerm>
+					<keyTerm>contrato</keyTerm>
+					<keyTerm>contrato indefinido</keyTerm>
+					<keyTerm>contrato temporal</keyTerm>
+					<keyTerm>corbacho</keyTerm>
+					<keyTerm>crisis</keyTerm>
+					<keyTerm>derecho laboral</keyTerm>
+					<keyTerm>despido</keyTerm>
+					<keyTerm>despido improcedente</keyTerm>
+					<keyTerm>despido procedente</keyTerm>
+					<keyTerm>economia</keyTerm>
+					<keyTerm>empresa en crisis</keyTerm>
+					<keyTerm>finiquito</keyTerm>
+					<keyTerm>fomento del empleo indefinido</keyTerm>
+					<keyTerm>fomento empleo indefinido</keyTerm>
+					<keyTerm>gobierno</keyTerm>
+					<keyTerm>indemnizacion</keyTerm>
+					<keyTerm>jubilación anticipada</keyTerm>
+					<keyTerm>laboral</keyTerm>
+					<keyTerm>legislacion</keyTerm>
+					<keyTerm>legislacion laboral</keyTerm>
+					<keyTerm>negociacion</keyTerm>
+					<keyTerm>pacto</keyTerm>
+					<keyTerm>patronal</keyTerm>
+					<keyTerm>pensiones</keyTerm>
+					<keyTerm>propuesta</keyTerm>
+					<keyTerm>propuesta reforma laboral</keyTerm>
+					<keyTerm>proyecto</keyTerm>
+					<keyTerm>reforma</keyTerm>
+					<keyTerm>reforma laboral 2010</keyTerm>
+					<keyTerm>reforma laboral españa</keyTerm>
+					<keyTerm>sindicatos</keyTerm>
+					<keyTerm>texto reforma laboral</keyTerm>
+					<keyTerm>zapatero</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_ES/64879.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">— En abril de 2010 despedí a un trabajador y el despido fue declarado improcedente ¿puedo ahora celebrar un contrato de fomento de la contratación indefinida con un desempleado en paro desde febrero de 2010? —</p>
+			<p id="p2">Una de las novedades del Real Decreto-Ley 10/2010 ha sido la ampliación del colectivo de personas con las que se puede celebrar este tipo de contrato. Uno de estos colectivos es el de los parados que lleven, al menos, tres meses inscritos como demandantes de empleo (anteriormente se requería que el desempleado llevara un mínimo de seis meses ininterrumpidos inscrito como demandante de empleo).</p>
+			<p id="p3">Por otro lado, dispone la norma que no podrá concertar este contrato aquel empresario que en los seis meses anteriores a la celebración del mismo hubiera extinguido contratos de trabajo, cuando dichos despidos hubieran sido declarados o reconocidos improcedentes, o hubiera realizado un despido colectivo. Sin embargo, esta limitación sólo opera desde la entrada en vigor del Real Decreto-Ley.</p>
+			<p id="p4">Por lo tanto, puesto que la persona a la que se va a contratar lleva en paro más de tres meses, y el despido improcedente se produjo antes de la entrada en vigor del Real Decreto-Ley, nada obsta para que se pueda realizar el contrato de fomento de la contratación indefinida planteado en la cuestión.</p>
+		</body>
+	</text>
+</cesDoc>

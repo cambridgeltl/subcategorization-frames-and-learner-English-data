@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:36.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=216</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/750.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">Licenciements répétitifs et plan de sauvegarde de l'emploi</p>
+			<p id="p4">La Cour de cassation a donné une appréciation sur la notion de licenciements répétitifs entraînant l'obligation de mettre en place un plan de sauvegarde de l’emploi (Cass. Soc. 15 mai 2002, n° 00-14.442).</p>
+			<p id="p5">L'apport de cette jurisprudence est important car il ne s'agit plus seulement de comptabiliser le nombre de licenciements prononcés pour motif économique, mais également le nombre de licenciements prononcés, prétendument, pour un motif personnel et de façon, plus classique, le nombre de mutations emportant modification substantielle du contrat de travail.</p>
+			<p id="p6">Bien que l'arrêt précité ne prenne pas position sur ce point, on pourrait également recenser le nombre de démissions "provoquées" par l'employeur pour éviter d'avoir à comptabiliser ces départs dans le nombre de licenciements pour motif économique notifiés.</p>
+			<p id="p7">Il faut rappeler brièvement l'enjeu du débat. Les articles L.1233-8 et suivants du code du travail prévoient un décompte du nombre de licenciements pour motif économique sur une période de 30 jours. Si, sur cette période, plus de dix licenciements pour motif économique sont prononcés, l'entreprise (de 50 salariés ou plus) aurait dû mettre en place un plan de sauvegarde de l’emploi auquel s’intègre un plan de reclassement des salariés. Pour établir ce décompte, il faut également tenir compte des refus de modifications d'un élément essentiel du contrat de travail proposées aux salariés.</p>
+			<p id="p8">L'apport de l'arrêt de la Cour de cassation du 15 mai 2002 est de ne pas s'attacher à la qualification donnée par l'entreprise. Si, sous couvert de licenciements pour motif personnel, l'entreprise a, en fait, recherché la rupture des contrats de travail pour motif économique, il convient de requalifier ces ruptures en licenciement pour motif économique pour déterminer si le seuil de plus de dix salariés a été atteint. Si c’est le cas, les licenciements en cause sont nuls et ce, en raison de l'absence de mise en place d'un plan de sauvegarde de l’emploi (article L.1235-10 du code du travail).</p>
+			<p id="p9">Pour relativiser la portée de cet arrêt, il convient de souligner que l’affaire soumise à la Cour de cassation était un cas extrême. En effet, l'entreprise avait, en dehors des mutations, mis en œuvre huit licenciements pour motif personnel sur "des motifs généraux et redondants (désaccord avec le chef de service, démotivation, défaut d'implication) et ne faisant référence à aucun élément précis étayant le motif du licenciement". C'est cette inanité évidente des griefs invoqués qui a conduit la Cour à confirmer la requalification opérée par le juge du fond. Elle n'aurait pas pu franchir ce pas aussi facilement si les licenciements concernés avaient été motivés par des faits précis et réels. </p>
+			<p id="p10">Source : Me Isabelle CHEVALIER-DUPONT</p>
+			<p id="p11">A lire aussi :</p>
+		</body>
+	</text>
+</cesDoc>

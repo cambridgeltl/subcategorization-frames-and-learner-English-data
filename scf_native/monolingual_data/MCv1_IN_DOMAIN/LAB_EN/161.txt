@@ -1,0 +1,208 @@
+ Subpart:
+ Appendix:
+1910.1020(a)
+"Purpose." The purpose of this section is to provide employees and their designated representatives a right of access to relevant exposure and medical records; and to provide representatives of the Assistant Secretary a right of access to these records in order to fulfill responsibilities under the Occupational Safety and Health Act. Access by employees, their representatives, and the Assistant Secretary is necessary to yield both direct and indirect improvements in the detection, treatment, and prevention of occupational disease. Each employer is responsible for assuring compliance with this section, but the activities involved in complying with the access to medical records provisions can be carried out, on behalf of the employer, by the physician or other health care personnel in charge of employee medical records. Except as expressly provided, nothing in this section is intended to affect existing legal and ethical obligations concerning the maintenance and confidentiality of employee medical information, the duty to disclose information to a patient/employee or any other aspect of the medical-care relationship, or affect existing legal obligations concerning the protection of trade secret information.
+1910.1020(b)(1)
+This section applies to each general industry, maritime, and construction employer who makes, maintains, contracts for, or has access to employee exposure or medical records, or analyses thereof, pertaining to employees exposed to toxic substances or harmful physical agents.
+1910.1020(b)(2)
+This section applies to all employee exposure and medical records, and analyses thereof, of such employees, whether or not the records are mandated by specific occupational safety and health standards.
+1910.1020(b)(3)
+This section applies to all employee exposure and medical records, and analyses thereof, made or maintained in any manner, including on an in-house or contractual (e.g., fee-for-service) basis. Each employer shall assure that the preservation and access requirements of this section are complied with regardless of the manner in which records are made or maintained.
+1910.1020(c)(2)
+"Analysis using exposure or medical records" means any compilation of data or any statistical study based at least in part on information collected from individual employee exposure or medical records or information collected from health insurance claims records, provided that either the analysis has been reported to the employer or no further work is currently being done by the person responsible for preparing the analysis.
+1910.1020(c)(3)
+"Designated representative" means any individual or organization to whom an employee gives written authorization to exercise a right of access. For the purposes of access to employee exposure records and analyses using exposure or medical records, a recognized or certified collective bargaining agent shall be treated automatically as a designated representative without regard to written employee authorization.
+1910.1020(c)(4)
+"Employee" means a current employee, a former employee, or an employee being assigned or transferred to work where there will be exposure to toxic substances or harmful physical agents. In the case of a deceased or legally incapacitated employee, the employee's legal representative may directly exercise all the employee's rights under this section.
+Environmental (workplace) monitoring or measuring of a toxic substance or harmful physical agent, including personal, area, grab, wipe, or other form of sampling, as well as related collection and analytical methodologies, calculations, and other background data relevant to interpretation of the results obtained;
+1910.1020(c)(5)(ii)
+Biological monitoring results which directly assess the absorption of a toxic substance or harmful physical agent by body systems (e.g., the level of a chemical in the blood, urine, breath, hair, fingernails, etc.) but not including results which assess the biological effect of a substance or agent or which assess an employee's use of alcohol or drugs;
+1910.1020(c)(5)(iv)
+In the absence of the above, a chemical inventory or any other record which reveals where and when used and the identity (e.g., chemical, common, or trade name) of a toxic substance or harmful physical agent.
+1910.1020(c)(6)(i)
+"Employee medical record" means a record concerning the health status of an employee which is made or maintained by a physician, nurse, or other health care personnel, or technician, including:
+1910.1020(c)(6)(i)(A)
+The results of medical examinations (pre-employment, pre-assignment, periodic, or episodic) and laboratory tests (including chest and other X-ray examinations taken for the purpose of establishing a base-line or detecting occupational illnesses and all biological monitoring not defined as an "employee exposure record"),
+1910.1020(c)(6)(i)(C)
+1910.1020(c)(6)(i)(D)
+1910.1020(c)(6)(i)(F)
+1910.1020(c)(6)(ii)(A)
+Physical specimens (e.g., blood or urine samples) which are routinely discarded as a part of normal medical practice, or
+1910.1020(c)(6)(ii)(B)
+Records concerning health insurance claims if maintained separately from the employer's medical program and its records, and not accessible to the employer by employee name or other direct personal identifier (e.g., social security number, payroll number, etc.), or
+1910.1020(c)(6)(ii)(D)
+Records concerning voluntary employee assistance programs (alcohol, drug abuse, or personal counseling programs) if maintained separately from the employer's medical program and its records.
+"Exposure" or "exposed" means that an employee is subjected to a toxic substance or harmful physical agent in the course of employment through any route of entry (inhalation, ingestion, skin contact or absorption, etc.), and includes past exposure and potential (e.g., accidental or possible) exposure, but does not include situations where the employer can demonstrate that the toxic substance or harmful physical agent is not used, handled, stored, generated, or present in the workplace in any manner different from typical non-occupational situations.
+1910.1020(c)(9)
+" Health Professional" means a physician, occupational health nurse, industrial hygienist, toxicologist, or epidemiologist, providing medical or other occupational health services to exposed employees.
+1910.1020(c)(11)
+"Specific chemical identity" means a chemical name, Chemical Abstracts Service (CAS) Registry Number, or any other information that reveals the precise chemical designation of the substance.
+1910.1020(c)(12)
+1910.1020(c)(12)(i)(A)
+1910.1020(c)(12)(i)(B)
+1910.1020(c)(12)(i)(C)
+1910.1020(c)(12)(i)(D)
+The name of the designated representative (individual or organization) that is authorized to receive the released information,
+1910.1020(c)(12)(i)(E)
+1910.1020(c)(12)(i)(F)
+1910.1020(c)(12)(i)(G)
+1910.1020(c)(12)(ii)
+A written authorization does not operate to authorize the release of medical information not in existence on the date of written authorization, unless the release of future information is expressly authorized, and does not operate for more than one year from the date of written authorization.
+1910.1020(c)(12)(iii)
+1910.1020(c)(13)(i)
+Is listed in the latest printed edition of the National Institute for Occupational Safety and Health (NIOSH) Registry of Toxic Effects of Chemical Substances (RTECS) which is incorporated by reference as specified in Sec. 1910.6; or
+1910.1020(c)(13)(ii)
+Has yielded positive evidence of an acute or chronic health hazard in testing conducted by, or known to, the employer; or
+1910.1020(c)(13)(iii)
+Is the subject of a material safety data sheet kept by or known to the employer indicating that the material may pose a hazard to human health.
+"Trade secret" means any confidential formula, pattern, process, device, or information or compilation of information that is used in an employer's business and that gives the employer an opportunity to obtain an advantage over competitors who do not know or use it.
+1910.1020(d)(1)(i)(A)
+1910.1020(d)(1)(i)(B)
+First aid records (not including medical histories) of one-time treatment and subsequent observation of minor scratches, cuts, burns, splinters, and the like which do not involve medical treatment, loss of consciousness, restriction of work or motion, or transfer to another job, if made on-site by a non-physician and if maintained separately from the employer's medical program and its records, and
+1910.1020(d)(1)(i)(C)
+The medical records of employees who have worked for less than (1) year for the employer need not be retained beyond the term of employment if they are provided to the employee upon the termination of employment.
+1910.1020(d)(1)(ii)(A)
+Background data to environmental (workplace) monitoring or measuring, such as laboratory reports and worksheets, need only be retained for one (1) year so long as the sampling results, the collection methodology (sampling plan), a description of the analytical and mathematical methods used, and a summary of other background data relevant to interpretation of the results obtained, are retained for at least thirty (30) years; and
+Material safety data sheets and paragraph (c)(5)(iv) records concerning the identity of a substance or agent need not be retained for any specified period as long as some record of the identity (chemical name if known) of the substance or agent, where it was used, and when it was used is retained for at least thirty (30) years(1); and
+1910.1020(d)(1)(ii)(C)
+Biological monitoring results designated as exposure records by specific occupational safety and health standards shall be preserved and maintained as required by the specific standard.
+1910.1020(d)(1)(iii)
+"Analyses using exposure or medical records." Each analysis using exposure or medical records shall be preserved and maintained for at least thirty (30) years.
+Nothing in this section is intended to mandate the form, manner, or process by which an employer preserves a record so long as the information  contained in the record is preserved and retrievable, except that chest X-ray films shall be preserved in their original state.
+Whenever an employee or designated representative requests access to a record, the employer shall assure that access is provided in a reasonable time, place, and manner. If the employer cannot reasonably provide access to the record within fifteen (15) working days, the employer shall within the fifteen (15) working days apprise the employee or designated representative requesting the record of the reason for the delay and the earliest date when the record can be made available.
+1910.1020(e)(1)(ii)
+The employer may require of the requester only such information as should be readily known to the requester and which may be necessary to locate or identify the records being requested (e.g. dates and locations where the employee worked during the time period in question).
+1910.1020(e)(1)(iii)
+Whenever an employee or designated representative requests a copy of a record, the employer shall assure that either:
+1910.1020(e)(1)(iii)(C)
+The record is loaned to the employee or representative for a reasonable time to enable a copy to be made.
+1910.1020(e)(1)(v)
+Whenever a record has been previously provided without cost to an employee or designated representative, the employer may charge reasonable, non-discriminatory administrative costs (i.e., search and copying expenses but not including overhead expenses) for a request by the employee or designated representative for additional copies of the record, except that
+1910.1020(e)(1)(v)(A)
+An employer shall not charge for an initial request for a copy of new information that has been added to a record which was previously provided; and
+1910.1020(e)(1)(v)(B)
+An employer shall not charge for an initial request by a recognized or certified collective bargaining agent for a copy of an employee exposure record or an analysis using exposure or medical records.
+1910.1020(e)(1)(vi)
+Nothing in this section is intended to preclude employees and collective bargaining agents from collectively bargaining to obtain access to information in addition to that available under this section.
+1910.1020(e)(2)(i)
+1910.1020(e)(2)(i)(A)
+Except as limited by paragraph (f) of this section, each employer shall, upon request, assure the access to each employee and designated representative to employee exposure records relevant to the employee. For the purpose of this section, an exposure record relevant to the employee consists of:
+1910.1020(e)(2)(i)(A)
+(1)
+A record which measures or monitors the amount of a toxic substance or harmful physical agent to which the employee is or has been exposed;
+1910.1020(e)(2)(i)(A)
+(2)
+In the absence of such directly relevant records, such records of other employees with past or present job duties or working conditions related to or similar to those of the employee to the extent necessary to reasonably indicate the amount and nature of the toxic substances or harmful physical agents to which the employee is or has been subjected, and
+1910.1020(e)(2)(i)(A)
+(3)
+Exposure records to the extent necessary to reasonably indicate the amount and nature of the toxic substances or harmful physical agents at workplaces or under working conditions to which the employee is being assigned or transferred.
+1910.1020(e)(2)(i)(B)
+Requests by designated representatives for unconsented access to employee exposure records shall be in writing and shall specify with reasonable particularity:
+1910.1020(e)(2)(i)(B)
+1910.1020(e)(2)(i)(B)
+1910.1020(e)(2)(ii)
+1910.1020(e)(2)(ii)(A)
+Each employer shall, upon request, assure the access of each employee to employee medical records of which the employee is the subject, except as provided in paragraph (e)(2)(ii)(D) of this section.
+1910.1020(e)(2)(ii)(B)
+Each employer shall, upon request, assure the access of each designated representative to the employee medical records of any employee who has given the designated representative specific written consent. Appendix A to this section contains a sample form which may be used to establish specific written consent for access to employee medical records.
+1910.1020(e)(2)(ii)(C)
+Whenever access to employee medical records is requested, a physician representing the employer may recommend that the employee or designated representative:
+1910.1020(e)(2)(ii)(C)
+1910.1020(e)(2)(ii)(C)
+1910.1020(e)(2)(ii)(C)
+1910.1020(e)(2)(ii)(D)
+Whenever an employee requests access to his or her employee medical records, and a physician representing the employer believes that direct employee access to information contained in the records regarding a specific diagnosis of a terminal illness or a psychiatric condition could be detrimental to the employee's health, the employer may inform the employee that access will only be provided to a designated representative of the employee having specific written consent, and deny the employee's request for direct access to this information only. Where a designated representative with specific written consent requests access to information so withheld, the employer shall assure the access of the designated representative to this information, even when it is known that the designated representative will give the information to the employee.
+1910.1020(e)(2)(ii)(E)
+A physician, nurse, or other responsible health care personnel maintaining employee medical records may delete from requested medical records the identity of a family member, personal friend, or fellow employee who has provided confidential information concerning an employee's health status.
+1910.1020(e)(2)(iii)
+1910.1020(e)(2)(iii)(A)
+Each employer shall, upon request, assure the access of each employee and designated representative to each analysis using exposure or medical records concerning the employee's working conditions or workplace.
+1910.1020(e)(2)(iii)(B)
+Whenever access is requested to an analysis which reports the contents of employee medical records by either direct identifier (name, address, social security number, payroll number, etc.) or by information which could reasonably be used under the circumstances indirectly to identify specific employees (exact age, height, weight, race, sex, date of initial employment, job title, etc.), the employer shall assure that personal identifiers are removed before access is provided. If the employer can demonstrate that removal of personal identifiers from an analysis is not feasible, access to the personally identifiable portions of the analysis need not be provided.
+1910.1020(e)(3)
+1910.1020(e)(3)(i)
+Each employer shall, upon request, and without derogation of any rights under the Constitution or the Occupational Safety and Health Act of 1970, 29 U.S.C. 651 "et seq.," that the employer chooses to exercise, assure the prompt access of representatives of the Assistant Secretary of Labor for Occupational Safety and Health to employee exposure and medical records and to analyses using exposure or medical records. Rules of agency practice and procedure governing OSHA access to employee medical records are contained in 29 CFR 1913.10.
+1910.1020(e)(3)(ii)
+Whenever OSHA seeks access to personally identifiable employee medical information by presenting to the employer a written access order pursuant to 29 CFR 1913.10(d), the employer shall prominently post a copy of the written access order and its accompanying cover letter for at least fifteen (15) working days.
+1910.1020(f)
+1910.1020(f)(1)
+Except as provided in paragraph (f)(2) of this section, nothing in this section precludes an employer from deleting from records requested by a health professional, employee, or designated representative any trade secret data which discloses manufacturing processes, or discloses the percentage of a chemical substance in mixture, as long as the health professional, employee, or designated representative is notified that information has been deleted. Whenever deletion of trade secret information substantially impairs evaluation of the place where or the time when exposure to a toxic substance or harmful physical agent occurred, the employer shall provide alternative information which is sufficient to permit the requesting party to identify where and when exposure occurred.
+1910.1020(f)(2)
+The employer may withhold the specific chemical identity, including the chemical name and other specific identification of a toxic substance from a disclosable record provided that:
+1910.1020(f)(2)(i)
+1910.1020(f)(2)(ii)
+1910.1020(f)(2)(iii)
+The employer informs the requesting party that the specific chemical identity is being withheld as a trade secret; and
+1910.1020(f)(2)(iv)
+The specific chemical identity is made available to health professionals, employees and designated representatives in accordance with the specific applicable provisions of this paragraph.
+1910.1020(f)(3)
+Where a treating physician or nurse determines that a medical emergency exists and the specific chemical identity of a toxic substance is necessary for emergency or first-aid treatment, the employer shall immediately disclose the specific chemical identity of a trade secret chemical to the treating physician or nurse, regardless of the existence of a written statement of need or a confidentiality agreement. The employer may require a written statement of need and confidentiality agreement, in accordance with the provisions of paragraphs (f)(4) and (f)(5), as soon as circumstances permit.
+1910.1020(f)(4)(i)
+1910.1020(f)(4)(ii)(A)
+1910.1020(f)(4)(ii)(B)
+1910.1020(f)(4)(ii)(C)
+1910.1020(f)(4)(ii)(D)
+1910.1020(f)(4)(ii)(E)
+1910.1020(f)(4)(ii)(F)
+1910.1020(f)(4)(ii)(G)
+1910.1020(f)(4)(iii)
+The request explains in detail why the disclosure of the specific chemical identity is essential and that, in lieu thereof, the disclosure of the following information would not enable the health professional, employee or designated representative to provide the occupational health services described in paragraph (f)(4)(ii) of this section;
+1910.1020(f)(4)(iii)(A)
+1910.1020(f)(4)(iii)(B)
+1910.1020(f)(4)(iii)(C)
+1910.1020(f)(4)(iii)(D)
+1910.1020(f)(4)(v)
+The health professional, employee, or designated representative and the employer or contractor of the services of the health professional or designated representative agree in a written confidentiality agreement that the health professional, employee or designated representative will not use the trade secret information for any purpose other than the health need(s) asserted and agree not to release the information under any circumstances other than to OSHA, as provided in paragraph (f)(7) of this section, except as authorized by the terms of the agreement or by the employer.
+1910.1020(f)(5)
+1910.1020(f)(5)(i)
+May restrict the use of the information to the health purposes indicated in the written statement of need;
+1910.1020(f)(5)(ii)
+May provide for appropriate legal remedies in the event of a breach of the agreement, including stipulation of a reasonable pre-estimate of likely damages; and,
+1910.1020(f)(5)(iii)
+1910.1020(f)(6)
+Nothing in this section is meant to preclude the parties from pursuing non-contractual remedies to the extent permitted by law.
+1910.1020(f)(7)
+If the health professional, employee or designated representative receiving the trade secret information decides that there is a need to disclose it to OSHA, the employer who provided the information shall be informed by the health professional prior to, or at the same time as, such disclosure.
+1910.1020(f)(8)
+If the employer denies a written request for disclosure of a specific chemical identity, the denial must:
+1910.1020(f)(8)(i)
+1910.1020(f)(8)(ii)
+1910.1020(f)(8)(iv)
+1910.1020(f)(8)(v)
+Explain in detail how alternative information may satisfy the specific medical or occupational health need without revealing the specific chemical identity.
+1910.1020(f)(9)
+The health professional, employee, or designated representative whose request for information is denied under paragraph (f)(4) of this section may refer the request and the written denial of the request to OSHA for consideration.
+1910.1020(f)(10)
+When a health professional, employee, or designated representative refers a denial to OSHA under paragraph (f)(9) of this section, OSHA shall consider the evidence to determine if:
+1910.1020(f)(10)(i)
+1910.1020(f)(10)(ii)
+The health professional employee, or designated representative has supported the claim that there is a medical or occupational health need for the information; and
+1910.1020(f)(10)(iii)
+1910.1020(f)(11)
+1910.1020(f)(11)(i)
+If OSHA determines that the specific chemical identity requested under paragraph (f)(4) of this section is not a "bona fide" trade secret, or that it is a trade secret but the requesting health professional, employee or designated representatives has a legitimate medical or occupational health need for the information, has executed a written confidentiality agreement, and has shown adequate means for complying with the terms of such agreement, the employer will be subject to citation by OSHA.
+1910.1020(f)(11)(ii)
+If an employer demonstrates to OSHA that the execution of a confidentiality agreement would not provide sufficient protection against the potential harm from the unauthorized disclosure of a trade secret specific chemical identity, the Assistant Secretary may issue such orders or impose such additional limitations or conditions upon the disclosure of the requested chemical information as may be appropriate to assure that the occupational health needs are met without an undue risk of harm to the employer.
+1910.1020(f)(12)
+Notwithstanding the existence of a trade secret claim, an employer shall, upon request, disclose to the Assistant Secretary any information which this section requires the employer to make available. Where there is a trade secret claim, such claim shall be made no later than at the time the information is provided to the Assistant Secretary so that suitable determinations of trade secret status can be made and the necessary protections can be implemented.
+1910.1020(f)(13)
+Nothing in this paragraph shall be construed as requiring the disclosure under any circumstances of process or percentage of mixture information which is a trade secret.
+1910.1020(g)
+1910.1020(g)(1)(i)
+1910.1020(g)(1)(ii)
+1910.1020(g)(1)(iii)
+1910.1020(g)(2)
+Each employer shall keep a copy of this section and its appendices, and make copies readily available, upon request, to employees. The employer shall also distribute to current employees any informational materials concerning this section which are made available to the employer by the Assistant Secretary of Labor for Occupational Safety and Health.
+1910.1020(h)(2)
+Whenever an employer is ceasing to do business and there is no successor employer to receive and maintain the records subject to this standard, the employer shall notify affected current employees of their rights of access to records at least three (3) months prior to the cessation of the employer's business.
+Whenever an employer either is ceasing to do business and there is no successor employer to receive and maintain the records, or intends to dispose of any records required to be preserved for at least thirty (30) years, the employer shall:
+1910.1020(h)(3)(i)
+Transfer the records to the Director of the National Institute for Occupational Safety and Health (NIOSH) if so required by a specific occupational safety and health standard; or
+1910.1020(h)(3)(ii)
+Notify the Director of NIOSH in writing of the impending disposal of records at least three (3) months prior to the disposal of the records.
+1910.1020(h)(4)
+Where an employer regularly disposes of records required to be preserved for at least thirty (30) years, the employer may, with at least (3) months notice, notify the Director of NIOSH on an annual basis of the records intended to be disposed of in the coming year.
+1910.1020(i)
+"Appendices." The information contained in appendices A and B to this section is not intended, by itself, to create any additional obligations not otherwise imposed by this section nor detract from any existing obligation.
+[61 FR 5507, Feb. 13, 1996; 61 FR 9227, March 7, 1996; 61 FR 31427, June 20, 1996; 71 FR 16673, April 3, 2006]
+Telephone: 800-321-OSHA (6742)  |  TTY: 877-889-5627

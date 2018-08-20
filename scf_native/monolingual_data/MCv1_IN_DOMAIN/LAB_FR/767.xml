@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Droit du travail, contrat travail, rupture, embauche, droit du travail</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 17:21:40.0</pubDate>
+							<eAddress>http://www.convention-collective.fr/droit-travail/article.php?article=1279</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>droit travail</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/767.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Consultez votre convention collective : convention collective nationale, convention collective applicable, convention collective code ape, convention collective unique, convention collective cadre, convention collective automobile, convention collective animation, convention collective assurance, convention collective batiment, convention collective btp, convention collective chimie, convention collective coiffure, convention collective commerce, convention collective enseignement prive, convention collective des fleuristes, convention collective gardien immeuble, convention collective de l hotellerie, convention collective de l habillement, convention collective de l immobilier, convention collective de la metallurgie, convention collective notariat, convention collective des organismes de formation, convention collective de la pharmacie, convention collective de la plasturgie, convention collective de la restauration, convention collective de la restauration rapide, convention collective syntec, convention collective de la securite, convention collective du transport, convention collective du travail, convention collective du tourisme ...</p>
+			<p id="p2">Droit du travail</p>
+			<p id="p3">Qu’est ce que la délégation de pouvoirs ?</p>
+			<p id="p4">La délégation de pouvoirs est un acte juridique qui permet au dirigeant de droit ou de fait (le déléguant) de transférer une partie de ses pouvoirs à un subordonné (le délégataire), ce dernier devant être pourvu de l’autorité, de la compétence et des moyens (aussi financiers) nécessaires.</p>
+			<p id="p5">Conséquence, le délégataire devient responsable pénalement au lieu et place du déléguant.</p>
+			<p id="p6">Dans quels types d’entreprises ou d’organisations se pratique le plus souvent la délégation de pouvoirs ?</p>
+			<p id="p7">Incontournable dans les organisations multi-sites telles que les agences bancaires, chaînes de magasins, grandes enseignes de bricolage, groupes automobile etc, la délégation de pouvoirs s’impose immédiatement dans une structure, publique ou privée dont la spécificité n’autorise pas le dirigeant à assurer lui-même le respect de la réglementation de la sécurité au travail.</p>
+			<p id="p8">La délégation de pouvoirs peut-elle être considérée comme un outil de gestion à part entière de l’organisation de l’entreprise ou du service ?</p>
+			<p id="p9">Certainement, et c’est d’autant plus vrai que l’absence de délégation de pouvoirs peut-être considérée par le juge comme une faute susceptible d’engager la responsabilité du chef d’entreprise au regard de l’absence de prévention des risques d’infractions aux règlements. (Pourvoi N°84-94274)</p>
+			<p id="p10">La délégation de pouvoirs doit-elle revêtir une forme particulière ?</p>
+			<p id="p11">En principe non, mais, précise et limitée à certains domaines dans son champ et dans le temps, il est vivement recommandé pour des raisons d’administration de la preuve, de procéder impérativement par écrit - cf. modèle de Délégation de pouvoir en matière d'hygiène et de sécurité</p>
+			<p id="p12">Qu’en est-il de l’acceptation par le délégataire ?</p>
+			<p id="p13">La délégation de pouvoirs se doit d’être certaine et exempte d’ambiguïté, par conséquent et pour la même raison, il est juridiquement recommandé que l’acceptation du délégataire soit précisément formalisée par écrit, surtout en cours d’exécution du contrat de travail.</p>
+			<p id="p14">D’autres domaines de responsabilités peuvent-ils être délégués ?</p>
+			<p id="p15">Le principe de la délégation de pouvoirs est applicable à de multiples domaines de l’entreprise, par exemples, en matière de gestion du personnel, d’environnement etc…</p>
+			<p id="p16">François DANGER</p>
+			<p id="p17">(Dernière mise à jour : Juin 2010)</p>
+			<p id="p18">ACCEDER A VOTRE CONVENTION COLLECTIVE</p>
+		</body>
+	</text>
+</cesDoc>

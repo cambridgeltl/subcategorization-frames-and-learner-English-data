@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Code du travail, Droit du travail, Inspection du travail, Convention Collective</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Code du travail, Droit du travail, Inspection du travail, Convention Collective</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2007-04-23 16:50:47.0</pubDate>
+							<eAddress>http://latieule.eurower.net/droits/Temps%20de%20travail%20-%20Heure%20supplementaire.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/364.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Les heures supplémentaires : heures effectuées au-delà de la durée légale</p>
+			<p id="p2">Il s'agit de toutes les heures de travail effectuées au-delà de la durée légale de 35 heures par semaine.</p>
+			<p id="p3">Lorsque l'entreprise pratique un horaire de travail supérieur, les heures supplémentaires seront celles effectuées au-delà de cet horaire.</p>
+			<p id="p4">Exemple : au-delà de 39 heures par semaine</p>
+			<p id="p5">Ces heures se décomptent par semaine civile : du lundi 0 heure au dimanche 24 heures (ou du dimanche 0 heure au samedi 24 heures si un accord d'entreprise le prévoit).</p>
+			<p id="p6">Tout salarié est concerné par ce décompte, sauf :</p>
+			<p id="p7">en cas d'accord prévoyant un décompte des heures supplémentaires sur un autre module que la semaine</p>
+			<p id="p8">Exemple : modulation, cycles</p>
+			<p id="p9">Les heures supplémentaires : heures réclamées par l'employeur</p>
+			<p id="p10">Les heures supplémentaires doivent être demandées explicitement ou implicitement par l'employeur. Ainsi, le salarié qui reste volontairement une heure chaque soir, alors que l'employeur l'a autorisé à rentrer chez lui, ne peut prétendre effectuer des heures supplémentaires.</p>
+			<p id="p11">A l'inverse, le salarié ne peut refuser d'effectuer des heures supplémentaires au risque de commettre une faute (voire une faute grave).</p>
+			<p id="p12">Par contre, si cette demande est systématique, permanente et s'inscrit dans le temps, son refus pourrait ne pas être fautif si l'on considère qu'il s'agit alors d'une modification du contrat de travail. De même, un refus pourrait être justifié s'il est exceptionnel et s'explique par le caractère très tardif de la demande de l'employeur.</p>
+			<p id="p13">Comment prouver les heures supplémentaires effectuées ?</p>
+			<p id="p14">La preuve des heures supplémentaires ne pèse sur aucune des parties en particulier : autant le salarié que l'employeur doivent apporter tout élément permettant de prouver ou rejeter la réalité de ces heures.</p>
+			<p id="p15">En conséquence, un système de pointage ou le témoignage de clients, de collègues. A défaut d'installation d'un système de pointage, des fiches détaillant les heures effectuées et précisant les tâches accomplies peuvent être établies par accord.</p>
+			<p id="p16">QUELLES CONTREPARTIES POUR LES HEURES SUPPLEMENTAIRES ?</p>
+			<p id="p17">Sachez que ce calcul est très complexe car il dépend à la fois de la taille de l'entreprise (plus ou moins de 20 salariés), ainsi qu'aux éventuels accords collectifs de branche qui sont applicables.</p>
+			<p id="p18">Nous vous exposons le régime prévu par la loi, sachant que la convention collective peut être plus favorable.</p>
+			<p id="p19">Exemple : taux de majoration supérieur, plus grand volume annuel d'heures supplémentaires libres, délai plus long pour prendre son repos compensateur obligatoire, etc...</p>
+			<p id="p20">N'hésitez pas à consulter votre convention collective pour connaître ces éventuels aménagements.</p>
+			<p id="p21">Le paiement majoré des heures supplémentaires</p>
+			<p id="p22">Le taux de majoration pour heure supplémentaire est de:</p>
+			<p id="p23">Entreprise de moins de 20 salariés :</p>
+			<p id="p24">10% pour les 4 premières heures (de la 36ème heure à la 39ème heure incluse)</p>
+			<p id="p25">25% pour les 4 heures suivantes (de la 40ème heure à la 43ème heure incluse)</p>
+			<p id="p26">50% pour les heures accomplies au delà (à compter de la 44ème heure)</p>
+			<p id="p27">Entreprise de 20 salariés et plus :</p>
+			<p id="p28">25% pour les 8 premières heures (de la 36ème à la 43ème heure incluse)</p>
+			<p id="p29">50% pour les heures suivantes (à partir de la 44ème heure)</p>
+			<p id="p30">La récupération des heures supplémentaires : le repos compensateur de remplacement</p>
+			<p id="p31">Les heures supplémentaires donnent lieu :</p>
+			<p id="p32">soit à un paiement majoré du salaire ;</p>
+			<p id="p33">soit pour partie à un paiement majoré, pour partie à un repos ;</p>
+			<p id="p34">soit à un repos compensateur de remplacement pour la totalité des heures supplémentaires effectuées et leurs majorations.</p>
+			<p id="p35">Ainsi, le paiement des heures supplémentaires peut être remplacé, en tout ou partie, par l'octroi d'un repos équivalent par accord collectif ou par accord entre l'employeur et les représentants du personnel.</p>
+			<p id="p36">Exemple : pour 2 heures supplémentaires effectuées dans une entreprise de plus de 20 salariés (majoration de 25%) :</p>
+			<p id="p37">Accord compensant l'heure et sa majoration par du repos : 2 heures 30 de repos</p>
+			<p id="p38">Accord ne compensant que l'heure par du repos : 2 heures de repos et ½ heure payée</p>
+			<p id="p39">Accord ne compensant que la majoration par du repos : 2 heures payées et ½ heure de repos.</p>
+			<p id="p40">Sauf si la convention collective prévoit des modalités différentes, ce repos doit être pris par journée entière ou demi-journée dans un délai de 2 mois. Il suffit de le demander une semaine avant à l'employeur, en précisant les dates et la durée du repos. Il aura une semaine pour l'accepter ou le reporter, après consultation des délégués du personnel.</p>
+			<p id="p41">Il y a cependant 2 limites :</p>
+			<p id="p42">ces repos ne peuvent être pris entre le 1er juillet et le 31 août</p>
+			<p id="p43">ces repos ne peuvent être accolés aux congés payés.</p>
+			<p id="p44">Le repos compensateur obligatoire</p>
+			<p id="p45">Ce temps de repos est obligatoirement accordé pour les heures supplémentaires effectuées au-delà de certaines limites. Il s'ajoute alors aux majorations de salaires et/ou au repos compensateur de remplacement.</p>
+			<p id="p46">L'employeur dispose en effet d'un « contingent » légal de 220 heures (ou inférieur selon la convention collective). Au-delà de ce contingent, il ne pourra faire effectuer des heures supplémentaires qu'avec l'autorisation de l'inspection du travail.</p>
+			<p id="p47">Ne s'imputent pas sur le contingent :</p>
+			<p id="p48">les heures supplémentaires effectuées pour travaux urgents liés à la sécurité</p>
+			<p id="p49">les heures supplémentaires intégralement compensées par un repos compensateur de remplacement</p>
+			<p id="p50">les heures supplémentaires effectuées dans le cadre de la journée de solidarité.</p>
+			<p id="p51">Les taux de repos compensateur obligatoire varient en fonction de l'effectif de l'entreprise et du volume d'heures supplémentaires effectuées dans l'année :</p>
+			<p id="p52">Entreprise de moins de 20 salariés</p>
+			<p id="p53">jusqu'à 220 heures par an : pas de repos compensateur obligatoire</p>
+			<p id="p54">au delà de 220 heures par an : dès la 36e heure, repos compensateur de 50%.</p>
+			<p id="p55">Entreprise de 20 salariés et plus</p>
+			<p id="p56">jusqu'à 220 heures par an : dès la 42e heure, repos compensateur de 50%</p>
+			<p id="p57">au delà de 220 heures par an : dès la 36e heure, repos compensateur de 100%.</p>
+			<p id="p58">L'employeur doit informer régulièrement le salarié de ses droits à repos. Celui-ci doit être pris par journée entière ou demi-journée, dans un délai de 2 mois.</p>
+			<p id="p59">Il suffit pour le salarié de le demander une semaine à l'avance, en précisant les dates et la durée du repos. L'employeur aura une semaine pour l'accepter ou le reporter, après consultation des délégués du personnel.</p>
+			<p id="p60">Il y a cependant deux limites. Le salarié ne pourra pas :</p>
+			<p id="p61">prendre ces repos entre le 1er juillet et le 31 août</p>
+			<p id="p62">accoler ces repos aux congés payés.</p>
+			<p id="p63">Si le salarié ne prend pas ses repos, il ne perd pas son droit. L'employeur est alors tenu de lui demander de les prendre dans un délai d'un an maximum.</p>
+			<p id="p64">Attention :</p>
+			<p id="p65">Le repos compensateur obligatoire ne pourra jamais être compensé par une indemnité, sauf en cas de rupture du contrat de travail.</p>
+			<p id="p66">LES HEURES CHOISIES</p>
+			<p id="p67">Il s'agit d'heures supplémentaires que le salarié souhaite effectuer, avec l'accord de son employeur, au-delà du contingent.</p>
+			<p id="p68">Cette possibilité doit être prévue par une convention ou un accord collectif, qui précise :</p>
+			<p id="p69">les conditions dans lesquelles les heures choisies sont effectuées</p>
+			<p id="p70">la majoration de salaire ou le repos auquel elles donnent lieu.</p>
+			<p id="p71">A noter :</p>
+			<p id="p72">La majoration de salaire ne peut pas être inférieure à celle prévue pour les heures supplémentaires dans l'entreprise.</p>
+			<p id="p73">Les heures choisies ne doivent pas aboutir à dépasser les durées maximales du travail (voir ci-dessus).</p>
+			<p id="p74">L'autorisation de l'inspecteur du travail n'est pas requise. Le salarié n'aura droit à aucun repos compensateur obligatoire.</p>
+			<p id="p75">Mise à jour : novembre 2005</p>
+			<p id="p76">Tous droits réservés © 1999-2007 Infotravail</p>
+			<p id="p77">Droit du travail</p>
+		</body>
+	</text>
+</cesDoc>

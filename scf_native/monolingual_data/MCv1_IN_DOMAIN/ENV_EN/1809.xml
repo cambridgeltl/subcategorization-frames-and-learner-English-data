@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Synthesis Report - Question 1</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Synthesis Report - Question 1</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2008-10-13 14:39:07.0</pubDate>
+							<eAddress>http://www.grida.no/climate/ipcc_tar/vol4/english/017.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="en"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_EN/1809.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Question 1</p>
+			<p id="p2">What can scientific, technical, and socio-economic analyses contribute to the determination of what constitutes dangerous anthropogenic interference with the climate system as referred to in Article 2 of the Framework Convention on Climate Change?</p>
+			<p id="p3">Framework Convention on Climate Change, Article 2</p>
+			<p id="p4">"The ultimate objective of this Convention and any related legal instruments that the Conference of the Parties may adopt is to achieve, in accordance with the relevant provisions of the Convention, stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. Such a level should be achieved within a time-frame sufficient to allow ecosystems to adapt naturally to climate change, to ensure that food production is not threatened and to enable economic development to proceed in a sustainable manner."</p>
+			<p id="p5">1.1</p>
+			<p id="p6">Natural, technical, and social sciences can provide essential information and evidence needed for decisions on what constitutes "dangerous anthropogenic interference" with the climate system. At the same time, such decisions are value judgments determined through socio-political processes, taking into account considerations such as development, equity, and sustainability, as well as uncertainties and risk. Scientific evidence helps to reduce uncertainty and increase knowledge, and can serve as an input for considering precautionary measures.</p>
+			<p id="p7">1.2</p>
+			<p id="p8">The basis for determining what constitutes "dangerous anthropogenic interference" will vary among regions, depending both on the local nature and consequences of climate change impacts, and also on the adaptive capacity available to cope with climate change. It also depends upon mitigative capacity, since the magnitude and the rate of change are both important. The consequent types of adaptation responses that will be selected depend on the effectiveness of various adaptation or mitigation responses in reducing vulnerabilities and improving the sustainability of life-support systems. There is no universally applicable best set of policies; rather, it is important to consider both the robustness of different policy measures against a range of possible future worlds, and the degree to which such climate-specific policies can be integrated with broader sustainable development policies.</p>
+			<p id="p9">1.3</p>
+			<p id="p10">The Third Assessment Report (TAR) provides an assessment of new scientific information and evidence as an input for policy makers in their determination of what constitutes "dangerous anthropogenic interference with the climate system" with regard to: (1) the magnitudes and rates of changes in the climate system, (2) the ecological and socio-economic impacts of climate change, and (3) the potential for achieving a broad range of levels of concentrations through mitigation and information about how adaptation can reduce vulnerability.</p>
+			<p id="p11">1.4</p>
+			<p id="p12">With regard to the magnitudes and rates of changes in the climate system, the TAR provides scenario-based projections of future concentrations of greenhouse gases in the atmosphere, global and regional patterns of changes and rates of change in temperature, precipitation, and sea level, and changes in extreme climate events. It also examines possibilities for abrupt and irreversible changes in ocean circulation and the major ice sheets.</p>
+			<p id="p13">1.5</p>
+			<p id="p14">The TAR reviews the biophysical and socio-economic impacts of climate change. The TAR articulates five reasons for concern, regarding:</p>
+			<p id="p15">Risks to unique and threatened systems</p>
+			<p id="p16">Risks associated with extreme weather events</p>
+			<p id="p17">The distribution of impacts</p>
+			<p id="p18">Risks of large-scale, high-impact events.</p>
+			<p id="p19">Of great significance here is an assessment of the likelihood of the critical thresholds at which natural and human systems exhibit large-scale, abrupt, or irreversible changes in their response to a changing climate. Since no single indicator (e. g., a monetary unit) captures the range of relevant risks presented by climate change, a variety of analytical approaches and criteria are required to assess impacts and facilitate decisions about risk management.</p>
+		</body>
+	</text>
+</cesDoc>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>L'ozono restringe le arterie </title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>L'ozono restringe le arterie </title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-12-15 16:42:09.0</pubDate>
+							<eAddress>http://www.mybestlife.com/ambiente/News/26032002_ozono.htm</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="it"/>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<keyTerm>auto</keyTerm>
+					<keyTerm>aria</keyTerm>
+					<keyTerm>eolo</keyTerm>
+					<keyTerm>tata</keyTerm>
+					<keyTerm>motors</keyTerm>
+					<keyTerm>mdi</keyTerm>
+					<keyTerm>ambiente</keyTerm>
+					<keyTerm>costruito</keyTerm>
+					<keyTerm>news</keyTerm>
+					<keyTerm>ecologia</keyTerm>
+					<keyTerm>bio-architettura</keyTerm>
+					<keyTerm>bioarchitettura</keyTerm>
+					<keyTerm>bioedilizia</keyTerm>
+					<keyTerm>bioclimatica</keyTerm>
+					<keyTerm>bio</keyTerm>
+					<keyTerm>architettura</keyTerm>
+					<keyTerm>energie</keyTerm>
+					<keyTerm>alternative</keyTerm>
+					<keyTerm>inquinamento</keyTerm>
+					<keyTerm>indoor</keyTerm>
+					<keyTerm>elettromagnetico</keyTerm>
+					<keyTerm>campi</keyTerm>
+					<keyTerm>fotovoltaico</keyTerm>
+					<keyTerm>eolico</keyTerm>
+					<keyTerm>biomasse</keyTerm>
+					<keyTerm>solare</keyTerm>
+					<keyTerm>ecologia</keyTerm>
+					<keyTerm>idrogeno</keyTerm>
+					<keyTerm>biodiesel</keyTerm>
+					<keyTerm>natura</keyTerm>
+					<keyTerm>aria</keyTerm>
+					<keyTerm>acqua</keyTerm>
+					<keyTerm>terra</keyTerm>
+					<keyTerm>clima</keyTerm>
+					<keyTerm>mare</keyTerm>
+					<keyTerm>sole</keyTerm>
+					<keyTerm>nucleare</keyTerm>
+					<keyTerm>politica</keyTerm>
+					<keyTerm>risparmio</keyTerm>
+					<keyTerm>energetico</keyTerm>
+				</keywords>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/ENV_IT/9072.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">L'ozono restringe le arterie</p>
+			<p id="p2">L'inquinamento atmosferico restringe i vasi   sanguigni. È questo il risultato di uno studio   condotto presso l'Università di Toronto e pubblicato   sulla rivista Circulation. La scoperta, che mostra   per la prima volta l'effetto fisiologico   dell'inquinamento sul sistema vascolare, potrebbe   spiegare la correlazione tra esposizione a   concentrazioni elevate di inquinanti e insorgenza di   malattie cardiovascolari. Tale correlazione era,   fino a questo momento, sostenuta solo   dall'abbondanza di dati epidemiologici. Robert Brook   e colleghi hanno sottoposto un gruppo di 25 soggetti   sani (età media 35 anni) a elevate concentrazioni di   ozono e polveri ultrafini (il cosiddetto PM 2,5,   costituito da particelle derivanti dalla combustione   di carburanti fossili e aventi diametro inferiore ai   2,5 millesimi di millimetro). I ricercatori hanno   misurato con gli ultrasuoni il diametro delle   arterie dei volontari, prima e dopo l'esposizione.   Risultato: dopo aver respirato ozono e polveri (la   concentrazione delle polveri era di 150 microgrammi   per metro cubo, circa il doppio delle soglie   indicate dall'ente americano per la protezione   ambientale, l'Epa), le arterie dei volontari si   erano ristrette del 2-4 per cento. "I nostri   risultati", spiega Brooks, "sono una chiara   dimostrazione del fatto che concentrazioni   significative di inquinanti atmosferici comuni,   rilevabili nelle aree urbane, hanno un effetto   negativo sul sistema vascolare". È vero che, come   osserva Brooks, la costrizione vascolare rilevata   negli esperimenti difficilmente può essere causa di   malattie nei soggetti sani, ma può scatenare crisi   cardiache negli individui a rischio. Secondo le   stime dell'Epa, nel 1996 l'inquinamento atmosferico   ha contribuito a 60mila decessi correlati a malattie   cardiovascolari.</p>
+			<p id="p3">Fonte: Galileo</p>
+			<p id="p4">Da vedere</p>
+		</body>
+	</text>
+</cesDoc>

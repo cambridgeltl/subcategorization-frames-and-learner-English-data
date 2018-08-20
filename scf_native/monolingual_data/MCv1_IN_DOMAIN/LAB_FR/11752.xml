@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cesDoc version="0.4">
+	<cesHeader version="0.4">
+		<fileDesc>
+			<titleStmt>
+				<title>Congés payés : pensez à les reporter en cas de maladie - Editions Tissot</title>
+				<respStmt>
+					<resp>
+						<type>Crawling and normalization</type>
+						<name>ILSP</name>
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Panacea project</distributor>
+				<eAddress type="web">http://www.panacea-lr.eu</eAddress>
+				<availability>Under review</availability>
+				<pubDate>2012</pubDate>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<title>Congés payés : pensez à les reporter en cas de maladie - Editions Tissot</title>
+						<author></author>
+						<imprint>
+							<publisher></publisher>
+							<pubDate>2010-09-21 19:25:26.0</pubDate>
+							<eAddress>http://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&amp;id_art=1023&amp;titre=Cong%C3%A9s+pay%C3%A9s+%3A+pensez+%C3%A0+les+reporter+en+cas+de+maladie</eAddress>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language iso639="fr"/>
+			</langUsage>
+			<textClass>
+				<domain></domain>
+				<subdomain/>
+				<subject/>
+			</textClass>
+			<annotations>
+				<annotation>http://sifnos.ilsp.gr/panacea/D4.3/data/20101230/LAB_FR/11752.html</annotation>
+			</annotations>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body>
+			<p id="p1">Congés payés : pensez à les reporter en cas de maladie</p>
+			<p id="p2">La Cour de cassation reconnaît un nouveau cas de report des congés payés. Ainsi, un salarié en arrêt maladie qui n’a pas pu prendre ses congés payés pendant la période fixée par le Code du travail ou la convention collective a droit au report de ces derniers après sa reprise du travail.</p>
+			<p id="p3">Publicité</p>
+			<p id="p4">de reporter les congés payés (CP) de vos salariés en arrêt maladie sur la période suivante ;</p>
+			<p id="p5">ou, en cas de rupture de contrat de travail, de les indemniser.</p>
+			<p id="p6">En effet, jusqu’à présent le droit du travail français autorisait le report des CP non pris uniquement dans les cas suivants :</p>
+			<p id="p7">lorsque la durée du travail est décomptée sur l’année ( Code du travail , art. L. 3141-21) ;</p>
+			<p id="p8">pour un salarié de retour d’un congé de maternité ou d’adoption (C. trav., art. L. 3141-2) ;</p>
+			<p id="p9">pour un salarié victime d’un accident du travail ou d’une maladie professionnelle.</p>
+			<p id="p10">Attention : des dispositions conventionnelles ou des usages peuvent prévoir d’autres cas de report.</p>
+			<p id="p11">La Cour de cassation vient de reconnaître ce nouveau cas de report des CP : lorsque le salarié s’est trouvé dans l’impossibilité de prendre ses congés payés annuels au cours de l’année prévue par le Code du travail ou une convention collective en raison d’absences liées à une maladie, les congés payés acquis doivent être reportés après la date de reprise du travail.</p>
+			<p id="p12">Précisions sur cette affaire qui vient d’être jugée. Le salarié en arrêt maladie de novembre 2005 à mars 2007 n’avait pas pu prendre ses congés payés acquis avant novembre 2005 (12,5 jours). Il demandait donc le report de ses congés. Et il a eu gain de cause.</p>
+			<p id="p13">Nous vous conseillons donc d’être vigilant avec les salariés en arrêt de travail lorsque vous passez sur une nouvelle période de congés payés. Ne mettez pas automatiquement les compteurs à zéro.</p>
+			<p id="p14">I. Vénuat</p>
+			<p id="p15">(Cass. soc., 24 février 2009, n° 07-44488)</p>
+			<p id="p16">Pour plus de précisions sur la prise des congés payés, les Editions Tissot vous proposent leur ouvrage « Tissot Social Entreprise ».</p>
+			<p id="p17">Article publié le 4 mars 2009</p>
+			<p id="p18">Partagez cet article :</p>
+			<p id="p19">Services droit du travail :</p>
+		</body>
+	</text>
+</cesDoc>
