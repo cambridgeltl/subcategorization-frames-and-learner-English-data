@@ -3,7 +3,7 @@ Resources of subcategorization frames (SCFs) and learner English data.
 
 **ef1000**:
 
-This directory contains the gold standard annotations of the dependencies, SCFs, and learner errors for 1000 sentences sampled from EF-Cambridge Open Language Database (EFCAMDAT), a large-scale learner English corpus. For details of the annotations, please refer to (Huang et al., 2018) and (Huang, 2018)
+This directory contains the gold standard annotations of the dependencies, SCFs, and learner errors for 1000 sentences sampled from EF-Cambridge Open Language Database (EFCAMDAT), a large-scale learner English corpus. For the details of the annotations, please refer to (Huang et al., 2018) and (Huang, 2018)
 
 **scf_identifier**:
 
@@ -12,7 +12,7 @@ This directory contains a SCF identifier which can identify the SCFs of individu
 
 **scf_native**:
 
-This directory contains SCF resources and tools developed for native English. Please refer to `/scf_native/README` for an explanation of the files. These resources and tool were produced from the PANACEA project (Quochi et al. 2014) and the project of Lexical Acquisition for the Biomedical Domain (Lippincott et al. 2013) led by [Prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/).
+This directory contains SCF resources and tools developed for native English. Please refer to `/scf_native/README` for an explanation of the files. These resources and tools were produced from the PANACEA project (Quochi et al. 2014) and the project of Lexical Acquisition for the Biomedical Domain (Lippincott et al. 2013) led by [Prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/).
 
 
 
